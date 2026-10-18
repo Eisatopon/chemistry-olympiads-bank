@@ -2,6 +2,154 @@
  "competition": "International Chemistry Olympiad (IChO) — theoretical problems",
  "years": [
   {
+   "year": 1973,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Nitration product of a hydroxy derivative of benzene]",
+     "problem": "Problem 1. [Nitration product of a hydroxy derivative of benzene]\n\nIn nitrating a hydroxy derivative of benzene a compound is formed which contains $49.0\\,\\%$ by mass of oxygen. A charge of $4350\\,\\mathrm{C}$ is required for a total electroreduction of $0.458\\,\\mathrm{g}$ of the compound, efficiency being $80\\,\\%$.\n\nProblem:\n\n1.1 Determine the stoichiometric as well as structural formulas of the compound if the product of the electrochemical reduction is an aromatic hydroxy amino derivative.\n\n$F$ (Faraday's charge) $= 96\\,500\\,\\mathrm{C\\,mol^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Combustion of a gaseous hydrocarbon]",
+     "problem": "Problem 2. [Combustion of a gaseous hydrocarbon]\n\nA mixture of a gaseous hydrocarbon and oxygen is in a vessel of a volume of $1\\,\\mathrm{dm^3}$ at a temperature of $406.5\\,\\mathrm{K}$ and a pressure of $101\\,325\\,\\mathrm{Pa}$. There is twice as much oxygen in the mixture as is needed for the reaction with the hydrocarbon. After combustion of the hydrocarbon the pressure in the vessel (at the same temperature) is increased by $5\\,\\%$.\n\nProblem:\n\n2.1 What hydrocarbon was in the mixture when the mass of water formed by the combustion was $0.162\\,\\mathrm{g}$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Ionisation of acetic and hypochlorous acids in a mixture]",
+     "problem": "Problem 3. [Ionisation of acetic and hypochlorous acids in a mixture]\n\nEqual volumes ($10\\,\\mathrm{cm^3}$) of 0.01-molar solutions of $\\ce{CH3COOH}$ and $\\ce{HClO}$ were mixed and then diluted to a total volume of $100\\,\\mathrm{cm^3}$. Ionisation constant of $\\ce{CH3COOH}$ is equal to $1.8\\times10^{-5}$ and that for $\\ce{HClO}$ is $3{,}7\\times10^{-8}$.\n\nProblems:\n\nCalculate:\n\n3.1 degree of ionisation for each of the acids in the solution,\n\n3.2 degree of ionisation of $\\ce{HClO}$ if the diluted solution would not contain $\\ce{CH3COOH}$,\n\n3.3 pH value for the solution containing at the same time $\\ce{CH3COOH}$ and $\\ce{HClO}$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Precipitate of a bivalent metal and thermal decompositions]",
+     "problem": "Problem 4. [Precipitate of a bivalent metal and thermal decompositions]\n\nWhen solutions of two unknown substances are mixed together in stoichiometric ratio, $1.25\\,\\mathrm{g}$ of a precipitate are formed which contain a salt of a bivalent metal M. The precipitate when heated to $1100\\,^\\circ\\mathrm{C}$ is decomposed to $0.70\\,\\mathrm{g}$ of a solid metal oxide MO and another gaseous oxide. After evaporation of the filtrate, a dry residue with a mass of $2.0\\,\\mathrm{g}$ remains which yields two products by thermal decomposition at $215\\,^\\circ\\mathrm{C}$: a gaseous oxide and $0.90\\,\\mathrm{g}$ of water vapour. The total volume of the gaseous mixture is $1.68\\,\\mathrm{dm^3}$ (at STP).\n\nProblem:\n\n4.1 Determine the unknown compounds and write chemical equations for the above mentioned reactions."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "[Syntheses of ethyl benzoate and aminobenzoic acids]",
+     "problem": "Problem 5. [Syntheses of ethyl benzoate and aminobenzoic acids]\n\nUsing your knowledge about the properties of benzene and its derivatives, write chemical equations for reactions by which ethyl ester of benzoic acid as well as o-, m-, and p-amino benzoic acids are prepared in the shortest way."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "[Hydration of two neighbouring hydrocarbons]",
+     "problem": "Problem 6. [Hydration of two neighbouring hydrocarbons]\n\nA gaseous mixture containing two neighbour hydrocarbons of the same homologous series was $14.4$ times as dense as hydrogen. This mixture with a volume of $16.8\\,\\mathrm{dm^3}$ was hydrated and $350\\,\\mathrm{g}$ of the solution were obtained when the products of hydration were absorbed in water. Ten grams of this solution were taken and heated in the presence of silver(I) oxide which was prepared from $70\\,\\mathrm{cm^3}$ of a $1\\,\\mathrm{N}$ silver(I) nitrate solution. Unreacted $\\ce{Ag2O}$ was dissolved in an aqueous ammonia solution and a residual precipitate was filtered off. The filtrate was acidified with nitric acid and addition of an excess of sodium bromide to it resulted in $9.4\\,\\mathrm{g}$ of a precipitate.\n\nWhen the mixture of the hydrocarbons that remained unreacted, was mixed with a $50\\,\\%$ excess of hydrogen and transmitted above a heated Pt-catalyst, its resulting volume decreased to $11.2\\,\\mathrm{dm^3}$. Volumes of gases were measured in STP conditions.\n\nProblems:\n\n6.1 What hydrocarbons were in the starting mixture?\n\n6.2 Write chemical equations for the above mentioned reactions.\n\n6.3 Calculate the composition of the starting mixture in % by volume.\n\n6.4 How much (in %) of each hydrocarbon was hydrated?"
+    }
+   ]
+  },
+  {
+   "year": 1974,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Electrolysis of water and the synthesis of methyl orange]",
+     "problem": "Problem 1. [Electrolysis of water and the synthesis of methyl orange]\n\nBy electrochemical decomposition of water, there are in an electric circuit a voltmeter, platinum electrodes and a battery containing ten galvanic cells connected in series, each of it having the voltage of $1.5\\,\\mathrm{V}$ and internal resistance of $0.4\\,\\Omega$. The resistance of the voltmeter is $0.5\\,\\Omega$ and the polarisation voltage of the battery is $1.5\\,\\mathrm{V}$. Electric current flows for 8 hours, 56 minutes and 7 seconds through the electrolyte. Hydrogen obtained in this way was used for a synthesis with another substance, thus forming a gaseous substance $\\mathbf{A}$ which can be converted by oxidation with oxygen via oxide to substance $\\mathbf{B}$.\n\nBy means of substance $\\mathbf{B}$ it is possible to prepare substance $\\mathbf{C}$ from which after reduction by hydrogen substance $\\mathbf{D}$ can be obtained. Substance $\\mathbf{D}$ reacts at $180\\,^\\circ\\mathrm{C}$ with a concentration solution of sulphuric acid to produce sulphanilic acid. By diazotization and successive copulation with p-N,N-dimethylaniline, an azo dye, methyl orange is formed.\n\nProblems:\n\n1. Write chemical equations for all the above mentioned reactions.\n\n2. Calculate the mass of product $\\mathbf{D}$.\n\n3. Give the exact chemical name for the indicator methyl orange. Show by means of structural formulas what changes take place in dependence on concentration of $\\ce{H3O+}$ ions in the solution.\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{N}) = 14$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{H}) = 1$."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Preparation of substance G by several routes]",
+     "problem": "Problem 2. [Preparation of substance G by several routes]\n\nSubstance $\\mathbf{G}$ can be prepared by several methods according to the following scheme:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/icho-1974-2-fig1.png\n\nCompound $\\mathbf{A}$ is 48.60 mass % carbon, 8.10 % hydrogen, and 43.30 % oxygen. It reacts with a freshly prepared silver(I) oxide to form an undissolved salt. An amount of $1.81\\,\\mathrm{g}$ of silver(I) salt is formed from $0.74\\,\\mathrm{g}$ of compound $\\mathbf{A}$.\n\nCompound $\\mathbf{D}$ contains 54.54 mass % of carbon, 9.09 % of hydrogen, and 36.37 % of oxygen. It combines with $\\ce{NaHSO3}$ to produce a compound containing 21.6 % of sulphur.\n\nProblems:\n\n1. Write summary as well as structural formulas of substances $\\mathbf{A}$ and $\\mathbf{D}$.\n\n2. Write structural formulas of substances $\\mathbf{B}$, $\\mathbf{C}$, $\\mathbf{E}$, $\\mathbf{F}$, and $\\mathbf{G}$.\n\n3. Classify the reactions in the scheme marked by arrows and discuss more in detail reactions $\\mathbf{B} \\rightarrow \\mathbf{G}$ and $\\mathbf{D} \\rightarrow \\mathbf{E}$.\n\n4. Write structural formulas of possible isomers of substance $\\mathbf{G}$ and give the type of isomerism.\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{Ag}) = 108$; $A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{S}) = 32$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Acid–base equilibria of 0.2 molar solutions]",
+     "problem": "Problem 3. [Acid–base equilibria of 0.2 molar solutions]\n\nThe following 0.2 molar solutions are available:\n\n$$\\begin{array}{llllllll} \\mathbf{A}: & \\ce{HCl} & \\mathbf{B}: & \\ce{HSO4^-} & \\mathbf{C}: & \\ce{CH3COOH} & \\mathbf{D}: & \\ce{NaOH} \\\\ \\mathbf{E}: & \\ce{CO3^{2-}} & \\mathbf{F}: & \\ce{CH3COONa} & \\mathbf{G}: & \\ce{HPO4^{2-}} & \\mathbf{H}: & \\ce{H2SO4} \\end{array}$$\n\nProblems:\n\n1. Determine the concentration of $\\ce{H3O+}$ ions in solution $\\mathbf{C}$.\n\n2. Determine pH value in solution $\\mathbf{A}$.\n\n3. Write an equation for the chemical reaction that takes place when substances $\\mathbf{B}$ and $\\mathbf{E}$ are allowed to react and mark conjugate acid-base pairs.\n\n4. Compare acid-base properties of substances $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$ and determine which one will show the most basic properties. Explain your decision.\n\n5. Write a chemical equation for the reaction between substances $\\mathbf{B}$ and $\\mathbf{G}$, and explain the shift of equilibrium.\n\n6. Write a chemical equation for the reaction between substances $\\mathbf{C}$ and $\\mathbf{E}$, and explain the shift of equilibrium.\n\n7. Calculate the volume of $\\mathbf{D}$ solution which is required to neutralise $20.0\\,\\mathrm{cm^3}$ of $\\mathbf{H}$ solution.\n\n8. What would be the volume of hydrogen chloride being present in one litre of $\\mathbf{A}$ solution if it were in gaseous state at a pressure of $202.65\\,\\mathrm{kPa}$ and a temperature of $37\\,^\\circ\\mathrm{C}$?\n\nIonisation constants:\n\n$$\\begin{array}{ll} \\ce{CH3COOH + H2O <=> CH3COO^- + H3O+} & K_\\mathrm{a} = 1.8\\times10^{-5} \\\\ \\ce{H2CO3 + H2O <=> HCO3^- + H3O+} & K_\\mathrm{a} = 4.4\\times10^{-7} \\\\ \\ce{HCO3^- + H2O <=> CO3^{2-} + H3O+} & K_\\mathrm{a} = 4.7\\times10^{-11} \\\\ \\ce{HSO4^{2-} + H2O <=> SO4^{2-} + H3O+} & K_\\mathrm{a} = 1.7\\times10^{-2} \\\\ \\ce{HPO4^{2-} + H2O <=> PO4^{3-} + H3O+} & K_\\mathrm{a} = 4.4\\times10^{-13} \\end{array}$$\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{S}) = 32$; $A_\\mathrm{r}(\\mathrm{O}) = 16$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Mixture of two oxygen-containing organic compounds]",
+     "problem": "Problem 4. [Mixture of two oxygen-containing organic compounds]\n\nA mixture contains two organic compounds, $\\mathbf{A}$ and $\\mathbf{B}$. Both of them have in their molecules oxygen and they can be mixed together in arbitrary ratios. Oxidation of this mixture on cooling yields the only substance $\\mathbf{C}$ that combines with $\\ce{NaHSO3}$. The ratio of the molar mass of the substance being formed in the reaction with $\\ce{NaHSO3}$ to that of substance $\\mathbf{C}$, is equal to 2.7931.\n\nThe mixture of substances $\\mathbf{A}$ and $\\mathbf{B}$ is burned in the presence of a stoichiometric amount of air (20 % $\\ce{O2}$ and 80 % of $\\ce{N2}$ by volume) in an eudiometer to produce a mixture of gases with a total volume of $5.432\\,\\mathrm{dm^3}$ at STP. After the gaseous mixture is bubbled through a $\\ce{Ba(OH)2}$ solution, its volume is decreased by 15.46 %.\n\nProblems:\n\n4.1 Write structural formulas of substance $\\mathbf{A}$ and $\\mathbf{B}$.\n\n4.2 Calculate the molar ratio of substances $\\mathbf{A}$ and $\\mathbf{B}$ in the mixture.\n\n$A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{S}) = 32$; $A_\\mathrm{r}(\\mathrm{Na}) = 23$."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "[Two metals forming ionic hydrides]",
+     "problem": "Problem 5. [Two metals forming ionic hydrides]\n\nA mixture of two metals found in Mendelejev's periodical table in different groups, reacted with $56\\,\\mathrm{cm^3}$ of hydrogen on heating (measured at STP conditions) to produce two ionic compounds. These compounds were allowed to react with $270\\,\\mathrm{mg}$ of water but only one third of water reacted. A basic solution was formed in which the content of hydroxides was 30 % by mass and at the same time deposited a precipitate with a mass that represented 59.05 % of a total mass of the products formed by the reaction. After filtration the precipitate was heated and its mass decreased by $27\\,\\mathrm{mg}$.\n\nWhen a stoichiometric amount of ammonium carbonate was added to the basic solution, a slightly soluble precipitate was obtained, at the same time ammonia was liberated and the content of hydroxides in the solution decreased to 16.81 %.\n\nProblem:\n\n5.1 Determine the metals in the starting mixture and their masses."
+    }
+   ]
+  },
+  {
+   "year": 1975,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Crystallisation of alum]",
+     "problem": "Problem 1. [Crystallisation of alum]\n\nHow many grams of alum $\\ce{KAl(SO4)2 * 12 H2O}$ are crystallised out from $320\\,\\mathrm{g}$ $\\ce{KAl(SO4)2}$ solution saturated at $20\\,^\\circ\\mathrm{C}$ if $160\\,\\mathrm{g}$ of water are evaporated from the solution at $20\\,^\\circ\\mathrm{C}$?\n\n(The solution saturated at $20\\,^\\circ\\mathrm{C}$ contains $5.50\\,\\%$ of $\\ce{KAl(SO4)2}$ by mass.)\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{K}) = 39.10$; $A_\\mathrm{r}(\\mathrm{Al}) = 26.98$; $A_\\mathrm{r}(\\mathrm{S}) = 32.06$; $A_\\mathrm{r}(\\mathrm{O}) = 16.0$; $A_\\mathrm{r}(\\mathrm{H}) = 1.01$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Composition of an Al–Zn–Si–Cu alloy]",
+     "problem": "Problem 2. [Composition of an Al–Zn–Si–Cu alloy]\n\nAn alloy prepared for experimental purposes contains aluminium, zinc, silicon, and copper. If $1000\\,\\mathrm{mg}$ of the alloy are dissolved in hydrochloric acid, $843\\,\\mathrm{cm^3}$ of hydrogen ($0\\,^\\circ\\mathrm{C}$, $101.325\\,\\mathrm{kPa}$) are evolved and $170\\,\\mathrm{mg}$ of an undissolved residue remain. A sample of $500\\,\\mathrm{mg}$ of the alloy when reacted with a $\\ce{NaOH}$ solution produces $517\\,\\mathrm{cm^3}$ of hydrogen at the above conditions and in this case remains also an undissolved fraction.\n\nProblem:\n\n2.1 Calculate the composition of the alloy in % by mass.\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{Al}) = 26.98$; $A_\\mathrm{r}(\\mathrm{Zn}) = 65.37$; $A_\\mathrm{r}(\\mathrm{Si}) = 28.09$; $A_\\mathrm{r}(\\mathrm{Cu}) = 63.55$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Composition of an Ag–Cu–Cr alloy]",
+     "problem": "Problem 3. [Composition of an Ag–Cu–Cr alloy]\n\nA sample of $1500\\,\\mathrm{mg}$ of an alloy that contains silver, copper, and chromium is dissolved and the solution containing $\\ce{Ag+}$, $\\ce{Cu^{2+}}$, and $\\ce{Cr^{3+}}$ ions, is diluted to exactly $500\\,\\mathrm{cm^3}$. One tenth of the volume of that solution is taken for further procedure:\n\nAfter elimination of silver and copper, chromium is oxidised in it according to the following unbalanced equation:\n\n$$\\ce{OH- + Cr^{3+} + H2O2 -> CrO4^{2-} + H2O}$$\n\nThen $25.00\\,\\mathrm{cm^3}$ of a $0.100$ molar Fe(II) salt solution are added. The following reaction (written in an unbalanced form) is taking place:\n\n$$\\ce{H+ + Fe^{2+} + CrO4^{2-} -> Fe^{3+} + Cr^{3+} + H2O}$$\n\nAccording to the unbalanced equation:\n\n$$\\ce{H+ + Fe^{2+} + MnO4- -> Fe^{3+} + Mn^{2+} + H2O}$$\n\na volume of $17.20\\,\\mathrm{cm^3}$ of a $0.020$-molar $\\ce{KMnO4}$ solution is required for an oxidation of the Fe(II) salt which remains unoxidized in the solution.\n\nIn another experiment, a volume of $200\\,\\mathrm{cm^3}$ of the initial solution is electrolysed. Due to secondary reactions, the efficiency of the electrolysis is $90\\,\\%$ for metals under consideration. All three metals are quantitatively deposited in $14.50$ minutes by passing a current of $2\\,\\mathrm{A}$ through the solution.\n\nProblem:\n\n3.1 Balance the three chemical equations and calculate the composition of the alloy in % by mass.\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{Cu}) = 63.55$; $A_\\mathrm{r}(\\mathrm{Ag}) = 107.87$; $A_\\mathrm{r}(\\mathrm{Cr}) = 52.00$"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Dilution of formic acid]",
+     "problem": "Problem 4. [Dilution of formic acid]\n\nThe pH value of a solution containing $3\\,\\%$ by mass of formic acid ($\\rho = 1.0049\\,\\mathrm{g\\,cm^{-3}}$) is equal to $1.97$.\n\nProblem:\n\n4.1 How many times should the solution be diluted to attain a tenfold increase in the value of ionisation degree?\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{H}) = 1.01$; $A_\\mathrm{r}(\\mathrm{C}) = 12.01$; $A_\\mathrm{r}(\\mathrm{O}) = 16.$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "[Two homologous aldehydes]",
+     "problem": "Problem 5. [Two homologous aldehydes]\n\nA certain aldehyde $\\mathbf{B}$ is subsequent to an aldehyde $\\mathbf{A}$ in the homologous series of aldehydes. An amount of $19\\,\\mathrm{g}$ of aldehyde $\\mathbf{B}$ is added to $100\\,\\mathrm{g}$ of an aqueous solution containing $23$ mass % of aldehyde $\\mathbf{A}$. Addition of $\\ce{AgNO3}$ in ammonia solution to $2\\,\\mathrm{g}$ of the aldehydes solution results in a precipitation of $4.35\\,\\mathrm{g}$ of silver.\n\nProblems:\n\n5.1 Determine by calculation what aldehydes were used.\n\n5.2 Give the structural formulas of the aldehydes.\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{C}) = 12.01$; $A_\\mathrm{r}(\\mathrm{O}) = 16.00$; $A_\\mathrm{r}(\\mathrm{H}) = 1.01$; $A_\\mathrm{r}(\\mathrm{Ag}) = 107.87$"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "[Hydrogen iodide equilibrium]",
+     "problem": "Problem 6. [Hydrogen iodide equilibrium]\n\nThe equilibrium constant of the reaction $\\ce{H2 + I2 <=> 2 HI}$ is at $600\\,^\\circ\\mathrm{C}$ equal to $70.0$.\n\nProblems:\n\n6.1 How much iodine (in %) is converted till the equilibrium is reached if the reactants are mixed in:\n\na) $1:1$ molar ratio at $600\\,^\\circ\\mathrm{C}$;\n\nb) $2:1$ molar ratio at $600\\,^\\circ\\mathrm{C}$ (the amount of hydrogen is twice as great as that of iodine).\n\n6.2 How many moles of hydrogen should be mixed with one mole of iodine when $99\\,\\%$ of iodine is to be converted to hydrogen iodide till the equilibrium is reached at $600\\,^\\circ\\mathrm{C}$?"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "title": "[From a saturated hydrocarbon to a dicarboxylic acid]",
+     "problem": "Problem 7. [From a saturated hydrocarbon to a dicarboxylic acid]\n\nA certain saturated hydrocarbon $\\mathbf{A}$ is transformed by a catalytic oxidation partly into a secondary alcohol $\\mathbf{B}$, and partly into a ketone $\\mathbf{C}$. The ketone when oxidised with nitric acid in the presence of catalyst yields a compound $\\mathbf{D}$ with a formula of $\\ce{C6H10O4}$. From compound $\\mathbf{D}$ when heated in the presence of acetic anhydride, a ketone $\\mathbf{E}$ is formed, its formation being accompanied by evolution of $\\ce{CO2}$ and $\\ce{H2O}$. Compounds $\\mathbf{E}$ and $\\mathbf{C}$ have similar structures but compound $\\mathbf{E}$ contains one methylene group less than ketone $\\mathbf{C}$. Compound $\\mathbf{D}$ is one of the starting materials in the production of an important polycondensation synthetic fibre.\n\nProblem:\n\n7.1 Write the structural formulas of compounds $\\mathbf{A}$, $\\mathbf{B}$, $\\mathbf{C}$, $\\mathbf{D}$, and $\\mathbf{E}$."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "title": "[Molecular structure and isoelectronic species]",
+     "problem": "Problem 8. [Molecular structure and isoelectronic species]\n\na) Mark by the \"+\" in a corresponding window those molecules for which the assertions written on the left side of the Table, are true.\n\n$$\\begin{array}{l|c|c|c|c} \\text{Assertion} \\;\\backslash\\; \\text{Molecule} & \\ce{C2H4} & \\ce{N2H4} & \\ce{H2O2} & \\ce{H2F2} \\\\ \\hline \\text{There is a covalent bond between two equal atoms} & & & & \\\\ \\hline \\text{The molecule contains a double bond} & & & & \\\\ \\hline \\text{The molecule is planar} & & & & \\\\ \\hline \\text{The molecule is polar} & & & & \\\\ \\hline \\text{There is also a hydrogen bond in the molecule} & & & & \\\\ \\hline \\text{It has basic properties in relation to water} & & & & \\end{array}$$\n\nb) The following assertion and Table are incomplete. Fill in the dotted places by a missing word and the missing formulas, respectively.\n\nAssertion: The electronic structures of the molecules (ions) being placed in the Table one under the other are $\\ldots\\ldots\\ldots\\ldots\\ldots\\ldots$\n\n$$\\begin{array}{|c|c|c|c|c|c|} \\hline \\ce{CH4} & \\ce{C2H6} & \\ce{CO3^{2-}} & \\ldots\\ldots & \\ce{C2O4^{2-}} & \\ldots\\ldots \\\\ \\hline \\ce{NH4+} & \\ce{N2H6^{2+}} & \\ldots\\ldots & \\ce{NO2+} & \\ldots\\ldots & \\ce{N2} \\\\ \\hline \\end{array}$$"
+    }
+   ]
+  },
+  {
    "year": 1976,
    "problems": [
     {
