@@ -287,6 +287,7 @@
     --debw1: #3f3f46; --debw1-ink: #27272a; --debw1-tint: #e8e8ea;
     --itf: #047857; --itf-ink: #03543c; --itf-tint: #dcf3ea;
 }
+.f-imcho { --f: #0f766e; --f-ink: #0a4f4a; --f-tint: #ddf3f0; }
 .f-icho { --f: var(--icho); --f-ink: var(--icho-ink); --f-tint: var(--icho-tint); }
 .f-gr { --f: var(--gr); --f-ink: var(--gr-ink); --f-tint: var(--gr-tint); }
 .f-ar { --f: var(--ar); --f-ink: var(--ar-ink); --f-tint: var(--ar-tint); }
@@ -1039,15 +1040,16 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261018-icho1968';
+const DATA_VERSION = '20261018-imcho1';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { icho: 'world' };
+const REGION_OF = { icho: 'world', imcho: 'world' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-chemistry:set:v1';  // same origin as the math and physics banks: keep the keys apart
 
 const COUNTRIES = [
+    { key: 'imcho', name: 'Mendeleev', flag: '🌐', file: 'IMChO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Mendeleev Chemistry Olympiad, theoretical problems' },
     { key: 'icho', name: 'IChO', flag: '🌐', file: 'IChO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Chemistry Olympiad, theoretical problems' },
 ];
 COUNTRIES.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
@@ -1057,7 +1059,7 @@ const TABS = [['national', 'National'], ['regional', 'Regional'], ['internationa
 const COMING = {
     national: 'National chemistry olympiads (USNCO, UK RSC, Canada, All-Russian, Germany, Australia, Greece and more) are being prepared.',
     regional: 'Regional chemistry olympiads (Baltic, Austrian-Polish, Iberoamerican OIAQ and more) are being prepared.',
-    international: 'International chemistry olympiads (Mendeleev, IZhO chemistry and more) are being prepared.',
+    international: 'More international chemistry olympiads (IZhO chemistry and more) are being prepared.',
     undergraduate: 'University chemistry competitions are being prepared.'
 };
 const comingHtml = tab => `<p class="mx-nomatch mx-coming">${esc(COMING[tab] || 'This section is being prepared.')}</p>`;
