@@ -2,6 +2,166 @@
  "competition": "International Chemistry Olympiad (IChO) — theoretical problems",
  "years": [
   {
+   "year": 1968,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Photochemical reaction of hydrogen with chlorine]",
+     "problem": "Problem 1. [Photochemical reaction of hydrogen with chlorine]\n\nA mixture of hydrogen and chlorine kept in a closed flask at a constant temperature was irradiated by scattered light. After a certain time the chlorine content decreased by $20\\,\\%$ compared with that of the starting mixture and the resulting mixture had the composition as follows: $60$ volume % of chlorine, $10$ volume % of hydrogen, and $30$ volume % of hydrogen chloride.\n\nProblems:\n\n1.1 What is the composition of the initial gaseous mixture?\n\n1.2 How chlorine, hydrogen, and hydrogen chloride are produced?"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Equations of redox reactions]",
+     "problem": "Problem 2. [Equations of redox reactions]\n\nWrite down equations for the following reactions:\n\n2.1 Oxidation of chromium(III) chloride with bromine in alkaline solution ($\\ce{KOH}$).\n\n2.2 Oxidation of potassium nitrite with potassium permanganate in acid solution ($\\ce{H2SO4}$).\n\n2.3 Action of chlorine on lime water ($\\ce{Ca(OH)2}$) in a cold reaction mixture."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Combustion of blast-furnace gas]",
+     "problem": "Problem 3. [Combustion of blast-furnace gas]\n\nThe gas escaping from a blast furnace has the following composition:\n\n$$\\begin{array}{ll} 12.0 \\text{ volume }\\%\\text{ of } \\ce{CO2} & 28.0 \\text{ volume }\\%\\text{ of } \\ce{CO} \\\\ 3.0 \\text{ volume }\\%\\text{ of } \\ce{H2} & 0.6 \\text{ volume }\\%\\text{ of } \\ce{CH4} \\\\ 0.2 \\text{ volume }\\%\\text{ of } \\ce{C2H4} & 56.2 \\text{ volume }\\%\\text{ of } \\ce{N2} \\end{array}$$\n\nProblems:\n\n3.1 Calculate the theoretical consumption of air (in $\\mathrm{m^3}$) which is necessary for a total combustion of $200\\,\\mathrm{m^3}$ of the above gas if both the gas and air are measured at the same temperature. (Oxygen content in the air is about $20\\,\\%$ by volume).\n\n3.2 Determine the composition of combustion products if the gas is burned in a $20\\,\\%$ excess of air."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Identification of an organic acid]",
+     "problem": "Problem 4. [Identification of an organic acid]\n\nA volume of $31.7\\,\\mathrm{cm^3}$ of a $0.1$-normal $\\ce{NaOH}$ is required for the neutralization of $0.19\\,\\mathrm{g}$ of an organic acid whose vapour is thirty times as dense as gaseous hydrogen.\n\nProblem:\n\n4.1 Give the name and structural formula of the acid.\n\n(The acid concerned is a common organic acid.)"
+    }
+   ]
+  },
+  {
+   "year": 1969,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Electrolysis of a potassium sulphate solution]",
+     "problem": "Problem 1. [Electrolysis of a potassium sulphate solution]\n\nAn amount of $20\\,\\mathrm{g}$ of potassium sulphate was dissolved in $150\\,\\mathrm{cm^3}$ of water. The solution was then electrolysed. After electrolysis, the content of potassium sulphate in the solution was $15\\,\\%$ by mass.\n\nProblem:\n\nWhat volumes of hydrogen and oxygen were obtained at a temperature of $20\\,^\\circ\\mathrm{C}$ and a pressure of $101\\,325\\,\\mathrm{Pa}$?"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Thermal decomposition of a potassium salt]",
+     "problem": "Problem 2. [Thermal decomposition of a potassium salt]\n\nA compound $\\mathbf{A}$ contains $38.67\\,\\%$ of potassium, $13.85\\,\\%$ of nitrogen, and $47.48\\,\\%$ of oxygen. On heating, it is converted to a compound $\\mathbf{B}$ containing $45.85\\,\\%$ of potassium, $16.47\\,\\%$ of nitrogen, and $37.66\\,\\%$ of oxygen.\n\nProblem:\n\n2.1 What are the stoichiometric formulas of the compounds?\n\n2.2 Write the corresponding chemical equation."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Combustion of a gaseous hydrocarbon]",
+     "problem": "Problem 3. [Combustion of a gaseous hydrocarbon]\n\nA $10\\,\\mathrm{cm^3}$ sample of an unknown gaseous hydrocarbon was mixed with $70\\,\\mathrm{cm^3}$ of oxygen and the mixture was set on fire by means of an electric spark. When the reaction was over and water vapours were liquefied, the final volume of gases decreased to $65\\,\\mathrm{cm^3}$. This mixture then reacted with a potassium hydroxide solution and the volume of gases decreased to $45\\,\\mathrm{cm^3}$.\n\nProblem:\n\nWhat is the molecular formula of the unknown hydrocarbon if volumes of gases were measured at standard temperature and pressure (STP) conditions?"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Syntheses from calcium carbide and water]",
+     "problem": "Problem 4. [Syntheses from calcium carbide and water]\n\nCalcium carbide and water are the basic raw materials in the production of:\n\na) ethanol\n\nb) acetic acid\n\nc) ethylene and polyethylene\n\nd) vinyl chloride\n\ne) benzene\n\nProblem:\n\nGive basic chemical equations for each reaction by which the above mentioned compounds can be obtained."
+    }
+   ]
+  },
+  {
+   "year": 1970,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[Combustion of an unknown gas]",
+     "problem": "Problem 1. [Combustion of an unknown gas]\n\nAn amount of $23\\,\\mathrm{g}$ of gas (density $\\rho = 2.05\\,\\mathrm{g\\,dm^{-3}}$ at STP) when burned, gives $44\\,\\mathrm{g}$ of carbon dioxide and $27\\,\\mathrm{g}$ of water.\n\nProblem:\n\nWhat is the structural formula of the gas (compound)?"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[Water of crystallisation in two samples of soda]",
+     "problem": "Problem 2. [Water of crystallisation in two samples of soda]\n\nA sample of crystalline soda ($\\mathbf{A}$) with a mass of $1.287\\,\\mathrm{g}$ was allowed to react with an excess of hydrochloric acid and $100.8\\,\\mathrm{cm^3}$ of a gas was liberated (measured at STP).\n\nAnother sample of different crystalline soda ($\\mathbf{B}$) with a mass of $0.715\\,\\mathrm{g}$ was decomposed by $50\\,\\mathrm{cm^3}$ of $0.2\\,\\mathrm{N}$ sulphuric acid.\n\nAfter total decomposition of soda, the excess of the sulphuric acid was neutralized which required $50\\,\\mathrm{cm^3}$ of $0.1\\,\\mathrm{N}$ sodium hydroxide solution (by titration on methyl orange indicator).\n\nProblems:\n\n2.1 How many molecules of water in relation to one molecule of $\\ce{Na2CO3}$ are contained in the first sample of soda?\n\n2.2 Have both samples of soda the same composition?\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{O}) = 16$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Conversion of carbon monoxide with water vapour]",
+     "problem": "Problem 3. [Conversion of carbon monoxide with water vapour]\n\nCarbon monoxide was mixed with 1.5 times greater volume of water vapours. What will be the composition (in mass as well as in volume %) of the gaseous mixture in the equilibrium state if $80\\,\\%$ of carbon monoxide is converted to carbon dioxide?"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[An alloy of rubidium with another alkali metal]",
+     "problem": "Problem 4. [An alloy of rubidium with another alkali metal]\n\nAn alloy consists of rubidium and one of the other alkali metals. A sample of $4.6\\,\\mathrm{g}$ of the alloy when allowed to react with water, liberates $2.241\\,\\mathrm{dm^3}$ of hydrogen at STP.\n\nProblems:\n\n4.1 Which alkali metal is the component of the alloy?\n\n4.2 What composition in % by mass has the alloy?\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{Li}) = 7$; $A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{K}) = 39$; $A_\\mathrm{r}(\\mathrm{Rb}) = 85.5$; $A_\\mathrm{r}(\\mathrm{Cs}) = 133$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "[Crystallisation of copper(II) sulphate pentahydrate]",
+     "problem": "Problem 5. [Crystallisation of copper(II) sulphate pentahydrate]\n\nAn amount of $20\\,\\mathrm{g}$ of cooper (II) oxide was treated with a stoichiometric amount of a warm $20\\,\\%$ sulphuric acid solution to produce a solution of copper (II) sulphate.\n\nProblem:\n\nHow many grams of crystalline copper(II) sulphate ($\\ce{CuSO4 . 5 H2O}$) have crystallised when the solution is cooled to $20\\,^\\circ\\mathrm{C}$?\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{Cu}) = 63.5$; $A_\\mathrm{r}(\\mathrm{S}) = 32$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{H}) = 1$\n\nSolubility of $\\ce{CuSO4}$ at $20\\,^\\circ\\mathrm{C}$: $s = 20.9\\,\\mathrm{g}$ of $\\ce{CuSO4}$ in $100\\,\\mathrm{g}$ of $\\ce{H2O}$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "[Two oxides of the same metal]",
+     "problem": "Problem 6. [Two oxides of the same metal]\n\nOxide of a certain metal contains $22.55\\,\\%$ of oxygen by mass. Another oxide of the same metal contains $50.48$ mass % of oxygen.\n\nProblem:\n\n1. What is the relative atomic mass of the metal?"
+    }
+   ]
+  },
+  {
+   "year": 1972,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "[A mixture of two solid elements]",
+     "problem": "Problem 1. [A mixture of two solid elements]\n\nA mixture of two solid elements with a mass of $1.52\\,\\mathrm{g}$ was treated with an excess of hydrochloric acid. A volume of $0.896\\,\\mathrm{dm^3}$ of a gas was liberated in this process and $0.56\\,\\mathrm{g}$ of a residue remained which was undissolved in the excess of the acid.\n\nIn another experiment, $1.52\\,\\mathrm{g}$ of the same mixture were allowed to react with an excess of a $10\\,\\%$ sodium hydroxide solution. In this case $0.896\\,\\mathrm{dm^3}$ of a gas were also evolved but $0.96\\,\\mathrm{g}$ of an undissolved residue remained.\n\nIn the third experiment, $1.52\\,\\mathrm{g}$ of the initial mixture were heated to a high temperature without access of the air. In this way a compound was formed which was totally soluble in hydrochloric acid and $0.448\\,\\mathrm{dm^3}$ of an unknown gas were released. All the gas obtained was introduced into a one litre closed vessel filled with oxygen. After the reaction of the unknown gas with oxygen the pressure in the vessel decreased by approximately ten times ($T = \\mathit{const}$).\n\nProblem:\n\n1.1 Write chemical equations for the above reactions and prove their correctness by calculations.\n\nIn solving the problem consider that the volumes of gases were measured at STP and round up the relative atomic masses to whole numbers."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "[A mixture of iron and iron oxides]",
+     "problem": "Problem 2. [A mixture of iron and iron oxides]\n\nA mixture of metallic iron with freshly prepared iron (II) and iron (III) oxides was heated in a closed vessel in the atmosphere of hydrogen. An amount of $4.72\\,\\mathrm{g}$ of the mixture when reacted, yields $3.92\\,\\mathrm{g}$ of iron and $0.90\\,\\mathrm{g}$ of water.\n\nWhen the same amount of the mixture was allowed to react with an excess of a copper(II) sulphate solution, $4.96\\,\\mathrm{g}$ of a solid mixture were obtained.\n\nProblems:\n\n2.1 Calculate the amount of $7.3\\,\\%$ hydrochloric acid ($\\rho = 1.03\\,\\mathrm{g\\,cm^{-3}}$) which is needed for a total dissolution of $4.72\\,\\mathrm{g}$ of the starting mixture.\n\n2.2 What volume of a gas at STP is released?\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{S}) = 32$; $A_\\mathrm{r}(\\mathrm{Cl}) = 35.5$; $A_\\mathrm{r}(\\mathrm{Fe}) = 56$; $A_\\mathrm{r}(\\mathrm{Cu}) = 64$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "[Electrolysis of sodium chloride solution with copper electrodes]",
+     "problem": "Problem 3. [Electrolysis of sodium chloride solution with copper electrodes]\n\nA volume of $200\\,\\mathrm{cm^3}$ of a 2-normal sodium chloride solution ($\\rho = 1.10\\,\\mathrm{g\\,cm^{-3}}$) was electrolysed at permanent stirring in an electrolytic cell with copper electrodes. Electrolysis was stopped when $22.4\\,\\mathrm{dm^3}$ (at STP) of a gas were liberated at the cathode.\n\nProblem:\n\n3.1 Calculate the mass percentage of $\\ce{NaCl}$ in the solution after electrolysis.\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{Cl}) = 35.5$; $A_\\mathrm{r}(\\mathrm{Cu}) = 64$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "[Heat of neutralization]",
+     "problem": "Problem 4. [Heat of neutralization]\n\nAmount of $50\\,\\mathrm{g}$ of a $4\\,\\%$ sodium hydroxide solution and $50\\,\\mathrm{g}$ of a $1.825\\,\\%$ solution of hydrochloric acid were mixed in a heat insulated vessel at a temperature of $20\\,^\\circ\\mathrm{C}$. The temperature of the solution obtained in this way increased to $23.4\\,^\\circ\\mathrm{C}$. Then $70\\,\\mathrm{g}$ of a $3.5\\,\\%$ solution of sulphuric acid at a temperature of $20\\,^\\circ\\mathrm{C}$ were added to the above solution.\n\nProblems:\n\n4.1 Calculate the final temperature of the resulting solution.\n\n4.2 Determine the amount of a dry residue that remains after evaporation of the solution.\n\nIn calculating the first problem use the heat capacity value $c = 4.19\\,\\mathrm{J\\,g^{-1}\\,K^{-1}}$.\n\nRelative atomic masses:\n\n$A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{Na}) = 23$; $A_\\mathrm{r}(\\mathrm{S}) = 32$; $A_\\mathrm{r}(\\mathrm{Cl}) = 35.5$."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "[Bromination of an unknown hydrocarbon]",
+     "problem": "Problem 5. [Bromination of an unknown hydrocarbon]\n\nOnly one product was obtained by the reaction of bromine with an unknown hydrocarbon. Its density was 5,207 times as great as that of the air.\n\nProblem:\n\n5.1 Determine the structural formula of the unknown hydrocarbon.\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{Br}) = 80$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "[Identification of organic compounds A, B, C and D]",
+     "problem": "Problem 6. [Identification of organic compounds A, B, C and D]\n\nOrganic compound $\\mathbf{A}$ is $41.38\\,\\%$ carbon, $3.45\\,\\%$ hydrogen and the rest is oxygen. Compound $\\mathbf{A}$ when heated with ethanol in the presence of an acid yields a new substance $\\mathbf{B}$ which contains $55.81\\,\\%$ carbon, $6.97\\,\\%$ hydrogen, and oxygen.\n\nThe initial compound $\\mathbf{A}$ when allowed to react with hydrobromide yields product $\\mathbf{C}$ which on boiling in water gives substance $\\mathbf{D}$ containing $35.82\\,\\%$ carbon, $4.48\\,\\%$ hydrogen, and oxygen. An amount of $2.68\\,\\mathrm{g}$ of substance $\\mathbf{D}$ required reacting with $20\\,\\mathrm{cm^3}$ of a $2\\,\\mathrm{N}$ solution of potassium hydroxide.\n\nProblems:\n\n6.1 Determine structural formulas of all the above mentioned substances $\\mathbf{A}$, $\\mathbf{B}$, $\\mathbf{C}$ and $\\mathbf{D}$. Use the finding that compound $\\mathbf{A}$ splits off water when heated.\n\n6.2 Write chemical equations for the above reactions.\n\nRelative atomic masses: $A_\\mathrm{r}(\\mathrm{H}) = 1$; $A_\\mathrm{r}(\\mathrm{C}) = 12$; $A_\\mathrm{r}(\\mathrm{O}) = 16$; $A_\\mathrm{r}(\\mathrm{K}) = 39$."
+    }
+   ]
+  },
+  {
    "year": 1973,
    "problems": [
     {
