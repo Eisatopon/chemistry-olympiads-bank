@@ -2,6 +2,283 @@
  "competition": "Baltic Chemistry Olympiad (BChO) — theoretical problems",
  "years": [
   {
+   "year": 1993,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "A wet crystal",
+     "problem": "Problem 1. A wet crystal\n\nThe hydrate of a stable salt $\\mathbf{X}$ contains 2.79% H, 9.97% C, and 38.48% of element $\\mathbf{A}$. When $\\mathbf{X}$ is heated at $800\\ ^\\circ\\mathrm{C}$, an oxide $\\mathbf{Y}$ ($w_\\mathrm{O} = 14.73\\%$) is formed. When $\\mathbf{X}$ is heated at a lower temperature, compound $\\mathbf{Z}$ containing 5.80% C, 27.07% O, and 67.13% of element $\\mathbf{A}$ is formed.\n\na) Write the chemical formulas of compounds $\\mathbf{X}$–$\\mathbf{Z}$.\n\nb) Write equations of the described reactions."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "So similar but not the same",
+     "problem": "Problem 2. So similar but not the same\n\nA solution contains sulfates of four metals. The metals are located in the same period (of the periodic table), next to each other, and in sulfates, their oxidation number is equal to +2. The quantities of the salts are 0.0100, 0.0100, 0.0200, and 0.0200 mole. $\\ce{NH3.H2O}$ and $\\ce{H2O2}$ were added to the solution in excess. The resulting precipitate $\\mathbf{A}$ was filtered and calcined to a constant mass of 2.47 g. After the filtrate was boiled, 2.36 g of precipitate $\\mathbf{B}$ was obtained. The remaining solution contained no metal ions. Precipitate $\\mathbf{A}$ was dissolved in an $\\ce{HCl}$ solution, releasing $224\\ \\mathrm{cm^3}$ of chlorine (STP). When precipitate $\\mathbf{B}$ was dissolved in an $\\ce{HCl}$ solution, $150\\ \\mathrm{cm^3}$ of chlorine (STP) was released.\n\na) Write the chemical formulas of metal sulfates.\n\nb) Calculate the mole amounts of these sulfates.\n\nc) Write equations of the described reactions."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "Do not drink it",
+     "problem": "Problem 3. Do not drink it\n\n5.000 g of the characteristic odorless liquid $\\mathbf{A}$ was burned in oxygen. The resulting products were absorbed in excess $\\ce{NaOH}$. The mass of the alkali solution increased by 16.41 g. $\\ce{Ba(OH)2}$ was added to the solution, resulting in 59.74 g of precipitate. The precipitate was dissolved by heating in hydrochloric acid, and $6.660\\ \\mathrm{dm^3}$ of gas (STP) was released.\n\na) Write the empirical formula of compound $\\mathbf{A}$.\n\nb) Write all the possible structures of substance $\\mathbf{A}$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "Organic siblings",
+     "problem": "Problem 4. Organic siblings\n\nWrite the structures of all such neutral, stable organic compounds whose molecules consist of C, H, and O (with empirical formulas $\\mathrm{C}_m\\mathrm{H}_n$ and $\\mathrm{C}_m\\mathrm{H}_n\\mathrm{O}_x$) in which the number of carbon atoms is between 2 and 6, and all are in $sp^2$ hybridization and structurally equivalent to each other."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "Organic riddle",
+     "problem": "Problem 5. Organic riddle\n\nSubstance $\\mathbf{A}$ consists of 69.77% carbon and 11.63% hydrogen. Two peaks are recorded in the mass spectrum of substance $\\mathbf{A}$: $m/z = 86$ (molecular ion) and $m/z = 57$. In the infrared spectrum, the line is around $1740\\text{-}1720\\ \\mathrm{cm^{-1}}$. In $^{1}\\mathrm{H}$ NMR spectrum, two singlet $\\delta_1 = 1\\text{–}1.5\\ \\mathrm{ppm}$ and $\\delta_2 = 9.5\\text{–}10\\ \\mathrm{ppm}$. The ratio of peak intensities is 9 : 1.\n\na) Write the structural formula of substance $\\mathbf{A}$.\n\nb) Write reaction equations in which substance $\\mathbf{A}$ reacts with i) formaldehyde, ii) acetaldehyde in an alkaline medium, and iii) aluminum isopropanolate in the presence of isopropanol."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Hemerythrin",
+     "problem": "Problem 6. Hemerythrin\n\nThe protein hemoglobin is widely known as an oxygen transporter. Less well-known are other natural proteins capable of transporting oxygen. One of these, hemerythrin, has been found in some vertebrates. The oxygen-binding center of hemerythrin contains two iron atoms that form a complex by interacting with the side chains of amino acid residues. X-ray structural analysis showed that the distance between iron atoms in hemerythrin is 3.57 Å (in the crystal of metallic iron, the interatomic distance is 2.48 Å). One of the atoms is linked by coordination bonds with three, the other with two amino acid side chains (each chain contains a five-membered cycle). In addition, the iron atoms are linked to two other different amino acid residues by FeO coordination bonds.\n\na) What amino acid residues are included in the complex?\n\nb) Draw the spatial structure of the oxygen-binding center.\n\nc) How and where can oxygen be bound in this center?\n\nd) What features of oxygen binding by hemoglobin do you know?"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "title": "Toxic gold",
+     "problem": "Problem 7. Toxic gold\n\nDuring the electrolysis of a gold cyano complex in an alkaline solution, 0.460 g of gold is precipitated at the cathode, and $13.06\\ \\mathrm{cm^3}$ of oxygen (STP) is released at the anode. Write the electrode reactions and determine the degree of oxidation of gold in the complex, assuming that all reactions occur in 100% yield."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "title": "Basic acid reactions",
+     "problem": "Problem 8. Basic acid reactions\n\n$1\\ \\mathrm{dm^3}$ of solution contained 0.365 g $\\ce{HCl}$ and 6.00 g $\\ce{CH3COOH}$ ($K_\\mathrm{a} = 1.75\\cdot10^{-5}$). 2.00 g of solid sodium hydroxide was added to the solution. Calculate the pH of the solution before and after adding $\\ce{NaOH}$."
+    }
+   ]
+  },
+  {
+   "year": 1994,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Famous for not just the wine",
+     "problem": "Problem 1. Famous for not just the wine\n\nThe Burgundy mixture is prepared from $\\ce{CuSO4.5H2O}$ and $\\ce{Na2CO3}$ (soda) and is used to protect plants from fungal diseases. In agriculture, 1% of $\\ce{CuSO4.5H2O}$ (by mass) is prepared and dissolved in an equivalent soda solution to produce 1% Burgundy mixture. To prepare the Burgundy mixture, a gardener took soda with 50% excess. Then, he added $\\ce{CuSO4}$ solution to the soda solution. The mixing was carried out in a zinc-coated vessel. Due to carelessness, instead of soda ash ($\\ce{Na2CO3}$), the gardener took crystalline soda ($\\ce{Na2CO3.10H2O}$), assuming it is an anhydrous salt.\n\na) Write equations of the described reactions.\n\nb) Estimate the mass percentage of soluble substances in the resulting solution."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "Unstable chemical",
+     "problem": "Problem 2. Unstable chemical\n\nSubstance $\\mathbf{A}$ decomposes spontaneously. The half-life of substance $\\mathbf{A}$ at $30\\ ^\\circ\\mathrm{C}$ is 318 seconds, and at $24.7\\ ^\\circ\\mathrm{C}$ – 460 seconds. How much time is needed for substance $\\mathbf{A}$ to decay 99% at $35\\ ^\\circ\\mathrm{C}$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "All the kinds of soda",
+     "problem": "Problem 3. All the kinds of soda\n\nThe enthalpies of dissolution of $\\ce{Na2CO3}$, $\\ce{Na2CO3.H2O}$ and $\\ce{Na2CO3.10H2O}$ are $-24.6\\ \\mathrm{kJ\\,mol^{-1}}$, $-10.5\\ \\mathrm{kJ\\,mol^{-1}}$, and $66.6\\ \\mathrm{kJ\\,mol^{-1}}$, respectively.\n\na) Calculate the enthalpies of hydration of the following reactions.\n\n$$\\begin{array}{ll} (1) & \\ce{Na2CO3 + H2O -> Na2CO3.H2O} \\\\ (2) & \\ce{Na2CO3 + 10H2O -> Na2CO3.10H2O} \\\\ (3) & \\ce{Na2CO3.H2O + 9H2O -> Na2CO3.10H2O} \\end{array}$$\n\n10.0 grams of $\\ce{Na2CO3.10H2O}$ was dissolved in 10.0 grams of water.\n\nb) Calculate the molar fraction of $\\ce{Na2CO3}$ in the solution.\n\nc) Calculate the pH of the solution ($K_\\mathrm{a1} = 4.45\\cdot10^{-7}$, $K_\\mathrm{a2} = 4.69\\cdot10^{-11}$; $\\rho = 1.2\\ \\mathrm{g\\,cm^{-3}}$)."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "Copper nitrate",
+     "problem": "Problem 4. Copper nitrate\n\n19.1 grams of copper was dissolved in $189\\ \\mathrm{cm^3}$ of 40.0% nitric acid ($\\rho = 1.25\\ \\mathrm{g\\,cm^{-3}}$) which gave off $6.72\\ \\mathrm{dm^3}$ of gases (STP) with a density of 1.93 relative to air.\n\na) Which gases were released and in what ratio?\n\nb) Write equations of the described reactions.\n\nc) How much unreacted nitric acid remained in the solution?"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "A simple lead battery",
+     "problem": "Problem 5. A simple lead battery\n\nHydrogen and $\\ce{Pb}$/$\\ce{Pb(OH)2}$ electrodes were used to make a galvanic cell with $\\ce{KOH}$ electrolyte.\n\na) Write the reactions occurring at the electrodes (the hydrogen electrode, in this element, is the negative electrode).\n\nb) Write an equation to calculate the EMF and show that the EMF does not depend on the concentration of the solution.\n\nc) Calculate the solubility product value of $\\ce{Pb(OH)2}$ at $25\\ ^\\circ\\mathrm{C}$, knowing that EMF = 0.261 V, the standard potential of lead with respect to $[\\ce{Pb^{2+}}]$ is $E^\\circ(\\ce{Pb^{2+}}/\\ce{Pb}) = -0.126\\ \\mathrm{V}$, and $K_\\mathrm{w} = 10^{-14}$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Three children of cyclohexane",
+     "problem": "Problem 6. Three children of cyclohexane\n\nThree cyclohexane derivatives, $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$, contain the same percentage of chlorine – 73.20%. In a $4.70\\cdot10^{-3}$ molar sodium hydroxide solution in ethanol, the reaction rates of $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$ were measured at the same concentration ($8\\cdot10^{-4}$ M). Substance $\\mathbf{B}$ did not react. The reaction rate constants for compounds $\\mathbf{A}$ and $\\mathbf{C}$ were 0.167 and $0.0435\\ \\mathrm{dm^3\\,mol^{-1}\\,s^{-1}}$, respectively. In both reactions, only one product (a diene) was formed.\n\na) Explain why the reaction rate constants are different.\n\nb) Draw structural formulas of $\\mathbf{A}$–$\\mathbf{C}$. Label the absolute configurations for $\\mathbf{A}$–$\\mathbf{C}$.\n\nc) Write the reaction equations."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "title": "The smell of Baltics",
+     "problem": "Problem 7. The smell of Baltics\n\nTerpenoids consist of isoprene (2-methyl-1,3-butadiene) fragments and contain different functional groups (hydroxyl, etc.). These compounds have a pleasant odor and are found in the essential oils of plants. Terpene $\\mathbf{A}$ is a cyclohexane derivative, which is oxidized to ketone $\\mathbf{B}$ with chromic acid. Dehydration of $\\mathbf{A}$ produces compound $\\mathbf{C}$, which contains 86.96% carbon and 13.04% hydrogen. When $\\mathbf{C}$ is hydrogenated, compound $\\mathbf{D}$ is formed. Ozonolysis of product $\\mathbf{C}$ with water yields substance $\\mathbf{E}$. Oxidation of substance $\\mathbf{E}$ under severe conditions yields a mixture of various acids and $\\ce{CO2}$. It is possible to isolate 3-methylpropane-1,3-dicarboxylic acid ($\\beta$-methyl- glutaric acid) from the mixture.\n\na) Draw the structures of $\\mathbf{A}$–$\\mathbf{E}$.\n\nb) Write all the described reaction equations.\n\nc) Which plant essential oils contain substances $\\mathbf{A}$–$\\mathbf{C}$."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "title": "Another fossil fuel",
+     "problem": "Problem 8. Another fossil fuel\n\n0.10 grams of a hydrocarbon was burned, and the gaseous products were passed through $30\\underline{0}\\ \\mathrm{cm^3}$ of 0.0200 molar $\\ce{Ba(OH)2}$ solution, resulting in 0.850 g of precipitate. The $^{1}$H NMR spectrum of this carbohydrate consists of one quartet. X-ray structural analysis showed that the lengths of C–C bonds between all carbon atoms in the hydrocarbon are the same. Write the structural formulas of three hydrocarbons that meet the conditions."
+    }
+   ]
+  },
+  {
+   "year": 1995,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Shapeshifting organics",
+     "problem": "Problem 1. Shapeshifting organics\n\nCompound $\\mathbf{X}$ turns into hydrocarbon $\\mathbf{Y}$ via reduction and rearrangement in the presence of $\\ce{HBF4}$. The reverse intermolecular rearrangement occurs by heating the potassium salt of the oxidation product of the compound $\\mathbf{Y}$ in $\\ce{CO2}$ atmosphere. After treatment with $\\ce{D2O}$, the NMR spectrum of compound $\\mathbf{X}$ presents a singlet at $\\delta = 8.1$ (DMSO). 1.4 times less oxygen is needed for the complete burning of 1 mole of compound $\\mathbf{X}$ compared to the same amount of $\\mathbf{Y}$.\n\na) Write the chemical equations for all the reactions.\n\nb) Write the mechanisms of the rearrangements."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "Oxidation of rhenium",
+     "problem": "Problem 2. Oxidation of rhenium\n\nCompound $\\mathbf{X}$ [$w(\\mathrm{Re}) = 68.16\\%$] turns into compound $\\mathbf{Y}$ according to the following scheme:\n\n$$\\begin{array}{|l|l|l|} \\hline c_\\mathrm{X}\\ [\\mathrm{M}] & A(346\\ \\mathrm{nm}) & A(330\\ \\mathrm{nm}) \\\\ \\hline 8.4422 & 0.1815 & 0.291 \\\\ \\hline 8.5924 & 0.1847 & 0.295 \\\\ \\hline 8.7989 & 0.1883 & 0.302 \\\\ \\hline \\end{array}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/bcho-1995-2-fig1.png\n\nThe results of absorption spectroscopic measurements of standard solutions of $\\mathbf{X}$ are in the Table. Two more measurements were made as follows. 1.0360 g of compound $\\mathbf{Y}$ was treated with hydrogen peroxide. The excess of the reagent was removed by boiling.\n\ni) The solution was quantitatively transferred into a $500.34\\ \\mathrm{cm^3}$ volumetric flask, $2.50\\ \\mathrm{cm^3}$ of concentrated $\\ce{H2SO4}$ was added, and the flask was filled to the line. Result: at $A(346\\ \\mathrm{nm}) = 0.1844$.\n\nii) $50.0\\ \\mathrm{cm^3}$ of the solution a was pipetted into a $100\\ \\mathrm{cm^3}$ volumetric flask, $0.250\\ \\mathrm{cm^3}$ of concentrated $\\ce{H2SO4}$ was added, and the flask filled to the line. Result: at $A(330\\ \\mathrm{nm}) = 0.294$.\n\nWrite the chemical formulas of $\\mathbf{X}$ and $\\mathbf{Y}$. Show your calculations."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "Silver energy",
+     "problem": "Problem 3. Silver energy\n\nThe EMF of a silver-zinc cell $\\ce{Zn}\\,|\\,\\ce{ZnSO4}(\\mathrm{l})\\,||\\,\\ce{AgNO3}(\\mathrm{l})\\,|\\,\\ce{Ag}$ is 1.562 V if the concentrations of the solutions are 1 M at $T = 25\\ ^\\circ\\mathrm{C}$.\n\na) Write the equations of the reactions in the whole cell and at single electrodes if current is taken from the cell.\n\nb) Calculate the EMF of the cell after 20 days of running at 0.050 A."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "The kinetics of March test",
+     "problem": "Problem 4. The kinetics of March test\n\nThe kinetics of the decomposition of $\\ce{AsH3}$ was studied by measuring pressure in a closed glass tube. The initial pressure of gaseous $\\ce{AsH3}$ in the tube was 86.1 kPa. After 2 hours, the pressure in the tube was 112.6 kPa. The formed $\\ce{As}$ condensed on the walls of the glass tube.\n\na) Write the chemical equation of the decomposition reaction.\n\nb) Calculate the pressure in the glass tube after the reaction is completed.\n\nc) Calculate the rate constant and the rate of the reaction.\n\nd) Calculate the time necessary to decompose 99.9% of $\\ce{AsH3}$."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "A lot of heating",
+     "problem": "Problem 5. A lot of heating\n\n5.5541 g of a crystalline hydrate was heated at $100\\ ^\\circ\\mathrm{C}$. Its mass decreased to 4.1128 grams. The remnant was heated at $150\\ ^\\circ\\mathrm{C}$ to obtain 2.0818 g of a gas with a volume of $7.044\\ \\mathrm{dm^3}$ at $150\\ ^\\circ\\mathrm{C}$ and $10\\underline{0}000\\ \\mathrm{Pa}$. The remnant of the other heating (2.0310 g) was treated with overheated steam to obtain 1.5910 g of a solid oxide containing 20.11% oxygen. All the mentioned heatings were carried out to constant weight.\n\na) Write the chemical formula of the crystalline hydrate. Show your calculations.\n\nb) Write the chemical equations of all the reactions."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Don’t starve",
+     "problem": "Problem 6. Don’t starve\n\nThe oxidation of glucose is the human organism's primary energy source. However, while starving, the reserve of hydrocarbons is diminishing, and the oxidation of two monocarbonic acids, $\\mathbf{A}$ and $\\mathbf{B}$, becomes the main energy source. The acids $\\mathbf{A}$ and $\\mathbf{B}$ turn easily into one another due to an enzymatic redox reaction. Acid $\\mathbf{A}$ contains 47.06% C and 5.88% H; $\\mathbf{B}$ contains 46.15% C and 7.70% H. Acid $\\mathbf{A}$ decomposes slowly and spontaneously in blood, giving a volatile compound $\\mathbf{C}$ that can be smelled in the air exhaled by a starving person. The density of the vapors of the compound $\\mathbf{C}$ is 2.00 with respect to the air, and there is only one peak in its $^{1}$H NMR spectrum. Write the structural formulas of $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "title": "Organic riddle",
+     "problem": "Problem 7. Organic riddle\n\nCompound $\\mathbf{A}$ ($\\ce{C16H15NO2}$) dissolves only in concentrated sulfuric acid and reacts with hydrazine to form a precipitate. Compound $\\mathbf{A}$ was hydrolyzed in an alkaline solution. Compound $\\mathbf{B}$ was separated from the solution by extracting it with ether. The remnant was acidified to separate a solid compound $\\mathbf{C}$ with a molar mass of $164\\ \\mathrm{g\\,mol^{-1}}$. Compounds $\\mathbf{A}$ and $\\mathbf{C}$ react with an alkaline solution of iodine to give a precipitate $\\mathbf{D}$. The other product that formed in the reaction from compound $\\mathbf{C}$ was turned into acid $\\mathbf{E}$ by the agency of an acid. One mole of $\\ce{NaOH}$ reacts with 83 g of the acid $\\mathbf{E}$. Heating the acid $\\mathbf{E}$ results in compound $\\mathbf{F}$, which does not react with sodium hydrogen carbonate. Boiling compound $\\mathbf{F}$ in water for a long time returns it to compound $\\mathbf{E}$.\n\nCompound $\\mathbf{B}$ has an unpleasant smell, and it dissolves in a 5% solution of $\\ce{HCl}$. It reacts with an acidified solution of sodium nitrite to liberate a gas and form compound $\\mathbf{G}$, which is insoluble in water but reacts with sodium. Compound $\\mathbf{G}$ is oxidized with chromosulfuric acid to give compound $\\mathbf{H}$. Melting $\\mathbf{H}$ with $\\ce{NaOH}$ gives benzene.\n\na) Write the structural formulas of compounds $\\mathbf{A}$–$\\mathbf{H}$."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Theory",
+     "title": "Removal of iron from water",
+     "problem": "Problem 8. Removal of iron from water\n\nAt what pH of the solution does $\\ce{FeS}$ begin to precipitate if the initial concentration of the cation is 0.01 M, the total concentration of all the forms of sulfide ions in the solution is also 0.01 M, the dissociation constants for dihydrogen sulfide are $K_1 = 1\\cdot10^{-7}$ and $K_2 = 1\\cdot10^{-13}$ and the solubility product for $\\ce{FeS}$ is $K_\\mathrm{sp} = 1\\cdot10^{-18}$? At what pH of the solution could the precipitation of $\\ce{FeS}$ be considered complete (i.e. 99.9% of the initial amount of the cation has precipitated)?"
+    }
+   ]
+  },
+  {
+   "year": 1996,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "An unknown alloy",
+     "problem": "Problem 1. An unknown alloy\n\n1.0000 g of powder of a mixture of two metals was heated at $300\\ ^\\circ\\mathrm{C}$ in a stream of $\\ce{NO2}$. As a result, 0.6683 g of light yellow substance $\\mathbf{A}$ ($w_\\mathrm{O} = 25.18\\%$) was distilled off, and 0.7149 g of red powder remained in the reaction vessel. The reaction of $\\mathbf{A}$ with concentrated hydrochloric acid produced $129.9\\ \\mathrm{cm^3}$ of gas and $25\\ ^\\circ\\mathrm{C}$ and 100.2 kPa. The density of this gas under these conditions is $2.8689\\ \\mathrm{g\\,dm^{-3}}$. After the excess hydrochloric acid was neutralized with $\\ce{KOH}$, a compound with a chlorine content of 44.21% was isolated. This compound was dissolved in hydrochloric acid, and upon the addition of zinc, one of the parent metals was obtained.\n\na) Identify two metals in the original mixture.\n\nb) Write equations for all reactions."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "Old-school hydrogen",
+     "problem": "Problem 2. Old-school hydrogen\n\nOne industrial method of hydrogen production is the Mark-1 thermodynamic cycle:\n\n$$\\begin{array}{llll} \\text{i)} & \\ce{CaBr2 + 2H2O -> Ca(OH)2 + 2HBr} & \\text{iii)} & \\ce{HgBr2 + Ca(OH)2 -> CaBr2 + HgO + H2O} \\\\ \\text{ii)} & \\ce{2HBr + Hg -> HgBr2 + H2} & \\text{iv)} & \\ce{2HgO -> 2Hg + O2} \\end{array}$$\n\nA second purely thermodynamic hydrogen production cycle, Mark-8, was developed by the author of Mark-1 two years later. The Mark-8 cycle, like the Mark-1 cycle, utilizes water and thermal energy. The Mark-8 cycle involves the manganese compounds $\\ce{MnCl2}$, $\\ce{Mn3O4}$, and $\\ce{MnO2}$, as well as $\\ce{HCl}$, $\\ce{H2O}$, $\\ce{H2}$, and $\\ce{O2}$. Oxygen is released at 1170 K from manganese dioxide; the other two reactions occur at 970 K and 370 K.\n\na) Write the reaction equations occurring in the Mark-8 cycle.\n\nb) Explain the advantages of each of the cycles."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "On cobalt and ammonia",
+     "problem": "Problem 3. On cobalt and ammonia\n\nFor the determination of the ligand molecule number in complex cation $\\ce{Co(NH3)}_n^{2+}$, the EMF of the following electrochemical cell $\\ce{Co}\\,|\\,0.05\\ \\mathrm{M}\\ \\ce{CoCl2} + x\\ \\mathrm{M}\\ \\ce{NH3 * H2O}\\,|\\,1.00\\ \\mathrm{M}\\ \\ce{NaOH}\\,|\\,\\ce{HgO}\\,|\\,\\ce{Hg}$ at $25\\ ^\\circ\\mathrm{C}$ was determined at various concentration of dissolved ammonia. The gas phase was, in all cases, in equilibrium with the solution. Calculate the $n$ value using data given in the table assuming that in all solutions $[\\ce{Co^{2+}}] \\ll [\\ce{Co(NH3)}_n^{2+}]$, thus $[\\ce{Co(NH3)}_n^{2+}] \\approx \\mathrm{const.}$\n\n$$\\begin{array}{|l|c|c|c|c|} \\hline \\text{EMF [V]} & 0.619 & 0.659 & 0.683 & 0.715 \\\\ \\hline p(\\ce{NH3})\\ \\text{mmHg} & 27.8 & 44.7 & 63.4 & 107.7 \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "Combustion of acid vapors",
+     "problem": "Problem 4. Combustion of acid vapors\n\nAt 1000 K and pressure $10^{5}$ Pa, the degrees of dissociation of water vapor and hydrogen chloride are $2.48\\cdot10^{-7}$ and $1.10\\cdot10^{-3}$, correspondingly. Calculate the value of equilibrium constant and Gibbs free energy change for the reaction $\\ce{4HCl + O2 <=> 2Cl2 + 2H2O}$."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "Determining molecular mass without a mass spectrometer",
+     "problem": "Problem 5. Determining molecular mass without a mass spectrometer\n\nOrganic compound $\\mathbf{A}$ (melting point $167\\ ^\\circ\\mathrm{C}$) consists of two elements. The mass fraction of element $\\mathbf{X}$ is 88.8%. In the $^{1}$H-NMR spectrum of compound $\\mathbf{A}$, there is only one signal (singlet, $\\delta = 2.34$ m.d.). To determine the molecular weight by cryoscopy, 0.040 g of compound $\\mathbf{A}$ was fused with 0.50 g of camphor – the melting point of the mixture was $159\\ ^\\circ\\mathrm{C}$ (melting point of pure camphor is $178\\ ^\\circ\\mathrm{C}$, cryoscopic constant $K = 39.7\\ \\mathrm{K\\,kg\\,mol^{-1}}$). Heating substance $\\mathbf{A}$ in potassium permanganate solution, substance $\\mathbf{B}$ ($w_\\mathbf{X} = 42.1\\%$). Heating $\\mathbf{B}$ in excess of acetic anhydride yielded substance $\\mathbf{C}$, which also consists of two elements and the mass fraction of element $\\mathbf{X}$ in the substance is 50.0%.\n\na) Write the chemical formulas of $\\mathbf{A}$–$\\mathbf{C}$.\n\nb) Write the equations for all reactions."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Chemical hormones",
+     "problem": "Problem 6. Chemical hormones\n\nThe widespread use of insecticides causes a disturbance of the ecological balance, which makes it relevant to use pheromones to monitor this insect and to keep it under control. The main active substance of pheromone is 1,7-dioxaspiro(5,5)undecane – compound $\\mathbf{X}$. It is synthesized from δ-valerolactone.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/bcho-1996-6-fig1.png\n\na) Identify the intermediate compound $\\mathbf{A}$.\n\nb) Compound $\\mathbf{X}$ exists in a single configuration. Draw the structure of this configuration and note the stereoelectronic effects that make it stable.\n\nc) Identify peaks in the $^{1}$H NMR spectrum of compound $\\mathbf{X}$ at 3.52 (2H) and 3.65 (2H).\n\nFeramon also contains compound $\\mathbf{Y}$. The scheme of its production is as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/bcho-1996-6-fig2.png\n\nd) The halogenation of a carbonyl compound occurs via an enolic intermediate $\\mathbf{X}$ (acetal). Write the mechanism of bromination of $\\mathbf{X}$.\n\nUpon treatment of brominated $\\mathbf{X}$ with potassium tert-butoxide in dimethyl sulfoxide at $110\\ ^\\circ\\mathrm{C}$, compound $\\mathbf{B'}$ reacted completely. On further heating for 6 hours, compound $\\mathbf{B}$ reacts completely as well. In both cases, compound $\\mathbf{C}$ is formed.\n\ne) Write the structural formulas of $\\mathbf{B}$ and $\\mathbf{B'}$. Explain the reactivity of compounds $\\mathbf{B}$ and $\\mathbf{B'}$ in terms of the reaction mechanism.\n\nCompound $\\mathbf{C}$ is converted into diastereoisomers $\\mathbf{Y}$ and $\\mathbf{Y'}$ ($M = 172\\ \\mathrm{g\\,mol^{-1}}$) by stereospecific hydration in THF (tetrahydrofuran). The ratio of the stereoisomers $\\mathbf{Y} : \\mathbf{Y'} = 18 : 1$.\n\nf) Write their structural formulas and write reaction equations for each stage. Identify the structural effects that cause the preferential formation of compound $\\mathbf{Y}$.\n\ng) Write the absolute configurations of all chiral atoms in compounds $\\mathbf{Y}$ and $\\mathbf{Y'}$."
+    }
+   ]
+  },
+  {
+   "year": 1997,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Simple electrolysis",
+     "problem": "Problem 1. Simple electrolysis\n\nThe $\\ce{CuSO4}$ solution was subjected to electrolysis for 30.0 hours with very intense stirring. During electrolysis, the current density was 1.00 A, and all the copper (31.75 g) from the solution precipitated.\n\na) Which newly formed compound remains in solution?\n\nb) What amount (in moles) of this substance was formed?\n\nc) What volume of gas (under normal conditions) is released at the anode and cathode?\n\nd) Write reaction equations for all the processes."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "Mercury from a gemstone",
+     "problem": "Problem 2. Mercury from a gemstone\n\nOne of the methods for obtaining mercury is the calcination of mercury(II) sulfide cinnabar with calcium oxide at $600$–$700\\ ^\\circ\\mathrm{C}$. 500.00 g of cinnabar containing iron(II) sulfide was heated with 170.00 g of calcium oxide. 393.16 g of mercury was distilled off, the reducing agent was oxidized to the maximum. The gray residue was extracted in a Soxhlet extractor for a long time. From the original gray residue, 43.98 g of black powder $\\mathbf{A}$ remained. The solution in the distillation flask and the precipitate formed therein were saturated by boiling with carbon dioxide. The resulting precipitate was filtered and dried; the resulting mass of the precipitate was 443.68 g. An excess of hydrochloric acid was added to the precipitate. After the reaction, precipitate $\\mathbf{B}$ remained, the mass of which, after calcination at $400\\ ^\\circ\\mathrm{C}$, was 58.88 g.\n\na) Write equations of all the reactions taking place.\n\nb) What mass of $\\ce{CaO}$ is needed to react completely with this ore?\n\nc) Write the reaction equations if the reaction mixture was heated with calcium oxide in a current of air.\n\nd) What is the % of both $\\ce{FeS}$ and $\\ce{HgS}$ in the ore?\n\ne) Why was the solution boiled while being saturated with carbon dioxide?"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "Carbon monoxide conversion",
+     "problem": "Problem 3. Carbon monoxide conversion\n\nCarbon dioxide formed during the combustion of solid fuel takes part in the equilibrium reaction (1) $\\ce{C(s) + CO2(g) <=> 2CO(g)}$. The logarithms of the equilibrium constants at 1000 K of the following reactions are given: (2) $\\ce{C(s) + 1/2O2(g) <=> CO(g)}$ $\\log K_2 = 10.477$ and (3) $\\ce{C(s) + O2(g) <=> CO2(g)}$ $\\log K_3 = 20.675$.\n\na) Calculate the equilibrium constant of reaction (1) at 1000 K and 1 atm pressure.\n\nb) Find the content of gases ($\\ce{CO2}$, $\\ce{CO}$, $\\ce{N2}$) in vol. % if the temperature in the furnace is 1000 K. The fuel burns in the air, the composition of which is assumed to be 80% $\\ce{N2}$ and 20% $\\ce{O2}$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "A simple galvanic cell",
+     "problem": "Problem 4. A simple galvanic cell\n\nAt $20\\ ^\\circ\\mathrm{C}$, the standard EMF of the cell $\\ce{Pt, H2 | HCl, HgCl2 | Hg}$ is 0.2692 V; at $30\\ ^\\circ\\mathrm{C}$, it is equal to 0.2660 V. The calomel electrode is the positive pole.\n\na) Write the total reaction equation of the cell.\n\nb) Determine $\\Delta G^\\circ$, $\\Delta H^\\circ$, $\\Delta S^\\circ$ and the equilibrium constant of the reaction at $25\\ ^\\circ\\mathrm{C}$."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "A funny ketone",
+     "problem": "Problem 5. A funny ketone\n\nCompound $\\mathbf{A}$ ($\\ce{C13H15NO}$) can react with iodine in an alkaline aqueous solution. As a result of the reaction, yellow precipitate $\\mathbf{B}$ ($w_\\mathrm{I} = 96.70\\%$) and acid $\\mathbf{C}$ ($\\ce{C12H13NO2}$) are formed. Compound $\\mathbf{C}$ undergoes hydrolysis giving products $\\mathbf{D}$ and $\\mathbf{E}$ ($\\ce{C7H7NO2}$). The original compound $\\mathbf{A}$ undergoes hydrolysis giving products $\\mathbf{D}$ and $\\mathbf{F}$. When substance $\\mathbf{F}$ reacts with iodine and sodium hydroxide, compounds $\\mathbf{E}$ and $\\mathbf{B}$ are formed after acidification of the reaction mixture with hydrochloric acid.\n\nCompound $\\mathbf{E}$ decomposes if heated with $\\ce{NaOH}$. In this case, it is possible to isolate the basic compound $\\mathbf{G}$ ($\\ce{C6H7N}$). This compound reacts with an aqueous solution of $\\ce{Br2}$ to form a precipitate. Compound $\\mathbf{D}$ ($\\ce{C5H8O}$) does not decolorize the solution of $\\ce{KMnO4}$. It does not react with metallic sodium or silver oxide in ammonia. It can be oxidized under harsh conditions to acid $\\ce{C5H8O4}$.\n\nDraw the structural formulas of compounds $\\mathbf{A}$–$\\mathbf{G}$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Sweet toxins",
+     "problem": "Problem 6. Sweet toxins\n\nMany marine mollusks contain the toxic substance holothurin, which has the structure $\\mathbf{R{-}O{-}TS}$, in which $\\mathbf{R}$ is a polycyclic alcohol residue, and $\\mathbf{TS}$ is a tetrasaccharide composed of four different monosaccharides $\\mathbf{A}$, $\\mathbf{B}$, $\\mathbf{C}$, and $\\mathbf{D}$.\n\nAfter complete acid hydrolysis, two monosaccharides are readily identifiable by paper chromatography. These monosaccharides are glucose ($\\mathbf{A}$) and xylose ($\\mathbf{B}$). The molecular mass of saccharide $\\mathbf{C}$ is $164\\ \\mathrm{g\\,mol^{-1}}$ and monosaccharide $\\mathbf{D}$ is $194\\ \\mathrm{g\\,mol^{-1}}$. According to the NMR spectrum, monosaccharides $\\mathbf{C}$ and $\\mathbf{D}$ contain one methyl group. Both monosaccharides can be obtained from glucose: monosaccharide $\\mathbf{C}$ is obtained by selective reduction; monosaccharide $\\mathbf{D}$ is obtained by methylation at the third position.\n\nBy partial enzyme hydrolysis of the tetrasaccharide, the oligosaccharides $\\mathbf{DA{-}OH}$, $\\mathbf{CD{-}OH}$, and $\\mathbf{DAB{-}OH}$ can be isolated ($-$OH represents the oligosaccharide's free reducing group).\n\na) Draw the structural formulas of $\\mathbf{C}$ and $\\mathbf{D}$.\n\nb) Draw the structural formula of a tetrasaccharide, assuming that all monosaccharides are in pyranose form and that all monosaccharides are joined by a $\\beta(1\\to4)$ glycosidic bond.\n\nThe structures of glucose and xylose are as follows:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/bcho-1997-6-fig1.png"
+    }
+   ]
+  },
+  {
    "year": 1998,
    "problems": [
     {
