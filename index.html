@@ -1040,7 +1040,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261019-imcho-complete';
+const DATA_VERSION = '20261019-stats';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world' };
@@ -1119,8 +1119,7 @@ function typesetVisible(root) {
 }
 // Likes and view counts (Cloudflare Worker nob-stats + D1). Loaded after the cards are drawn, only for
 // cards near the screen, in one small batched request; if the service is slow or down nothing is shown.
-// Off until the worker accepts the ch- prefix (ask the owner first): the shared worker takes only math and ph- uids today.
-const STATS_URL = '';
+const STATS_URL = 'https://nob-stats.sokkorom.workers.dev';
 // Shared with the math and physics banks (same worker and origin): chemistry uids are sent with the prefix ch-.
 const statsId = uid => 'ch-' + uid;
 const statsStore = (k, v) => { try { if (v === undefined) return JSON.parse(localStorage.getItem(k) || 'null'); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } };
