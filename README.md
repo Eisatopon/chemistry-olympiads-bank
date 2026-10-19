@@ -1,6 +1,6 @@
-# World Chemistry Olympiads Bank
+# Democritus – World Chemistry Olympiads Bank
 
-Public site of the World Chemistry Olympiads Bank (eisatopon.gr): chemistry olympiad problems — IChO theoretical problems first — in English with LaTeX, statements only.
+Public site of Democritus, the World Chemistry Olympiads Bank (eisatopon.gr): chemistry olympiad problems — IChO theoretical problems first — in English with LaTeX, statements only.
 
 Live: https://eisatopon.github.io/chemistry-olympiads-bank/
 

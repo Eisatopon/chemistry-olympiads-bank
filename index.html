@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>World Chemistry Olympiads Bank – eisatopon.gr</title>
+<title>Democritus – World Chemistry Olympiads Bank – eisatopon.gr</title>
 <meta name="description" content="A searchable archive of chemistry olympiad problems — the International Chemistry Olympiad (IChO) theoretical problems first, then the Mendeleev olympiad, regional and national chemistry olympiads — in English with LaTeX, statements only. Build a printable problem set.">
 <meta name="theme-color" content="#0f3d3a">
 <link rel="icon" type="image/png" href="assets/eisatopon-logo.png">
@@ -12,11 +12,11 @@
 <!-- Link previews (Facebook, X, LinkedIn, Reddit, Viber, WhatsApp) -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="eisatopon.gr">
-<meta property="og:title" content="World Chemistry Olympiads Bank">
+<meta property="og:title" content="Democritus – World Chemistry Olympiads Bank">
 <meta property="og:description" content="Chemistry olympiad problems from IChO and other chemistry olympiads, in English with LaTeX, with structures, reaction schemes and data tables. Statements only. Free, searchable, printable.">
 <meta property="og:url" content="https://eisatopon.github.io/chemistry-olympiads-bank/">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="World Chemistry Olympiads Bank">
+<meta name="twitter:title" content="Democritus – World Chemistry Olympiads Bank">
 <meta name="twitter:description" content="Chemistry olympiad problems (IChO and more), in English with LaTeX. Statements only. Free, searchable, printable.">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -545,6 +545,7 @@ svg.i { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none; s
 
 .hero-body { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 40px; align-items: end; padding-top: 18px; padding-bottom: 14px; }
 .hero h1 { font-family: var(--serif); font-weight: 800; font-size: clamp(2rem, 4.4vw, 3.3rem); line-height: 1.06; letter-spacing: -.01em; }
+.hero h1 .bank-name { display: block; font-size: .5em; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #facc15; margin-bottom: .25em; }
 .lede { color: #d3dde6; font-size: 1.02rem; max-width: 54ch; padding-bottom: 4px; }
 .stats { display: flex; flex-wrap: wrap; gap: 22px; justify-content: flex-end; padding-bottom: 6px; }
 .stat { text-align: right; }
@@ -878,7 +879,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 
     <div class="wrap hero-body">
         <div>
-            <h1>World Chemistry Olympiads Bank</h1>
+            <h1><span class="bank-name">Democritus</span>World Chemistry Olympiads Bank</h1>
             <p class="lede">Chemistry olympiad problems from international, regional and national competitions, in English with LaTeX: statements with every part, data table, structure and reaction scheme. Statements only — no solutions. Browse the competition-year grid.</p>
         </div>
         <div class="stats" id="stats" aria-hidden="true">
@@ -988,7 +989,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 
 <footer class="footer">
     <div class="wrap">
-        <span>eisatopon.gr © 2026–<span id="yr">2026</span> – World Chemistry Olympiads Bank</span>
+        <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Democritus, World Chemistry Olympiads Bank</span>
         <a href="https://github.com/Eisatopon/chemistry-olympiads-bank" target="_blank" rel="noopener">Data on GitHub</a>
         <p class="thanks">Statements are reproduced from the official IChO papers for study; the problems remain the work of their authors and organising committees. Sister project of the <a href="https://eisatopon.github.io/national-olympiads-bank/">World Mathematical Olympiads Bank</a> and the <a href="https://eisatopon.github.io/physics-olympiads-bank/">World Physics Olympiads Bank</a>.</p>
     </div>
@@ -1040,7 +1041,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261019-stats';
+const DATA_VERSION = '20261019-democritus';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world' };
