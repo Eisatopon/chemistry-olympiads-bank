@@ -2,6 +2,154 @@
  "competition": "Baltic Chemistry Olympiad (BChO) — theoretical problems",
  "years": [
   {
+   "year": 1998,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Another white powder in the lab",
+     "problem": "Problem 1. Another white powder in the lab\n\nThe analysis laboratory received a white crystalline material for analysis. The analyst weighed out two samples of the material. Sample 1, with a mass of 1.084 g, was dissolved in water. As the material dissolved, $26.17\\ \\mathrm{cm^3}$ of gas, having a mass of 37.39 mg, was released. The resulting solution was found to be very acidic. Addition of hydrochloric acid caused a precipitate to form. After the addition of $47.5\\ \\mathrm{cm^3}$ 0.0983 molar $\\ce{HCl}$, no more precipitate was formed. The precipitate was recovered, dried, and weighed. The mass of the precipitate was 0.6693 g.\n\nSample 2, with a mass of 1.120 g, was heated to above $300\\ ^\\circ\\mathrm{C}$. During heating, $324.6\\ \\mathrm{cm^3}$ of gas was collected with a mass of 599.0 mg. After heating, a light-colored metal with a mass of 0.521 g remained. The gas was dissolved in $100\\ \\mathrm{cm^3}$ of water. Not all the gas dissolved, $54.10\\ \\mathrm{cm^3}$, with a mass of 77.2 mg, remained. The pH of the solution was found to be 1.015.\n\na) Determine the compound in the sample with calculations.\n\nb) What reactions took place during the analysis?"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "Analysis of gas mixture",
+     "problem": "Problem 2. Analysis of gas mixture\n\nA sample of a compound was heated at $600\\ ^\\circ\\mathrm{C}$. A solid with a mass of 4.51 g remained after heating and $21.48\\ \\mathrm{dm^3}$ of gas was liberated at $600\\ ^\\circ\\mathrm{C}$. The solid contains 21.25% oxygen. After cooling to room temperature, the gas occupies $2.69\\ \\mathrm{dm^3}$ and has a density of $1.61\\ \\mathrm{g\\,dm^{-3}}$. After passing the gas through an alkaline solution, there remained $1.34\\ \\mathrm{dm^3}$ of a combustible gas having a density of $1.25\\ \\mathrm{g\\,dm^{-3}}$.\n\na) Determine the compound in the sample.\n\nb) Write all appropriate equations."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "Recreating a natural biosynthesis in a lab",
+     "problem": "Problem 3. Recreating a natural biosynthesis in a lab\n\n$R$-(+)-glycerol aldehyde can be transformed to (−)-malic acid (2-hydroxybutanedioic acid) according to the following scheme. $R$-(+)-glycerol aldehyde was treated with hydrogen cyanide and two isomeric compounds were formed, namely $\\mathbf{A}$ and $\\mathbf{B}$. Those compounds were separated by fractional crystallization. Only isomer $\\mathbf{B}$ was used for further transformations. This compound was converted to $\\mathbf{C}$ ($\\ce{C4H8O5}$) upon hydrolysis and then oxidized by conc. nitric acid to produce compound $\\mathbf{D}$ ($\\ce{C4H6O6}$). Further, compound $\\mathbf{D}$ was treated with phosphorus tribromide, thus, compound $\\mathbf{E}$ ($\\ce{C4H5BrO5}$) was formed. Finally, compound $\\mathbf{E}$ was converted to (−)-malic acid after the reaction of zinc with an acid.\n\na) Write the equations of all reactions using stereochemical (Fisher projections) formulas.\n\nb) Explain why only one isomer $\\mathbf{E}$ was formed from $\\mathbf{D}$.\n\nc) How many isomers of $\\mathbf{E}$ can be formed starting the synthesis from an isomer $\\mathbf{A}$?"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "Lethally spicy",
+     "problem": "Problem 4. Lethally spicy\n\nMustard gas (2,2'-dichloro sulfide) can be used as a chemical weapon via releasing $\\ce{HCl}$ in hydrolysis reaction. In comparison, 1,5-dichloropentane is hydrolyzed much more slowly.\n\na) Write the mechanism of the above-described reaction for both compounds.\n\nb) Which well-known compound might be used to destroy this gas?\n\nc) Write a synthetic pathway to produce the mustard gas."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "A rapid synthesis of ethane",
+     "problem": "Problem 5. A rapid synthesis of ethane\n\nThe thermal decomposition of azomethane (compound $\\mathbf{A}$) follows the equation:\n\n$$\\ce{H3CN=NCH3(g) -> C2H6(g) + N2(g)}$$\n\nThe half-life of compound $\\mathbf{A}$ at $320.6\\ ^\\circ\\mathrm{C}$ is 9.5 min. The total pressure of the mixture of gases at the temperature of $298.0\\ ^\\circ\\mathrm{C}$ was measured at different time periods:\n\n$$\\begin{array}{r|c|c|c|c} t\\ [\\mathrm{min}] & 10.0 & 21.0 & 35.0 & \\infty \\\\ \\hline p\\ [\\mathrm{Torr}] & 491.9 & 548.0 & 609.7 & 861.6 \\end{array}$$\n\na) Prove that the process is a first-order reaction.\n\nb) Calculate the average value of the rate constant at $298.0\\ ^\\circ\\mathrm{C}$.\n\nc) Determine the activation energy of the reaction."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "pH-dependent titration",
+     "problem": "Problem 6. pH-dependent titration\n\nEriochrome Black T ($\\ce{H3Ind}$) is a typical metal ion indicator used in complex-formation titrations with EDTA ($\\ce{Na2H2Y}$). This compound contains a sulfonic acid group, which is completely dissociated in water, and two phenolic groups that dissociate only partially ($K_\\mathrm{a1} = 5.0\\cdot10^{-7}$ and $K_\\mathrm{a2} = 2.8\\cdot10^{-12}$).\n\n$$\\begin{array}{c} \\ce{H2O + H2Ind^-}\\ \\text{(red)} \\ce{<=> HInd^{2-}}\\ \\text{(blue)} \\ce{+ H3O+} \\\\ \\ce{H2O + HInd^{2-}}\\ \\text{(blue)} \\ce{<=> Ind^{3-}}\\ \\text{(orange)} \\ce{+ H3O+} \\end{array}$$\n\na) The metal complexes of Eriochrome Black T are generally red. Calculate the minimum pH at which Eriochrome Black T can be used as an indicator in complex-formation titrations (assume that the detectable color change requires a tenfold excess of one or other colored species).\n\nb) Determine the transition range for Eriochrome Black T in titrations of $\\ce{Mg^{2+}}$ and $\\ce{Ca^{2+}}$ at pH 10.0, given that the (thermodynamic) formation constant for $\\ce{MgInd^-}$ is $1.0\\cdot10^{7}$ and for $\\ce{CaInd^-}$ is $2.58\\cdot10^{5}$.\n\n$50.00\\ \\mathrm{cm^3}$ of 0.00500 M $\\ce{Mg^{2+}}$ and $\\ce{Ca^{2+}}$ solutions were both titrated with 0.0100 M EDTA solution at pH 10. Conditional formation constants (Instead of the equilibrium concentration of $\\ce{Y^{4-}}$ the total concentration of all forms of EDTA is used) at that pH are $1.72\\cdot10^{8}$ for $\\ce{MgY^{2-}}$ and $1.75\\cdot10^{10}$ for $\\ce{CaY^{2-}}$.\n\nc) Calculate the equilibrium concentrations of the metal cations at the equivalence point.\n\nd) Determine the sign of the relative error, connected with assuming that the stoichiometric point is judged to be approached at the first change of color of the solution."
+    }
+   ]
+  },
+  {
+   "year": 1999,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Haloalkane redox magic",
+     "problem": "Problem 1. Haloalkane redox magic\n\nCompound $\\mathbf{A}$ ($\\ce{C8H15Cl}$) is a racemate. It does not discolor bromine in carbon tetrachloride or potassium permanganate solution. If $\\mathbf{A}$ is treated with zinc and acetic acid and the resulting mixture is separated by chromatography, two fractions, $\\mathbf{B}$ and $\\mathbf{C}$, with identical molecular formulas, are obtained. Fraction $\\mathbf{B}$ is a racemate.\n\nThe reaction of $\\mathbf{A}$ with sodium methoxide ($\\ce{CH3ONa}$) in ethanol yields compound $\\mathbf{D}$. Hydrogenation of $\\mathbf{D}$ over a platinum catalyst gives the product $\\mathbf{C}$. Ozonolysis of $\\mathbf{D}$ followed by the addition of zinc and water produces the dione $\\mathbf{E}$. From compound $\\mathbf{E}$, iodoform is formed by reaction with iodine in $\\ce{NaOH}$ solution. After isolation of iodoform and acidification, adipic acid (1,4-butanedicarboxylic acid) is obtained.\n\na) Write the structural formulas of $\\mathbf{A}$, $\\mathbf{B}$, $\\mathbf{C}$, $\\mathbf{D}$, and $\\mathbf{E}$.\n\nb) Show the stereoisomerism of the compounds.\n\nc) Write the reaction equations.\n\nd) Write the reaction mechanism for the preparation of compound $\\mathbf{D}$ from compound $\\mathbf{A}$."
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "The ones that hide inside potatoes",
+     "problem": "Problem 2. The ones that hide inside potatoes\n\nHydrolysis of starch in dilute aqueous acid solution yields only \"sweet\" products − saccharides: glucose, maltose, etc. Hydrolysis of 30-40% starch suspension in dilute $\\ce{HCl}$ solution at 130-140 °C gives bittersweet saccharide $\\mathbf{X}$. Substance $\\mathbf{X}$ was separated and purified for analysis. A series of experiments were carried out to identify it.\n\n(1) Hydrolysis of starch in acidic solution. One of the products is glucose.\n\n(2) Reducing properties.\n\n25 mg of substance $\\mathbf{X}$ was diluted in $25.0\\ \\mathrm{cm^3}$ of 0.0100 M $\\ce{K3[Fe(CN)6]}$ solution, $5\\ \\mathrm{cm^3}$ of 0.1 M $\\ce{KOH}$ solution was added and the mixture was heated at 100 °C for 15 minutes. The concentration of $\\ce{K3[Fe(CN)6]}$ was determined using the iodometry method. $\\ce{KI}$ and $\\ce{CH3COOH}$ were added; $10.5\\ \\mathrm{cm^3}$ of 0.0100 M $\\ce{Na2S2O3}$ solution was required to titrate $\\ce{I2}$.\n\n(3) Methylation and oxidation.\n\nSubstance $\\mathbf{X}$ was methylated with excess $\\ce{CH3I}$ in the presence of $\\ce{Ag2O}$. The product was heated in a 30% nitric acid solution. Two acids were detected in the reaction mixture: 2,3,4-trimethoxy-5-hydroxyadipic acid, $\\ce{HOOC-CH(OH)-[CH(OCH3)]3-COOH}$ and 2,3,4,6-tetramethoxy-5-hydroxycaproic acid $\\ce{H3COCH2CH(OH)-[CH(OCH3)]3COOH}$.\n\na) Draw the structure of substance $\\mathbf{X}$.\n\nb) Write the reaction equations for the identification of substance $\\mathbf{X}$."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "A way to dissolve silver",
+     "problem": "Problem 3. A way to dissolve silver\n\nThe potential $E_1$ of the silver electrode was determined in a solution of $\\ce{AgNO3}$ with a concentration of 0.0100 M. After that, 0.0170 g of $\\ce{NH3}$ was added to $10.0\\ \\mathrm{cm^3}$ of the solution. In the resulting solution, the potential of the Ag electrode was different from $E_1$ by 0.285 V. The temperature of the solution was 25 °C.\n\n$\\ce{NH3}$ forms a complex in $\\ce{AgNO3}$ solution according to the reaction $\\ce{Ag+ + 2NH3 <=> [Ag(NH3)2]+}$. Calculate the equilibrium constant of the above reaction."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "Hydrazinc",
+     "problem": "Problem 4. Hydrazinc\n\n$25\\ \\mathrm{cm^3}$ of 0.0160 M $\\ce{Zn(NO3)2}$ solution and $75\\ \\mathrm{cm^3}$ of 0.133 M hydrazine solution were mixed. $K_\\mathrm{sp}[\\ce{Zn(OH)2}] = 1.20\\cdot10^{-17}$, $K_\\mathrm{b}(\\ce{H4N2}) = 1.3\\cdot10^{-6}$ (proton addition).\n\na) Write all the reaction equations and give expressions for the equilibrium constants.\n\nb) Calculate the equilibrium concentration for each component of the solution.\n\nc) Calculate the pH of the solution."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "Carbon tet",
+     "problem": "Problem 5. Carbon tet\n\n2.000 g of unknown metal oxide with an oxygen content of 31.58% was heated at 750 °C in a quartz tube. Gaseous $\\ce{CCl4}$ was passed through the tube. The gases exiting the tube were passed through lime water. 1.974 g of a white substance precipitated, which dissolved in a hydrochloric acid solution. A red-purple powder remained in the tube. At a reduced temperature, chlorine was passed through the tube. At a reduced temperature, the solid turned into a gas which, in reaction with solid $\\ce{CO2}$, turned into a brown solid with a chlorine content of 73.1%. The reaction of this compound with water produced an acidic solution and a mixture of gases that changed the color of the $\\ce{KI}$ solution to brown when passed through it.\n\na) Write all the reaction equations and support them with calculations.\n\nb) What are the processes involved in the reaction of brown solid with water?"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "A colorful manganese complex",
+     "problem": "Problem 6. A colorful manganese complex\n\n$\\ce{KSCN}$ solution was added to $\\ce{Mn(NO3)2}$ solution and a crystalline substance with a molar mass of $445.8\\ \\mathrm{g\\,mol^{-1}}$ was obtained. The experimentally determined magnetic moment of this compound was equal to $\\mu = 6.1$ Bohr magneton. $\\mu = \\sqrt{n(n+2)}$. Write the formula of the obtained substance, draw its structure, and explain what information the value of the magnetic moment provides."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Theory",
+     "title": "Four seasons",
+     "problem": "Problem 7. Four seasons\n\nAt 500 °C, 8.000 g of substance $\\mathbf{B}$ and $2.469\\ \\mathrm{dm^3}$ of gaseous substance $\\mathbf{C}$ (20 °C and 740 mm Hg) are formed from salt $\\mathbf{A}$ in water vapor. The gas $\\mathbf{C}$ reacts completely with the original amount of substance $\\mathbf{A}$ in an aqueous solution to form 16.800 g of substance $\\mathbf{D}$. When the resulting solution is boiled and then dried, the original amount of substance $\\mathbf{A}$ is released.\n\nDetermine the compounds $\\mathbf{A}$, $\\mathbf{B}$, $\\mathbf{C}$, and $\\mathbf{D}$ (all are water-soluble) and write and prove the reaction of $\\mathbf{A}$ with water vapor."
+    }
+   ]
+  },
+  {
+   "year": 2000,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Theory",
+     "title": "Volcanic combustion",
+     "problem": "Problem 1. Volcanic combustion\n\nCompound $\\mathbf{X}$ is colored and burning. Burning 2.12 g of it produces 0.752 g of green solid compound with a very high melting temperature. Gases arising in this process were passed through the excess of lime water. There was 6.838 g of white precipitate, which dissolved in hydrochloric acid. When $\\ce{H2O2}$ is added to lime water, the mass of the precipitate is 7.551 g, and only 19.7% (by mass) of the precipitate dissolves in hydrochloric acid. The relative density of the evolved gas against the air is 1.52.\n\na) Determine compound $\\mathbf{X}$.\n\nb) Write equations of the described reactions\n\nc) What is the color of compound $\\mathbf{X}$?"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Theory",
+     "title": "A rainbow metal",
+     "problem": "Problem 2. A rainbow metal\n\nTo 10.00 mg of metal $\\mathbf{A}$ was added $10\\ \\mathrm{cm^3}$ of water. A stream of chlorine was passed through the water until $\\mathbf{A}$ had dissolved completely and an equilibrium had been established. The obtained solution was evaporated in a vacuum to leave 20.91 mg of yellow crystals of a strong acid $\\mathbf{B}$. Acid $\\mathbf{B}$ obtained in the first reaction was dissolved in water and neutralized exactly with $22.53\\ \\mathrm{cm^3}$ of alkali with a concentration of 2.253 mM. The essentially colorless solution was diluted to $100\\ \\mathrm{cm^3}$, and a reducing agent was added. The solution turned bright red. The addition of any salts causes the solution to gradually turn blue. On standing, the blue solution very slowly deposits 10.00 mg of metal $\\mathbf{A}$ and becomes colorless once again.\n\na) Draw and explain the spatial structure of the anion of acid $\\mathbf{B}$.\n\nb) Write all the equations of the mentioned reactions.\n\nc) What kind of compounds are best suited to reduce $\\mathbf{B}$ and obtain the red solution?\n\nd) What would be observed if the neutralized solution of $\\mathbf{B}$ was not diluted prior to the reduction?\n\ne) Explain the role of salts in the color change of the solution.\n\nSolutions of alkali metal salts of $\\mathbf{B}$ are slightly acidic. Acidity decreases considerably if excess chloride is present. Explain this finding and calculate the relevant equilibrium constant.\n\n$$\\begin{array}{|l|l|l|l|} \\hline n(\\mathbf{B})\\ [\\mathrm{mmol}] & n(\\ce{NaCl})\\ [\\mathrm{mmol}] & V_\\text{sol.}\\ [\\mathrm{cm^3}] & \\mathrm{pH} \\\\ \\hline 1.00 & & 1000 & 3.17 \\\\ \\hline 1.00 & 10.0 & 1000 & 3.57 \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Theory",
+     "title": "Same formula, different compounds",
+     "problem": "Problem 3. Same formula, different compounds\n\nThree compounds, $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$, have the formula $\\ce{C6H10}$. All three compounds rapidly decolorize bromine in $\\ce{CCl4}$. Compound $\\mathbf{A}$ gives a precipitate when treated with silver nitrate in ammonia, but compounds $\\mathbf{B}$ and $\\mathbf{C}$ do not. Compounds $\\mathbf{A}$ and $\\mathbf{B}$ both yield compound $\\ce{C6H14}$ when treated with excess hydrogen in the presence of a platinum catalyst. Under these conditions, $\\mathbf{C}$ absorbs only 1 mol of hydrogen per 1 mol of $\\mathbf{C}$ and gives the product with the formula $\\ce{C6H12}$. When $\\mathbf{A}$ is oxidized with hot potassium permanganate, and the resulting solution is acidified, the only organic compound that can be isolated is $n$-pentanoic acid. Similar oxidation of $\\mathbf{B}$ gives only propanoic acid, and similar treatment of $\\mathbf{C}$ gives only 1,6-hexanedicarboxylic acid.\n\na) Draw the structural formulas of compounds $\\mathbf{A}$, $\\mathbf{B}$, and $\\mathbf{C}$.\n\nb) Write equations of the described reactions.\n\nc) Draw the stereochemical formula of the compound produced in the reaction of $\\mathbf{C}$ with $\\ce{Br2}$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Theory",
+     "title": "A breakthrough in surgery",
+     "problem": "Problem 4. A breakthrough in surgery\n\n($N$,$N$-diethylamino)ethyl 4-aminobenzoate hydrochloride (novocaine) is used as a local anesthetic. It is commonly obtained from the toluene:\n\n$$\\text{Toluene} \\rightarrow \\ce{C7H7NO2} \\rightarrow \\ce{C7H7NO4} \\rightarrow \\ce{C9H9NO4} \\rightarrow \\ce{C9H11NO4} \\rightarrow\\ \\rightarrow \\text{Novocaine}$$\n\n$\\ce{C7H7NO2}$ and $\\ce{C7H5NO4}$ both have 1 singlet and 2 doublets in the $\\ce{^1H}$-NMR spectrum. $\\ce{C9H9NO4}$ has 2 doublets, 1 triplet, and 1 quartet and $\\ce{C9H11NO4}$ has 1 singlet, 2 doublets, 1 triplet and 1 quartet.\n\na) Write all reaction equations.\n\nb) Write a mechanism for the last reaction in the presence of a catalytic amount of an alkoxide.\n\nc) Outline the $\\ce{^1H}$-NMR spectrum of Novocaine.\n\nd) Name the principal bands in its IR spectrum.\n\nA test reaction for Novocaine includes successive treatment of the sample with an acidified solution of sodium nitrite and 2-naphthol. The reaction is positive when precipitate is formed.\n\ne) Write the reaction equation."
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Theory",
+     "title": "A primitive pH meter",
+     "problem": "Problem 5. A primitive pH meter\n\nA Voltaic cell is made up of two half-cells consisting of hydrogen electrodes (with $\\ce{H2}$ gas at $10^5\\ \\mathrm{Pa}$ and $20\\ ^\\circ\\mathrm{C}$). One of them is immersed in $100\\ \\mathrm{cm^3}$ of 0.10 M $\\ce{HCl}$ aqueous solution, the second one in $100\\ \\mathrm{cm^3}$ of 0.10 M $\\ce{CH3COOH}$ ($K_\\mathrm{a} = 1.75\\cdot10^{-5}$) aqueous solution.\n\na) Calculate the EMF of the Voltaic cell under given conditions.\n\nb) Calculate the EMF of the Voltaic cell when $60\\ \\mathrm{cm^3}$ of 0.10 M $\\ce{NaOH}$ solution was added to both initial solutions.\n\nc) Calculate the EMF of the Voltaic cell when both initial solutions were diluted 10 times.\n\nd) Calculate the volume (in $\\mathrm{cm^3}$) of 0.10 M $\\ce{NaOH}$ solution that should be added to the initial $\\ce{CH3OOH}$ solution to obtain an EMF of $0.150\\ \\mathrm{V}$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Theory",
+     "title": "Nuclear waste with a red flame",
+     "problem": "Problem 6. Nuclear waste with a red flame\n\n$\\ce{^{90}Sr}$ is one of the most common nuclear wastes from nuclear reactors. The spontaneous radioactive decay of this isotope can be described with the following equations: $\\ce{^{90}Sr} = \\ce{^{90}Y} + \\mathrm{e^-}$ and $\\ce{^{90}Y} = \\ce{^{90}Zr} + \\mathrm{e^-}$ ($T_{1/2} = 64$ hours). For a sample of $\\ce{^{90}Sr}$ containing $2.64\\cdot10^{10}$ atoms, the absolute disintegration rate was measured as 1238 decays per minute. The final Zr isotope is stable.\n\na) Calculate the amount of energy (in kJ) that is released during one year if we start with one mole of $\\ce{^{90}Sr}$.\n\nb) Calculate the ratio of masses of charcoal and $\\ce{^{90}Sr}$ that can give this amount of energy. The heat of combustion for charcoal is $23\\ \\mathrm{MJ\\,kg^{-1}}$. $m(\\ce{^{90}Sr}) = 89.907738\\ \\mathrm{Da}$, $m(\\ce{^{90}Y}) = 89.907152\\ \\mathrm{Da}$, $m(\\ce{^{90}Zr}) = 89.904703\\ \\mathrm{Da}$, $m(\\mathrm{e^-}) = 5.4857\\cdot10^{-4}$"
+    }
+   ]
+  },
+  {
    "year": 2001,
    "problems": [
     {
