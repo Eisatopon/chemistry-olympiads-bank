@@ -1045,16 +1045,17 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261021-astro';
+const DATA_VERSION = '20261021-nl';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe' };
+const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-chemistry:set:v1';  // same origin as the math and physics banks: keep the keys apart
 
 const COUNTRIES = [
     { key: 'at', name: 'Austria', flag: '🇦🇹', file: 'Austria-theory-problems.json', kind: 'years', scope: 'national', full: 'Austrian Chemistry Olympiad, national competition, theoretical problems' },
+    { key: 'nl', name: 'Netherlands', flag: '🇳🇱', file: 'Netherlands-theory-problems.json', kind: 'years', scope: 'national', full: 'Dutch National Chemistry Olympiad (NSO), preliminary rounds and final-round theory test' },
     { key: 'bcho', name: 'Baltic', flag: '🌊', file: 'BChO-theory-problems.json', kind: 'years', scope: 'regional', full: 'Baltic Chemistry Olympiad, theoretical problems' },
     { key: 'imcho', name: 'Mendeleev', flag: '🌐', file: 'IMChO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Mendeleev Chemistry Olympiad, theoretical problems' },
     { key: 'icho', name: 'IChO', flag: '🌐', file: 'IChO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Chemistry Olympiad, theoretical problems' },
@@ -1064,9 +1065,9 @@ const CBY = Object.fromEntries(COUNTRIES.map(c => [c.key, c]));
 /* Sections of the grid, as in the math bank; a section without collections yet says what is coming. */
 const TABS = [['national', 'National'], ['regional', 'Regional'], ['international', 'International'], ['undergraduate', 'Undergraduate']];
 const COMING = {
-    national: 'More national chemistry olympiads (UK RSC, Canada, Germany, Australia, Greece and more) are being prepared.',
-    regional: 'More regional chemistry olympiads (Austrian-Polish, Iberoamerican OIAQ and more) are being prepared.',
-    international: 'More international chemistry olympiads (IZhO chemistry and more) are being prepared.',
+    national: 'More national chemistry olympiads (Canada, Germany, Australia, Greece and more) are being prepared.',
+    regional: 'More regional chemistry olympiads (Iberoamerican OIAQ and more) are being prepared.',
+    international: 'More international chemistry olympiads are being prepared.',
     undergraduate: 'University chemistry competitions are being prepared.'
 };
 const comingHtml = tab => `<p class="mx-nomatch mx-coming">${esc(COMING[tab] || 'This section is being prepared.')}</p>`;
@@ -1219,7 +1220,9 @@ function bodyHtml(text, record) {
     const fig = u => `<figure class="fig"><a href="${esc(src(u))}" target="_blank" rel="noopener" title="Open the figure at full size"><img src="${esc(src(u))}" alt="${esc(record?.figureAlt || 'Figure')}" loading="lazy" referrerpolicy="no-referrer" onload="this.style.width=Math.round(this.naturalWidth/2)+'px'"></a></figure>`;
     let figs = [];
     // A paragraph made only of answer-choice lines "(A) …" … "(E) …" keeps one choice per line.
-    const isChoices = x => { const ls = x.split('\n').map(l => l.trim()).filter(Boolean); return ls.length > 1 && ls.every(l => /^\([A-E]\)/.test(l)); };
+    const isChoices = x => { const ls = x.split('\n').map(l => l.trim()).filter(Boolean); return ls.length > 1 && (ls.every(l => /^\([A-E]\)/.test(l)) || (/^A /.test(ls[0]) && ls.every(l => /^[A-H] \S/.test(l)))); };
+    // Options printed as bare capital letters ("A …" lines, as in the Dutch papers) keep one per line.
+    const bareOpts = x => /(^|\n)A \S/.test(x) && /\nB \S/.test(x) ? x.replace(/\n(?=[A-H] \S)/g, '<br>') : x;
     let html = String(text).split(/\n{2,}/).map(x => x.trim()).filter(Boolean).map(raw => {
         if (FIG_ONLY_RE.test(raw)) return fig(raw);
         const x = esc(raw).replace(IMG_RE, (m, url, ext) => { figs.push(`${url}.${ext}`); return ''; }).trim();
@@ -1227,7 +1230,7 @@ function bodyHtml(text, record) {
         return isChoices(x)
             ? `<div class="para choices">${x.split('\n').map(l => l.trim()).filter(Boolean).map(l => `<span class="choice">${l}</span>`).join('')}</div>`
             // Bullets and lettered options (a) …, i) …, (1) …) keep one per line.
-            : `<div class="para">${x.replace(/\n(?=\s*(?:•|\(?(?:[a-zA-Z]|[ivx]+|\d+)\)\s))/g, '<br>')}</div>`;
+            : `<div class="para">${bareOpts(x).replace(/\n(?=\s*(?:•|\(?(?:[a-zA-Z]|[ivx]+|\d+)\)\s))/g, '<br>')}</div>`;
     }).join('');
     figs.forEach(u => { html += fig(u.replace(/&amp;/g, '&')); });
     return html;
