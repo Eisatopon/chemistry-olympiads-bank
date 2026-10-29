@@ -811,7 +811,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .ps-item { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr); gap: 4px; margin-bottom: 22px; }
 .solution-space { border-bottom: 1px solid #ddd; }
 .ps-num { font: 700 12pt/1.7 var(--serif); }
-.p-credit { margin: 10px 0 0; max-width: 74ch; font: 400 .86rem/1.5 var(--sans); color: var(--muted); border-left: 3px solid #d3e0dd; padding-left: 10px; }
+.p-credit { margin: 8px 0 0; font: 400 .78rem/1.4 var(--sans); color: var(--muted); }
 .provenance { margin-top: 16px; color: #4d5966; font-size: .85rem; }
 .provenance summary { cursor: pointer; }
 .provenance p, .provenance ul { margin-top: 8px; }
@@ -1058,7 +1058,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-jee6';
+const DATA_VERSION = '20261029-credit-short';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', icp: 'world', icx: 'world' };
@@ -2166,7 +2166,7 @@ const ORGANISERS = {
     at: () => ({name: 'Austrian Chemistry Olympiad', org: 'the Austrian Chemistry Olympiad (oecho.at)', rights: 'the Austrian Chemistry Olympiad', aff: 'the Austrian Chemistry Olympiad'}),
     in: () => ({name: 'Indian National Chemistry Olympiad (INChO)', org: 'the Homi Bhabha Centre for Science Education (HBCSE-TIFR)', rights: 'HBCSE-TIFR', aff: 'HBCSE-TIFR or the Indian Olympiad programme'}),
     ca: () => ({name: 'Canadian Chemistry Contest / Canadian Chemistry Olympiad', org: 'the Chemical Institute of Canada (CIC)', rights: 'the Chemical Institute of Canada', aff: 'the Chemical Institute of Canada'}),
-    jee: y => ({name: y && y < 2013 ? 'IIT-JEE' : 'JEE (Advanced)', part: 'Chemistry', org: 'the Indian Institutes of Technology (JEE (Advanced) organising IIT)', rights: 'JEE (Advanced) / the Indian Institutes of Technology', aff: 'JEE (Advanced), the Joint Admission Board or the Indian Institutes of Technology'}),
+    jee: y => ({name: y && y < 2013 ? 'IIT-JEE' : 'JEE (Advanced)', part: 'Chemistry', org: 'the Indian Institutes of Technology (JEE (Advanced) organising IIT)', rights: 'JEE (Advanced) / IITs', aff: 'JEE (Advanced), the Joint Admission Board or the Indian Institutes of Technology'}),
     nl: () => ({name: 'Dutch National Chemistry Olympiad (NSO)', org: 'the national committee of the Dutch Chemistry Olympiad (Nationale Scheikundeolympiade)', rights: 'the Dutch National Chemistry Olympiad', aff: 'the Dutch National Chemistry Olympiad'}),
 };
 function creditText(p) {
@@ -2174,9 +2174,7 @@ function creditText(p) {
     if (!o) return '';
     const check = collectionMetadata[CBY[p.country].file]?.statement_checks?.[p.uid];
     const secondary = /compilation/i.test(check?.source_format || '');
-    return `Source: ${o.name} ${p.year}${o.part ? `, ${o.part}` : ''}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}. Original organiser: ${o.org}. © ${o.rights}. `
-        + `Statement only (solutions omitted), retyped in LaTeX from the English text ${secondary ? 'of a later secondary compilation, not the official paper' : 'of the official paper'}. `
-        + `Not affiliated with, endorsed by or supported by ${o.aff}.`;
+    return `© ${o.rights.replace(/^the /, '')} · statement only${secondary ? ', from a later compilation' : ''} · not affiliated with the organisers`;
 }
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
