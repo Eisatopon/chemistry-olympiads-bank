@@ -2,6 +2,861 @@
  "competition": "JEE (Advanced), India — Chemistry",
  "years": [
   {
+   "year": 2012,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Paper 1",
+     "title": "Hybridisation of carbon in allene",
+     "problem": "Question 1 (Paper 1, Section 1: one option correct).\n\nIn allene ($\\ce{C3H4}$), the type(s) of hybridisation of the carbon atoms is (are)\n\n(A) $sp$ and $sp^3$\n(B) $sp$ and $sp^2$\n(C) only $sp^2$\n(D) $sp^2$ and $sp^3$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Paper 1",
+     "title": "van der Waals constant a from a PV vs 1/V plot",
+     "problem": "Question 2 (Paper 1, Section 1: one option correct).\n\nFor one mole of a van der Waals gas when $b = 0$ and $T = 300\\ \\mathrm{K}$, the $PV$ vs. $1/V$ plot is shown below. The value of the van der Waals constant $a$ $(\\mathrm{atm.liter^2\\,mol^{-2}})$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-2-fig1.png\n\n(A) 1.0\n(B) 4.5\n(C) 1.5\n(D) 3.0"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Paper 1",
+     "title": "Optically active products of ozonolysis of a triene",
+     "problem": "Question 3 (Paper 1, Section 1: one option correct).\n\nThe number of optically active products obtained from the complete ozonolysis of the given compound is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-3-fig1.png\n\n(A) 0\n(B) 1\n(C) 2\n(D) 4"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Paper 1",
+     "title": "Empirical formula from a ccp unit cell",
+     "problem": "Question 4 (Paper 1, Section 1: one option correct).\n\nA compound $\\mathrm{M}_p\\mathrm{X}_q$ has cubic close packing (ccp) arrangement of X. Its unit cell structure is shown below. The empirical formula of the compound is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-4-fig1.png\n\n(A) MX\n(B) $\\ce{MX2}$\n(C) $\\ce{M2X}$\n(D) $\\ce{M5X14}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Paper 1",
+     "title": "Aldol reactions in the formation of a tetraol",
+     "problem": "Question 5 (Paper 1, Section 1: one option correct).\n\nThe number of aldol reaction(s) that occurs in the given transformation is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-5-fig1.png\n\n(A) 1\n(B) 2\n(C) 3\n(D) 4"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Paper 1",
+     "title": "Colour absorbed by aqueous copper(II) sulfate",
+     "problem": "Question 6 (Paper 1, Section 1: one option correct).\n\nThe colour of light absorbed by an aqueous solution of $\\ce{CuSO4}$ is\n\n(A) orange-red\n(B) blue-green\n(C) yellow\n(D) violet"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Paper 1",
+     "title": "Carboxyl group in named compounds",
+     "problem": "Question 7 (Paper 1, Section 1: one option correct).\n\nThe carboxyl functional group ($-$COOH) is present in\n\n(A) picric acid\n(B) barbituric acid\n(C) ascorbic acid\n(D) aspirin"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Paper 1",
+     "title": "Kinetic energy in the second Bohr orbit",
+     "problem": "Question 8 (Paper 1, Section 1: one option correct).\n\nThe kinetic energy of an electron in the second Bohr orbit of a hydrogen atom is [$a_0$ is Bohr radius]\n\n(A) $\\dfrac{\\mathrm{h}^2}{4\\pi^2 m a_0^2}$\n(B) $\\dfrac{\\mathrm{h}^2}{16\\pi^2 m a_0^2}$\n(C) $\\dfrac{\\mathrm{h}^2}{32\\pi^2 m a_0^2}$\n(D) $\\dfrac{\\mathrm{h}^2}{64\\pi^2 m a_0^2}$"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Paper 1",
+     "title": "Ordering compounds by oxidation state of nitrogen",
+     "problem": "Question 9 (Paper 1, Section 1: one option correct).\n\nWhich ordering of compounds is according to the decreasing order of the oxidation state of nitrogen?\n\n(A) $\\ce{HNO3}$, NO, $\\ce{NH4Cl}$, $\\ce{N2}$\n(B) $\\ce{HNO3}$, NO, $\\ce{N2}$, $\\ce{NH4Cl}$\n(C) $\\ce{HNO3}$, $\\ce{NH4Cl}$, NO, $\\ce{N2}$\n(D) NO, $\\ce{HNO3}$, $\\ce{NH4Cl}$, $\\ce{N2}$"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Paper 1",
+     "title": "IUPAC name of a cobalt(III) aqua-ammine complex",
+     "problem": "Question 10 (Paper 1, Section 1: one option correct).\n\nAs per IUPAC nomenclature, the name of the complex $\\ce{[Co(H2O)4(NH3)2]Cl3}$ is\n\n(A) Tetraaquadiaminecobalt (III) chloride\n(B) Tetraaquadiamminecobalt (III) chloride\n(C) Diaminetetraaquacobalt (III) chloride\n(D) Diamminetetraaquacobalt (III) chloride"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Paper 1",
+     "title": "Separation of binary mixtures by differential extraction",
+     "problem": "Question 11 (Paper 1, Section 2: one or more options correct).\n\nIdentify the binary mixture(s) that can be separated into individual compounds, by differential extraction, as shown in the given scheme.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-11-fig1.png\n\n(A) $\\ce{C6H5OH}$ and $\\ce{C6H5COOH}$\n(B) $\\ce{C6H5COOH}$ and $\\ce{C6H5CH2OH}$\n(C) $\\ce{C6H5CH2OH}$ and $\\ce{C6H5OH}$\n(D) $\\ce{C6H5CH2OH}$ and $\\ce{C6H5CH2COOH}$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Paper 1",
+     "title": "Stability of lyophobic colloids",
+     "problem": "Question 12 (Paper 1, Section 2: one or more options correct).\n\nChoose the correct reason(s) for the stability of the lyophobic colloidal particles.\n\n(A) Preferential adsorption of ions on their surface from the solution\n(B) Preferential adsorption of solvent on their surface from the solution\n(C) Attraction between different particles having opposite charges on their surface\n(D) Potential difference between the fixed layer and the diffused layer of opposite charges around the colloidal particles"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Paper 1",
+     "title": "Unstable cyclic molecules at room temperature",
+     "problem": "Question 13 (Paper 1, Section 2: one or more options correct).\n\nWhich of the following molecules, in pure form, is (are) unstable at room temperature?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-13-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Paper 1",
+     "title": "Silver halide precipitates dissolving in thiosulfate",
+     "problem": "Question 14 (Paper 1, Section 2: one or more options correct).\n\nWhich of the following hydrogen halides react(s) with $\\ce{AgNO3(aq)}$ to give a precipitate that dissolves in $\\ce{Na2S2O3(aq)}$?\n\n(A) HCl\n(B) HF\n(C) HBr\n(D) HI"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Paper 1",
+     "title": "Entropy and work along two paths of an ideal gas",
+     "problem": "Question 15 (Paper 1, Section 2: one or more options correct).\n\nFor an ideal gas, consider only $P$-$V$ work in going from an initial state $X$ to the final state $Z$. The final state $Z$ can be reached by either of the two paths shown in the figure. Which of the following choice(s) is (are) correct? [take $\\Delta S$ as change in entropy and $w$ as work done]\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-15-fig1.png\n\n(A) $\\Delta S_{\\mathrm{x\\to z}} = \\Delta S_{\\mathrm{x\\to y}} + \\Delta S_{\\mathrm{y\\to z}}$\n(B) $w_{\\mathrm{x\\to z}} = w_{\\mathrm{x\\to y}} + w_{\\mathrm{y\\to z}}$\n(C) $w_{\\mathrm{x\\to y\\to z}} = w_{\\mathrm{x\\to y}}$\n(D) $\\Delta S_{\\mathrm{x\\to y\\to z}} = \\Delta S_{\\mathrm{x\\to y}}$"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Paper 1",
+     "title": "Charge of tetrapeptides at pH 7",
+     "problem": "Question 16 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nThe substituents $\\mathbf{R_1}$ and $\\mathbf{R_2}$ for nine peptides are listed in the table given below. How many of these peptides are positively charged at pH = 7.0?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-16-fig1.png\n\n$$\\begin{array}{|c|c|c|} \\hline \\text{Peptide} & \\mathbf{R_1} & \\mathbf{R_2} \\\\ \\hline \\mathrm{I} & \\ce{H} & \\ce{H} \\\\ \\hline \\mathrm{II} & \\ce{H} & \\ce{CH3} \\\\ \\hline \\mathrm{III} & \\ce{CH2COOH} & \\ce{H} \\\\ \\hline \\mathrm{IV} & \\ce{CH2CONH2} & \\ce{(CH2)4NH2} \\\\ \\hline \\mathrm{V} & \\ce{CH2CONH2} & \\ce{CH2CONH2} \\\\ \\hline \\mathrm{VI} & \\ce{(CH2)4NH2} & \\ce{(CH2)4NH2} \\\\ \\hline \\mathrm{VII} & \\ce{CH2COOH} & \\ce{CH2CONH2} \\\\ \\hline \\mathrm{VIII} & \\ce{CH2OH} & \\ce{(CH2)4NH2} \\\\ \\hline \\mathrm{IX} & \\ce{(CH2)4NH2} & \\ce{CH3} \\\\ \\hline \\end{array}$$"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Paper 1",
+     "title": "Group of the element formed in a nuclear reaction of copper",
+     "problem": "Question 17 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nThe periodic table consists of 18 groups. An isotope of copper, on bombardment with protons, undergoes a nuclear reaction yielding element $\\mathbf{X}$ as shown below. To which group, element $\\mathbf{X}$ belongs in the periodic table?\n\n$${}^{63}_{29}\\mathrm{Cu} + {}^{1}_{1}\\mathrm{H} \\rightarrow 6\\,{}^{1}_{0}\\mathrm{n} + \\alpha + 2\\,{}^{1}_{1}\\mathrm{H} + \\mathbf{X}$$"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Paper 1",
+     "title": "Stereoisomers of a 2-deoxyaldohexose in pyranose form",
+     "problem": "Question 18 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nWhen the following aldohexose exists in its D-configuration, the total number of stereoisomers in its pyranose form is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-1-18-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Paper 1",
+     "title": "Dilution of concentrated hydrochloric acid",
+     "problem": "Question 19 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\n29.2% (w/w) HCl stock solution has a density of $1.25\\ \\mathrm{g\\,mL^{-1}}$. The molecular weight of HCl is $36.5\\ \\mathrm{g\\,mol^{-1}}$. The volume (mL) of stock solution required to prepare a 200 mL solution of 0.4 M HCl is"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Paper 1",
+     "title": "Ratio of fractional lifetimes in first-order decay",
+     "problem": "Question 20 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nAn organic compound undergoes first-order decomposition. The time taken for its decomposition to 1/8 and 1/10 of its initial concentration are $t_{1/8}$ and $t_{1/10}$ respectively. What is the value of $\\dfrac{[t_{1/8}]}{[t_{1/10}]}\\times 10$? (take $\\log_{10}2 = 0.3$)"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Paper 2",
+     "title": "Geometries of a nickel(II) phosphine complex",
+     "problem": "Question 1 (Paper 2, Section 1: one option correct).\n\n$\\ce{NiCl2}\\{\\ce{P(C2H5)2(C6H5)}\\}_2$ exhibits temperature dependent magnetic behaviour (paramagnetic / diamagnetic). The coordination geometries of $\\ce{Ni^{2+}}$ in the paramagnetic and diamagnetic states are respectively\n\n(A) tetrahedral and tetrahedral\n(B) square planar and square planar\n(C) tetrahedral and square planar\n(D) square planar and tetrahedral"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Paper 2",
+     "title": "Cyanide extraction of silver from argentite",
+     "problem": "Question 2 (Paper 2, Section 1: one option correct).\n\nIn the cyanide extraction process of silver from argentite ore, the oxidizing and reducing agents used are\n\n(A) $\\ce{O2}$ and CO respectively.\n(B) $\\ce{O2}$ and Zn dust respectively.\n(C) $\\ce{HNO3}$ and Zn dust respectively.\n(D) $\\ce{HNO3}$ and CO respectively."
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Paper 2",
+     "title": "Reaction of white phosphorus with sodium hydroxide",
+     "problem": "Question 3 (Paper 2, Section 1: one option correct).\n\nThe reaction of white phosphorus with aqueous NaOH gives phosphine along with another phosphorus containing compound. The reaction type; the oxidation states of phosphorus in phosphine and the other product are respectively\n\n(A) redox reaction; $-3$ and $-5$\n(B) redox reaction; $+3$ and $+5$\n(C) disproportionation reaction; $-3$ and $+5$\n(D) disproportionation reaction; $-3$ and $+3$"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Paper 2",
+     "title": "Shape of the XeO2F2 molecule",
+     "problem": "Question 4 (Paper 2, Section 1: one option correct).\n\nThe shape of $\\ce{XeO2F2}$ molecule is\n\n(A) trigonal bipyramidal\n(B) square planar\n(C) tetrahedral\n(D) see-saw"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Paper 2",
+     "title": "Vapour pressure from boiling-point elevation",
+     "problem": "Question 5 (Paper 2, Section 1: one option correct).\n\nFor a dilute solution containing 2.5 g of a non-volatile non-electrolyte solute in 100 g of water, the elevation in boiling point at 1 atm pressure is $2\\,^\\circ\\mathrm{C}$. Assuming concentration of solute is much lower than the concentration of solvent, the vapour pressure (mm of Hg) of the solution is (take $K_\\mathrm{b} = 0.76\\ \\mathrm{K\\,kg\\,mol^{-1}}$)\n\n(A) 724\n(B) 740\n(C) 736\n(D) 718"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Paper 2",
+     "title": "Ease of decarboxylation of cyclohexane acids",
+     "problem": "Question 6 (Paper 2, Section 1: one option correct).\n\nThe compound that undergoes decarboxylation most readily under mild condition is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-6-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Paper 2",
+     "title": "Bond energy of the carbon-carbon triple bond in ethyne",
+     "problem": "Question 7 (Paper 2, Section 1: one option correct).\n\nUsing the data provided, calculate the multiple bond energy $(\\mathrm{kJ\\,mol^{-1}})$ of a $\\ce{C#C}$ bond in $\\ce{C2H2}$. That energy is (take the bond energy of a C$-$H bond as $350\\ \\mathrm{kJ\\,mol^{-1}}$.)\n\n$$\\begin{array}{ll} \\ce{2C(s) + H2(g) -> C2H2(g)} & \\Delta H = 225\\ \\mathrm{kJ\\,mol^{-1}} \\\\ \\ce{2C(s) -> 2C(g)} & \\Delta H = 1410\\ \\mathrm{kJ\\,mol^{-1}} \\\\ \\ce{H2(g) -> 2H(g)} & \\Delta H = 330\\ \\mathrm{kJ\\,mol^{-1}} \\end{array}$$\n\n(A) 1165\n(B) 837\n(C) 865\n(D) 815"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Paper 2",
+     "title": "Product of cyanohydrin formation and acid treatment",
+     "problem": "Question 8 (Paper 2, Section 1: one option correct).\n\nThe major product $\\mathbf{H}$ of the given reaction sequence is\n\n$$\\ce{CH3-CH2-CO-CH3 ->[$^{\\ominus}$CN] $\\mathbf{G}$ ->[95\\% H2SO4][Heat] $\\mathbf{H}$}$$\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-8-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Paper 2",
+     "title": "Anhydride of the oxoacid in bleaching powder",
+     "problem": "Question 9 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 9 and 10): Bleaching powder and bleach solution are produced on a large scale and used in several household products. The effectiveness of bleach solution is often measured by iodometry.\n\nBleaching powder contains a salt of an oxoacid as one of its components. The anhydride of that oxoacid is\n\n(A) $\\ce{Cl2O}$\n(B) $\\ce{Cl2O7}$\n(C) $\\ce{ClO2}$\n(D) $\\ce{Cl2O6}$"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Paper 2",
+     "title": "Iodometric titration of household bleach",
+     "problem": "Question 10 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 9 and 10): Bleaching powder and bleach solution are produced on a large scale and used in several household products. The effectiveness of bleach solution is often measured by iodometry.\n\n25 mL of household bleach solution was mixed with 30 mL of 0.50 M KI and 10 mL of 4 N acetic acid. In the titration of the liberated iodine, 48 mL of 0.25 N $\\ce{Na2S2O3}$ was used to reach the end point. The molarity of the household bleach solution is\n\n(A) 0.48 M\n(B) 0.96 M\n(C) 0.24 M\n(D) 0.024 M"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Paper 2",
+     "title": "Solubility product from a concentration cell",
+     "problem": "Question 11 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 11 and 12): The electrochemical cell shown below is a concentration cell.\n\nM | $\\ce{M^{2+}}$ (saturated solution of a sparingly soluble salt, $\\ce{MX2}$) || $\\ce{M^{2+}}$ $(0.001\\ \\mathrm{mol\\,dm^{-3}})$ | M\n\nThe emf of the cell depends on the difference in concentrations of $\\ce{M^{2+}}$ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V.\n\nThe solubility product ($K_{sp}$; $\\mathrm{mol^3\\,dm^{-9}}$) of $\\ce{MX2}$ at 298 K based on the information available for the given concentration cell is (take $2.303 \\times \\mathrm{R} \\times 298/\\mathrm{F} = 0.059\\ \\mathrm{V}$)\n\n(A) $1\\times 10^{-15}$\n(B) $4\\times 10^{-15}$\n(C) $1\\times 10^{-12}$\n(D) $4\\times 10^{-12}$"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Paper 2",
+     "title": "Gibbs energy of a concentration cell",
+     "problem": "Question 12 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 11 and 12): The electrochemical cell shown below is a concentration cell.\n\nM | $\\ce{M^{2+}}$ (saturated solution of a sparingly soluble salt, $\\ce{MX2}$) || $\\ce{M^{2+}}$ $(0.001\\ \\mathrm{mol\\,dm^{-3}})$ | M\n\nThe emf of the cell depends on the difference in concentrations of $\\ce{M^{2+}}$ ions at the two electrodes. The emf of the cell at 298 K is 0.059 V.\n\nThe value of $\\Delta G$ $(\\mathrm{kJ\\,mol^{-1}})$ for the given cell is (take $1\\,\\mathrm{F} = 96500\\ \\mathrm{C\\,mol^{-1}}$)\n\n(A) $-5.7$\n(B) $5.7$\n(C) $11.4$\n(D) $-11.4$"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Paper 2",
+     "title": "Starting compound of a Perkin-type sequence",
+     "problem": "Question 13 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 13 and 14): In the following reaction sequence, the compound $\\mathbf{J}$ is an intermediate.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-13-fig1.png\n\n$\\mathbf{J}$ $(\\ce{C9H8O2})$ gives effervescence on treatment with $\\ce{NaHCO3}$ and a positive Baeyer's test.\n\nThe compound $\\mathbf{I}$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-13-fig2.png"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Paper 2",
+     "title": "Final product of hydrogenation and intramolecular acylation",
+     "problem": "Question 14 (Paper 2, Section 2: paragraph, one option correct).\n\nParagraph (common to Questions 13 and 14): In the following reaction sequence, the compound $\\mathbf{J}$ is an intermediate.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-13-fig1.png\n\n$\\mathbf{J}$ $(\\ce{C9H8O2})$ gives effervescence on treatment with $\\ce{NaHCO3}$ and a positive Baeyer's test.\n\nThe compound $\\mathbf{K}$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-14-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Paper 2",
+     "title": "Reversible adiabatic and isothermal expansions",
+     "problem": "Question 15 (Paper 2, Section 3: one or more options correct).\n\nThe reversible expansion of an ideal gas under adiabatic and isothermal conditions is shown in the figure. Which of the following statement(s) is (are) correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-15-fig1.png\n\n(A) $T_1 = T_2$\n(B) $T_3 > T_1$\n(C) $w_{\\mathrm{isothermal}} > w_{\\mathrm{adiabatic}}$\n(D) $\\Delta U_{\\mathrm{isothermal}} > \\Delta U_{\\mathrm{adiabatic}}$"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Paper 2",
+     "title": "Physisorption and chemisorption trends",
+     "problem": "Question 16 (Paper 2, Section 3: one or more options correct).\n\nThe given graphs / data $\\mathbf{I}$, $\\mathbf{II}$, $\\mathbf{III}$ and $\\mathbf{IV}$ represent general trends observed for different physisorption and chemisorption processes under mild conditions of temperature and pressure. Which of the following choice(s) about $\\mathbf{I}$, $\\mathbf{II}$, $\\mathbf{III}$ and $\\mathbf{IV}$ is (are) correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-16-fig1.png\n\n(A) $\\mathbf{I}$ is physisorption and $\\mathbf{II}$ is chemisorption\n(B) $\\mathbf{I}$ is physisorption and $\\mathbf{III}$ is chemisorption\n(C) $\\mathbf{IV}$ is chemisorption and $\\mathbf{II}$ is chemisorption\n(D) $\\mathbf{IV}$ is chemisorption and $\\mathbf{III}$ is chemisorption"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Paper 2",
+     "title": "Reaction of iodide with hexacyanoferrate(III)",
+     "problem": "Question 17 (Paper 2, Section 3: one or more options correct).\n\nFor the given aqueous reactions, which of the statement(s) is (are) true?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-17-fig1.png\n\n(A) The first reaction is a redox reaction.\n(B) White precipitate is $\\ce{Zn3[Fe(CN)6]2}$.\n(C) Addition of filtrate to starch solution gives blue colour.\n(D) White precipitate is soluble in NaOH solution."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Paper 2",
+     "title": "Properties of graphite and diamond",
+     "problem": "Question 18 (Paper 2, Section 3: one or more options correct).\n\nWith respect to graphite and diamond, which of the statement(s) given below is (are) correct?\n\n(A) Graphite is harder than diamond.\n(B) Graphite has higher electrical conductivity than diamond.\n(C) Graphite has higher thermal conductivity than diamond.\n(D) Graphite has higher C$-$C bond order than diamond."
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Paper 2",
+     "title": "Reactions of a methyl-substituted lactone",
+     "problem": "Question 19 (Paper 2, Section 3: one or more options correct).\n\nWith reference to the scheme given, which of the given statment(s) about $\\mathbf{T}$, $\\mathbf{U}$, $\\mathbf{V}$ and $\\mathbf{W}$ is (are) correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-19-fig1.png\n\n(A) $\\mathbf{T}$ is soluble in hot aqueous NaOH\n(B) $\\mathbf{U}$ is optically active\n(C) Molecular formula of $\\mathbf{W}$ is $\\ce{C10H18O4}$\n(D) $\\mathbf{V}$ gives effervescence on treatment with aqueous $\\ce{NaHCO3}$"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Paper 2",
+     "title": "Stereochemical relations of Newman and sawhorse projections",
+     "problem": "Question 20 (Paper 2, Section 3: one or more options correct).\n\nWhich of the given statement(s) about $\\mathbf{N}$, $\\mathbf{O}$, $\\mathbf{P}$ and $\\mathbf{Q}$ with respect to $\\mathbf{M}$ is (are) correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2012-2-20-fig1.png\n\n(A) $\\mathbf{M}$ and $\\mathbf{N}$ are non-mirror image stereoisomers\n(B) $\\mathbf{M}$ and $\\mathbf{O}$ are identical\n(C) $\\mathbf{M}$ and $\\mathbf{P}$ are enantiomers\n(D) $\\mathbf{M}$ and $\\mathbf{Q}$ are identical"
+    }
+   ]
+  },
+  {
+   "year": 2013,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Paper 1",
+     "title": "Reaction with aqueous sodium bicarbonate",
+     "problem": "Question 1 (Paper 1, Section 1: only one option correct).\n\nThe compound that does NOT liberate $\\ce{CO2}$, on treatment with aqueous sodium bicarbonate solution, is\n\n(A) Benzoic acid\n(B) Benzenesulphonic acid\n(C) Salicylic acid\n(D) Carbolic acid (Phenol)"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Paper 1",
+     "title": "Colour of concentrated nitric acid on standing",
+     "problem": "Question 2 (Paper 1, Section 1: only one option correct).\n\nConcentrated nitric acid, upon long standing, turns yellow-brown due to the formation of\n\n(A) $\\ce{NO}$\n(B) $\\ce{NO2}$\n(C) $\\ce{N2O}$\n(D) $\\ce{N2O4}$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Paper 1",
+     "title": "Adsorption of methylene blue on charcoal",
+     "problem": "Question 3 (Paper 1, Section 1: only one option correct).\n\nMethylene blue, from its aqueous solution, is adsorbed on activated charcoal at $25\\ ^\\circ\\mathrm{C}$. For this process, the correct statement is\n\n(A) The adsorption requires activation at $25\\ ^\\circ\\mathrm{C}$.\n(B) The adsorption is accompanied by a decrease in enthalpy.\n(C) The adsorption increases with increase of temperature.\n(D) The adsorption is irreversible."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Paper 1",
+     "title": "Metals with common sulfide ores",
+     "problem": "Question 4 (Paper 1, Section 1: only one option correct).\n\nSulfide ores are common for the metals\n\n(A) $\\ce{Ag}$, $\\ce{Cu}$ and $\\ce{Pb}$\n(B) $\\ce{Ag}$, $\\ce{Cu}$ and $\\ce{Sn}$\n(C) $\\ce{Ag}$, $\\ce{Mg}$ and $\\ce{Pb}$\n(D) $\\ce{Al}$, $\\ce{Cu}$ and $\\ce{Pb}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Paper 1",
+     "title": "Cation radius from the coordination of anions",
+     "problem": "Question 5 (Paper 1, Section 1: only one option correct).\n\nThe arrangement of $\\ce{X-}$ ions around $\\ce{A+}$ ion in solid AX is given in the figure (not drawn to scale). If the radius of $\\ce{X-}$ is $250\\ \\mathrm{pm}$, the radius of $\\ce{A+}$ is\n\n(A) $104\\ \\mathrm{pm}$\n(B) $125\\ \\mathrm{pm}$\n(C) $183\\ \\mathrm{pm}$\n(D) $57\\ \\mathrm{pm}$\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-1-5-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Paper 1",
+     "title": "Precipitation with ammoniacal hydrogen sulfide",
+     "problem": "Question 6 (Paper 1, Section 1: only one option correct).\n\nUpon treatment with ammoniacal $\\ce{H2S}$, the metal ion that precipitates as a sulfide is\n\n(A) $\\ce{Fe}$(III)\n(B) $\\ce{Al}$(III)\n(C) $\\ce{Mg}$(II)\n(D) $\\ce{Zn}$(II)"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Paper 1",
+     "title": "Enthalpy of combustion of glucose per gram",
+     "problem": "Question 7 (Paper 1, Section 1: only one option correct).\n\nThe standard enthalpies of formation of $\\ce{CO2(g)}$, $\\ce{H2O(l)}$ and glucose(s) at $25\\ ^\\circ\\mathrm{C}$ are $-400\\ \\mathrm{kJ/mol}$, $-300\\ \\mathrm{kJ/mol}$ and $-1300\\ \\mathrm{kJ/mol}$, respectively. The standard enthalpy of combustion per gram of glucose at $25\\ ^\\circ\\mathrm{C}$ is\n\n(A) $+2900\\ \\mathrm{kJ}$\n(B) $-2900\\ \\mathrm{kJ}$\n(C) $-16.11\\ \\mathrm{kJ}$\n(D) $+16.11\\ \\mathrm{kJ}$"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Paper 1",
+     "title": "Spin-only magnetic moments of three complex ions",
+     "problem": "Question 8 (Paper 1, Section 1: only one option correct).\n\nConsider the following complex ions, $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$.\n\n$\\mathbf{P} = \\ce{[FeF6]^{3-}}$, $\\mathbf{Q} = \\ce{[V(H2O)6]^{2+}}$ and $\\mathbf{R} = \\ce{[Fe(H2O)6]^{2+}}$.\n\nThe correct order of the complex ions, according to their spin-only magnetic moment values (in B.M.) is\n\n(A) $\\mathbf{R} < \\mathbf{Q} < \\mathbf{P}$\n(B) $\\mathbf{Q} < \\mathbf{R} < \\mathbf{P}$\n(C) $\\mathbf{R} < \\mathbf{P} < \\mathbf{Q}$\n(D) $\\mathbf{Q} < \\mathbf{P} < \\mathbf{R}$"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Paper 1",
+     "title": "Overall order from half-life data and a concentration plot",
+     "problem": "Question 9 (Paper 1, Section 1: only one option correct).\n\nIn the reaction,\n\n$$P + Q \\longrightarrow R + S$$\n\nthe time taken for $75\\%$ reaction of $P$ is twice the time taken for $50\\%$ reaction of $P$. The concentration of $Q$ varies with reaction time as shown in the figure. The overall order of the reaction is\n\n(A) 2\n(B) 3\n(C) 0\n(D) 1\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-1-9-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Paper 1",
+     "title": "Relative SN2 rates with iodide in acetone",
+     "problem": "Question 10 (Paper 1, Section 1: only one option correct).\n\n$\\ce{KI}$ in acetone, undergoes $\\mathrm{S_N2}$ reaction with each of $\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$. The rates of the reaction vary as\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-1-10-fig1.png\n\n(A) $\\mathbf{P} > \\mathbf{Q} > \\mathbf{R} > \\mathbf{S}$\n(B) $\\mathbf{S} > \\mathbf{P} > \\mathbf{R} > \\mathbf{Q}$\n(C) $\\mathbf{P} > \\mathbf{R} > \\mathbf{Q} > \\mathbf{S}$\n(D) $\\mathbf{R} > \\mathbf{P} > \\mathbf{S} > \\mathbf{Q}$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Paper 1",
+     "title": "Pairs of complexes with the same kind of isomerism",
+     "problem": "Question 11 (Paper 1, Section 2: one or more options correct).\n\nThe pair(s) of coordination complexes/ions exhibiting the same kind of isomerism is(are)\n\n(A) $\\ce{[Cr(NH3)5Cl]Cl2}$ and $\\ce{[Cr(NH3)4Cl2]Cl}$\n(B) $\\ce{[Co(NH3)4Cl2]+}$ and $\\ce{[Pt(NH3)2(H2O)Cl]+}$\n(C) $\\ce{[CoBr2Cl2]^{2-}}$ and $\\ce{[PtBr2Cl2]^{2-}}$\n(D) $\\ce{[Pt(NH3)3(NO3)]Cl}$ and $\\ce{[Pt(NH3)3Cl]Br}$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Paper 1",
+     "title": "Aromaticity of four reaction products",
+     "problem": "Question 12 (Paper 1, Section 2: one or more options correct).\n\nAmong $\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$, the aromatic compound(s) is/are\n\n(A) $\\mathbf{P}$\n(B) $\\mathbf{Q}$\n(C) $\\mathbf{R}$\n(D) $\\mathbf{S}$\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-1-12-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Paper 1",
+     "title": "Hyperconjugation in tert-butyl cation and 2-butene",
+     "problem": "Question 13 (Paper 1, Section 2: one or more options correct).\n\nThe hyperconjugative stabilities of tert-butyl cation and 2-butene, respectively, are due to\n\n(A) $\\sigma \\to p$ (empty) and $\\sigma \\to \\pi^*$ electron delocalisations.\n(B) $\\sigma \\to \\sigma^*$ and $\\sigma \\to \\pi$ electron delocalisations.\n(C) $\\sigma \\to p$ (filled) and $\\sigma \\to \\pi$ electron delocalisations.\n(D) $p$ (filled) $\\to \\sigma^*$ and $\\sigma \\to \\pi^*$ electron delocalisations."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Paper 1",
+     "title": "Thermodynamics of an ideal benzene-naphthalene solution",
+     "problem": "Question 14 (Paper 1, Section 2: one or more options correct).\n\nBenzene and naphthalene form an ideal solution at room temperature. For this process, the true statement(s) is(are)\n\n(A) $\\Delta G$ is positive\n(B) $\\Delta S_\\mathrm{system}$ is positive\n(C) $\\Delta S_\\mathrm{surroundings} = 0$\n(D) $\\Delta H = 0$"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Paper 1",
+     "title": "Ka of a weak acid from catalysed ester hydrolysis",
+     "problem": "Question 15 (Paper 1, Section 2: one or more options correct).\n\nThe initial rate of hydrolysis of methyl acetate $(1\\ \\mathrm{M})$ by a weak acid $(\\ce{HA}, 1\\ \\mathrm{M})$ is $1/100^\\mathrm{th}$ of that of a strong acid $(\\ce{HX}, 1\\ \\mathrm{M})$, at $25\\ ^\\circ\\mathrm{C}$. The $K_a$ of $\\ce{HA}$ is\n\n(A) $1 \\times 10^{-4}$\n(B) $1 \\times 10^{-5}$\n(C) $1 \\times 10^{-6}$\n(D) $1 \\times 10^{-3}$"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Paper 1",
+     "title": "Carboxylic acid groups after hydrolysis and ozonolysis",
+     "problem": "Question 16 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nThe total number of carboxylic acid groups in the product $\\mathbf{P}$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-1-16-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Paper 1",
+     "title": "Possible sequences of a tetrapeptide",
+     "problem": "Question 17 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nA tetrapeptide has $\\ce{-COOH}$ group on alanine. This produces glycine (Gly), valine (Val), phenyl alanine (Phe) and alanine (Ala), on complete hydrolysis. For this tetrapeptide, the number of possible sequences (primary structures) with $\\ce{-NH2}$ group attached to a chiral center is"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Paper 1",
+     "title": "N-Co-O bond angles in the Co-EDTA complex",
+     "problem": "Question 18 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\n$\\ce{EDTA^{4-}}$ is ethylenediaminetetraacetate ion. The total number of N–Co–O bond angles in $\\ce{[Co(EDTA)]^{1-}}$ complex ion is"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Paper 1",
+     "title": "Lone pairs in melamine",
+     "problem": "Question 19 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nThe total number of lone-pairs of electrons in melamine is"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Paper 1",
+     "title": "Ratio of de Broglie wavelengths of two gases",
+     "problem": "Question 20 (Paper 1, Section 3: single digit integer answer, 0 to 9).\n\nThe atomic masses of $\\ce{He}$ and $\\ce{Ne}$ are 4 and 20 a.m.u., respectively. The value of the de Broglie wavelength of $\\ce{He}$ gas at $-73\\ ^\\circ\\mathrm{C}$ is \"$M$\" times that of the de Broglie wavelength of $\\ce{Ne}$ at $727\\ ^\\circ\\mathrm{C}$. $M$ is"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Paper 2",
+     "title": "Statements about ozone",
+     "problem": "Question 1 (Paper 2, Section 1: one or more options correct).\n\nThe correct statement(s) about $\\ce{O3}$ is(are)\n\n(A) O-O bond lengths are equal.\n(B) Thermal decomposition of $\\ce{O3}$ is endothermic.\n(C) $\\ce{O3}$ is diamagnetic in nature.\n(D) $\\ce{O3}$ has a bent structure."
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Paper 2",
+     "title": "Projectile and ejected particle in a nuclear transmutation",
+     "problem": "Question 2 (Paper 2, Section 1: one or more options correct).\n\nIn the nuclear transmutation\n\n$$\\ce{^9_4Be + X -> ^8_4Be + Y}$$\n\n$(\\mathbf{X}, \\mathbf{Y})$ is(are)\n\n(A) $(\\gamma, n)$\n(B) $(p, D)$\n(C) $(n, D)$\n(D) $(\\gamma, p)$"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Paper 2",
+     "title": "Metals not extracted by carbon reduction",
+     "problem": "Question 3 (Paper 2, Section 1: one or more options correct).\n\nThe carbon-based reduction method is NOT used for the extraction of\n\n(A) tin from $\\ce{SnO2}$\n(B) iron from $\\ce{Fe2O3}$\n(C) aluminium from $\\ce{Al2O3}$\n(D) magnesium from $\\ce{MgCO3.CaCO3}$"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Paper 2",
+     "title": "Thermal dissociation equilibrium of calcium carbonate",
+     "problem": "Question 4 (Paper 2, Section 1: one or more options correct).\n\nThe thermal dissociation equilibrium of $\\ce{CaCO3(s)}$ is studied under different conditions.\n\n$$\\ce{CaCO3(s) <=> CaO(s) + CO2(g)}$$\n\nFor this equilibrium, the correct statement(s) is(are)\n\n(A) $\\Delta H$ is dependent on $T$\n(B) $K$ is independent of the initial amount of $\\ce{CaCO3}$\n(C) $K$ is dependent on the pressure of $\\ce{CO2}$ at a given $T$\n(D) $\\Delta H$ is independent of the catalyst, if any"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Paper 2",
+     "title": "Solubility of silver chromate with a common ion",
+     "problem": "Question 5 (Paper 2, Section 1: one or more options correct).\n\nThe $K_{sp}$ of $\\ce{Ag2CrO4}$ is $1.1 \\times 10^{-12}$ at $298\\ \\mathrm{K}$. The solubility (in mol/L) of $\\ce{Ag2CrO4}$ in a $0.1\\ \\mathrm{M}$ $\\ce{AgNO3}$ solution is\n\n(A) $1.1 \\times 10^{-11}$\n(B) $1.1 \\times 10^{-10}$\n(C) $1.1 \\times 10^{-12}$\n(D) $1.1 \\times 10^{-9}$"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Paper 2",
+     "title": "Products of p-cresol with chloroform and base",
+     "problem": "Question 6 (Paper 2, Section 1: one or more options correct).\n\nIn the following reaction, the product(s) formed is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-6-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-6-fig2.png\n\n(A) $\\mathbf{P}$ (major)\n(B) $\\mathbf{Q}$ (minor)\n(C) $\\mathbf{R}$ (minor)\n(D) $\\mathbf{S}$ (major)"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Paper 2",
+     "title": "Bromination of 4-hydroxybenzenesulfonic acid",
+     "problem": "Question 7 (Paper 2, Section 1: one or more options correct).\n\nThe major product(s) of the following reaction is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-7-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-7-fig2.png\n\n(A) $\\mathbf{P}$\n(B) $\\mathbf{Q}$\n(C) $\\mathbf{R}$\n(D) $\\mathbf{S}$"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Paper 2",
+     "title": "Bromination of acetone in base and in acid",
+     "problem": "Question 8 (Paper 2, Section 1: one or more options correct).\n\nAfter completion of the reactions (I and II), the organic compound(s) in the reaction mixtures is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-8-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-8-fig2.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-8-fig3.png\n\n(A) Reaction I : $\\mathbf{P}$ and Reaction II : $\\mathbf{P}$\n(B) Reaction I : $\\mathbf{U}$, acetone and Reaction II : $\\mathbf{Q}$, acetone\n(C) Reaction I : $\\mathbf{T}$, $\\mathbf{U}$, acetone and Reaction II : $\\mathbf{P}$\n(D) Reaction I : $\\mathbf{R}$, acetone and Reaction II : $\\mathbf{S}$, acetone"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Paper 2",
+     "title": "Heating and cooling steps of a rectangular p-V cycle",
+     "problem": "Question 9 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 9 and 10): A fixed mass '$m$' of a gas is subjected to transformation of states from K to L to M to N and back to K as shown in the figure\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-9-fig1.png\n\nThe succeeding operations that enable this transformation of states are\n\n(A) Heating, cooling, heating, cooling\n(B) Cooling, heating, cooling, heating\n(C) Heating, cooling, cooling, heating\n(D) Cooling, heating, heating, cooling"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Paper 2",
+     "title": "Isochoric steps of a rectangular p-V cycle",
+     "problem": "Question 10 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 9 and 10): A fixed mass '$m$' of a gas is subjected to transformation of states from K to L to M to N and back to K as shown in the figure\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-10-fig1.png\n\nThe pair of isochoric processes among the transformation of states is\n\n(A) K to L and L to M\n(B) L to M and N to K\n(C) L to M and M to N\n(D) M to N and N to K"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Paper 2",
+     "title": "Chlorine with cold and hot sodium hydroxide",
+     "problem": "Question 11 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 11 and 12): The reactions of $\\ce{Cl2}$ gas with cold-dilute and hot-concentrated $\\ce{NaOH}$ in water give sodium salts of two (different) oxoacids of chlorine, $\\mathbf{P}$ and $\\mathbf{Q}$, respectively. The $\\ce{Cl2}$ gas reacts with $\\ce{SO2}$ gas, in presence of charcoal, to give a product $\\mathbf{R}$. $\\mathbf{R}$ reacts with white phosphorus to give a compound $\\mathbf{S}$. On hydrolysis, $\\mathbf{S}$ gives an oxoacid of phosphorus, $\\mathbf{T}$.\n\n$\\mathbf{P}$ and $\\mathbf{Q}$, respectively, are the sodium salts of\n\n(A) hypochlorus and chloric acids\n(B) hypochlorus and chlorus acids\n(C) chloric and perchloric acids\n(D) chloric and hypochlorus acids"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Paper 2",
+     "title": "Products from chlorine, sulfur dioxide and white phosphorus",
+     "problem": "Question 12 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 11 and 12): The reactions of $\\ce{Cl2}$ gas with cold-dilute and hot-concentrated $\\ce{NaOH}$ in water give sodium salts of two (different) oxoacids of chlorine, $\\mathbf{P}$ and $\\mathbf{Q}$, respectively. The $\\ce{Cl2}$ gas reacts with $\\ce{SO2}$ gas, in presence of charcoal, to give a product $\\mathbf{R}$. $\\mathbf{R}$ reacts with white phosphorus to give a compound $\\mathbf{S}$. On hydrolysis, $\\mathbf{S}$ gives an oxoacid of phosphorus, $\\mathbf{T}$.\n\n$\\mathbf{R}$, $\\mathbf{S}$ and $\\mathbf{T}$, respectively, are\n\n(A) $\\ce{SO2Cl2}$, $\\ce{PCl5}$ and $\\ce{H3PO4}$\n(B) $\\ce{SO2Cl2}$, $\\ce{PCl3}$ and $\\ce{H3PO3}$\n(C) $\\ce{SOCl2}$, $\\ce{PCl3}$ and $\\ce{H3PO2}$\n(D) $\\ce{SOCl2}$, $\\ce{PCl5}$ and $\\ce{H3PO4}$"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Paper 2",
+     "title": "Group I precipitate soluble in hot water",
+     "problem": "Question 13 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 13 and 14): An aqueous solution of a mixture of two inorganic salts, when treated with dilute $\\ce{HCl}$, gave a precipitate ($\\mathbf{P}$) and a filtrate ($\\mathbf{Q}$). The precipitate $\\mathbf{P}$ was found to dissolve in hot water. The filtrate ($\\mathbf{Q}$) remained unchanged, when treated with $\\ce{H2S}$ in a dilute mineral acid medium. However, it gave a precipitate ($\\mathbf{R}$) with $\\ce{H2S}$ in an ammoniacal medium. The precipitate $\\mathbf{R}$ gave a coloured solution ($\\mathbf{S}$), when treated with $\\ce{H2O2}$ in an aqueous $\\ce{NaOH}$ medium.\n\nThe precipitate $\\mathbf{P}$ contains\n\n(A) $\\ce{Pb^{2+}}$\n(B) $\\ce{Hg2^{2+}}$\n(C) $\\ce{Ag+}$\n(D) $\\ce{Hg^{2+}}$"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Paper 2",
+     "title": "Coloured solution after peroxide oxidation in alkali",
+     "problem": "Question 14 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 13 and 14): An aqueous solution of a mixture of two inorganic salts, when treated with dilute $\\ce{HCl}$, gave a precipitate ($\\mathbf{P}$) and a filtrate ($\\mathbf{Q}$). The precipitate $\\mathbf{P}$ was found to dissolve in hot water. The filtrate ($\\mathbf{Q}$) remained unchanged, when treated with $\\ce{H2S}$ in a dilute mineral acid medium. However, it gave a precipitate ($\\mathbf{R}$) with $\\ce{H2S}$ in an ammoniacal medium. The precipitate $\\mathbf{R}$ gave a coloured solution ($\\mathbf{S}$), when treated with $\\ce{H2O2}$ in an aqueous $\\ce{NaOH}$ medium.\n\nThe coloured solution $\\mathbf{S}$ contains\n\n(A) $\\ce{Fe2(SO4)3}$\n(B) $\\ce{CuSO4}$\n(C) $\\ce{ZnSO4}$\n(D) $\\ce{Na2CrO4}$"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Paper 2",
+     "title": "Dihydroxylation products of two butenedioic acids",
+     "problem": "Question 15 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 15 and 16): $\\mathbf{P}$ and $\\mathbf{Q}$ are isomers of dicarboxylic acid $\\ce{C4H4O4}$. Both decolorize $\\ce{Br2/H2O}$. On heating, $\\mathbf{P}$ forms the cyclic anhydride.\n\nUpon treatment with dilute alkaline $\\ce{KMnO4}$, $\\mathbf{P}$ as well as $\\mathbf{Q}$ could produce one or more than one from $\\mathbf{S}$, $\\mathbf{T}$ and $\\mathbf{U}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-15-fig1.png\n\nCompounds formed from $\\mathbf{P}$ and $\\mathbf{Q}$ are, respectively\n\n(A) Optically active $\\mathbf{S}$ and optically active pair $(\\mathbf{T}, \\mathbf{U})$\n(B) Optically inactive $\\mathbf{S}$ and optically inactive pair $(\\mathbf{T}, \\mathbf{U})$\n(C) Optically active pair $(\\mathbf{T}, \\mathbf{U})$ and optically active $\\mathbf{S}$\n(D) Optically inactive pair $(\\mathbf{T}, \\mathbf{U})$ and optically inactive $\\mathbf{S}$"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Paper 2",
+     "title": "Hydrogenation and Friedel-Crafts sequence",
+     "problem": "Question 16 (Paper 2, Section 2: paragraph, only one option correct).\n\nParagraph (common to Questions 15 and 16): $\\mathbf{P}$ and $\\mathbf{Q}$ are isomers of dicarboxylic acid $\\ce{C4H4O4}$. Both decolorize $\\ce{Br2/H2O}$. On heating, $\\mathbf{P}$ forms the cyclic anhydride.\n\nUpon treatment with dilute alkaline $\\ce{KMnO4}$, $\\mathbf{P}$ as well as $\\mathbf{Q}$ could produce one or more than one from $\\mathbf{S}$, $\\mathbf{T}$ and $\\mathbf{U}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-16-fig1.png\n\nIn the following reaction sequences $V$ and $W$ are, respectively\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-16-fig2.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-16-fig3.png\n\n[Options (A)–(D) are the pairs of structures $V$ and $W$ shown in the figure.]"
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Paper 2",
+     "title": "Matching conversions with reagents",
+     "problem": "Question 17 (Paper 2, Section 3: matching list type, only one option correct).\n\nMatch the chemical conversions in List I with the appropriate reagents in List II and select the correct answer using the code given below the lists :\n\nList I\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2013-2-17-fig1.png\n\nList II\n\n(1) (i) $\\ce{Hg(OAc)2}$; (ii) $\\ce{NaBH4}$\n(2) $\\ce{NaOEt}$\n(3) $\\ce{Et-Br}$\n(4) (i) $\\ce{BH3}$; (ii) $\\ce{H2O2/NaOH}$\n\nCodes:\n\n(A) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$\n(B) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$\n(C) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 1$\n(D) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 1$"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Paper 2",
+     "title": "Missing reagents in unbalanced reactions",
+     "problem": "Question 18 (Paper 2, Section 3: matching list type, only one option correct).\n\nThe unbalanced chemical reactions given in List I show missing reagent or condition (?) which are provided in List II. Match List I with List II and select the correct answer using the code given below the lists :\n\nList I\n\n(P) $\\ce{PbO2 + H2SO4 ->[?] PbSO4 + O2}$ + other product\n(Q) $\\ce{Na2S2O3 + H2O ->[?] NaHSO4}$ + other product\n(R) $\\ce{N2H4 ->[?] N2}$ + other product\n(S) $\\ce{XeF2 ->[?] Xe}$ + other product\n\nList II\n\n(1) $\\ce{NO}$\n(2) $\\ce{I2}$\n(3) Warm\n(4) $\\ce{Cl2}$\n\nCodes:\n\n(A) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 1$\n(B) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$\n(C) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 3$\n(D) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Paper 2",
+     "title": "Derived standard potentials of redox couples",
+     "problem": "Question 19 (Paper 2, Section 3: matching list type, only one option correct).\n\nThe standard reduction potential data at $25\\ ^\\circ\\mathrm{C}$ is given below.\n\n$E^\\circ(\\ce{Fe^{3+}}, \\ce{Fe^{2+}}) = +0.77\\ \\mathrm{V}$;\n$E^\\circ(\\ce{Fe^{2+}}, \\ce{Fe}) = -0.44\\ \\mathrm{V}$\n$E^\\circ(\\ce{Cu^{2+}}, \\ce{Cu}) = +0.34\\ \\mathrm{V}$;\n$E^\\circ(\\ce{Cu+}, \\ce{Cu}) = +0.52\\ \\mathrm{V}$\n$E^\\circ[\\ce{O2(g) + 4H+ + 4e- -> 2H2O}] = +1.23\\ \\mathrm{V}$;\n$E^\\circ[\\ce{O2(g) + 2H2O + 4e- -> 4OH-}] = +0.40\\ \\mathrm{V}$\n$E^\\circ(\\ce{Cr^{3+}}, \\ce{Cr}) = -0.74\\ \\mathrm{V}$;\n$E^\\circ(\\ce{Cr^{2+}}, \\ce{Cr}) = -0.91\\ \\mathrm{V}$\n\nMatch $E^\\circ$ of the redox pair in List I with the values given in List II and select the correct answer using the code given below the lists :\n\nList I\n\n(P) $E^\\circ(\\ce{Fe^{3+}}, \\ce{Fe})$\n(Q) $E^\\circ(\\ce{4H2O <=> 4H+ + 4OH-})$\n(R) $E^\\circ(\\ce{Cu^{2+} + Cu -> 2Cu+})$\n(S) $E^\\circ(\\ce{Cr^{3+}}, \\ce{Cr^{2+}})$\n\nList II\n\n(1) $-0.18\\ \\mathrm{V}$\n(2) $-0.4\\ \\mathrm{V}$\n(3) $-0.04\\ \\mathrm{V}$\n(4) $-0.83\\ \\mathrm{V}$\n\nCodes:\n\n(A) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 3$\n(B) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 1$\n(C) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 4$\n(D) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 2$"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Paper 2",
+     "title": "Conductometric titration curves",
+     "problem": "Question 20 (Paper 2, Section 3: matching list type, only one option correct).\n\nAn aqueous solution of $\\mathbf{X}$ is added slowly to an aqueous solution of $\\mathbf{Y}$ as shown in List I. The variation in conductivity of these reactions is given in List II. Match List I with List II and select the correct answer using the code given below the lists :\n\nList I\n\n(P) $\\underset{\\mathbf{X}}{\\ce{(C2H5)3N}} + \\underset{\\mathbf{Y}}{\\ce{CH3COOH}}$\n(Q) $\\underset{\\mathbf{X}}{\\ce{KI}\\ (0.1\\ \\mathrm{M})} + \\underset{\\mathbf{Y}}{\\ce{AgNO3}\\ (0.01\\ \\mathrm{M})}$\n(R) $\\underset{\\mathbf{X}}{\\ce{CH3COOH}} + \\underset{\\mathbf{Y}}{\\ce{KOH}}$\n(S) $\\underset{\\mathbf{X}}{\\ce{NaOH}} + \\underset{\\mathbf{Y}}{\\ce{HI}}$\n\nList II\n\n(1) Conductivity decreases and then increases\n(2) Conductivity decreases and then does not change much\n(3) Conductivity increases and then does not change much\n(4) Conductivity does not change much and then increases\n\nCodes:\n\n(A) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$\n(B) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$\n(C) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 1$\n(D) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 2$"
+    }
+   ]
+  },
+  {
+   "year": 2014,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Paper 1",
+     "title": "Names of isomeric butanols",
+     "problem": "Question 1 (Paper 1, Section 1: one or more than one options correct).\n\nThe correct combination of names for isomeric alcohols with molecular formula $\\ce{C4H10O}$ is/are\n\n(A) tert-butanol and 2-methylpropan-2-ol\n(B) tert-butanol and 1, 1-dimethylethan-1-ol\n(C) n-butanol and butan-1-ol\n(D) isobutyl alcohol and 2-methylpropan-1-ol"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Paper 1",
+     "title": "Halogenation pattern of a tert-butylphenol",
+     "problem": "Question 2 (Paper 1, Section 1: one or more than one options correct).\n\nThe reactivity of compound $\\mathbf{Z}$ with different halogens under appropriate conditions is given below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-2-fig1.png\n\nThe observed pattern of electrophilic substitution can be explained by\n\n(A) the steric effect of the halogen\n(B) the steric effect of the tert-butyl group\n(C) the electronic effect of the phenolic group\n(D) the electronic effect of the tert-butyl group"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Paper 1",
+     "title": "Acetylation of an aminomethyl benzamide",
+     "problem": "Question 3 (Paper 1, Section 1: one or more than one options correct).\n\nIn the reaction shown below, the major product(s) formed is/are\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-3-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-3-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Paper 1",
+     "title": "Free expansion of an ideal gas",
+     "problem": "Question 4 (Paper 1, Section 1: one or more than one options correct).\n\nAn ideal gas in a thermally insulated vessel at internal pressure $= P_1$, volume $= V_1$ and absolute temperature $= T_1$ expands irreversibly against zero external pressure, as shown in the diagram. The final internal pressure, volume and absolute temperature of the gas are $P_2$, $V_2$ and $T_2$, respectively. For this expansion,\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-4-fig1.png\n\n(A) $q = 0$\n(B) $T_2 = T_1$\n(C) $P_2V_2 = P_1V_1$\n(D) $P_2V_2^{\\gamma} = P_1V_1^{\\gamma}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Paper 1",
+     "title": "Phenomena governed by hydrogen bonding",
+     "problem": "Question 5 (Paper 1, Section 1: one or more than one options correct).\n\nHydrogen bonding plays a central role in the following phenomena:\n\n(A) Ice floats in water.\n(B) Higher Lewis basicity of primary amines than tertiary amines in aqueous solutions.\n(C) Formic acid is more acidic than acetic acid.\n(D) Dimerisation of acetic acid in benzene."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Paper 1",
+     "title": "Role of the salt bridge",
+     "problem": "Question 6 (Paper 1, Section 1: one or more than one options correct).\n\nIn a galvanic cell, the salt bridge\n\n(A) does not participate chemically in the cell reaction.\n(B) stops the diffusion of ions from one electrode to another.\n(C) is necessary for the occurrence of the cell reaction.\n(D) ensures mixing of the two electrolytic solutions."
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Paper 1",
+     "title": "Self-reduction of copper sulfide",
+     "problem": "Question 7 (Paper 1, Section 1: one or more than one options correct).\n\nUpon heating with $\\ce{Cu2S}$, the reagent(s) that give copper metal is/are\n\n(A) $\\ce{CuFeS2}$\n(B) $\\ce{CuO}$\n(C) $\\ce{Cu2O}$\n(D) $\\ce{CuSO4}$"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Paper 1",
+     "title": "Properties of orthoboric acid",
+     "problem": "Question 8 (Paper 1, Section 1: one or more than one options correct).\n\nThe correct statement(s) for orthoboric acid is/are\n\n(A) It behaves as a weak acid in water due to self ionization.\n(B) Acidity of its aqueous solution increases upon addition of ethylene glycol.\n(C) It has a three dimensional structure due to hydrogen bonding.\n(D) It is a weak electrolyte in water."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Paper 1",
+     "title": "Balancing the iodide-chlorate redox reaction",
+     "problem": "Question 9 (Paper 1, Section 1: one or more than one options correct).\n\nFor the reaction:\n\n$$\\ce{I- + ClO3- + H2SO4 -> Cl- + HSO4- + I2}$$\n\nThe correct statement(s) in the balanced equation is/are:\n\n(A) Stoichiometric coefficient of $\\ce{HSO4-}$ is 6.\n(B) Iodide is oxidized.\n(C) Sulphur is reduced.\n(D) $\\ce{H2O}$ is one of the products."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Paper 1",
+     "title": "Reagent pairs giving paramagnetic species",
+     "problem": "Question 10 (Paper 1, Section 1: one or more than one options correct).\n\nThe pair(s) of reagents that yield paramagnetic species is/are\n\n(A) $\\ce{Na}$ and excess of $\\ce{NH3}$\n(B) $\\ce{K}$ and excess of $\\ce{O2}$\n(C) $\\ce{Cu}$ and dilute $\\ce{HNO3}$\n(D) $\\ce{O2}$ and 2-ethylanthraquinol"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Paper 1",
+     "title": "Ketones of molar mass 100 reduced by NaBH4",
+     "problem": "Question 11 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nConsider all possible isomeric ketones, including stereoisomers, of MW = 100. All these isomers are independently reacted with $\\ce{NaBH4}$ (NOTE: stereoisomers are also reacted separately). The total number of ketones that give a racemic product(s) is/are"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Paper 1",
+     "title": "Square planar species of formula XZ4",
+     "problem": "Question 12 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nA list of species having the formula $\\mathrm{XZ}_4$ is given below.\n\n$\\ce{XeF4}$, $\\ce{SF4}$, $\\ce{SiF4}$, $\\ce{BF4-}$, $\\ce{BrF4-}$, $\\ce{[Cu(NH3)4]^{2+}}$, $\\ce{[FeCl4]^{2-}}$, $\\ce{[CoCl4]^{2-}}$ and $\\ce{[PtCl4]^{2-}}$.\n\nDefining shape on the basis of the location of X and Z atoms, the total number of species having a square planar shape is"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Paper 1",
+     "title": "Colours of metal sulfides",
+     "problem": "Question 13 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nAmong $\\ce{PbS}$, $\\ce{CuS}$, $\\ce{HgS}$, $\\ce{MnS}$, $\\ce{Ag2S}$, $\\ce{NiS}$, $\\ce{CoS}$, $\\ce{Bi2S3}$ and $\\ce{SnS2}$, the total number of BLACK coloured sulfides is"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Paper 1",
+     "title": "Polar conformers of a dibromodichlorobutane",
+     "problem": "Question 14 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nThe total number(s) of stable conformers with non-zero dipole moment for the following compound is (are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-14-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Paper 1",
+     "title": "Reagents that oxidise iodide",
+     "problem": "Question 15 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nConsider the following list of reagents:\n\nAcidified $\\ce{K2Cr2O7}$, alkaline $\\ce{KMnO4}$, $\\ce{CuSO4}$, $\\ce{H2O2}$, $\\ce{Cl2}$, $\\ce{O3}$, $\\ce{FeCl3}$, $\\ce{HNO3}$ and $\\ce{Na2S2O3}$.\n\nThe total number of reagents that can oxidise aqueous iodide to iodine is"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Paper 1",
+     "title": "Amino acids from hydrolysis of a modified peptide",
+     "problem": "Question 16 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nThe total number of distinct naturally occurring amino acids obtained by complete acidic hydrolysis of the peptide shown below is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-1-16-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Paper 1",
+     "title": "Electrons with given quantum numbers",
+     "problem": "Question 17 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nIn an atom, the total number of electrons having quantum numbers $n = 4$, $|m_l| = 1$ and $m_s = -1/2$ is"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Paper 1",
+     "title": "Significant figures in the gas constant",
+     "problem": "Question 18 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nIf the value of Avogadro number is $6.023 \\times 10^{23}\\ \\mathrm{mol^{-1}}$ and the value of Boltzmann constant is $1.380 \\times 10^{-23}\\ \\mathrm{J\\,K^{-1}}$, then the number of significant digits in the calculated value of the universal gas constant is"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Paper 1",
+     "title": "Molality from molarity and solvent density",
+     "problem": "Question 19 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nA compound $\\ce{H2X}$ with molar weight of 80 g is dissolved in a solvent having density of $0.4\\ \\mathrm{g\\,ml^{-1}}$. Assuming no change in volume upon dissolution, the molality of a 3.2 molar solution is"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Paper 1",
+     "title": "Freezing-point depression of a partly dissociated salt",
+     "problem": "Question 20 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\n$\\ce{MX2}$ dissociates into $\\ce{M^{2+}}$ and $\\ce{X-}$ ions in an aqueous solution, with a degree of dissociation ($\\alpha$) of 0.5. The ratio of the observed depression of freezing point of the aqueous solution to the value of the depression of freezing point in the absence of ionic dissociation is"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Paper 2",
+     "title": "Acidic hydrolysis of a trityl ether",
+     "problem": "Question 1 (Paper 2, Section 1: only one option correct).\n\nThe acidic hydrolysis of ether ($\\mathbf{X}$) shown below is fastest when\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-1-fig1.png\n\n(A) one phenyl group is replaced by a methyl group.\n(B) one phenyl group is replaced by a para-methoxyphenyl group.\n(C) two phenyl groups are replaced by two para-methoxyphenyl groups.\n(D) no structural change is made to $\\mathbf{X}$."
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Paper 2",
+     "title": "Boiling points of hexane isomers",
+     "problem": "Question 2 (Paper 2, Section 1: only one option correct).\n\nIsomers of hexane, based on their branching, can be divided into three distinct classes as shown in the figure.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-2-fig1.png\n\nThe correct order of their boiling point is\n\n(A) I > II > III\n(B) III > II > I\n(C) II > III > I\n(D) III > I > II"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Paper 2",
+     "title": "Grignard reaction of a chloro ketone",
+     "problem": "Question 3 (Paper 2, Section 1: only one option correct).\n\nThe major product in the following reaction is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-3-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-3-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Paper 2",
+     "title": "Dual redox role of hydrogen peroxide",
+     "problem": "Question 4 (Paper 2, Section 1: only one option correct).\n\nHydrogen peroxide in its reaction with $\\ce{KIO4}$ and $\\ce{NH2OH}$ respectively, is acting as a\n\n(A) reducing agent, oxidising agent\n(B) reducing agent, reducing agent\n(C) oxidising agent, oxidising agent\n(D) oxidising agent, reducing agent"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Paper 2",
+     "title": "Thionyl chloride and white phosphorus",
+     "problem": "Question 5 (Paper 2, Section 1: only one option correct).\n\nThe product formed in the reaction of $\\ce{SOCl2}$ with white phosphorous is\n\n(A) $\\ce{PCl3}$\n(B) $\\ce{SO2Cl2}$\n(C) $\\ce{SCl2}$\n(D) $\\ce{POCl3}$"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Paper 2",
+     "title": "Hydrolysis of xenon hexafluoride",
+     "problem": "Question 6 (Paper 2, Section 1: only one option correct).\n\nUnder ambient conditions, the total number of gases released as products in the final step of the reaction scheme shown below is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-6-fig1.png\n\n(A) 0\n(B) 1\n(C) 2\n(D) 3"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Paper 2",
+     "title": "Dye test for beta-naphthol",
+     "problem": "Question 7 (Paper 2, Section 1: only one option correct).\n\nFor the identification of $\\beta$-naphthol using dye test, it is necessary to use\n\n(A) dichloromethane solution of $\\beta$-naphthol.\n(B) acidic solution of $\\beta$-naphthol.\n(C) neutral solution of $\\beta$-naphthol.\n(D) alkaline solution of $\\beta$-naphthol."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Paper 2",
+     "title": "Reaction order from a concentration change",
+     "problem": "Question 8 (Paper 2, Section 1: only one option correct).\n\nFor the elementary reaction $\\mathbf{M} \\to \\mathbf{N}$, the rate of disappearance of $\\mathbf{M}$ increases by a factor of 8 upon doubling the concentration of $\\mathbf{M}$. The order of the reaction with respect to $\\mathbf{M}$ is\n\n(A) 4\n(B) 3\n(C) 2\n(D) 1"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Paper 2",
+     "title": "Entropy changes on boiling water",
+     "problem": "Question 9 (Paper 2, Section 1: only one option correct).\n\nFor the process\n\n$$\\ce{H2O(l) -> H2O(g)}$$\n\nat $T = 100\\,^\\circ\\mathrm{C}$ and 1 atmosphere pressure, the correct choice is\n\n(A) $\\Delta S_\\mathrm{system} > 0$ and $\\Delta S_\\mathrm{surroundings} > 0$\n(B) $\\Delta S_\\mathrm{system} > 0$ and $\\Delta S_\\mathrm{surroundings} < 0$\n(C) $\\Delta S_\\mathrm{system} < 0$ and $\\Delta S_\\mathrm{surroundings} > 0$\n(D) $\\Delta S_\\mathrm{system} < 0$ and $\\Delta S_\\mathrm{surroundings} < 0$"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Paper 2",
+     "title": "Paramagnetic diatomics without s-p mixing",
+     "problem": "Question 10 (Paper 2, Section 1: only one option correct).\n\nAssuming 2s-2p mixing is NOT operative, the paramagnetic species among the following is\n\n(A) $\\ce{Be2}$\n(B) $\\ce{B2}$\n(C) $\\ce{C2}$\n(D) $\\ce{N2}$"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Paper 2",
+     "title": "Alkyne transformations: product X",
+     "problem": "Question 11 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 11 and 12): Schemes 1 and 2 describe sequential transformation of alkynes $\\mathbf{M}$ and $\\mathbf{N}$. Consider only the major products formed in each step for both the schemes.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-11-fig1.png\n\nThe product $\\mathbf{X}$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-11-fig2.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-11-fig3.png\n\n[Options (A)–(D) are the structures shown in the figures.]"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Paper 2",
+     "title": "Alkyne transformations: product Y",
+     "problem": "Question 12 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 11 and 12): Schemes 1 and 2 describe sequential transformation of alkynes $\\mathbf{M}$ and $\\mathbf{N}$. Consider only the major products formed in each step for both the schemes.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-12-fig1.png\n\nThe correct statement with respect to product $\\mathbf{Y}$ is\n\n(A) It gives a positive Tollens test and is a functional isomer of $\\mathbf{X}$.\n(B) It gives a positive Tollens test and is a geometrical isomer of $\\mathbf{X}$.\n(C) It gives a positive iodoform test and is a functional isomer of $\\mathbf{X}$.\n(D) It gives a positive iodoform test and is a geometrical isomer of $\\mathbf{X}$."
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Paper 2",
+     "title": "Metal ions forming tetrahedral and square planar complexes",
+     "problem": "Question 13 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 13 and 14): An aqueous solution of metal ion $\\mathbf{M1}$ reacts separately with reagents $\\mathbf{Q}$ and $\\mathbf{R}$ in excess to give tetrahedral and square planar complexes, respectively. An aqueous solution of another metal ion $\\mathbf{M2}$ always forms tetrahedral complexes with these reagents. Aqueous solution of $\\mathbf{M2}$ on reaction with reagent $\\mathbf{S}$ gives white precipitate which dissolves in excess of $\\mathbf{S}$. The reactions are summarized in the scheme given below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-13-fig1.png\n\n$\\mathbf{M1}$, $\\mathbf{Q}$ and $\\mathbf{R}$, respectively are\n\n(A) $\\ce{Zn^{2+}}$, $\\ce{KCN}$ and $\\ce{HCl}$\n(B) $\\ce{Ni^{2+}}$, $\\ce{HCl}$ and $\\ce{KCN}$\n(C) $\\ce{Cd^{2+}}$, $\\ce{KCN}$ and $\\ce{HCl}$\n(D) $\\ce{Co^{2+}}$, $\\ce{HCl}$, and $\\ce{KCN}$"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Paper 2",
+     "title": "Reagent dissolving a white precipitate",
+     "problem": "Question 14 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 13 and 14): An aqueous solution of metal ion $\\mathbf{M1}$ reacts separately with reagents $\\mathbf{Q}$ and $\\mathbf{R}$ in excess to give tetrahedral and square planar complexes, respectively. An aqueous solution of another metal ion $\\mathbf{M2}$ always forms tetrahedral complexes with these reagents. Aqueous solution of $\\mathbf{M2}$ on reaction with reagent $\\mathbf{S}$ gives white precipitate which dissolves in excess of $\\mathbf{S}$. The reactions are summarized in the scheme given below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-14-fig1.png\n\nReagent $\\mathbf{S}$ is\n\n(A) $\\ce{K4[Fe(CN)6]}$\n(B) $\\ce{Na2HPO4}$\n(C) $\\ce{K2CrO4}$\n(D) $\\ce{KOH}$"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Paper 2",
+     "title": "Graham's law in a diffusion tube",
+     "problem": "Question 15 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 15 and 16): $\\mathbf{X}$ and $\\mathbf{Y}$ are two volatile liquids with molar weights of $10\\ \\mathrm{g\\,mol^{-1}}$ and $40\\ \\mathrm{g\\,mol^{-1}}$ respectively. Two cotton plugs, one soaked in $\\mathbf{X}$ and the other soaked in $\\mathbf{Y}$, are simultaneously placed at the ends of a tube of length $\\mathbf{L} = 24\\ \\mathrm{cm}$, as shown in the figure. The tube is filled with an inert gas at 1 atmosphere pressure and a temperature of 300 K. Vapours of $\\mathbf{X}$ and $\\mathbf{Y}$ react to form a product which is first observed at a distance $\\mathbf{d}$ cm from the plug soaked in $\\mathbf{X}$. Take $\\mathbf{X}$ and $\\mathbf{Y}$ to have equal molecular diameters and assume ideal behaviour for the inert gas and the two vapours.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-15-fig1.png\n\nThe value of $\\mathbf{d}$ in cm (shown in the figure), as estimated from Graham's law, is\n\n(A) 8\n(B) 12\n(C) 16\n(D) 20"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Paper 2",
+     "title": "Deviation from Graham's law",
+     "problem": "Question 16 (Paper 2, Section 2: comprehension type, only one option correct).\n\nParagraph (common to Questions 15 and 16): $\\mathbf{X}$ and $\\mathbf{Y}$ are two volatile liquids with molar weights of $10\\ \\mathrm{g\\,mol^{-1}}$ and $40\\ \\mathrm{g\\,mol^{-1}}$ respectively. Two cotton plugs, one soaked in $\\mathbf{X}$ and the other soaked in $\\mathbf{Y}$, are simultaneously placed at the ends of a tube of length $\\mathbf{L} = 24\\ \\mathrm{cm}$, as shown in the figure. The tube is filled with an inert gas at 1 atmosphere pressure and a temperature of 300 K. Vapours of $\\mathbf{X}$ and $\\mathbf{Y}$ react to form a product which is first observed at a distance $\\mathbf{d}$ cm from the plug soaked in $\\mathbf{X}$. Take $\\mathbf{X}$ and $\\mathbf{Y}$ to have equal molecular diameters and assume ideal behaviour for the inert gas and the two vapours.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-16-fig1.png\n\nThe experimental value of $\\mathbf{d}$ is found to be smaller than the estimate obtained using Graham's law. This is due to\n\n(A) larger mean free path for $\\mathbf{X}$ as compared to that of $\\mathbf{Y}$.\n(B) larger mean free path for $\\mathbf{Y}$ as compared to that of $\\mathbf{X}$.\n(C) increased collision frequency of $\\mathbf{Y}$ with the inert gas as compared to that of $\\mathbf{X}$ with the inert gas.\n(D) increased collision frequency of $\\mathbf{X}$ with the inert gas as compared to that of $\\mathbf{Y}$ with the inert gas."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Paper 2",
+     "title": "Thermal decomposition pathways of peroxyesters",
+     "problem": "Question 17 (Paper 2, Section 3: matching list type, only one option correct).\n\nDifferent possible thermal decomposition pathways for peroxyesters are shown below. Match each pathway from List I with an appropriate structure from List II and select the correct answer using the code given below the lists.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-17-fig1.png\n\nList-I\n\n(P) Pathway P\n(Q) Pathway Q\n(R) Pathway R\n(S) Pathway S\n\nList-II\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-17-fig2.png\n\nCodes:\n\n(A) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$\n(B) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 1$\n(C) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 3$\n(D) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$"
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Paper 2",
+     "title": "Starting materials for aromatic synthesis schemes",
+     "problem": "Question 18 (Paper 2, Section 3: matching list type, only one option correct).\n\nMatch the four starting materials ($\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$, $\\mathbf{S}$) given in List I with the corresponding reaction schemes ($\\mathbf{I}$, $\\mathbf{II}$, $\\mathbf{III}$, $\\mathbf{IV}$) provided in List II and select the correct answer using the code given below the lists.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-18-fig1.png\n\n[List-I (P)–(S) and List-II (1. Scheme I – 4. Scheme IV) are shown in the figure.]\n\nCodes:\n\n(A) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 3$\n(B) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$\n(C) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$\n(D) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 2$"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Paper 2",
+     "title": "Magnetism and isomerism of coordination compounds",
+     "problem": "Question 19 (Paper 2, Section 3: matching list type, only one option correct).\n\nMatch each coordination compound in List-I with an appropriate pair of characteristics from List-II and select the correct answer using the code given below the lists.\n\n{en = $\\ce{H2NCH2CH2NH2}$; atomic numbers: Ti = 22; Cr = 24; Co = 27; Pt = 78}\n\nList-I\n\n(P) $\\ce{[Cr(NH3)4Cl2]Cl}$\n(Q) $\\ce{[Ti(H2O)5Cl](NO3)2}$\n(R) $\\ce{[Pt(en)(NH3)Cl]NO3}$\n(S) $\\ce{[Co(NH3)4(NO3)2]NO3}$\n\nList-II\n\n(1) Paramagnetic and exhibits ionisation isomerism\n(2) Diamagnetic and exhibits cis-trans isomerism\n(3) Paramagnetic and exhibits cis-trans isomerism\n(4) Diamagnetic and exhibits ionisation isomerism\n\nCodes:\n\n(A) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 1$\n(B) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$\n(C) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 4$\n(D) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$"
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Paper 2",
+     "title": "Orbital overlap types",
+     "problem": "Question 20 (Paper 2, Section 3: matching list type, only one option correct).\n\nMatch the orbital overlap figures shown in List-I with the description given in List-II and select the correct answer using the code given below the lists.\n\nList-I\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2014-2-20-fig1.png\n\n[List-I (P)–(S) are the orbital overlap drawings shown in the figure.]\n\nList-II\n\n(1) $p$–$d$ $\\pi$ antibonding\n(2) $d$–$d$ $\\sigma$ bonding\n(3) $p$–$d$ $\\pi$ bonding\n(4) $d$–$d$ $\\sigma$ antibonding\n\nCodes:\n\n(A) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 4$\n(B) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 2$\n(C) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$\n(D) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 2$"
+    }
+   ]
+  },
+  {
    "year": 2015,
    "problems": [
     {
