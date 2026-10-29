@@ -1,0 +1,477 @@
+{
+ "competition": "JEE (Advanced), India — Chemistry",
+ "years": [
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Paper 1",
+     "title": "Ratio of rms speeds of two gases in a vessel",
+     "problem": "Question 1 (Paper 1, Section 1: one option correct).\n\nA closed vessel contains $10\\,\\mathrm{g}$ of an ideal gas $\\mathbf{X}$ at $300\\,\\mathrm{K}$, which exerts $2\\,\\mathrm{atm}$ pressure. At the same temperature, $80\\,\\mathrm{g}$ of another ideal gas $\\mathbf{Y}$ is added to it and the pressure becomes $6\\,\\mathrm{atm}$. The ratio of root mean square velocities of $\\mathbf{X}$ and $\\mathbf{Y}$ at $300\\,\\mathrm{K}$ is\n\n(A) $2\\sqrt{2} : \\sqrt{3}$\n(B) $2\\sqrt{2} : 1$\n(C) $1 : 2$\n(D) $2 : 1$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Paper 1",
+     "title": "Disproportionation of nitrous acid",
+     "problem": "Question 2 (Paper 1, Section 1: one option correct).\n\nAt room temperature, disproportionation of an aqueous solution of in situ generated nitrous acid ($\\ce{HNO2}$) gives the species\n\n(A) $\\ce{H3O+}$, $\\ce{NO3-}$ and $\\ce{NO}$\n(B) $\\ce{H3O+}$, $\\ce{NO3-}$ and $\\ce{NO2}$\n(C) $\\ce{H3O+}$, $\\ce{NO-}$ and $\\ce{NO2}$\n(D) $\\ce{H3O+}$, $\\ce{NO3-}$ and $\\ce{N2O}$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Paper 1",
+     "title": "Structure of aspartame",
+     "problem": "Question 3 (Paper 1, Section 1: one option correct).\n\nAspartame, an artificial sweetener, is a dipeptide aspartyl phenylalanine methyl ester. The structure of aspartame is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-3-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-3-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Paper 1",
+     "title": "Geometrical and ionization isomerism of complexes",
+     "problem": "Question 4 (Paper 1, Section 1: one option correct).\n\nAmong the following options, select the option in which each complex in Set-I shows geometrical isomerism and the two complexes in Set-II are ionization isomers of each other.\n[en = $\\ce{H2NCH2CH2NH2}$]\n\n(A) Set-I: $\\ce{[Ni(CO)4]}$ and $\\ce{[PdCl2(PPh3)2]}$; Set-II: $\\ce{[Co(NH3)5Cl]SO4}$ and $\\ce{[Co(NH3)5(SO4)]Cl}$\n(B) Set-I: $\\ce{[Co(en)(NH3)2Cl2]}$ and $\\ce{[PdCl2(PPh3)2]}$; Set-II: $\\ce{[Co(NH3)6][Cr(CN)6]}$ and $\\ce{[Cr(NH3)6][Co(CN)6]}$\n(C) Set-I: $\\ce{[Co(NH3)3(NO2)3]}$ and $\\ce{[Co(en)2Cl2]}$; Set-II: $\\ce{[Co(NH3)5Cl]SO4}$ and $\\ce{[Co(NH3)5(SO4)]Cl}$\n(D) Set-I: $\\ce{[Cr(NH3)5Cl]Cl2}$ and $\\ce{[Co(en)(NH3)2Cl2]}$; Set-II: $\\ce{[Cr(H2O)6]Cl3}$ and $\\ce{[Cr(H2O)5Cl]Cl2*H2O}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Paper 1",
+     "title": "Statements about electrons in an atom",
+     "problem": "Question 5 (Paper 1, Section 2: one or more options correct).\n\nAmong the following, the correct statement(s) for electrons in an atom is(are)\n\n(A) Uncertainty principle rules out the existence of definite paths for electrons.\n(B) The energy of an electron in $2s$ orbital of an atom is lower than the energy of an electron that is infinitely far away from the nucleus.\n(C) According to Bohr's model, the most negative energy value for an electron is given by $n = 1$, which corresponds to the most stable orbit.\n(D) According to Bohr's model, the magnitude of velocity of electrons increases with increase in values of $n$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Paper 1",
+     "title": "Cumene process by-product and its chlorination",
+     "problem": "Question 6 (Paper 1, Section 2: one or more options correct).\n\nReaction of iso-propylbenzene with $\\ce{O2}$ followed by the treatment with $\\ce{H3O+}$ forms phenol and a by-product $\\mathbf{P}$. Reaction of $\\mathbf{P}$ with 3 equivalents of $\\ce{Cl2}$ gives compound $\\mathbf{Q}$. Treatment of $\\mathbf{Q}$ with $\\ce{Ca(OH)2}$ produces compound $\\mathbf{R}$ and calcium salt $\\mathbf{S}$.\nThe correct statement(s) regarding $\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$ is(are)\n\n(A) Reaction of $\\mathbf{P}$ with $\\mathbf{R}$ in the presence of $\\ce{KOH}$ followed by acidification gives\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-6-fig1.png\n\n(B) Reaction of $\\mathbf{R}$ with $\\ce{O2}$ in the presence of light gives phosgene gas\n(C) $\\mathbf{Q}$ reacts with aqueous $\\ce{NaOH}$ to produce $\\ce{Cl3CCH2OH}$ and $\\ce{Cl3CCOONa}$\n(D) $\\mathbf{S}$ on heating gives $\\mathbf{P}$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Paper 1",
+     "title": "Molecules obeying the octet rule",
+     "problem": "Question 7 (Paper 1, Section 2: one or more options correct).\n\nThe option(s) in which at least three molecules follow Octet Rule is(are)\n\n(A) $\\ce{CO2}$, $\\ce{C2H4}$, $\\ce{NO}$ and $\\ce{HCl}$\n(B) $\\ce{NO2}$, $\\ce{O3}$, $\\ce{HCl}$ and $\\ce{H2SO4}$\n(C) $\\ce{BCl3}$, $\\ce{NO}$, $\\ce{NO2}$ and $\\ce{H2SO4}$\n(D) $\\ce{CO2}$, $\\ce{BCl3}$, $\\ce{O3}$ and $\\ce{C2H4}$"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Paper 1",
+     "title": "Enthalpy change along a V–T path of an ideal gas",
+     "problem": "Question 8 (Paper 1, Section 3: non-negative integer answer).\n\nConsider the following volume–temperature (V–T) diagram for the expansion of 5 moles of an ideal monoatomic gas.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-8-fig1.png\n\nConsidering only P-V work is involved, the total change in enthalpy (in Joule) for the transformation of state in the sequence $\\mathbf{X} \\to \\mathbf{Y} \\to \\mathbf{Z}$ is ______.\n\n[Use the given data: Molar heat capacity of the gas for the given temperature range, $C_{V,\\mathrm{m}} = 12\\,\\mathrm{J\\,K^{-1}\\,mol^{-1}}$ and gas constant, $R = 8.3\\,\\mathrm{J\\,K^{-1}\\,mol^{-1}}$]"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Paper 1",
+     "title": "Order of the reaction of hydrogen with nitric oxide",
+     "problem": "Question 9 (Paper 1, Section 3: non-negative integer answer).\n\nConsider the following reaction,\n\n$$\\ce{2H2(g) + 2NO(g) -> N2(g) + 2H2O(g)}$$\n\nwhich follows the mechanism given below:\n\n$$\\begin{array}{ll} \\ce{2NO(g)} \\underset{k_{-1}}{\\overset{k_1}{\\rightleftharpoons}} \\ce{N2O2(g)} & \\text{(fast equlibrium)} \\\\ \\ce{N2O2(g) + H2(g)} \\overset{k_2}{\\longrightarrow} \\ce{N2O(g) + H2O(g)} & \\text{(slow reaction)} \\\\ \\ce{N2O(g) + H2(g)} \\overset{k_3}{\\longrightarrow} \\ce{N2(g) + H2O(g)} & \\text{(fast reaction)} \\end{array}$$\n\nThe order of the reaction is ______."
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Paper 1",
+     "title": "Crossed Cannizzaro product and its ketal with cyclohexanone",
+     "problem": "Question 10 (Paper 1, Section 3: non-negative integer answer).\n\nComplete reaction of acetaldehyde with excess formaldehyde, upon heating with conc. $\\ce{NaOH}$ solution, gives $\\mathbf{P}$ and $\\mathbf{Q}$. Compound $\\mathbf{P}$ does not give Tollens' test, whereas $\\mathbf{Q}$ on acidification gives positive Tollens' test. Treatment of $\\mathbf{P}$ with excess cyclohexanone in the presence of catalytic amount of p-toluenesulfonic acid (PTSA) gives product $\\mathbf{R}$.\nSum of the number of methylene groups ($\\ce{-CH2-}$) and oxygen atoms in $\\mathbf{R}$ is ______."
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Paper 1",
+     "title": "Metal carbonyls isoelectronic with Ni(CO)4",
+     "problem": "Question 11 (Paper 1, Section 3: non-negative integer answer).\n\nAmong $\\ce{V(CO)6}$, $\\ce{Cr(CO)5}$, $\\ce{Cu(CO)3}$, $\\ce{Mn(CO)5}$, $\\ce{Fe(CO)5}$, $\\ce{[Co(CO)3]^{3-}}$, $\\ce{[Cr(CO)4]^{4-}}$, and $\\ce{Ir(CO)3}$, the total number of species isoelectronic with $\\ce{Ni(CO)4}$ is ______.\n\n[Given, atomic number: V = 23, Cr = 24, Mn = 25, Fe = 26, Co = 27, Ni = 28, Cu = 29, Ir = 77]"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Paper 1",
+     "title": "Calcium soap from a triglyceride",
+     "problem": "Question 12 (Paper 1, Section 3: non-negative integer answer).\n\nIn the following reaction sequence, the major product $\\mathbf{P}$ is formed.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-12-fig1.png\n\nGlycerol reacts completely with excess $\\mathbf{P}$ in the presence of an acid catalyst to form $\\mathbf{Q}$. Reaction of $\\mathbf{Q}$ with excess $\\ce{NaOH}$ followed by the treatment with $\\ce{CaCl2}$ yields Ca-soap $\\mathbf{R}$, quantitatively.\nStarting with one mole of $\\mathbf{Q}$, the amount of $\\mathbf{R}$ produced in gram is ______.\n\n[Given, atomic weight: H = 1, C = 12, N = 14, O = 16, Na = 23, Cl = 35, Ca = 40]"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Paper 1",
+     "title": "Counting diamagnetic complexes",
+     "problem": "Question 13 (Paper 1, Section 3: non-negative integer answer).\n\nAmong the following complexes, the total number of diamagnetic species is ______.\n\n$\\ce{[Mn(NH3)6]^{3+}}$, $\\ce{[MnCl6]^{3-}}$, $\\ce{[FeF6]^{3-}}$, $\\ce{[CoF6]^{3-}}$, $\\ce{[Fe(NH3)6]^{3+}}$, and $\\ce{[Co(en)3]^{3+}}$\n\n[Given, atomic number: Mn = 25, Fe = 26, Co = 27;\nen = $\\ce{H2NCH2CH2NH2}$]"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Paper 1",
+     "title": "Conductometric titration curves",
+     "problem": "Question 14 (Paper 1, Section 4: matching list).\n\nIn a conductometric titration, small volume of titrant of higher concentration is added stepwise to a larger volume of titrate of much lower concentration, and the conductance is measured after each addition.\nThe limiting ionic conductivity ($\\Lambda_0$) values (in $\\mathrm{mS\\,m^2\\,mol^{-1}}$) for different ions in aqueous solutions are given below:\n\n$$\\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \\hline \\text{Ions} & \\ce{Ag+} & \\ce{K+} & \\ce{Na+} & \\ce{H+} & \\ce{NO3-} & \\ce{Cl-} & \\ce{SO4^{2-}} & \\ce{OH-} & \\ce{CH3COO-} \\\\ \\hline \\Lambda_0 & 6.2 & 7.4 & 5.0 & 35.0 & 7.2 & 7.6 & 16.0 & 19.9 & 4.1 \\\\ \\hline \\end{array}$$\n\nFor different combinations of titrates and titrants given in List-I, the graphs of 'conductance' versus 'volume of titrant' are given in List-II.\nMatch each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\nList-I\n\n(P) Titrate: $\\ce{KCl}$; Titrant: $\\ce{AgNO3}$\n(Q) Titrate: $\\ce{AgNO3}$; Titrant: $\\ce{KCl}$\n(R) Titrate: $\\ce{NaOH}$; Titrant: $\\ce{HCl}$\n(S) Titrate: $\\ce{NaOH}$; Titrant: $\\ce{CH3COOH}$\n\nList-II\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-14-fig1.png\n\n(A) P-4, Q-3, R-2, S-5\n(B) P-2, Q-4, R-3, S-1\n(C) P-3, Q-4, R-2, S-5\n(D) P-4, Q-3, R-2, S-1"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Paper 1",
+     "title": "VSEPR geometries of xenon compounds",
+     "problem": "Question 15 (Paper 1, Section 4: matching list).\n\nBased on VSEPR model, match the xenon compounds given in List-I with the corresponding geometries and the number of lone pairs on xenon given in List-II and choose the correct option.\n\nList-I\n\n(P) $\\ce{XeF2}$\n(Q) $\\ce{XeF4}$\n(R) $\\ce{XeO3}$\n(S) $\\ce{XeO3F2}$\n\nList-II\n\n(1) Trigonal bipyramidal and two lone pair of electrons\n(2) Tetrahedral and one lone pair of electrons\n(3) Octahedral and two lone pair of electrons\n(4) Trigonal bipyramidal and no lone pair of electrons\n(5) Trigonal bipyramidal and three lone pair of electrons\n\n(A) P-5, Q-2, R-3, S-1\n(B) P-5, Q-3, R-2, S-4\n(C) P-4, Q-3, R-2, S-1\n(D) P-4, Q-2, R-5, S-3"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Paper 1",
+     "title": "Reaction sequences to cyclopentane diols",
+     "problem": "Question 16 (Paper 1, Section 4: matching list).\n\nList-I contains various reaction sequences and List-II contains the possible products. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-16-fig1.png\n\n(A) P-3, Q-5, R-4, S-1\n(B) P-3, Q-2, R-4, S-1\n(C) P-3, Q-5, R-1, S-4\n(D) P-5, Q-2, R-4, S-1"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Paper 1",
+     "title": "Reaction sequences to nitrophenols",
+     "problem": "Question 17 (Paper 1, Section 4: matching list).\n\nList-I contains various reaction sequences and List-II contains different phenolic compounds. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-1-17-fig1.png\n\n(A) P-2, Q-3, R-4, S-5\n(B) P-2, Q-3, R-5, S-1\n(C) P-3, Q-5, R-4, S-1\n(D) P-3, Q-2, R-5, S-4"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Paper 2",
+     "title": "Highest electron kinetic energy in the Bohr model",
+     "problem": "Question 1 (Paper 2, Section 1: one option correct).\n\nAccording to Bohr's model, the highest kinetic energy is associated with the electron in the\n\n(A) first orbit of H atom\n(B) first orbit of $\\ce{He+}$\n(C) second orbit of $\\ce{He+}$\n(D) second orbit of $\\ce{Li^{2+}}$"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Paper 2",
+     "title": "Composition of a metal-deficient oxide",
+     "problem": "Question 2 (Paper 2, Section 1: one option correct).\n\nIn a metal deficient oxide sample, $\\mathbf{M}_{\\mathbf{X}}\\mathbf{Y}_2\\mathbf{O}_4$ ($\\mathbf{M}$ and $\\mathbf{Y}$ are metals), $\\mathbf{M}$ is present in both +2 and +3 oxidation states and $\\mathbf{Y}$ is in +3 oxidation state. If the fraction of $\\mathbf{M}^{2+}$ ions present in $\\mathbf{M}$ is $\\dfrac{1}{3}$, the value of $\\mathbf{X}$ is _____.\n\n(A) 0.25\n(B) 0.33\n(C) 0.67\n(D) 0.75"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Paper 2",
+     "title": "From L-glucose to a chlorinated product",
+     "problem": "Question 3 (Paper 2, Section 1: one option correct).\n\nIn the following reaction sequence, the major product $\\mathbf{Q}$ is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-2-3-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-2-3-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Paper 2",
+     "title": "Fluorination of phosphorus pentachloride",
+     "problem": "Question 4 (Paper 2, Section 1: one option correct).\n\nThe species formed on fluorination of phosphorus pentachloride in a polar organic solvent are\n\n(A) $\\ce{[PF4]+[PF6]-}$ and $\\ce{[PCl4]+[PF6]-}$\n(B) $\\ce{[PCl4]+[PCl4F2]-}$ and $\\ce{[PCl4]+[PF6]-}$\n(C) $\\ce{PF3}$ and $\\ce{PCl3}$\n(D) $\\ce{PF5}$ and $\\ce{PCl3}$"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Paper 2",
+     "title": "Hydrazine–oxygen fuel cell",
+     "problem": "Question 5 (Paper 2, Section 2: one or more options correct).\n\nAn aqueous solution of hydrazine ($\\ce{N2H4}$) is electrochemically oxidized by $\\ce{O2}$, thereby releasing chemical energy in the form of electrical energy. One of the products generated from the electrochemical reaction is $\\ce{N2(g)}$.\n\nChoose the correct statement(s) about the above process\n\n(A) $\\ce{OH-}$ ions react with $\\ce{N2H4}$ at the anode to form $\\ce{N2(g)}$ and water, releasing 4 electrons to the anode.\n(B) At the cathode, $\\ce{N2H4}$ breaks to $\\ce{N2(g)}$ and nascent hydrogen released at the electrode reacts with oxygen to form water.\n(C) At the cathode, molecular oxygen gets converted to $\\ce{OH-}$.\n(D) Oxides of nitrogen are major by-products of the electrochemical process."
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Paper 2",
+     "title": "Reagent sequence for a prostaglandin-type conversion",
+     "problem": "Question 6 (Paper 2, Section 2: one or more options correct).\n\nThe option(s) with correct sequence of reagents for the conversion of $\\mathbf{P}$ to $\\mathbf{Q}$ is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-2-6-fig1.png\n\n(A) i) Lindlar's catalyst, $\\ce{H2}$; ii) $\\ce{SnCl2/HCl}$; iii) $\\ce{NaBH4}$; iv) $\\ce{H3O+}$\n(B) i) Lindlar's catalyst, $\\ce{H2}$; ii) $\\ce{H3O+}$; iii) $\\ce{SnCl2/HCl}$; iv) $\\ce{NaBH4}$\n(C) i) $\\ce{NaBH4}$; ii) $\\ce{SnCl2/HCl}$; iii) $\\ce{H3O+}$; iv) Lindlar's catalyst, $\\ce{H2}$\n(D) i) Lindlar's catalyst, $\\ce{H2}$; ii) $\\ce{NaBH4}$; iii) $\\ce{SnCl2/HCl}$; iv) $\\ce{H3O+}$"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Paper 2",
+     "title": "Sulfur oxoacids with a peroxide linkage",
+     "problem": "Question 7 (Paper 2, Section 2: one or more options correct).\n\nThe compound(s) having peroxide linkage is(are)\n\n(A) $\\ce{H2S2O7}$\n(B) $\\ce{H2S2O8}$\n(C) $\\ce{H2S2O5}$\n(D) $\\ce{H2SO5}$"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Paper 2",
+     "title": "Adsorption of acetic acid on charcoal",
+     "problem": "Question 8 (Paper 2, Section 3: non-negative integer answer).\n\nTo form a complete monolayer of acetic acid on $1\\,\\mathrm{g}$ of charcoal, $100\\,\\mathrm{mL}$ of $0.5\\,\\mathrm{M}$ acetic acid was used. Some of the acetic acid remained unadsorbed. To neutralize the unadsorbed acetic acid, $40\\,\\mathrm{mL}$ of $1\\,\\mathrm{M}$ $\\ce{NaOH}$ solution was required. If each molecule of acetic acid occupies $\\mathbf{P}\\times10^{-23}\\,\\mathrm{m^2}$ surface area on charcoal, the value of $\\mathbf{P}$ is _____.\n[Use given data: Surface area of charcoal $= 1.5\\times10^{2}\\,\\mathrm{m^2\\,g^{-1}}$; Avogadro's number $(N_\\mathrm{A}) = 6.0\\times10^{23}\\,\\mathrm{mol^{-1}}$]"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Paper 2",
+     "title": "Boiling-point elevation with van 't Hoff factors",
+     "problem": "Question 9 (Paper 2, Section 3: non-negative integer answer).\n\nVessel-1 contains $\\mathbf{w_2}$ g of a non-volatile solute $\\mathbf{X}$ dissolved in $\\mathbf{w_1}$ g of water. Vessel-2 contains $\\mathbf{w_2}$ g of another non-volatile solute $\\mathbf{Y}$ dissolved in $\\mathbf{w_1}$ g of water. Both the vessels are at the same temperature and pressure. The molar mass of $\\mathbf{X}$ is 80% of that of $\\mathbf{Y}$. The van't Hoff factor for $\\mathbf{X}$ is 1.2 times of that of $\\mathbf{Y}$ for their respective concentrations.\nThe elevation of boiling point for solution in Vessel-1 is _____ % of the solution in Vessel-2."
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Paper 2",
+     "title": "Energy to separate the strands of a DNA duplex",
+     "problem": "Question 10 (Paper 2, Section 3: non-negative integer answer).\n\nFor a double strand DNA, one strand is given below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2024-2-10-fig1.png\n\nThe amount of energy required to split the double strand DNA into two single strands is _____ $\\mathrm{kcal\\,mol^{-1}}$.\n[Given: Average energy per H-bond for A-T base pair = $1.0\\,\\mathrm{kcal\\,mol^{-1}}$, G-C base pair = $1.5\\,\\mathrm{kcal\\,mol^{-1}}$, and A-U base pair = $1.25\\,\\mathrm{kcal\\,mol^{-1}}$. Ignore electrostatic repulsion between the phosphate groups.]"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Paper 2",
+     "title": "Age of a uranium sample from the Pb-206/U-238 ratio",
+     "problem": "Question 11 (Paper 2, Section 3: non-negative integer answer).\n\nA sample initially contains only U-238 isotope of uranium. With time, some of the U-238 radioactively decays into Pb-206 while the rest of it remains undisintegrated.\nWhen the age of the sample is $\\mathbf{P}\\times10^{8}$ years, the ratio of mass of Pb-206 to that of U-238 in the sample is found to be 7. The value of $\\mathbf{P}$ is _____.\n[Given: Half-life of U-238 is $4.5\\times10^{9}$ years; $\\log_e 2 = 0.693$]"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Paper 2",
+     "title": "Counting tetrahedral species",
+     "problem": "Question 12 (Paper 2, Section 3: non-negative integer answer).\n\nAmong $\\ce{[Co(CN)4]^{4-}}$, $\\ce{[Co(CO)3(NO)]}$, $\\ce{XeF4}$, $\\ce{[PCl4]+}$, $\\ce{[PdCl4]^{2-}}$, $\\ce{[ICl4]-}$, $\\ce{[Cu(CN)4]^{3-}}$ and $\\ce{P4}$ the total number of species with tetrahedral geometry is _____."
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Paper 2",
+     "title": "Methyl groups in the product S",
+     "problem": "Question 13 (Paper 2, Section 3: non-negative integer answer).\n\nAn organic compound $\\mathbf{P}$ having molecular formula $\\ce{C6H6O3}$ gives ferric chloride test and does not have intramolecular hydrogen bond. The compound $\\mathbf{P}$ reacts with 3 equivalents of $\\ce{NH2OH}$ to produce oxime $\\mathbf{Q}$. Treatment of $\\mathbf{P}$ with excess methyl iodide in the presence of $\\ce{KOH}$ produces compound $\\mathbf{R}$ as the major product. Reaction of $\\mathbf{R}$ with excess iso-butylmagnesium bromide followed by treatment with $\\ce{H3O+}$ gives compound $\\mathbf{S}$ as the major product.\n\nThe total number of methyl ($\\ce{-CH3}$) group(s) in compound $\\mathbf{S}$ is _____."
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Paper 2",
+     "title": "Oxygen atoms in the iodoform-positive products S and T",
+     "problem": "Question 14 (Paper 2, Section 4: numerical answer, two decimal places).\n\nParagraph (common to Questions 14 and 15): An organic compound $\\mathbf{P}$ with molecular formula $\\ce{C9H18O2}$ decolorizes bromine water and also shows positive iodoform test. $\\mathbf{P}$ on ozonolysis followed by treatment with $\\ce{H2O2}$ gives $\\mathbf{Q}$ and $\\mathbf{R}$. While compound $\\mathbf{Q}$ shows positive iodoform test, compound $\\mathbf{R}$ does not give positive iodoform test. $\\mathbf{Q}$ and $\\mathbf{R}$ on oxidation with pyridinium chlorochromate (PCC) followed by heating give $\\mathbf{S}$ and $\\mathbf{T}$, respectively. Both $\\mathbf{S}$ and $\\mathbf{T}$ show positive iodoform test.\n\nComplete copolymerization of 500 moles of $\\mathbf{Q}$ and 500 moles of $\\mathbf{R}$ gives one mole of a single acyclic copolymer $\\mathbf{U}$.\n\n[Given, atomic mass: H = 1, C = 12, O = 16]\n\nSum of number of oxygen atoms in $\\mathbf{S}$ and $\\mathbf{T}$ is _____."
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Paper 2",
+     "title": "Molecular weight of the copolymer U",
+     "problem": "Question 15 (Paper 2, Section 4: numerical answer, two decimal places).\n\nParagraph (common to Questions 14 and 15): An organic compound $\\mathbf{P}$ with molecular formula $\\ce{C9H18O2}$ decolorizes bromine water and also shows positive iodoform test. $\\mathbf{P}$ on ozonolysis followed by treatment with $\\ce{H2O2}$ gives $\\mathbf{Q}$ and $\\mathbf{R}$. While compound $\\mathbf{Q}$ shows positive iodoform test, compound $\\mathbf{R}$ does not give positive iodoform test. $\\mathbf{Q}$ and $\\mathbf{R}$ on oxidation with pyridinium chlorochromate (PCC) followed by heating give $\\mathbf{S}$ and $\\mathbf{T}$, respectively. Both $\\mathbf{S}$ and $\\mathbf{T}$ show positive iodoform test.\n\nComplete copolymerization of 500 moles of $\\mathbf{Q}$ and 500 moles of $\\mathbf{R}$ gives one mole of a single acyclic copolymer $\\mathbf{U}$.\n\n[Given, atomic mass: H = 1, C = 12, O = 16]\n\nThe molecular weight of $\\mathbf{U}$ is _____."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Paper 2",
+     "title": "Potassium iodide and potassium ferricyanide",
+     "problem": "Question 16 (Paper 2, Section 4: numerical answer, two decimal places).\n\nParagraph (common to Questions 16 and 17): When potassium iodide is added to an aqueous solution of potassium ferricyanide, a reversible reaction is observed in which a complex $\\mathbf{P}$ is formed. In a strong acidic medium, the equilibrium shifts completely towards $\\mathbf{P}$. Addition of zinc chloride to $\\mathbf{P}$ in a slightly acidic medium results in a sparingly soluble complex $\\mathbf{Q}$.\n\nThe number of moles of potassium iodide required to produce two moles of $\\mathbf{P}$ is _____."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Paper 2",
+     "title": "Zinc ions in the sparingly soluble complex Q",
+     "problem": "Question 17 (Paper 2, Section 4: numerical answer, two decimal places).\n\nParagraph (common to Questions 16 and 17): When potassium iodide is added to an aqueous solution of potassium ferricyanide, a reversible reaction is observed in which a complex $\\mathbf{P}$ is formed. In a strong acidic medium, the equilibrium shifts completely towards $\\mathbf{P}$. Addition of zinc chloride to $\\mathbf{P}$ in a slightly acidic medium results in a sparingly soluble complex $\\mathbf{Q}$.\n\nThe number of zinc ions present in the molecular formula of $\\mathbf{Q}$ is _____."
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Paper 1",
+     "title": "Thermal decomposition of ammonium nitrite and nitrate",
+     "problem": "Question 1 (Paper 1, Section 1: one option correct).\n\nThe heating of $\\ce{NH4NO2}$ at $60-70\\,^\\circ\\mathrm{C}$ and $\\ce{NH4NO3}$ at $200-250\\,^\\circ\\mathrm{C}$ is associated with the formation of nitrogen containing compounds $\\mathbf{X}$ and $\\mathbf{Y}$, respectively. $\\mathbf{X}$ and $\\mathbf{Y}$, respectively, are\n\n(A) $\\ce{N2}$ and $\\ce{N2O}$\n(B) $\\ce{NH3}$ and $\\ce{NO2}$\n(C) $\\ce{NO}$ and $\\ce{N2O}$\n(D) $\\ce{N2}$ and $\\ce{NH3}$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Paper 1",
+     "title": "Absorption maxima of cobalt(III) complexes",
+     "problem": "Question 2 (Paper 1, Section 1: one option correct).\n\nThe correct order of the wavelength maxima of the absorption band in the ultraviolet-visible region for the given complexes is\n\n(A) $\\ce{[Co(CN)6]^{3-}} < \\ce{[Co(NH3)6]^{3+}} < \\ce{[Co(NH3)5(H2O)]^{3+}} < \\ce{[Co(NH3)5(Cl)]^{2+}}$\n(B) $\\ce{[Co(NH3)5(Cl)]^{2+}} < \\ce{[Co(NH3)5(H2O)]^{3+}} < \\ce{[Co(NH3)6]^{3+}} < \\ce{[Co(CN)6]^{3-}}$\n(C) $\\ce{[Co(CN)6]^{3-}} < \\ce{[Co(NH3)5(Cl)]^{2+}} < \\ce{[Co(NH3)5(H2O)]^{3+}} < \\ce{[Co(NH3)6]^{3+}}$\n(D) $\\ce{[Co(NH3)6]^{3+}} < \\ce{[Co(CN)6]^{3-}} < \\ce{[Co(NH3)5(Cl)]^{2+}} < \\ce{[Co(NH3)5(H2O)]^{3+}}$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Paper 1",
+     "title": "Permanganate and iodide in neutral medium",
+     "problem": "Question 3 (Paper 1, Section 1: one option correct).\n\nOne of the products formed from the reaction of permanganate ion with iodide ion in neutral aqueous medium is\n\n(A) $\\ce{I2}$\n(B) $\\ce{IO3^-}$\n(C) $\\ce{IO4^-}$\n(D) $\\ce{IO2^-}$"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Paper 1",
+     "title": "Most acidic C–H in substituted fulvenes",
+     "problem": "Question 4 (Paper 1, Section 1: one option correct).\n\nConsider the depicted hydrogen ($\\mathbf{H}$) in the hydrocarbons given below. The most acidic hydrogen ($\\mathbf{H}$) is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-1-4-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Paper 1",
+     "title": "Molecular orbitals of homonuclear diatomics",
+     "problem": "Question 5 (Paper 1, Section 2: one or more options correct).\n\nRegarding the molecular orbital (MO) energy levels for homonuclear diatomic molecules, the INCORRECT statement(s) is(are)\n\n(A) Bond order of $\\ce{Ne2}$ is zero.\n(B) The highest occupied molecular orbital (HOMO) of $\\ce{F2}$ is $\\sigma$-type.\n(C) Bond energy of $\\ce{O2^+}$ is smaller than the bond energy of $\\ce{O2}$.\n(D) Bond length of $\\ce{Li2}$ is larger than the bond length of $\\ce{B2}$."
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Paper 1",
+     "title": "Diamagnetic lanthanide ions",
+     "problem": "Question 6 (Paper 1, Section 2: one or more options correct).\n\nThe pair(s) of diamagnetic ions is(are)\n\n(A) $\\ce{La^{3+}}$, $\\ce{Ce^{4+}}$\n(B) $\\ce{Yb^{2+}}$, $\\ce{Lu^{3+}}$\n(C) $\\ce{La^{2+}}$, $\\ce{Ce^{3+}}$\n(D) $\\ce{Yb^{3+}}$, $\\ce{Lu^{2+}}$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Paper 1",
+     "title": "Halocyclohexanes from cyclohexene",
+     "problem": "Question 7 (Paper 1, Section 2: one or more options correct).\n\nFor the reaction sequence given below, the correct statement(s) is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-1-7-fig1.png\n\n(In the options, X is any atom other than carbon and hydrogen, and it is different in $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$)\n\n(A) $\\ce{C-X}$ bond length in $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$ follows the order $\\mathbf{Q} > \\mathbf{R} > \\mathbf{P}$.\n(B) $\\ce{C-X}$ bond enthalpy in $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$ follows the order $\\mathbf{R} > \\mathbf{P} > \\mathbf{Q}$.\n(C) Relative reactivity toward $\\mathrm{S_N2}$ reaction in $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$ follows the order $\\mathbf{P} > \\mathbf{R} > \\mathbf{Q}$.\n(D) $\\mathrm{p}K_\\mathrm{a}$ value of the conjugate acids of the leaving groups in $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$ follows the order $\\mathbf{R} > \\mathbf{Q} > \\mathbf{P}$."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Paper 1",
+     "title": "Current for reducing dichromate",
+     "problem": "Question 8 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nIn an electrochemical cell, dichromate ions in aqueous acidic medium are reduced to $\\ce{Cr^{3+}}$. The current (in amperes) that flows through the cell for $48.25$ minutes to produce $1$ mole of $\\ce{Cr^{3+}}$ is ______.\n\nUse: $1$ Faraday $= 96500\\,\\mathrm{C\\,mol^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Paper 1",
+     "title": "pH of a very weak acid solution",
+     "problem": "Question 9 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nAt $25\\,^\\circ\\mathrm{C}$, the concentration of $\\ce{H+}$ ions in $1.00\\times10^{-3}\\,\\mathrm{M}$ aqueous solution of a weak monobasic acid having acid dissociation constant ($K_\\mathrm{a}$) of $4.00\\times10^{-11}$ is $\\mathbf{X}\\times10^{-7}\\,\\mathrm{M}$. The value of $\\mathbf{X}$ is ______.\n\nUse: Ionic product of water ($K_\\mathrm{w}$) $= 1.00\\times10^{-14}$ at $25\\,^\\circ\\mathrm{C}$"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Paper 1",
+     "title": "Van der Waals equation as a cubic",
+     "problem": "Question 10 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nMolar volume ($V_\\mathrm{m}$) of a van der Waals gas can be calculated by expressing the van der Waals equation as a cubic equation with $V_\\mathrm{m}$ as the variable. The ratio (in $\\mathrm{mol\\,dm^{-3}}$) of the coefficient of $V_\\mathrm{m}^2$ to the coefficient of $V_\\mathrm{m}$ for a gas having van der Waals constants $a = 6.0\\,\\mathrm{dm^6\\,atm\\,mol^{-2}}$ and $b = 0.060\\,\\mathrm{dm^3\\,mol^{-1}}$ at $300\\,\\mathrm{K}$ and $300\\,\\mathrm{atm}$ is ______.\n\nUse: Universal gas constant (R) $= 0.082\\,\\mathrm{dm^3\\,atm\\,mol^{-1}\\,K^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Paper 1",
+     "title": "Expansion work in the electrolysis of water",
+     "problem": "Question 11 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nConsidering ideal gas behavior, the expansion work done (in kJ) when $144\\,\\mathrm{g}$ of water is electrolyzed completely under constant pressure at $300\\,\\mathrm{K}$ is ______.\n\nUse: Universal gas constant (R) $= 8.3\\,\\mathrm{J\\,K^{-1}\\,mol^{-1}}$; Atomic mass (in amu): H $= 1$, O $= 16$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Paper 1",
+     "title": "Dumas nitrogen estimation of a nylon monomer",
+     "problem": "Question 12 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nThe monomer ($\\mathbf{X}$) involved in the synthesis of Nylon 6,6 gives positive carbylamine test. If $10$ moles of $\\mathbf{X}$ are analyzed using Dumas method, the amount (in grams) of nitrogen gas evolved is ______.\n\nUse: Atomic mass of N (in amu) $= 14$"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Paper 1",
+     "title": "Multistep synthesis with yields",
+     "problem": "Question 13 (Paper 1, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nThe reaction sequence given below is carried out with $16$ moles of $\\mathbf{X}$. The yield of the major product in each step is given below the product in parentheses. The amount (in grams) of $\\mathbf{S}$ produced is ______.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-1-13-fig1.png\n\nUse: Atomic mass (in amu): H $= 1$, C $= 12$, O $= 16$, Br $= 80$"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Paper 1",
+     "title": "Group reagents in qualitative cation analysis",
+     "problem": "Question 14 (Paper 1, Section 4: matching list).\n\nThe correct match of the group reagents in List-I for precipitating the metal ion given in List-II from solutions, is\n\nList-I\n(P) Passing $\\ce{H2S}$ in the presence of $\\ce{NH4OH}$\n(Q) $\\ce{(NH4)2CO3}$ in the presence of $\\ce{NH4OH}$\n(R) $\\ce{NH4OH}$ in the presence of $\\ce{NH4Cl}$\n(S) Passing $\\ce{H2S}$ in the presence of dilute $\\ce{HCl}$\n\nList-II\n(1) $\\ce{Cu^{2+}}$\n(2) $\\ce{Al^{3+}}$\n(3) $\\ce{Mn^{2+}}$\n(4) $\\ce{Ba^{2+}}$\n(5) $\\ce{Mg^{2+}}$\n\n(A) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$\n(B) $\\mathrm{P} \\to 4$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 3$; $\\mathrm{S} \\to 1$\n(C) $\\mathrm{P} \\to 3$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 5$\n(D) $\\mathrm{P} \\to 5$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 4$"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Paper 1",
+     "title": "Named reactions and their substrates",
+     "problem": "Question 15 (Paper 1, Section 4: matching list).\n\nThe major products obtained from the reactions in List-II are the reactants for the named reactions mentioned in List-I. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.\n\nList-I\n(P) Stephen reaction\n(Q) Sandmeyer reaction\n(R) Hoffmann bromamide degradation reaction\n(S) Cannizzaro reaction\n\nList-II\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-1-15-fig1.png\n\n(A) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 3$\n(B) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 1$\n(C) $\\mathrm{P} \\to 5$; $\\mathrm{Q} \\to 3$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$\n(D) $\\mathrm{P} \\to 5$; $\\mathrm{Q} \\to 4$; $\\mathrm{R} \\to 2$; $\\mathrm{S} \\to 1$"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Paper 1",
+     "title": "Tests for amines, hydrazines and peptides",
+     "problem": "Question 16 (Paper 1, Section 4: matching list).\n\nMatch the compounds in List-I with the appropriate observations in List-II and choose the correct option.\n\nList-I\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-1-16-fig1.png\n\nList-II\n(1) Reaction with phenyl diazonium salt gives yellow dye.\n(2) Reaction with ninhydrin gives purple color and it also reacts with $\\ce{FeCl3}$ to give violet color.\n(3) Reaction with glucose will give corresponding hydrazone.\n(4) Lassiagne extract of the compound treated with dilute $\\ce{HCl}$ followed by addition of aqueous $\\ce{FeCl3}$ gives blood red color.\n(5) After complete hydrolysis, it will give ninhydrin test and it DOES NOT give positive phthalein dye test.\n\n(A) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 5$; $\\mathrm{R} \\to 4$; $\\mathrm{S} \\to 2$\n(B) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 5$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 3$\n(C) $\\mathrm{P} \\to 5$; $\\mathrm{Q} \\to 2$; $\\mathrm{R} \\to 1$; $\\mathrm{S} \\to 4$\n(D) $\\mathrm{P} \\to 2$; $\\mathrm{Q} \\to 1$; $\\mathrm{R} \\to 5$; $\\mathrm{S} \\to 3$"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Paper 2",
+     "title": "Sodium nitroprusside test for sulphide",
+     "problem": "Question 1 (Paper 2, Section 1: one option correct).\n\nDuring sodium nitroprusside test of sulphide ion in an aqueous solution, one of the ligands coordinated to the metal ion is converted to\n\n(A) $\\ce{NOS^-}$\n(B) $\\ce{SCN^-}$\n(C) $\\ce{SNO^-}$\n(D) $\\ce{NCS^-}$"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Paper 2",
+     "title": "Hydrolysis of interhalogen compounds",
+     "problem": "Question 2 (Paper 2, Section 1: one option correct).\n\nThe complete hydrolysis of $\\ce{ICl}$, $\\ce{ClF3}$ and $\\ce{BrF5}$, respectively, gives\n\n(A) $\\ce{IO^-}$, $\\ce{ClO2^-}$ and $\\ce{BrO3^-}$\n(B) $\\ce{IO3^-}$, $\\ce{ClO2^-}$ and $\\ce{BrO3^-}$\n(C) $\\ce{IO^-}$, $\\ce{ClO^-}$ and $\\ce{BrO2^-}$\n(D) $\\ce{IO3^-}$, $\\ce{ClO4^-}$ and $\\ce{BrO2^-}$"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Paper 2",
+     "title": "Unsaturated carbons in four reaction products",
+     "problem": "Question 3 (Paper 2, Section 1: one option correct).\n\nMonocyclic compounds $\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$ and $\\mathbf{S}$ are the major products formed in the reaction sequences given below.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-2-3-fig1.png\n\nThe product having the highest number of unsaturated carbon atom(s) is\n\n(A) $\\mathbf{P}$\n(B) $\\mathbf{Q}$\n(C) $\\mathbf{R}$\n(D) $\\mathbf{S}$"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Paper 2",
+     "title": "Routes to a dicarboxylic acid",
+     "problem": "Question 4 (Paper 2, Section 1: one option correct).\n\nThe correct reaction/reaction sequence that would produce a dicarboxylic acid as the major product is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-2-4-fig1.png\n\n[Options (A)–(D) are the reactions shown in the figure.]"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Paper 2",
+     "title": "Intermolecular forces",
+     "problem": "Question 5 (Paper 2, Section 2: one or more options correct).\n\nThe correct statement(s) about intermolecular forces is(are)\n\n(A) The potential energy between two point charges approaches zero more rapidly than the potential energy between a point dipole and a point charge as the distance between them approaches infinity.\n(B) The average potential energy of two rotating polar molecules that are separated by a distance $r$ has $1/r^3$ dependence.\n(C) The dipole-induced dipole average interaction energy is independent of temperature.\n(D) Nonpolar molecules attract one another even though neither has a permanent dipole moment."
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Paper 2",
+     "title": "P–H bonds in phosphorus oxoacids",
+     "problem": "Question 6 (Paper 2, Section 2: one or more options correct).\n\nThe compound(s) with $\\ce{P-H}$ bond(s) is(are)\n\n(A) $\\ce{H3PO4}$\n(B) $\\ce{H3PO3}$\n(C) $\\ce{H4P2O7}$\n(D) $\\ce{H3PO2}$"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Paper 2",
+     "title": "From tetralin to an amine",
+     "problem": "Question 7 (Paper 2, Section 2: one or more options correct).\n\nFor the reaction sequence given below, the correct statement(s) is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-2-7-fig1.png\n\n(A) Both $\\mathbf{X}$ and $\\mathbf{Y}$ are oxygen containing compounds.\n(B) $\\mathbf{Y}$ on heating with $\\ce{CHCl3}$/$\\ce{KOH}$ forms isocyanide.\n(C) $\\mathbf{Z}$ reacts with Hinsberg's reagent.\n(D) $\\mathbf{Z}$ is an aromatic primary amine."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Paper 2",
+     "title": "Reduction of a chiral lactone and follow-up reactions",
+     "problem": "Question 8 (Paper 2, Section 2: one or more options correct).\n\nFor the reaction sequence given below, the correct statement(s) is(are)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2025-2-8-fig1.png\n\n(A) $\\mathbf{P}$ is optically active.\n(B) $\\mathbf{S}$ gives Bayer's test.\n(C) $\\mathbf{Q}$ gives effervescence with aq. $\\ce{NaHCO3}$.\n(D) $\\mathbf{R}$ is an alkyne."
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Paper 2",
+     "title": "Density of a ccp metal",
+     "problem": "Question 9 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nThe density (in $\\mathrm{g\\,cm^{-3}}$) of the metal which forms a cubic close packed (ccp) lattice with an axial distance (edge length) equal to $400\\,\\mathrm{pm}$ is ______.\n\nUse: Atomic mass of metal $= 105.6$ amu and Avogadro's constant $= 6\\times10^{23}\\,\\mathrm{mol^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Paper 2",
+     "title": "Solubility of barium iodate with common ions",
+     "problem": "Question 10 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nThe solubility of barium iodate in an aqueous solution prepared by mixing $200\\,\\mathrm{mL}$ of $0.010\\,\\mathrm{M}$ barium nitrate with $100\\,\\mathrm{mL}$ of $0.10\\,\\mathrm{M}$ sodium iodate is $\\mathbf{X}\\times10^{-6}\\,\\mathrm{mol\\,dm^{-3}}$. The value of $\\mathbf{X}$ is ______.\n\nUse: Solubility product constant ($K_\\mathrm{sp}$) of barium iodate $= 1.58\\times10^{-9}$"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Paper 2",
+     "title": "Freundlich adsorption of phenol on fly ash",
+     "problem": "Question 11 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nAdsorption of phenol from its aqueous solution on to fly ash obeys Freundlich isotherm. At a given temperature, from $10\\,\\mathrm{mg\\,g^{-1}}$ and $16\\,\\mathrm{mg\\,g^{-1}}$ aqueous phenol solutions, the concentrations of adsorbed phenol are measured to be $4\\,\\mathrm{mg\\,g^{-1}}$ and $10\\,\\mathrm{mg\\,g^{-1}}$, respectively. At this temperature, the concentration (in $\\mathrm{mg\\,g^{-1}}$) of adsorbed phenol from $20\\,\\mathrm{mg\\,g^{-1}}$ aqueous solution of phenol will be ______.\n\nUse: $\\log_{10} 2 = 0.3$"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Paper 2",
+     "title": "Error of the pseudo-first-order approximation",
+     "problem": "Question 12 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nConsider a reaction $A + R \\longrightarrow \\mathit{Product}$. The rate of this reaction is measured to be $k[A][R]$. At the start of the reaction, the concentration of $R$, $[R]_0$, is 10-times the concentration of $A$, $[A]_0$. The reaction can be considered to be a pseudo first order reaction with assumption that $k[R] = k'$ is constant. Due to this assumption, the relative error (in %) in the rate when this reaction is $40\\,\\%$ complete, is ______.\n\n[$k$ and $k'$ represent corresponding rate constants]"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Paper 2",
+     "title": "Molar mass of a macromolecule from osmotic pressure",
+     "problem": "Question 13 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nAt $300\\,\\mathrm{K}$, an ideal dilute solution of a macromolecule exerts osmotic pressure that is expressed in terms of the height (h) of the solution (density $= 1.00\\,\\mathrm{g\\,cm^{-3}}$) where h is equal to $2.00\\,\\mathrm{cm}$. If the concentration of the dilute solution of the macromolecule is $2.00\\,\\mathrm{g\\,dm^{-3}}$, the molar mass of the macromolecule is calculated to be $\\mathbf{X}\\times10^{4}\\,\\mathrm{g\\,mol^{-1}}$. The value of $\\mathbf{X}$ is ______.\n\nUse: Universal gas constant (R) $= 8.3\\,\\mathrm{J\\,K^{-1}\\,mol^{-1}}$ and acceleration due to gravity ($g$) $= 10\\,\\mathrm{m\\,s^{-2}}$"
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Paper 2",
+     "title": "Butane fuel cell potential",
+     "problem": "Question 14 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nAn electrochemical cell is fueled by the combustion of butane at $1\\,\\mathrm{bar}$ and $298\\,\\mathrm{K}$. Its cell potential is $\\dfrac{\\mathbf{X}}{F}\\times10^{3}$ volts, where $F$ is the Faraday constant. The value of $\\mathbf{X}$ is ______.\n\nUse: Standard Gibbs energies of formation at $298\\,\\mathrm{K}$ are: $\\Delta_f G^{o}_{\\mathrm{CO_2}} = -394\\,\\mathrm{kJ\\,mol^{-1}}$; $\\Delta_f G^{o}_{\\mathrm{water}} = -237\\,\\mathrm{kJ\\,mol^{-1}}$; $\\Delta_f G^{o}_{\\mathrm{butane}} = -18\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Paper 2",
+     "title": "Spin-only moments of two manganese complexes",
+     "problem": "Question 15 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nThe sum of the spin only magnetic moment values (in B.M.) of $\\ce{[Mn(Br)6]^{3-}}$ and $\\ce{[Mn(CN)6]^{3-}}$ is ______."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Paper 2",
+     "title": "Composition of a linear octasaccharide",
+     "problem": "Question 16 (Paper 2, Section 3: numerical answer, truncated/rounded off to two decimal places).\n\nA linear octasaccharide (molar mass $= 1024\\,\\mathrm{g\\,mol^{-1}}$) on complete hydrolysis produces three monosaccharides: ribose, 2-deoxyribose and glucose. The amount of 2-deoxyribose formed is $58.26\\,\\%$ (w/w) of the total amount of the monosaccharides produced in the hydrolyzed products. The number of ribose unit(s) present in one molecule of octasaccharide is ______.\n\nUse: Molar mass (in $\\mathrm{g\\,mol^{-1}}$): ribose $= 150$, 2-deoxyribose $= 134$, glucose $= 180$; Atomic mass (in amu): H $= 1$, O $= 16$"
+    }
+   ]
+  }
+ ]
+}
