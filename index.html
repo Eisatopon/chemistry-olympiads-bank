@@ -811,7 +811,9 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .ps-item { display: grid; grid-template-columns: 2.2rem minmax(0, 1fr); gap: 4px; margin-bottom: 22px; }
 .solution-space { border-bottom: 1px solid #ddd; }
 .ps-num { font: 700 12pt/1.7 var(--serif); }
-.p-credit { margin: 8px 0 0; font: 400 .78rem/1.4 var(--sans); color: var(--muted); }
+.p-credit { margin: 0 0 10px; font: .74rem/1.45 var(--sans); color: var(--muted); }
+.yr-credit { margin-left: auto; font: .72rem/1.4 var(--sans); color: var(--muted); }
+.ps-body .p-credit { margin: 8px 0 0; }
 .provenance { margin-top: 16px; color: #4d5966; font-size: .85rem; }
 .provenance summary { cursor: pointer; }
 .provenance p, .provenance ul { margin-top: 8px; }
@@ -1058,7 +1060,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261029-credit-min';
+const DATA_VERSION = '20261030-credit-once';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', icp: 'world', icx: 'world' };
@@ -2176,6 +2178,12 @@ function creditText(p) {
     const secondary = /compilation/i.test(check?.source_format || '');
     return `© ${o.rights.replace(/^the /, '')}${secondary ? ' · from a later compilation' : ''}`;
 }
+// One credit line per competition-year (cards would repeat it); mixed years say "some".
+function groupCreditText(ps) {
+    const texts = ps.map(creditText), sec = texts.filter(t => t.includes(' · from a later compilation')).length;
+    const base = (texts[0] || '').replace(' · from a later compilation', '');
+    return !base ? '' : base + (sec === 0 ? '' : sec === texts.length ? ' · from a later compilation' : ' · some from a later compilation');
+}
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
 function problemHtml(p) {
@@ -2200,7 +2208,6 @@ function problemHtml(p) {
             </div>
         </div>
         <div class="statement">${bodyHtml(p.text, p)}</div>
-        ${creditHtml(p)}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
@@ -2267,6 +2274,8 @@ function renderResults() {
 
     const singleGroup = state.country && state.year !== null;
     if (singleGroup) {
+        const t = shown.length ? groupCreditText(shown) : '';
+        if (t) html += `<p class="p-credit">${esc(t)}</p>`;
         html += shown.map(problemHtml).join('');
     } else {
         let cur = null;
@@ -2274,7 +2283,8 @@ function renderResults() {
             const key = p.country + '|' + p.year;
             if (key !== cur) {
                 cur = key;
-                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span></div>`;
+                const t = groupCreditText(shown.filter(q => q.country === p.country && q.year === p.year));
+                html += `<div class="yr-head"><h3 class="yr">${p.year}</h3><span class="kd">${CBY[p.country].flag} ${CBY[p.country].name}</span>${t ? `<span class="yr-credit">${esc(t)}</span>` : ''}</div>`;
             }
             html += problemHtml(p);
         });
