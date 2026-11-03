@@ -1,0 +1,570 @@
+{
+ "competition": "National Standard Examination in Chemistry (NSEC), India",
+ "years": [
+  {
+   "year": 2015,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Multiple choice",
+     "title": "Volume of phosphoric acid stock for a normal solution",
+     "problem": "Question 1 (multiple choice, one correct option).\n\nA bottle of $\\ce{H3PO4}$ solution contains 70% (w/w) acid. If the density of the solution is $1.54\\,\\mathrm{g\\,cm^{-3}}$, the volume of the $\\ce{H3PO4}$ solution required to prepare 1 L of I N solution is\n\n(A) 90 mL\n(B) 45 mL\n(C) 30 mL\n(D) 23 mL"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Multiple choice",
+     "title": "Wood and cattle dung ash for cleaning utensils",
+     "problem": "Question 2 (multiple choice, one correct option).\n\nWood or cattle dung ash is used for cleaning cooking utensils in many parts of India. The statement that is not true for this ash is:\n\n(A) it largely consists of metal oxides and silicates because non-metals are removed as gaseous compounds during burning of the wood/dung cakes.\n(B) when added to water, it forms alkaline solution with pH~8 and above, which helps to remove oily substances from the utensils.\n(C) several chemical components of ash remain undissolved as solids in water and these solids help in cleaning by providing scrubbing action.\n(D) if left moist for a few hours in air, it slowly turns acidic because of oxidative decomposition"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Multiple choice",
+     "title": "Enantiomers among projection formulae",
+     "problem": "Question 3 (multiple choice, one correct option).\n\nThe two projection formulae that represent a pair of enantiomers are\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-3-fig1.png\n\n(A) I and II\n(B) III and IV\n(C) I and III\n(D) II and IV"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Multiple choice",
+     "title": "Partial neutralisation of sulphuric acid by sodium hydroxide",
+     "problem": "Question 4 (multiple choice, one correct option).\n\nWhen 1 L of 0.1 M sulphuric acid solution is allowed to react with 1 L of 0.1 M sodium hydroxide solution, the amount of sodium sulphate (anhydrous) that can be obtained from the solution formed and the concentration of $\\ce{H+}$ in the solution respectively are\n\n(A) 3.55 g, 0.1 M\n(B) 7.10 g, 0.025 M\n(C) 3.55 g, 0.025 M\n(D) 7.10 g, 0.05 M"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Multiple choice",
+     "title": "Synthesis of a substituted bromobenzoic acid from 4-bromotoluene",
+     "problem": "Question 5 (multiple choice, one correct option).\n\nThe best sequence of reactions for the following conversion is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-5-fig1.png\n\n(A) (i) 1 mol $\\ce{Br2/FeBr3}$ (ii) $\\ce{KMnO4}$, heat (iii) $\\ce{HNO3 + H2SO4}$\n(B) (i) $\\ce{HNO3 + H2SO4}$ (ii) 1 mol $\\ce{Br2/FeBr3}$ (iii) $\\ce{KMnO4}$, heat\n(C) (i) $\\ce{KMnO4}$, heat (ii) $\\ce{HNO3 + H2SO4}$ (iii) 1 mol $\\ce{Br2/FeBr3}$\n(D) (i) 1 mole $\\ce{Br2/FeBr3}$ (ii) $\\ce{HNO3 + H2SO4}$ (iii) $\\ce{KMnO4}$, heat"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Multiple choice",
+     "title": "Speed of photoelectrons from threshold and incident wavelengths",
+     "problem": "Question 6 (multiple choice, one correct option).\n\nIf $\\lambda_0$ and $\\lambda$ are the threshold wavelength and the wavelength of the incident light, respectively on a metal surface, the velocity of the photoelectron ejected from the metal surface is ($m_\\mathrm{e}$ = mass of electron, $h$ = Planck's constant, $c$ = speed of light)\n\n(A) $\\sqrt{\\dfrac{2h(\\lambda_0-\\lambda)}{m_\\mathrm{e}}}$\n(B) $\\sqrt{\\dfrac{2hc(\\lambda_0-\\lambda)}{m_\\mathrm{e}}}$\n(C) $\\sqrt{\\dfrac{2hc}{m_\\mathrm{e}}\\left(\\dfrac{\\lambda_0-\\lambda}{\\lambda\\lambda_0}\\right)}$\n(D) $\\sqrt{\\dfrac{2h}{m_\\mathrm{e}}\\left(\\dfrac{1}{\\lambda_0}-\\dfrac{1}{\\lambda}\\right)}$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Multiple choice",
+     "title": "Oxidation state of a metal from electrolysis data",
+     "problem": "Question 7 (multiple choice, one correct option).\n\nA current of 5.0 A flows for 4.0 h through an electrolytic cell containing a molten salt of metal $\\mathbf{M}$. This results in deposition of 0.25 mol of the metal $\\mathbf{M}$ at the cathode. The oxidation state of $\\mathbf{M}$ in the molten salt is (1 Faraday = $96485\\,\\mathrm{C\\,mol^{-1}}$)\n\n(A) +1\n(B) +2\n(C) +3\n(D) +4"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Multiple choice",
+     "title": "Lactone with excess Grignard reagent followed by oxidation",
+     "problem": "Question 8 (multiple choice, one correct option).\n\nThe major product (Y) of the following reaction is -\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-8-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-8-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Multiple choice",
+     "title": "Compound unreactive towards hot concentrated alkali",
+     "problem": "Question 9 (multiple choice, one correct option).\n\nThe compound that will NOT react with hot concentrated aqueous alkali at atmospheric pressure is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-9-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Multiple choice",
+     "title": "Magnetic nature of CsAuCl3",
+     "problem": "Question 10 (multiple choice, one correct option).\n\nThe nature of $\\ce{CsAuCl3}$ is (this compound contains Au in two oxidation states and there is no Au-Au bond)\n\n(A) diamagnetic\n(B) paramagnetic\n(C) ferromagnetic\n(D) antiferromagnetic"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Multiple choice",
+     "title": "Standard potential of Fe3+/Fe from two other couples",
+     "problem": "Question 11 (multiple choice, one correct option).\n\nThe standard electrode potentials, $E^0$ of $\\ce{Fe^{3+}/Fe^{2+}}$ and $\\ce{Fe^{2+}/Fe}$ at 300 K are +0.77 V and −0.44 V, respectively. The $E^0$ of $\\ce{Fe^{3+}/Fe}$ at the same temperature is\n\n(A) 1.21 V\n(B) 0.33 V\n(C) −0.036 V\n(D) 0.036 V"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Multiple choice",
+     "title": "Statements about the lanthanides",
+     "problem": "Question 12 (multiple choice, one correct option).\n\nThe incorrect statement for lanthanides among the following statements is\n\n(A) 4f and 5d orbitals are so close in energy that it is very difficult to locate the exact position of electrons in lanthanides\n(B) most common stable oxidation state is +3\n(C) tripositive lanthanide ions have characteristic color depending on nature of group with which they combine to form compounds\n(D) some lanthanide ions absorb either in infrared or ultraviolet region of electromagnetic spectrum"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Multiple choice",
+     "title": "4-Hydroxy-4-methylpentanal with methanol and acid",
+     "problem": "Question 13 (multiple choice, one correct option).\n\n4-Hydroxy-4-methylpentanal on heating with excess of methanol in the presence of an acid catalyst followed by dehydration of the product gives\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-13-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Multiple choice",
+     "title": "Molecules per unit cell of hexagonal ice",
+     "problem": "Question 14 (multiple choice, one correct option).\n\nIce crystallizes in a hexagonal lattice. At a certain low temperature, the lattice constants are $a = 4.53\\,\\text{Å}$ and $c = 7.41\\,\\text{Å}$. The number of $\\ce{H2O}$ molecules contained in a unit cell ($d \\approx 0.92\\,\\mathrm{g\\,cm^{-3}}$ at the given temperature) is\n\n(A) 4\n(B) 8\n(C) 12\n(D) 24"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Multiple choice",
+     "title": "Permanganate–oxalate redox titration",
+     "problem": "Question 15 (multiple choice, one correct option).\n\nIn the redox reaction\n\n$$\\ce{2MnO4^- + 5C2O4^{2-} + 16H+ -> 2Mn^{2+} + 10CO2 + 8H2O}$$\n\n20 mL of 0.1 M $\\ce{KMnO4}$ react quantitatively with\n\n(A) 20 mL of 0.1 M oxalate\n(B) 40 mL of 0.1 M oxalate\n(C) 50 mL of 0.25 M oxalate\n(D) 50 mL of 0.1 M oxalate"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Multiple choice",
+     "title": "Molar mass from lowering of vapour pressure of benzene",
+     "problem": "Question 16 (multiple choice, one correct option).\n\nThe vapor pressure of benzene is 53.3 kPa at 60.6 °C, but it fall to 51.5 kPa when 19 g of a nonvolatile organic compound is dissolved in 500 g benzene. The molar mass of the nonvolatile compound is\n\n(A) 82\n(B) 85\n(C) 88\n(D) 92"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Multiple choice",
+     "title": "Blue colour of sodium in liquid ammonia",
+     "problem": "Question 17 (multiple choice, one correct option).\n\nSodium metal dissolves in liquid ammonia and forms a deep blue solution. The color is due to absorption of light by\n\n(A) sodium ions\n(B) ammoniated electrons\n(C) free electrons\n(D) ammoniated sodium ions"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Multiple choice",
+     "title": "Identity of an aromatic base from a diazotisation sequence",
+     "problem": "Question 18 (multiple choice, one correct option).\n\nAn organic base (X) reacts with nitrous acid at 0 °C to give a clear solution. Heating the solution with KCN and cuprous cyanide followed by continued heating with conc. HCl gives a crystalline solid. Heating this solid with alkaline potassium permanganate gives a compound which dehydrates on heating to a crystalline solid. 'X' is -\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-18-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Multiple choice",
+     "title": "De Broglie wavelength of a moving object",
+     "problem": "Question 19 (multiple choice, one correct option).\n\nThe de Broglie wavelength of an object of mass 33 g moving with a velocity of $200\\,\\mathrm{m\\,s^{-1}}$ is of the order of\n\n(A) $10^{-31}$ m\n(B) $10^{-34}$ m\n(C) $10^{-37}$ m\n(D) $10^{-41}$ m"
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Multiple choice",
+     "title": "Form of EDTA for treating lead poisoning",
+     "problem": "Question 20 (multiple choice, one correct option).\n\nA person having osteoporosis is suffering from lead poisoning. Ethylene diamine tetra acetic acid (EDTA) is administered for this condition. The best form of EDTA to be used for such administration is -\n\n(A) EDTA\n(B) tetrasodium salt\n(C) disodium salt\n(D) calcium dihydrogen salt"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Multiple choice",
+     "title": "Dissolved solids and hardness of a municipal water sample",
+     "problem": "Question 21 (multiple choice, one correct option).\n\nA water sample from a municipal water supply was found to have a pH = 7.0. On evaporating 2 L of this water, 2.016 g of white solid was left behind in the evaporation vessel, i.e., the total dissolved solid (TDS) content of this water was $1008\\,\\mathrm{mg\\,L^{-1}}$. However, addition of soap to a bucket of this water did not produce any visible scum. Based on these findings, one can conclude that\n\n(A) there are no $\\ce{Ca^{2+}}$ or $\\ce{Mg^{2+}}$ ion in the water\n(B) there are no $\\ce{CO3^{2-}}$ or $\\ce{HCO3^-}$ ion in the water\n(C) concentration of any ion in the water is lower than 0.038 M\n(D) water may be containing $\\ce{Na+}$ ions in concentration > 0.04 M"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Multiple choice",
+     "title": "Converting 2-methyl-1-bromopropane into 4-methyl-2-bromopentane",
+     "problem": "Question 22 (multiple choice, one correct option).\n\nThe best reaction sequence to convert 2-methyl-1-bromopropane into 4-methyl-2-bromopentane is\n\n(A) (i) Mg in ether (ii) acetaldehyde (iii) $\\ce{H+}$, $\\ce{H2O}$ iv) $\\Delta$ v) HBr, $\\ce{H2O2}$\n(B) (i) $\\ce{NaC#CH}$ in ether (ii) $\\ce{H2}$, Lindlar catalyst (iii) HBr, no peroxide\n(C) (i) alcoholic KOH (ii) $\\ce{CH3COOOH}$ (iii) $\\ce{H2/Pt}$ (iv) HBr, heat\n(D) (i) $\\ce{NaC#CH}$ in ether (ii) $\\ce{H3O+ + HgSO4}$ (iii) HBr, heat"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Multiple choice",
+     "title": "Dissolution of metallic copper",
+     "problem": "Question 23 (multiple choice, one correct option).\n\nMetallic copper dissolves in\n\n(A) dilute HCl\n(B) concentrated HCl\n(C) aqueous KCN\n(D) pure ammonia"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Multiple choice",
+     "title": "pH after mixing two strong acid solutions",
+     "problem": "Question 24 (multiple choice, one correct option).\n\nA 50 mL solution of pH = 1 is mixed with a 50 mL solution of pH = 2. The pH of the mixture is\n\n(A) 0.86\n(B) 1.26\n(C) 1.76\n(D) 2.26"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Multiple choice",
+     "title": "Fischer projection of a pentane-2,3,4-triol stereoisomer",
+     "problem": "Question 25 (multiple choice, one correct option).\n\nThe Fischer projection formula that represents the following compound is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-25-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-25-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Multiple choice",
+     "title": "Isomers from substitution in cis- and trans-[CoCl2(NH3)4]+",
+     "problem": "Question 26 (multiple choice, one correct option).\n\nFour statements for the following reaction are given below\n\n$$\\ce{[CoCl2(NH3)4]+ + Cl- -> [CoCl3(NH3)3] + NH3}$$\n\n(I) only one isomer is produced if the reactant complex ion is a trans isomer\n(II) three isomers are produced if the reactant complex ion is a cis isomer\n(III) two isomers are produced if the reactant complex ion is a trans isomer\n(IV) two isomers are produced if the reactant complex ion is cis isomer\n\nThe correct statements are\n\n(A) I and II\n(B) III and IV\n(C) I and IV\n(D) II and III"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Multiple choice",
+     "title": "Nature of a process from an enthalpy–temperature plot",
+     "problem": "Question 27 (multiple choice, one correct option).\n\nThe process in which an ideal gas undergoes change from X to Y as shown in the following diagram is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-27-fig1.png\n\n(A) isothermal compression\n(B) adiabatic compression\n(C) isothermal expansion\n(D) adiabatic expansion"
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Multiple choice",
+     "title": "Statements about the halogens",
+     "problem": "Question 28 (multiple choice, one correct option).\n\nWith respect to halogens, four statements are given below\n\n(I) The bond dissociation energies for halogens are in the order: $\\ce{I2} < \\ce{F2} < \\ce{Br2} < \\ce{Cl2}$\n(II) The only oxidation state is -1\n(III) The amount of energy required for the excitation of electrons to first excited state decreases progressively as we move from F to I\n(IV) They form $\\ce{HX2^-}$ species in their aqueous solutions (X = halogen)\n\nThe correct statements are\n\n(A) I, II, IV\n(B) I, III, IV\n(C) II, III, IV\n(D) I, III"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Multiple choice",
+     "title": "Reactivity of substituted anisoles in electrophilic chlorination",
+     "problem": "Question 29 (multiple choice, one correct option).\n\nThe order of reactivity of the following compounds in electrophilic monochlorination at the most favorable position is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-29-fig1.png\n\n(A) I < II < IV < III\n(B) III < IV < I < II\n(C) IV < III < II < I\n(D) III < II < IV < I"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Multiple choice",
+     "title": "Limiting molar conductivity of AgCl from Kohlrausch's law",
+     "problem": "Question 30 (multiple choice, one correct option).\n\nThe limiting molar conductivities of KCl, $\\ce{KNO3}$ and $\\ce{AgNO3}$ are 149.9, 145.0 and 133.4 $\\mathrm{S\\,cm^2\\,mol^{-1}}$, respectively, at 25 °C. The limiting molar conductivity of AgCl at the same temperature in $\\mathrm{S\\,cm^2\\,mol^{-1}}$ is\n\n(A) 128.5\n(B) 138.3\n(C) 161.5\n(D) 283.3"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Multiple choice",
+     "title": "Alpha-particle scattering with a hypothetical large nucleus",
+     "problem": "Question 31 (multiple choice, one correct option).\n\nImagine that in any atom about 50% of the space is occupied by the atomic nucleus. If a silver foil is bombarded with α-particles, majority of the α-particles would\n\n(A) be scattered\n(B) be absorbed by the nuclei\n(C) pass through the foil undeflected\n(D) get converted into photons"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Multiple choice",
+     "title": "Coumarin from a disubstituted benzene",
+     "problem": "Question 32 (multiple choice, one correct option).\n\nAn organic compound (\"X\") is a disubstituted benzene containing 77.8% carbon and 7.5% hydrogen. Heating an alkaline solution of \"X\" with chloroform gives a steam volatile compound \"Y\". Heating \"Y\" with acetic anhydride and sodium acetate gives a sweet smelling crystalline solid \"Z\". \"Z\" is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-32-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Multiple choice",
+     "title": "pH at the hydrogen electrode from a cell emf",
+     "problem": "Question 33 (multiple choice, one correct option).\n\nThe emf of a cell corresponding to the following reaction is 0.199 V at 298 K.\n\n$$\\ce{Zn(s) + 2H+(aq) -> Zn^{2+}}(0.1\\,\\mathrm{M}) + \\ce{H2(g)} \\qquad (E^{\\circ}_{\\mathrm{Zn/Zn^{+2}}} = 0.76\\,\\mathrm{V})$$\n\nThe approximate pH of the solution at the electrode where hydrogen is being produced is ($p_{\\ce{H2}}$ = 1 atm)\n\n(A) 8\n(B) 9\n(C) 10\n(D) 11"
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Multiple choice",
+     "title": "Vapour composition over an ideal binary solution",
+     "problem": "Question 34 (multiple choice, one correct option).\n\nThe vapor pressure of two pure isomeric liquids $\\mathbf{X}$ and $\\mathbf{Y}$ are 200 torr and 100 torr respectively at a given temperature. Assuming a solution of these components to obey Raoult's law, the mole fraction of component $\\mathbf{X}$ in vapor phase in equilibrium with the solution containing equal amounts of $\\mathbf{X}$ and $\\mathbf{Y}$, at the same temperature, is\n\n(A) 0.33\n(B) 0.50\n(C) 0.66\n(D) 0.80"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Multiple choice",
+     "title": "Starting compound of a route to n-butylcyclohexane",
+     "problem": "Question 35 (multiple choice, one correct option).\n\nn-Butylcyclohexane is formed through the following sequence of reactions.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-35-fig1.png\n\nIn the above scheme of reactions, \"X\" is -\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-35-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Multiple choice",
+     "title": "Rate constant of a first-order reaction",
+     "problem": "Question 36 (multiple choice, one correct option).\n\nIn a first order reaction, 75% of the reactant disappears in 1.386 h, the rate constant of the reaction is close to\n\n(A) $7.2 \\times 10^{-3}\\,\\mathrm{s^{-1}}$\n(B) $3.6 \\times 10^{-3}\\,\\mathrm{s^{-1}}$\n(C) $1.8 \\times 10^{-3}\\,\\mathrm{s^{-1}}$\n(D) $2.8 \\times 10^{-4}\\,\\mathrm{s^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Multiple choice",
+     "title": "Statements about Cr2+ and Mn3+",
+     "problem": "Question 37 (multiple choice, one correct option).\n\nFour statements for Cr and Mn are given below.\n\n(I) $\\ce{Cr^{2+}}$ and $\\ce{Mn^{3+}}$ have the same electronic configuration.\n(II) $\\ce{Cr^{2+}}$ is a reducing agent while $\\ce{Mn^{3+}}$ is an oxidizing agent.\n(III) $\\ce{Cr^{2+}}$ is an oxidizing agent while $\\ce{Mn^{3+}}$ is a reducing agent.\n(IV) both Cr and Mn are oxidizing agents.\n\nThe correct statements are\n\n(A) I, III, IV\n(B) I, II\n(C) I, II, IV\n(D) I, IV"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Multiple choice",
+     "title": "Processes leading to 1-methylcyclohexanol",
+     "problem": "Question 38 (multiple choice, one correct option).\n\nFour processes are indicated below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-38-fig1.png\n\nThe processes that do not produce 1-methylcyclohexanol are\n\n(A) II, IV\n(B) I, II\n(C) III, IV\n(D) I, III"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Multiple choice",
+     "title": "Feasibility of reactions of lithium",
+     "problem": "Question 39 (multiple choice, one correct option).\n\nThe reaction that is least feasible is\n\n(A) $\\ce{Li2CO3 -> Li2O + CO2}$\n(B) $\\ce{4Li + O2 -> 2Li2O}$\n(C) $\\ce{6Li + N2 -> 2Li3N}$\n(D) $\\ce{2C6H5C#CH + 2Li -> 2C6H5C#CLi + H2}$"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Multiple choice",
+     "title": "Heat absorbed after dissolving glucose in an open bowl",
+     "problem": "Question 40 (multiple choice, one correct option).\n\nGlucose when dissolved in water leads to cooling of the solution. Suppose you take 250 mL water at room temperature in an open container (such as a bowl) made of thermally insulated material and dissolve a spoonful of glucose in it. If you are able to accurately measure the heat absorbed by this solution in reaching back to room temperature (assuming negligible changes in the composition and the amount of solution during this process), you will be measuring\n\n(A) the enthalpy of dissolution of the glucose in water\n(B) the Gibbs free energy of dissolution of the glucose in water\n(C) the work done by the atmosphere on the system during the dissolution process\n(D) the heat capacity of the solution"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Multiple choice",
+     "title": "Selective transformation of a cyclohexane-1,4-dione",
+     "problem": "Question 41 (multiple choice, one correct option).\n\nCompound \"X\" undergoes the following sequence of reactions to form \"Y\".\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-41-fig1.png\n\nCompound \"Y\" is -\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-41-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Multiple choice",
+     "title": "Optically active coordination complex",
+     "problem": "Question 42 (multiple choice, one correct option).\n\nThe complex that shows optical activity is\n\n(A) trans-$\\ce{[CoCl2(en)2]+}$\n(B) cis-$\\ce{[CoCl2(en)2]+}$\n(C) trans-$\\ce{[PtCl2(NH3)2]}$\n(D) $\\ce{[CoCl2(NH3)2(en)]+}$"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Multiple choice",
+     "title": "Adsorption of acetic acid on charcoal",
+     "problem": "Question 43 (multiple choice, one correct option).\n\n100 mL of 0.3 M acetic acid is shaken with 0.8 g wood charcoal. The final concentration of acetic acid in the solution after adsorption is 0.125 M. The mass of acetic acid adsorbed per gram of charcoal is\n\n(A) 1.05 g\n(B) 0.0131 g\n(C) 1.31 g\n(D) 0.131 g"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Multiple choice",
+     "title": "Reactions that release nitrogen",
+     "problem": "Question 44 (multiple choice, one correct option).\n\nThe reaction that does not produce nitrogen is\n\n(A) heating $\\ce{(NH4)2Cr2O7}$\n(B) $\\ce{NH3}$ + excess of $\\ce{Cl2}$\n(C) heating of $\\ce{NaN3}$\n(D) heating of $\\ce{NH4NO3}$"
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Multiple choice",
+     "title": "Bond energies of dioxygen species",
+     "problem": "Question 45 (multiple choice, one correct option).\n\nThe species having highest bond energy is\n\n(A) $\\ce{O2}$\n(B) $\\ce{O2+}$\n(C) $\\ce{O2^-}$\n(D) $\\ce{O2^{2-}}$"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Multiple choice",
+     "title": "Ozonolysis of a dimethyloctalin followed by base and acid",
+     "problem": "Question 46 (multiple choice, one correct option).\n\nThe product (\"X\") of the following sequence of reactions is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-46-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-46-fig2.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Multiple choice",
+     "title": "Dicoumarol: monochloro isomers and reaction with sodium",
+     "problem": "Question 47 (multiple choice, one correct option).\n\nDicoumarol (X) is an anticoagulant. The number of possible monochloro substituted isomeric derivatives and the volume of hydrogen liberated at STP by the reaction of 0.5 mol of dicoumarol with sodium are respectively\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-47-fig1.png\n\n(A) 5, $22.4\\,\\mathrm{dm^3}$\n(B) 5, $11.2\\,\\mathrm{dm^3}$\n(C) 6, $11.2\\,\\mathrm{dm^3}$\n(D) 4, $22.4\\,\\mathrm{dm^3}$"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Multiple choice",
+     "title": "Shape of tris(trimethylsilyl)amine",
+     "problem": "Question 48 (multiple choice, one correct option).\n\nThe structure of a molecule of $\\ce{N(SiMe3)3}$ is\n\n(A) Pyramidal with angle close to 110°\n(B) T-shaped with angle 90°\n(C) Bent T-shaped with angle close to 89°\n(D) Trigonal planar with bond angle close to 120°"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Multiple choice",
+     "title": "Velocity uncertainty of a localised electron",
+     "problem": "Question 49 (multiple choice, one correct option).\n\nFor an electron whose $x$-positional uncertainty is $1.0 \\times 10^{-10}$ m, the uncertainty in the $x$-component of the velocity in $\\mathrm{m\\,s^{-1}}$ will be of the order of\n\n(A) $10^{6}$\n(B) $10^{9}$\n(C) $10^{12}$\n(D) $10^{15}$"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Multiple choice",
+     "title": "pπ–dπ bonding between oxygen and Si, P, S, Cl",
+     "problem": "Question 50 (multiple choice, one correct option).\n\nThe order of pπ-dπ interaction in the compounds containing bond between Si/P/S/Cl and oxygen is in the order\n\n(A) P > Si > Cl > S\n(B) Si < P < S < Cl\n(C) S < Cl < P < Si\n(D) Si > P > S > Cl"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Multiple choice",
+     "title": "Solubilities of salts from their solubility products",
+     "problem": "Question 51 (multiple choice, one correct option).\n\nThe solubility products ($K_\\mathrm{sp}$) of three salts MX, $\\ce{MY2}$ and $\\ce{MZ3}$ are $1\\times10^{-8}$, $4\\times10^{-9}$ and $27\\times10^{-8}$, respectively. The correct order for solubilities of these salts is\n\n(A) MX > $\\ce{MY2}$ > $\\ce{MZ3}$\n(B) $\\ce{MZ3}$ > $\\ce{MY2}$ > MX\n(C) $\\ce{MZ3}$ > MX > $\\ce{MY2}$\n(D) $\\ce{MY2}$ > MX > $\\ce{MZ3}$"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Multiple choice",
+     "title": "Three C5H10O isomers from qualitative tests",
+     "problem": "Question 52 (multiple choice, one correct option).\n\nThree isomeric compounds $\\mathbf{M}$, $\\mathbf{N}$, and $\\mathbf{P}$ ($\\ce{C5H10O}$) give the following tests:\n\n(i) $\\mathbf{M}$ and $\\mathbf{P}$ react with sodium bisulfite to form an adduct\n(ii) $\\mathbf{N}$ consumes 1 mol of bromine and also gives turbidity with conc. HCl/anhydrous $\\ce{ZnCl2}$ after prolong heating\n(iii) $\\mathbf{M}$ reacts with excess of iodine in alkaline solution to give yellow crystalline compound with a characteristic smell.\n(iv) p-Rosaniline treated with sulphur dioxide develops pink colour on shaking with $\\mathbf{P}$\n\nThe structures of M, N, and P, respectively are\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-52-fig1.png\n\n[Options (A)–(D) are the rows of the table shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Multiple choice",
+     "title": "Balancing the oxidation of P4S3 by nitrate",
+     "problem": "Question 53 (multiple choice, one correct option).\n\nThe unbalanced equation for the reaction of $\\ce{P4S3}$ with nitrate in aqueous acidic medium is given below.\n\n$$\\ce{P4S3 + NO3^- -> H3PO4 + SO4^{2-} + NO}$$\n\nThe number of mol of water required per mol of $\\ce{P4S3}$ is\n\n(A) 18\n(B) 8/3\n(C) 8\n(D) 28"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Multiple choice",
+     "title": "Colour from charge transfer in tin halides",
+     "problem": "Question 54 (multiple choice, one correct option).\n\nCertain combinations of cations and anions lead to the formation of colored salts in solid state even though each of these ions with other counter ions may produce colorless salts. This phenomenon is due to temporary charge transfer between the two ions. Out of the following, the salt that can exhibit this behavior is\n\n(A) $\\ce{SnCl2}$\n(B) $\\ce{SnCl4}$\n(C) $\\ce{SnBr2}$\n(D) $\\ce{SnI4}$"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Multiple choice",
+     "title": "Functional groups and stereocentres of desosamine",
+     "problem": "Question 55 (multiple choice, one correct option).\n\nDesosamine has the following structure\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-55-fig1.png\n\nThe number of functional groups which react with hydroiodic acid, the number of chiral centres, and the number of stereoisomers possible respectively are\n\n(A) 4, 5, 8\n(B) 3, 4, 16\n(C) 3, 4, 8\n(D) 4, 4, 16"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Multiple choice",
+     "title": "Plot of rate constant against temperature",
+     "problem": "Question 56 (multiple choice, one correct option).\n\nIf $k$ is the rate constant of the reaction and $T$ is the absolute temperature, the correct plot is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-56-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-56-fig2.png\n\n[Options (A)–(D) are the plots shown in the figures.]"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Multiple choice",
+     "title": "Stability and reactivity of 1,3- and 1,4-pentadiene",
+     "problem": "Question 57 (multiple choice, one correct option).\n\n1,3-pentadiene and 1,4-pentadiene are compared with respect to their intrinsic stability and reaction with HI. The correct statement is\n\n(A) 1,3-pentadiene is more stable and more reactive than 1,4-pentadiene\n(B) 1,3-pentadiene is less stable and less reactive than 1,4-pentadiene\n(C) 1,3-pentadiene is more stable but less reactive than 1,4-pentadiene\n(D) 1,3-pentadiene is less stable but more reactive than 1,4-pentadiene"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Multiple choice",
+     "title": "Structure of PF3Cl2",
+     "problem": "Question 58 (multiple choice, one correct option).\n\nFrom the given structures, the correct structure(s) of $\\ce{PF3Cl2}$ is/are\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-58-fig1.png\n\n(A) only I\n(B) only II\n(C) only III\n(D) I, II and III"
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Multiple choice",
+     "title": "Ratio of molecules in a methane–ethane mixture",
+     "problem": "Question 59 (multiple choice, one correct option).\n\nThe ratio of the masses of methane and ethane in a gas mixture is 4:5. The ratio of number of their molecules in the mixture is\n\n(A) 4:5\n(B) 3:2\n(C) 2:3\n(D) 5:4"
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Multiple choice",
+     "title": "Hydrocarbons and the Wurtz reaction",
+     "problem": "Question 60 (multiple choice, one correct option).\n\nThe hydrocarbon that cannot be prepared effectively by Wurtz reaction is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-60-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 61,
+     "paper_label": "Multiple choice",
+     "title": "Solvents for glacial acetic acid",
+     "problem": "Question 61 (multiple choice, one correct option).\n\nGlacial acetic acid dissolves in\n\n(I) liquid $\\ce{H2S}$, as $\\ce{H2S}$ is a polar covalent compound\n(II) liquid $\\ce{NH3}$, as it can form hydrogen bond\n(III) liquid $\\ce{HClO4}$, as it can protonate acetic acid\n\nThe correct option is\n\n(A) only I\n(B) only II\n(C) only III\n(D) I, II and III"
+    },
+    {
+     "day": 1,
+     "number": 62,
+     "paper_label": "Multiple choice",
+     "title": "Energy of Be3+ in its first excited state",
+     "problem": "Question 62 (multiple choice, one correct option).\n\nThe energy of an electron in the first Bohr orbit is −13.6 eV. The energy of $\\ce{Be^{3+}}$ in the first excited state is\n\n(A) − 30.6 eV\n(B) − 40.8 eV\n(C) − 54.4 eV\n(D) + 40.8 eV"
+    },
+    {
+     "day": 1,
+     "number": 63,
+     "paper_label": "Multiple choice",
+     "title": "Uptake of heavy metal ions by keratin biomaterials",
+     "problem": "Question 63 (multiple choice, one correct option).\n\nMany protein-based biomaterials, such as waste hair and feathers, can absorb heavy metal ions from wastewater. It has been observed that metal uptake by these materials increases in alkaline condition. The enhanced uptake in alkaline conditions is due to\n\n(A) generation of many ligand sites in the protein molecules due to removal of $\\ce{H+}$\n(B) availability of a high concentration of $\\ce{OH-}$ ions as ligands\n(C) increased cross-linkages in the protein chains by formation of amide bonds\n(D) increase in solubility of the proteins"
+    },
+    {
+     "day": 1,
+     "number": 64,
+     "paper_label": "Multiple choice",
+     "title": "Alkene leading to n-pentylbenzene",
+     "problem": "Question 64 (multiple choice, one correct option).\n\nCompound \"X\" reacts with diborane followed by alkaline hydrogen peroxide to form compound \"Y\". \"Y\" on reaction with a mixture of sodium bromide in sulphuric acid followed by bromobenzene and sodium in ether gives n-pentylbenzene. Compound \"X\" is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-64-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 65,
+     "paper_label": "Multiple choice",
+     "title": "Hydrate isomer of CrCl3.6H2O from ion exchange",
+     "problem": "Question 65 (multiple choice, one correct option).\n\nWhen any solution passes through a cation exchange resin that is in acidic form, $\\ce{H+}$ ion of the resin is replaced by cations of the solution. A solution containing 0.319 g of an isomer with molecular formula $\\ce{CrCl3.6H2O}$ is passed through a cation exchange resin in acidic form. The eluted solution requires $19\\,\\mathrm{cm^3}$ of 0.125 N NaOH. The isomer is\n\n(A) triaquatrichloro chromium(III) chloride trihydrate\n(B) hexaaqua chromium(III) chloride\n(C) pentaaquamonochloro chromium(III) chloride monohydrate\n(D) tetraaquadichloro chromium(III) chloride dihydrate"
+    },
+    {
+     "day": 1,
+     "number": 66,
+     "paper_label": "Multiple choice",
+     "title": "Constant in Boyle's law",
+     "problem": "Question 66 (multiple choice, one correct option).\n\nIn an experiment, it was found that for a gas at constant temperature, PV = C. The value of C depends on\n\n(A) atmospheric pressure\n(B) quantity of gas\n(C) molecular weight of gas\n(D) volume of chamber"
+    },
+    {
+     "day": 1,
+     "number": 67,
+     "paper_label": "Multiple choice",
+     "title": "Ease of solvolysis of alkyl and allyl chlorides",
+     "problem": "Question 67 (multiple choice, one correct option).\n\nThe compound that undergoes solvolysis in aq. ethanol most easily is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-67-fig1.png\n\n[Options (A)–(D) are the structures shown in the figure.]"
+    },
+    {
+     "day": 1,
+     "number": 68,
+     "paper_label": "Multiple choice",
+     "title": "Identity of solution E from reactions with silver nitrate",
+     "problem": "Question 68 (multiple choice, one correct option).\n\nSilver nitrate solution when added to a colorless aqueous solution $\\mathbf{E}$ forms a white precipitate which dissolves in excess of $\\mathbf{E}$. If the white precipitate is heated with water, it turns black and the supernatant solution gives a white precipitate with acidified barium nitrate solution. Therefore, $\\mathbf{E}$ is\n\n(A) $\\ce{Na2S}$\n(B) $\\ce{Na2S2O3}$\n(C) $\\ce{Na2SO3}$\n(D) $\\ce{Na2SO4}$"
+    },
+    {
+     "day": 1,
+     "number": 69,
+     "paper_label": "Multiple choice",
+     "title": "Atomic radius in a body-centred cubic metal",
+     "problem": "Question 69 (multiple choice, one correct option).\n\nThe metal $\\mathbf{M}$ crystallizes in a body centered lattice with cell edge 400 pm. The atomic radius of $\\mathbf{M}$ is\n\n(A) 200 pm\n(B) 100 pm\n(C) 173 pm\n(D) 141 pm"
+    },
+    {
+     "day": 1,
+     "number": 70,
+     "paper_label": "Multiple choice",
+     "title": "Direction of metathesis reactions of halides and sulphides",
+     "problem": "Question 70 (multiple choice, one correct option).\n\nThe reaction that does not proceed in forward direction is\n\n(A) $\\ce{BeF2 + HgI2 -> BeI2 + HgF2}$\n(B) $\\ce{LiI + CsF -> LiF + CsI}$\n(C) $\\ce{CuI2 + 2CuF -> CuF2 + 2CuI}$\n(D) $\\ce{CaS + H2O -> CaO + H2S}$"
+    },
+    {
+     "day": 1,
+     "number": 71,
+     "paper_label": "Multiple choice",
+     "title": "Basicity of four nitrogen compounds",
+     "problem": "Question 71 (multiple choice, one correct option).\n\nThe order of basicity of the following compounds is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/nsec-2015-71-fig1.png\n\n(A) I > II > IV > III\n(B) IV > II > I > II\n(C) III > II > I > IV\n(D) I > II > III > IV"
+    },
+    {
+     "day": 1,
+     "number": 72,
+     "paper_label": "Multiple choice",
+     "title": "Synthesis of 2-phenylbutanoic acid from benzene",
+     "problem": "Question 72 (multiple choice, one correct option).\n\nThe appropriate sequence of reactions for obtaining 2-phenylbutanoic acid from benzene is\n\n(A) (i) 1-chlorobutane/$\\ce{AlCl3}$ (ii) limited $\\ce{Cl2}$, light (iii) aq NaCN (iv) $\\ce{H+}$, $\\ce{H2O}$, heat\n(B) (i) 2-chlorobutane/$\\ce{AlCl3}$ (ii) $\\ce{K2Cr2O7/H2SO4}$\n(C) (i) propanoyl chloride/$\\ce{AlCl3}$ (ii) Zn-Hg/HCl (iii) limited $\\ce{Cl2}$, light (iv) aq. NaCN (v) $\\ce{H+}$, $\\ce{H2O}$, heat\n(D) (i) butanoyl chloride/$\\ce{AlCl3}$ (ii) $\\ce{NaBH4}$ (iii) CuCN (iv) $\\ce{H+}$, $\\ce{H2O}$, heat"
+    },
+    {
+     "day": 1,
+     "number": 73,
+     "paper_label": "Multiple choice",
+     "title": "Cooling a gas in a sealed rigid container",
+     "problem": "Question 73 (multiple choice, one correct option).\n\nThe quantity that does not change for a sample of a gas in a sealed rigid container when it is cooled from 120 °C to 90 °C at constant volume is\n\n(A) average energy of the molecule\n(B) pressure of the gas\n(C) density of the gas\n(D) average speed of the molecules"
+    },
+    {
+     "day": 1,
+     "number": 74,
+     "paper_label": "Multiple choice",
+     "title": "Ideal gas released into interstellar space",
+     "problem": "Question 74 (multiple choice, one correct option).\n\nAn ideal gas taken in an insulated chamber is released into interstellar space. The statement that is nearly true for this process is\n\n(A) $Q = 0,\\ W \\neq 0$\n(B) $W = 0,\\ Q \\neq 0$\n(C) $\\Delta U = 0,\\ Q \\neq 0$\n(D) $Q = W = \\Delta U = 0$"
+    },
+    {
+     "day": 1,
+     "number": 75,
+     "paper_label": "Multiple choice",
+     "title": "Titration of the Hofmann product from an amino acid",
+     "problem": "Question 75 (multiple choice, one correct option).\n\n4-amino-3-methylbutanoic acid is treated with thionyl chloride followed by ammonia to obtain compound \"X\". \"X\" on reaction with bromine in an alkaline medium gave compound \"Y\". For estimation, \"Y\" was titrated with perchloric acid. The volume of 0.1 M perchloric acid needed to react with 0.22 g of \"Y\" is\n\n(A) 50 mL\n(B) 80 mL\n(C) 120 mL\n(D) 200 mL"
+    },
+    {
+     "day": 1,
+     "number": 76,
+     "paper_label": "Multiple choice",
+     "title": "Colour of hexafluoridoferrate(III) and hexafluoridocobaltate(III)",
+     "problem": "Question 76 (multiple choice, one correct option).\n\nFor $\\ce{[FeF6]^{3-}}$ and $\\ce{[CoF6]^{3-}}$, the statement that is correct is\n\n(A) both are colored\n(B) both are colorless\n(C) $\\ce{[FeF6]^{3-}}$ is colored and $\\ce{[CoF6]^{3-}}$ is colorless\n(D) $\\ce{[FeF6]^{3-}}$ is colorless and $\\ce{[CoF6]^{3-}}$ is colored"
+    },
+    {
+     "day": 1,
+     "number": 77,
+     "paper_label": "Multiple choice",
+     "title": "Hydrogen bonding in cotton cellulose",
+     "problem": "Question 77 (multiple choice, one correct option).\n\nCotton fibers consist of cellulose polymers with neighboring polymers chains held together by hydrogen bonds between −OH groups in the glucose units. Due to these hydrogen bonds\n\n(A) cotton is insoluble in water\n(B) cotton can easily absorb ghee and oils and therefore are used to make wicks in traditional lamps\n(C) it is easier to iron cotton clothes when they are slightly wet or by applying steam to the clothes\n(D) cotton clothes have a high wear and tear than other fibers"
+    },
+    {
+     "day": 1,
+     "number": 78,
+     "paper_label": "Multiple choice",
+     "title": "Conditions favouring an exothermic gas-phase synthesis",
+     "problem": "Question 78 (multiple choice, one correct option).\n\nFor the following reaction, formation of the product is favored by\n\n$$\\ce{A2(g) + 4B2(g)} \\ll \\ce{2AB4(g)},\\quad \\Delta H < 0$$\n\n(A) low temperature and high pressure\n(B) high temperature and low pressure\n(C) low temperature and low pressure\n(D) high temperature and high pressure"
+    },
+    {
+     "day": 1,
+     "number": 79,
+     "paper_label": "Multiple choice",
+     "title": "Hückel rule with three-electron orbitals",
+     "problem": "Question 79 (multiple choice, one correct option).\n\nImagine a hypothetical situation in which capacity of any molecular orbital is 3 instead of 2 and the combination rules for the formation of molecular orbitals remain the same. The number of delocalized pi-electrons stipulated by the modified Huckel's rule of aromaticity is (n= integer, including zero)\n\n(A) $(3n+2)$\n(B) $(4n+3)$\n(C) $(2n+3)$\n(D) $(6n+3)$"
+    },
+    {
+     "day": 1,
+     "number": 80,
+     "paper_label": "Multiple choice",
+     "title": "Defect type from the density of a recrystallised MX crystal",
+     "problem": "Question 80 (multiple choice, one correct option).\n\nOne mole crystal of a metal halide of the type MX with molecular weight 119 g having face centered cubic structure with unit cell length $6.58\\,\\text{Å}$ was recrystallized. The density of the recrystallized crystal was found to be $2.44\\,\\mathrm{g\\,cm^{-3}}$. The type of defect introduced during the recrystalization is\n\n(A) additional $\\ce{M+}$ and $\\ce{X-}$ ions at interstitial sites\n(B) Schottky defect\n(C) F-centre\n(D) Frenkel defect"
+    }
+   ]
+  }
+ ]
+}
