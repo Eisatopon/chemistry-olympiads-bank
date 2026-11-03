@@ -798,6 +798,13 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .copy-status { font-size: .85rem; color: var(--az-ink); min-height: 1.4em; margin-top: 6px; }
 
 /* ---------- Footer ---------- */
+.says { margin-top: 48px; border-top: 1px solid var(--line); padding: 22px 0 26px; color: var(--muted); font-size: .88rem; }
+.says h2 { font: 700 .95rem/1.3 var(--sans); color: var(--ink); margin: 0 0 8px; }
+.says ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.says q { font-style: italic; color: var(--ink); }
+.says a { color: var(--ink); }
+.says-note { margin: 8px 0 0; font-size: .78rem; }
+@media print { .says { display: none; } }
 .footer { background: var(--ink-deep); color: #b9c6d2; font-size: .9rem; }
 .footer .wrap { padding-top: 22px; padding-bottom: 22px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; }
 .footer a { color: #fff; }
@@ -1011,6 +1018,18 @@ body.lang-el .st-en { display: none; }
     </aside>
 </main>
 
+<section class="says" aria-labelledby="saysTitle">
+    <div class="wrap">
+        <h2 id="saysTitle">What people say</h2>
+        <ul>
+            <li><q>I think it’s great for budding mathematicians that you’re compiling this resource.</q> <span>— Jim Propp, mathematician, UMass Lowell · on <a href="https://eisatopon.github.io/national-olympiads-bank/">Pythagoras</a></span></li>
+            <li><q>This is quite a collection of problems from many different olympiads. Hipparchus will definitely be useful for our students for the next year’s olympiad.</q> <span>— Loa Hellsing, Project Leader, Swedish Astronomical Olympiad · on <a href="https://eisatopon.github.io/astronomy-olympiads-bank/">Hipparchus</a></span></li>
+            <li>Hipparchus is listed by the IOAA among its <a href="https://ioaastrophysics.org/resources/other-resources" target="_blank" rel="noopener">Other Resources</a>.</li>
+        </ul>
+        <p class="says-note">Personal words shared with permission; not official endorsements.</p>
+    </div>
+</section>
+
 <footer class="footer">
     <div class="wrap">
         <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Democritus, World Chemistry Olympiads Bank</span>
@@ -1066,7 +1085,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261030-cypan6';
+const DATA_VERSION = '20261103-says';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', cypan: 'europe', icp: 'world', icx: 'world' };
