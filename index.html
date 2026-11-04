@@ -1125,7 +1125,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261104-potd-style';
+const DATA_VERSION = '20261104-home-order';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
@@ -1475,10 +1475,19 @@ function browseTotal() {
     if (!manifest || state.country || state.year !== null || filtersOn()) return 0;
     return tabTotal(state.tab);
 }
-// The list is ordered by year (newest first), then by collection name, exactly as COUNTRIES.
+/* On the home list (no country, year or filter) the collections of a year come in a
+   daily order, the same for everyone that day, so no collection is always first. */
+const DAY_NO = Math.floor(Date.now() / 86400000);
+function dayRank(key) {
+    let h = (2166136261 ^ DAY_NO) >>> 0;
+    for (const ch of String(key)) { h ^= ch.charCodeAt(0); h = Math.imul(h, 16777619) >>> 0; }
+    return h;
+}
+function browseRows() { return tabRows().slice().sort((a, b) => dayRank(a.key) - dayRank(b.key)); }
+// The home list is ordered by year (newest first), then by browseRows().
 // Returns the last (year, collection index) needed to fill the first `limit` results.
 function browseCutoff() {
-    const rows = tabRows();
+    const rows = browseRows();
     let sum = 0;
     for (let y = LAST; y >= FIRST; y--) {
         for (let i = 0; i < rows.length; i++) {
@@ -2010,7 +2019,7 @@ function scoped() {
     const keys = state.country ? [state.country] : tabRows().map(c => c.key);
     let list = keys.flatMap(k => cache.get(k) || []);
     if (state.year !== null) list = list.filter(p => p.year === state.year);
-    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(tabRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
+    else if (browseTotal()) { const [cy, ci] = browseCutoff(); const idx = Object.fromEntries(browseRows().map((c, i) => [c.key, i])); list = list.filter(p => p.year > cy || (p.year === cy && idx[p.country] <= ci)); }
     return list;
 }
 function matchesQuery(p) {
@@ -2024,6 +2033,7 @@ const filtersOn = () => state.day !== 'all' || state.topic !== 'all' || state.q.
 
 function compare(a, b) {
     if (a.year !== b.year) return b.year - a.year;
+    if (a.country !== b.country && browseTotal()) return dayRank(a.country) - dayRank(b.country);
     if (a.country !== b.country) return CBY[a.country].name.localeCompare(CBY[b.country].name, 'en', { sensitivity: 'base' });
     if ((a.day || 0) !== (b.day || 0)) return (a.day || 0) - (b.day || 0);
     return (parseFloat(a.num) || 0) - (parseFloat(b.num) || 0);
@@ -2295,7 +2305,7 @@ function problemHtml(p) {
 function showLoading(text) { box().innerHTML = headHtml(null) + `<div class="state" role="status"><span class="spinner" aria-hidden="true"></span><p id="loadText">${text}</p></div>`; }
 function neededCountries() {
     if (state.country) return [state.country];
-    const all = tabRows().map(c => c.key);
+    const all = (state.year === null && !filtersOn() ? browseRows() : tabRows()).map(c => c.key);
     if (!manifest) return all;
     const has = (k, test) => { const ys = manifestYears(k); return !ys || Object.keys(ys).some(y => test(+y)); };
     if (state.year !== null) return all.filter(k => has(k, y => y === state.year));
