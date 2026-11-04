@@ -1,0 +1,1162 @@
+{
+ "competition": "Greek Chemistry Olympiad — Panhellenic Student Chemistry Competition (ΠΜΔΧ)",
+ "years": [
+  {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Density from a mass and a volume measurement: significant figures",
+     "problem": "Question 1 (multiple choice).\n\nIn calculations with experimental data, the precision of the measuring instruments must be taken into account. By weighing, a quantity of a liquid was found to have a mass of $17.39\\ \\mathrm{g}$. An equal quantity was transferred into a measuring cylinder, where the level of the liquid reached the value $5.60\\ \\mathrm{mL}$. From the above measurements, the density of the liquid (in g/mL) is:\nA. $3.10$\nB. $3.105$\nC. $3.10536$\nD. $3.11$",
+     "problem_el": "Ερώτηση 1 (πολλαπλής επιλογής).\n\nΚατά τους υπολογισμούς με πειραματικά δεδομένα, πρέπει να λαμβάνεται υπόψη η ακρίβεια των οργάνων μέτρησης. Με ζύγιση βρέθηκε ότι μια ποσότητα υγρού έχει μάζα $17{,}39\\ \\mathrm{g}$. Ίση ποσότητα μεταφέρθηκε σε ογκομετρικό κύλινδρο όπου η στάθμη του υγρού έφτασε στην τιμή $5{,}60\\ \\mathrm{mL}$. Από τις παραπάνω μετρήσεις, προκύπτει ότι η πυκνότητα του υγρού (σε g/mL) είναι:\nΑ. $3{,}10$\nΒ. $3{,}105$\nΓ. $3{,}10536$\nΔ. $3{,}11$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Round 1, Grade 10",
+     "title": "True or false: neutrons, isotopes and the atomicity of nitrogen",
+     "problem": "Question 2 (multiple choice).\n\nThe following statements are given:\ni. All atoms contain neutrons in their nucleus.\nii. Isotopes are atoms that belong to the same element.\niii. The atomicity of nitrogen is 2.\nThe classification of the above statements as true (T) or false (F) is:\nA. T, T, T.\nB. T, F, F.\nC. F, T, T.\nD. F, T, F.",
+     "problem_el": "Ερώτηση 2 (πολλαπλής επιλογής).\n\nΔίνονται οι παρακάτω προτάσεις:\ni. Όλα τα άτομα περιέχουν νετρόνια στον πυρήνα τους.\nii. Τα ισότοπα είναι άτομα που ανήκουν στο ίδιο στοιχείο.\niii. Η ατομικότητα του αζώτου είναι 2.\nΟ χαρακτηρισμός των παραπάνω προτάσεων ως σωστών (Σ) ή λανθασμένων (Λ) είναι:\nΑ. Σ, Σ, Σ.\nΒ. Σ, Λ, Λ.\nΓ. Λ, Σ, Σ.\nΔ. Λ, Σ, Λ."
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Which change is sublimation?",
+     "problem": "Question 3 (multiple choice).\n\nSublimation is represented by the change:\nA. $\\ce{H2O(l) -> H2O(g)}$\nB. $\\ce{HgCl2(s) -> HgCl2(g)}$\nC. $\\ce{2Al(s) + 3I2(g) -> 2AlI3(s)}$\nD. $\\ce{I2(g) -> I2(s)}$.",
+     "problem_el": "Ερώτηση 3 (πολλαπλής επιλογής).\n\nΕξάχνωση παριστάνει η μεταβολή:\nΑ. $\\ce{H2O(l) -> H2O(g)}$\nΒ. $\\ce{HgCl2(s) -> HgCl2(g)}$\nΓ. $\\ce{2Al(s) + 3I2(g) -> 2AlI3(s)}$\nΔ. $\\ce{I2(g) -> I2(s)}$."
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Dissolved oxygen in ppm",
+     "problem": "Question 4 (multiple choice).\n\nFor very dilute aqueous solutions the concentration \"ppm\" is used. An aqueous solution contains $0.008\\ \\mathrm{g}$ of oxygen dissolved in $1000\\ \\mathrm{g}$ of water. The oxygen content of the solution is:\nA. $0.8$ ppm\nB. $8$ ppm\nC. $80$ ppm\nD. $800$ ppm",
+     "problem_el": "Ερώτηση 4 (πολλαπλής επιλογής).\n\nΣτα πολύ αραιά υδατικά διαλύματα χρησιμοποιείται η περιεκτικότητα «ppm». Ένα υδατικό διάλυμα περιέχει $0{,}008\\ \\mathrm{g}$ οξυγόνου διαλυμένα σε $1000\\ \\mathrm{g}$ νερού. Η περιεκτικότητα του διαλύματος σε οξυγόνο είναι:\nΑ. $0{,}8$ ppm\nΒ. $8$ ppm\nΓ. $80$ ppm\nΔ. $800$ ppm"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Electron shells of oganesson",
+     "problem": "Question 5 (multiple choice).\n\nThe year 2019 was celebrated as the International Year of the Periodic Table, since 150 years had passed since the first presentation of the Periodic Table of the chemical elements. The last element in the Periodic Table has atomic number 118 and is denoted Og (oganesson). In the ground state of the Og atom, the distribution of the electrons in shells is:\nA. 2, 8, 18, 32, 50, 8\nB. 2, 8, 18, 18, 32, 32, 8\nC. 2, 8, 18, 32, 32, 18, 8\nD. 2, 8, 18, 32, 18, 8, 4",
+     "problem_el": "Ερώτηση 5 (πολλαπλής επιλογής).\n\nΤο 2019 γιορτάστηκε ως Διεθνές Έτος Περιοδικού Πίνακα, αφού συμπληρώθηκαν 150 χρόνια από την πρώτη παρουσίαση του Περιοδικού Πίνακα των χημικών στοιχείων. Το τελευταίο στη σειρά στοιχείο του Περιοδικού Πίνακα έχει ατομικό αριθμό 118 και συμβολίζεται ως Og (Ογκανέσσιο). Στη θεμελιώδη κατάσταση του ατόμου Og, η κατανομή των ηλεκτρονίων σε στιβάδες είναι:\nΑ. 2, 8, 18, 32, 50, 8\nΒ. 2, 8, 18, 18, 32, 32, 8\nΓ. 2, 8, 18, 32, 32, 18, 8\nΔ. 2, 8, 18, 32, 18, 8, 4"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Alkali metal reacting most vigorously with water",
+     "problem": "Question 6 (multiple choice).\n\nOf the following elements, the one that reacts most vigorously with water is:\nA. ${}_{55}\\mathrm{Cs}$\nB. ${}_{37}\\mathrm{Rb}$\nC. ${}_{19}\\mathrm{K}$\nD. ${}_{3}\\mathrm{Li}$",
+     "problem_el": "Ερώτηση 6 (πολλαπλής επιλογής).\n\nΑπό τα παρακάτω στοιχεία, αυτό που αντιδρά πιο βίαια με το νερό είναι το:\nΑ. ${}_{55}\\mathrm{Cs}$\nΒ. ${}_{37}\\mathrm{Rb}$\nΓ. ${}_{19}\\mathrm{K}$\nΔ. ${}_{3}\\mathrm{Li}$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Element with the smallest atomic radius",
+     "problem": "Question 7 (multiple choice).\n\nOf all the elements of the Periodic Table, the one with the smallest atomic radius is:\nA. ${}_{1}\\mathrm{H}$\nB. ${}_{2}\\mathrm{He}$\nC. The element that belongs to the 2nd period and the 16th group of the Periodic Table.\nD. The first of the halogen group.",
+     "problem_el": "Ερώτηση 7 (πολλαπλής επιλογής).\n\nΑπό όλα τα στοιχεία του Περιοδικού Πίνακα, αυτό με τη μικρότερη ατομική ακτίνα είναι το:\nΑ. ${}_{1}\\mathrm{H}$\nΒ. ${}_{2}\\mathrm{He}$\nΓ. Στοιχείο που ανήκει στη 2η περίοδο και στη 16η ομάδα του Περιοδικού Πίνακα.\nΔ. Πρώτο από την ομάδα των αλογόνων."
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Round 1, Grade 10",
+     "title": "An element of period 4, group 15",
+     "problem": "Question 8 (multiple choice).\n\nElement X belongs to the 4th period and the 15th group of the Periodic Table. From this information we conclude that the atom of X:\nA. Can form the ion X$^{3-}$\nB. Has 4 electrons in its outer shell.\nC. Has no unpaired electrons.\nD. Has 5 shells occupied by electrons.",
+     "problem_el": "Ερώτηση 8 (πολλαπλής επιλογής).\n\nΤο στοιχείο Χ ανήκει στην 4η περίοδο και στην 15η ομάδα του Περιοδικού Πίνακα. Από το παραπάνω δεδομένο, συμπεραίνουμε ότι το άτομο του Χ:\nΑ. Μπορεί να σχηματίσει το ιόν Χ$^{3-}$\nΒ. Έχει 4 ηλεκτρόνια στην εξωτερική του στιβάδα.\nΓ. Δεν διαθέτει μονήρη ηλεκτρόνια.\nΔ. Έχει 5 κατειλημμένες με ηλεκτρόνια στοιβάδες."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Non-bonding electrons in urea",
+     "problem": "Question 9 (multiple choice).\n\nThe elements H, C, N and O with atomic numbers 1, 6, 7 and 8 respectively are given. The number of non-bonding electrons in the molecule of urea\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-9-fig1.png\nis:\nA. 16\nB. 10\nC. 8\nD. 4",
+     "problem_el": "Ερώτηση 9 (πολλαπλής επιλογής).\n\nΔίνονται τα στοιχεία H, C, N και O με ατομικούς αριθμούς 1, 6, 7 και 8 αντίστοιχα. Ο αριθμός των μη δεσμικών ηλεκτρονίων στο μόριο της ουρίας\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-9-fig1.png\nείναι:\nΑ. 16\nΒ. 10\nΓ. 8\nΔ. 4"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Oxidation number of iron in a complex salt",
+     "problem": "Question 10 (multiple choice).\n\nThe oxidation number of iron in the compound $\\ce{[Fe(OH)2(H2O)4]Br}$ is:\nA. $+3$\nB. $+2$\nC. $+1$\nD. $0$",
+     "problem_el": "Ερώτηση 10 (πολλαπλής επιλογής).\n\nΟ αριθμός οξείδωσης του σιδήρου στην ένωση $\\ce{[Fe(OH)2(H2O)4]Br}$ είναι:\nΑ. $+3$\nΒ. $+2$\nΓ. $+1$\nΔ. $0$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Element symbols hidden in \"ISAAC Newton\"",
+     "problem": "Question 11 (multiple choice).\n\nA young pupil tried to write in English the full name of the famous physicist Isaac Newton. In the end, he wrote ISAAC Newton.\nIn the above full name, some letters correspond to symbols of chemical elements. The number of these elements is:\nA. 2\nB. 3\nC. 4\nD. 5",
+     "problem_el": "Ερώτηση 11 (πολλαπλής επιλογής).\n\nΈνας μικρός μαθητής προσπάθησε να γράψει στα Αγγλικά το ονοματεπώνυμο του διάσημου Φυσικού Ισαάκ Νεύτωνα. Τελικά, έγραψε ISAAC Newton.\nΣτο παραπάνω ονοματεπώνυμο, ορισμένα γράμματα αντιστοιχούν σε σύμβολα χημικών στοιχείων. Το πλήθος αυτών των στοιχείων είναι:\nΑ. 2\nΒ. 3\nΓ. 4\nΔ. 5"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Round 1, Grade 10",
+     "title": "An incorrect Greek name of a compound",
+     "problem": "Question 12 (multiple choice).\n\nOf the following names of chemical compounds, the incorrect one is:\n[The question concerns Greek chemical nomenclature; the names are given as printed, each followed by a literal English rendering.]\nA. Υδρόθειο [literally \"hydro-sulfur\"].\nB. Υδρίδιο του νατρίου [literally \"hydride of sodium\"].\nC. Κυανιούχο υδρογόνο [literally \"cyanide-containing hydrogen\"].\nD. Υπεροξείδιο του υδρογόνου [literally \"peroxide of hydrogen\"].",
+     "problem_el": "Ερώτηση 12 (πολλαπλής επιλογής).\n\nΑπό τις παρακάτω ονομασίες χημικών ενώσεων, λανθασμένη είναι η:\nΑ. Υδρόθειο.\nΒ. Υδρίδιο του νατρίου.\nΓ. Κυανιούχο υδρογόνο.\nΔ. Υπεροξείδιο του υδρογόνου."
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Displacement reactions between halogens and halide solutions",
+     "problem": "Question 13 (multiple choice).\n\nThe following statements refer to chemical reactions.\ni. Fluorine reacts with a solution of potassium chloride and chlorine is produced.\nii. Bromine reacts with a solution of lithium iodide and iodine is produced.\niii. Iodine reacts with a solution of sodium chloride and chlorine is produced.\nThe correct ones are:\nA. i and ii.\nB. i and iii.\nC. ii and iii.\nD. All of them.",
+     "problem_el": "Ερώτηση 13 (πολλαπλής επιλογής).\n\nΟι παρακάτω προτάσεις αναφέρονται σε χημικές αντιδράσεις.\ni. Το φθόριο αντιδρά με διάλυμα χλωριούχου καλίου και παράγεται χλώριο.\nii. Το βρώμιο αντιδρά με διάλυμα ιωδιούχου λιθίου και παράγεται ιώδιο.\niii. Το ιώδιο αντιδρά με διάλυμα χλωριούχου νατρίου και παράγεται χλώριο.\nΣωστές είναι:\nΑ. Οι i και ii.\nΒ. Οι i και iii.\nΓ. Οι ii και iii.\nΔ. Όλες."
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Producing the gas of a fire extinguisher",
+     "problem": "Question 14 (multiple choice).\n\nOne kind of fire extinguisher uses as extinguishing agent a gaseous substance which can be produced by:\nA. Mixing a solution of calcium hydroxide with a solution of sodium carbonate.\nB. Adding powdered calcium carbonate to a solution of hydrochloric acid.\nC. The reaction of magnesium with steam at high temperature.\nD. The decomposition of $\\ce{HgO(s)}$.",
+     "problem_el": "Ερώτηση 14 (πολλαπλής επιλογής).\n\nΈνα είδος πυροσβεστήρων χρησιμοποιεί ως κατασβεστικό υλικό μια αέρια ουσία η οποία μπορεί να παραχθεί από:\nΑ. Την ανάμιξη διαλύματος υδροξειδίου του ασβεστίου με διάλυμα ανθρακικού νατρίου.\nΒ. Την προσθήκη σκόνης ανθρακικού ασβεστίου σε διάλυμα υδροχλωρίου.\nΓ. Την αντίδραση μαγνησίου με υδρατμούς σε υψηλή θερμοκρασία.\nΔ. Την αποσύνθεση του $\\ce{HgO(s)}$."
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Highest mass percentage of nitrogen",
+     "problem": "Question 15 (multiple choice).\n\nThe highest percentage by mass of nitrogen is found in the compound with molecular formula:\nA. $\\ce{N2O4}$\nB. $\\ce{NH3}$\nC. $\\ce{NaNO3}$\nD. $\\ce{N2H4}$",
+     "problem_el": "Ερώτηση 15 (πολλαπλής επιλογής).\n\nΜεγαλύτερη κατά βάρος περιεκτικότητα σε άζωτο έχει η ένωση με μοριακό τύπο:\nΑ. $\\ce{N2O4}$\nΒ. $\\ce{NH3}$\nΓ. $\\ce{NaNO3}$\nΔ. $\\ce{N2H4}$"
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Round 1, Grade 10",
+     "title": "A chain of reactions from phosphorus pentoxide to a calcium salt",
+     "problem": "Question 16 (multiple choice).\n\nThe following chemical equations are given:\n$\\ce{P2O5(s) + H2O(l) ->}$ E$_1$(aq)\nE$_1$(aq) + $\\ce{NH3(g) ->}$ E$_2$(aq)\n$\\ce{CaO(s) + H2O(l) ->}$ E$_3$(aq)\nE$_2$(aq) + E$_3$(aq) $\\ce{->}$ E$_4$(s) + $\\ce{NH3(g) + H2O(l)}$\nThe relative molecular mass of the chemical compound E$_4$ is:\nA. 135\nB. 215\nC. 230\nD. 310",
+     "problem_el": "Ερώτηση 16 (πολλαπλής επιλογής).\n\nΔίνονται οι χημικές εξισώσεις:\n$\\ce{P2O5(s) + H2O(l) ->}$ Ε$_1$(aq)\nΕ$_1$(aq) + $\\ce{NH3(g) ->}$ Ε$_2$(aq)\n$\\ce{CaO(s) + H2O(l) ->}$ Ε$_3$(aq)\nΕ$_2$(aq) + Ε$_3$(aq) $\\ce{->}$ Ε$_4$(s) + $\\ce{NH3(g) + H2O(l)}$\nΗ σχετική μοριακή μάζα της χημικής ένωσης Ε$_4$ είναι:\nΑ. 135\nΒ. 215\nΓ. 230\nΔ. 310"
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Number of ions in magnesium nitrate",
+     "problem": "Question 17 (multiple choice).\n\nThe number of ions contained in $0.2\\ \\mathrm{mol}$ of magnesium nitrate is:\nA. $1.20\\cdot 10^{23}$\nB. $2.41\\cdot 10^{23}$\nC. $3.61\\cdot 10^{23}$\nD. $4.82\\cdot 10^{23}$",
+     "problem_el": "Ερώτηση 17 (πολλαπλής επιλογής).\n\nΟ αριθμός των ιόντων που περιέχονται σε $0{,}2\\ \\mathrm{mol}$ νιτρικού μαγνησίου είναι:\nΑ. $1{,}20\\cdot 10^{23}$\nΒ. $2{,}41\\cdot 10^{23}$\nΓ. $3{,}61\\cdot 10^{23}$\nΔ. $4{,}82\\cdot 10^{23}$"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Same amount of oxygen as in 196 g of sulfuric acid",
+     "problem": "Question 18 (multiple choice).\n\n$196\\ \\mathrm{g}$ of sulfuric acid contain the same amount of oxygen as:\nA. $89.6\\ \\mathrm{L}$ of carbon dioxide at a temperature of $0\\ ^\\circ\\mathrm{C}$ and a pressure of $1\\ \\mathrm{atm}$.\nB. $2\\ \\mathrm{mol}$ of sulfur trioxide.\nC. $4\\ \\mathrm{mol}$ of water.\nD. $92\\ \\mathrm{g}$ of nitrogen dioxide.",
+     "problem_el": "Ερώτηση 18 (πολλαπλής επιλογής).\n\n$196\\ \\mathrm{g}$ θειικού οξέος περιέχουν την ίδια ποσότητα οξυγόνου με:\nΑ. $89{,}6\\ \\mathrm{L}$ διοξειδίου του άνθρακα σε θερμοκρασία $0\\ ^\\circ\\mathrm{C}$ και πίεση $1\\ \\mathrm{atm}$.\nΒ. $2\\ \\mathrm{mol}$ τριοξειδίου του θείου.\nΓ. $4\\ \\mathrm{mol}$ νερού.\nΔ. $92\\ \\mathrm{g}$ διοξειδίου του αζώτου."
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Ordering vessels of equal gas masses by volume",
+     "problem": "Question 19 (multiple choice).\n\nFour vessels I, II, III and IV contain, at the same temperature, equal masses of the following gases: molecular oxygen, ammonia, methane ($\\ce{CH4}$) and carbon dioxide respectively. These substances are in the gaseous state and exert the same pressure. The order of the vessels by increasing volume is:\nA. I, II, IV, III.\nB. III, II, I, IV.\nC. IV, III, II, I.\nD. IV, I, II, III.",
+     "problem_el": "Ερώτηση 19 (πολλαπλής επιλογής).\n\nΣε τέσσερα δοχεία I, II, III και IV, περιέχονται στην ίδια θερμοκρασίας ίσες μάζες των παρακάτω αερίων: μοριακό οξυγόνο, αμμωνία, μεθάνιο ($\\ce{CH4}$) και διοξείδιο του άνθρακα αντίστοιχα. Οι παραπάνω ουσίες βρίσκονται σε αέρια κατάσταση και ασκούν την ίδια πίεση. Η διάταξη των δοχείων κατά σειρά αυξανόμενου όγκου είναι:\nΑ. I, II, IV, III.\nΒ. III, II, I, IV.\nΓ. IV, III, II, I.\nΔ. IV, I, II, III."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Graph of Boyle's law",
+     "problem": "Question 20 (multiple choice).\n\nThe graph that shows the relation between volume and pressure for a given amount of ideal gas at constant temperature is:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-20-fig1.png\n[Options A–D are shown in the figure.]\n[Figure labels: Α = A, Β = B, Γ = C, Δ = D.]",
+     "problem_el": "Ερώτηση 20 (πολλαπλής επιλογής).\n\nΗ γραφική παράσταση που δείχνει τη σχέση μεταξύ όγκου και πίεσης για συγκεκριμένη ποσότητα ιδανικού αερίου, υπό σταθερή θερμοκρασία, είναι η:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-20-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Glassware for measuring a volume precisely",
+     "problem": "Question 21 (multiple choice).\n\nAn aqueous solution of $\\ce{H2SO4}$ of a certain concentration was prepared by diluting the corresponding concentrated solution. To measure a certain volume of the concentrated solution with high accuracy and transfer it into the volumetric flask, the following was used:\nA. the conical flask.\nB. the pipette.\nC. the beaker.\nD. the measuring cylinder.",
+     "problem_el": "Ερώτηση 21 (πολλαπλής επιλογής).\n\nΥδατικό διάλυμα $\\ce{H2SO4}$ ορισμένης συγκέντρωσης παρασκευάσθηκε με αραίωση του αντίστοιχου πυκνού διαλύματος. Για τη μέτρηση με μεγάλη ακρίβεια ορισμένου όγκου του πυκνού διαλύματος και τη μεταφορά του στην ογκομετρική φιάλη, χρησιμοποιήθηκε:\nΑ. η κωνική φιάλη.\nΒ. το σιφώνιο.\nΓ. το ποτήρι ζέσεως.\nΔ. ο ογκομετρικός κύλινδρος."
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Mixing two KOH solutions of different concentration units",
+     "problem": "Question 22 (multiple choice).\n\nTwo aqueous solutions of potassium hydroxide Δ$_1$ and Δ$_2$, at the same temperature, have concentrations $2.8\\%$ w/v and $0.5\\ \\mathrm{M}$ respectively. Mixing equal volumes of solutions Δ$_1$ and Δ$_2$ gives a solution Δ$_3$ with a concentration:\nA. equal to that of solution Δ$_1$.\nB. greater than that of solution Δ$_1$.\nC. greater than that of solution Δ$_2$.\nD. greater than that of solution Δ$_1$ and smaller than that of solution Δ$_2$.",
+     "problem_el": "Ερώτηση 22 (πολλαπλής επιλογής).\n\nΔύο υδατικά διαλύματα υδροξειδίου του καλίου Δ$_1$ και Δ$_2$, ίδιας θερμοκρασίας, έχουν περιεκτικότητες $2{,}8\\%$ w/v και $0{,}5\\ \\mathrm{M}$ αντίστοιχα. Από την ανάμιξη ίσων όγκων των διαλυμάτων Δ$_1$ και Δ$_2$, προκύπτει διάλυμα Δ$_3$ με περιεκτικότητα:\nΑ. ίση με αυτή του διαλύματος Δ$_1$.\nΒ. μεγαλύτερη από αυτή του διαλύματος Δ$_1$.\nΓ. μεγαλύτερη από αυτή του διαλύματος Δ$_2$.\nΔ. μεγαλύτερη από αυτή του διαλύματος Δ$_1$ και μικρότερη από αυτή του διαλύματος Δ$_2$."
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Compound of two elements next to a noble gas",
+     "problem": "Question 23 (multiple choice).\n\nThe chemical elements X, Ψ and Z have atomic numbers $(\\nu-2)$, $(\\nu-1)$, $(\\nu+1)$ respectively. The chemical element Z belongs to the 3rd period of the periodic table and the chemical element Ψ is a noble gas. The compound formed by the chemical elements X and Z is:\nA. Ionic with chemical formula X$_3$Z.\nB. Ionic with chemical formula ZX$_2$.\nC. Covalent with molecular formula XZ.\nD. Ionic with chemical formula ZX.",
+     "problem_el": "Ερώτηση 23 (πολλαπλής επιλογής).\n\nΤα χημικά στοιχεία Χ, Ψ και Ζ έχουν ατομικούς αριθμούς $(\\nu-2)$, $(\\nu-1)$, $(\\nu+1)$ αντίστοιχα. Το χημικό στοιχείο Ζ ανήκει στην 3η περίοδο του περιοδικού πίνακα και το χημικό στοιχείο Ψ είναι ευγενές αέριο. Η ένωση που σχηματίζουν τα χημικά στοιχεία Χ και Ζ είναι:\nΑ. Ιοντική με χημικό τύπο Χ$_3$Ζ.\nΒ. Ιοντική με χημικό τύπο ΖΧ$_2$.\nΓ. Ομοιοπολική με μοριακό τύπο ΧΖ.\nΔ. Ιοντική με χημικό τύπο ΖΧ."
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Bonding in carbonyl sulfide OCS",
+     "problem": "Question 24 (multiple choice).\n\nThe elements ${}_{6}\\mathrm{C}$, ${}_{8}\\mathrm{O}$ and ${}_{16}\\mathrm{S}$ can form the chemical compound with molecular formula $\\ce{OCS}$, in which the central atom is C. In the molecule of this compound:\nA. There are 6 electrons that do not take part in chemical bonds.\nB. Only one double covalent bond is formed.\nC. One of the elements is a metal.\nD. Two double covalent bonds are formed.",
+     "problem_el": "Ερώτηση 24 (πολλαπλής επιλογής).\n\nΜεταξύ των στοιχείων ${}_{6}\\mathrm{C}$, ${}_{8}\\mathrm{O}$ και ${}_{16}\\mathrm{S}$ μπορεί να σχηματιστεί η χημική ένωση με μοριακό τύπο $\\ce{OCS}$ στην οποία κεντρικό άτομο είναι ο C. Στο μόριο της παραπάνω ένωσης:\nΑ. Υπάρχουν 6 ηλεκτρόνια που δεν συμμετέχουν σε χημικούς δεσμούς.\nΒ. Σχηματίζεται μόνο ένας διπλός ομοιοπολικός δεσμός.\nΓ. Ένα από τα στοιχεία ανήκει στα μέταλλα.\nΔ. Σχηματίζονται δύο διπλοί ομοιοπολικοί δεσμοί."
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Round 1, Grade 10",
+     "title": "The anion in an iron(III) mineral",
+     "problem": "Question 25 (multiple choice).\n\nA mineral of Fe(III) contains the compound with chemical formula $\\ce{KFe3}$X$_2\\ce{(OH)6}$, where X can be:\nA. $\\ce{HCO3^-}$.\nB. $\\ce{Ca^{2+}}$.\nC. $\\ce{SO4^{2-}}$.\nD. $\\ce{PO4^{3-}}$.",
+     "problem_el": "Ερώτηση 25 (πολλαπλής επιλογής).\n\nΣε ένα ορυκτό του Fe (III) περιέχεται η ένωση με χημικό τύπο $\\ce{KFe3}$Χ$_2\\ce{(OH)6}$, όπου το Χ μπορεί να είναι:\nΑ. $\\ce{HCO3^-}$.\nΒ. $\\ce{Ca^{2+}}$.\nΓ. $\\ce{SO4^{2-}}$.\nΔ. $\\ce{PO4^{3-}}$."
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Isotopic abundance of boron-11",
+     "problem": "Question 26 (multiple choice).\n\nBoron occurs as the isotopes ${}^{10}_{5}\\mathrm{B}$, ${}^{11}_{5}\\mathrm{B}$ and has a relative atomic mass of $10.8$. The percentage of ${}^{11}_{5}\\mathrm{B}$ in the isotopic mixture is:\nA. $10.5\\ \\%$\nB. $89.5\\ \\%$\nC. $20\\ \\%$\nD. $80\\ \\%$",
+     "problem_el": "Ερώτηση 26 (πολλαπλής επιλογής).\n\nΤο βόριο εμφανίζεται με τα ισότοπα ${}^{10}_{5}\\mathrm{B}$, ${}^{11}_{5}\\mathrm{B}$ και έχει σχετική ατομική μάζα $10{,}8$. Το ποσοστό του ${}^{11}_{5}\\mathrm{B}$ στο ισοτοπικό μείγμα είναι:\nΑ. $10{,}5\\ \\%$\nΒ. $89{,}5\\ \\%$\nΓ. $20\\ \\%$\nΔ. $80\\ \\%$"
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Cooling a saturated solution of hydrogen sulfide",
+     "problem": "Question 27 (multiple choice).\n\nA saturated solution of gaseous $\\ce{H2S}$ in water has a temperature of $25\\ ^\\circ\\mathrm{C}$. We cool the solution to $10\\ ^\\circ\\mathrm{C}$. It holds that:\nA. The mass of the solution will increase.\nB. The mass of the solution will decrease.\nC. $\\ce{H2S}$ gas will be released from the solution.\nD. The solution will become unsaturated.",
+     "problem_el": "Ερώτηση 27 (πολλαπλής επιλογής).\n\nΈνα κορεσμένο διάλυμα αερίου $\\ce{H2S}$ σε νερό έχει θερμοκρασία $25\\ ^\\circ\\mathrm{C}$. Ψύχουμε το διάλυμα στους $10\\ ^\\circ\\mathrm{C}$. Ισχύει ότι:\nΑ. Θα αυξηθεί η μάζα του διαλύματος.\nΒ. Θα μειωθεί η μάζα του διαλύματος.\nΓ. Θα αποβληθεί από το διάλυμα αέριο $\\ce{H2S}$.\nΔ. Το διάλυμα θα γίνει ακόρεστο."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Neutrons in a triply charged anion",
+     "problem": "Question 28 (multiple choice).\n\nThe number of neutrons present in the ion ${}^{31}$X$^{3-}$ is:\nA. 34.\nB. 28.\nC. 16.\nD. 14.",
+     "problem_el": "Ερώτηση 28 (πολλαπλής επιλογής).\n\nΟ αριθμός νετρονίων που υπάρχουν στο ιόν ${}^{31}$Χ$^{3-}$ είναι:\nΑ. 34.\nΒ. 28.\nΓ. 16.\nΔ. 14."
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Which reaction is a double displacement?",
+     "problem": "Question 29 (multiple choice).\n\nOf the following reactions, the double-displacement (metathesis) reaction is:\nA. $\\ce{2KClO3(s) -> 2KCl(s) + 3O2(g)}$.\nB. $\\ce{K2CrO4(aq) + 2AgNO3(aq) -> 2KNO3(aq) + Ag2CrO4(s)}$.\nC. $\\ce{Cu(s) + 2H2SO4(aq) -> CuSO4(aq) + SO2(g) + 2H2O(l)}$.\nD. $\\ce{8HNO3(aq) + 6KI(aq) -> 6KNO3(aq) + 3I2(s) + 2NO(g) + 4H2O(l)}$.",
+     "problem_el": "Ερώτηση 29 (πολλαπλής επιλογής).\n\nΑπό τις παρακάτω αντιδράσεις μεταθετική είναι η:\nΑ. $\\ce{2KClO3(s) -> 2KCl(s) + 3O2(g)}$.\nΒ. $\\ce{K2CrO4(aq) + 2AgNO3(aq) -> 2KNO3(aq) + Ag2CrO4(s)}$.\nΓ. $\\ce{Cu(s) + 2H2SO4(aq) -> CuSO4(aq) + SO2(g) + 2H2O(l)}$.\nΔ. $\\ce{8HNO3(aq) + 6KI(aq) -> 6KNO3(aq) + 3I2(s) + 2NO(g) + 4H2O(l)}$."
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Statements about ionic and covalent substances",
+     "problem": "Question 30 (multiple choice).\n\nFor the chemical substances $\\ce{Cl2}$, $\\ce{KCl}$, $\\ce{NH3}$, $\\ce{H2S}$, $\\ce{Na2O}$, $\\ce{NaH}$ and $\\ce{HCl}$, the following statements are given:\nI. Only $\\ce{KCl}$ and $\\ce{Na2O}$ are ionic.\nII. Polar covalent bonds exist in the substances $\\ce{Cl2}$, $\\ce{NH3}$, $\\ce{H2S}$ and $\\ce{HCl}$.\nIII. The substance $\\ce{Na2O}$ is solid, while the substance $\\ce{NaH}$ is a gas under ordinary conditions.\nIV. Both the reaction of $\\ce{NH3}$ with $\\ce{HCl}$ and that of $\\ce{Na2O}$ with $\\ce{HCl}$ lead to the formation of a salt and water.\nOf the above statements:\nA. Correct are: I and II\nB. Correct are: I, III and IV\nC. Incorrect are: II, III and IV.\nD. All are incorrect.",
+     "problem_el": "Ερώτηση 30 (πολλαπλής επιλογής).\n\nΓια τις χημικές ουσίες: $\\ce{Cl2}$, $\\ce{KCl}$, $\\ce{NH3}$, $\\ce{H2S}$, $\\ce{Na2O}$, $\\ce{NaH}$ και $\\ce{HCl}$, δίνονται οι παρακάτω προτάσεις:\nI. Ιοντικές είναι μόνο το $\\ce{KCl}$ και το $\\ce{Na2O}$.\nII. Πολωμένοι ομοιοπολικοί δεσμοί υπάρχουν στις ουσίες $\\ce{Cl2}$, $\\ce{NH3}$, $\\ce{H2S}$, και $\\ce{HCl}$.\nIII. Η ουσία $\\ce{Na2O}$ είναι στερεή, ενώ η ουσία $\\ce{NaH}$ είναι αέρια στις συνηθισμένες συνθήκες.\nIV. Τόσο η αντίδραση της $\\ce{NH3}$ με το $\\ce{HCl}$ όσο και του $\\ce{Na2O}$ με το $\\ce{HCl}$ οδηγούν στο σχηματισμό άλατος και νερού.\nΑπό τις παραπάνω προτάσεις:\nΑ. Σωστές είναι οι: I και II\nΒ. Σωστές είναι οι: I, III και IV\nΓ. Λανθασμένες είναι οι: II, III και IV.\nΔ. Όλες είναι λανθασμένες."
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Atomic number from the electrons in a mole of anions",
+     "problem": "Question 31 (multiple choice).\n\nOne mole of ions Σ$^{2-}$ of a chemical element Σ contains $6.02\\times 10^{24}$ electrons. The atomic number of the chemical element is:\nA. 4.\nB. 8.\nC. 10.\nD. 12.",
+     "problem_el": "Ερώτηση 31 (πολλαπλής επιλογής).\n\nΈνα mol ιόντων Σ$^{2-}$ ενός χημικού στοιχείου Σ περιέχει $6{,}02\\times 10^{24}$ ηλεκτρόνια. Ο ατομικός αριθμός του χημικού στοιχείου είναι:\nΑ. 4.\nΒ. 8.\nΓ. 10.\nΔ. 12."
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Oxidation numbers in ammonium sulfate",
+     "problem": "Question 32 (multiple choice).\n\nIn ammonium sulfate the algebraic sum of the oxidation numbers of nitrogen and sulfur is:\nA. $0$.\nB. $+3$.\nC. $-2$.\nD. $-5$.",
+     "problem_el": "Ερώτηση 32 (πολλαπλής επιλογής).\n\nΣτο θειϊκό αμμώνιο το αλγεβρικό άθροισμα των αριθμών οξείδωσης του αζώτου και του θείου είναι:\nΑ. $0$.\nΒ. $+3$.\nΓ. $-2$.\nΔ. $-5$."
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Ions isoelectronic with the third noble gas",
+     "problem": "Question 33 (multiple choice).\n\nBoth particles of the pair have the same electronic structure as the third noble gas:\nA. ${}_{8}\\mathrm{O}^{2-}$ and ${}_{16}\\mathrm{S}^{2-}$.\nB. ${}_{12}\\mathrm{Mg}^{2+}$ and ${}_{17}\\mathrm{Cl}^{-}$.\nC. ${}_{20}\\mathrm{Ca}^{2+}$ and ${}_{16}\\mathrm{S}^{2-}$.\nD. ${}_{8}\\mathrm{O}^{2-}$ and ${}_{12}\\mathrm{Mg}^{2+}$.",
+     "problem_el": "Ερώτηση 33 (πολλαπλής επιλογής).\n\nΊδια ηλεκτρονιακή δομή με αυτή του τρίτου ευγενούς αερίου, εμφανίζουν και τα δύο σωματίδια του ζεύγους:\nΑ. ${}_{8}\\mathrm{O}^{2-}$ και ${}_{16}\\mathrm{S}^{2-}$.\nΒ. ${}_{12}\\mathrm{Mg}^{2+}$ και ${}_{17}\\mathrm{Cl}^{-}$.\nΓ. ${}_{20}\\mathrm{Ca}^{2+}$ και ${}_{16}\\mathrm{S}^{2-}$.\nΔ. ${}_{8}\\mathrm{O}^{2-}$ και ${}_{12}\\mathrm{Mg}^{2+}$."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Round 1, Grade 10",
+     "title": "The correct chemical equation",
+     "problem": "Question 34 (multiple choice).\n\nOf the following chemical equations, the correct one is:\nA. $\\ce{2Fe(s) + 6HCl(aq) -> 2FeCl3(aq) + 3H2(g)}$\nB. $\\ce{S(s) + 2NaBr(aq) -> Na2S(aq) + Br2(l)}$\nC. $\\ce{2KOH(aq) + SO3(g) -> K2SO4(aq) + H2O(l)}$\nD. $\\ce{Ca(NO3)2(aq) + BaCl2(aq) -> CaCl2(aq) + Ba(NO3)2(aq)}$",
+     "problem_el": "Ερώτηση 34 (πολλαπλής επιλογής).\n\nΑπό τις παρακάτω χημικές εξισώσεις, σωστή είναι η:\nΑ. $\\ce{2Fe(s) + 6HCl(aq) -> 2FeCl3(aq) + 3H2(g)}$\nΒ. $\\ce{S(s) + 2NaBr(aq) -> Na2S(aq) + Br2(l)}$\nΓ. $\\ce{2KOH(aq) + SO3(g) -> K2SO4(aq) + H2O(l)}$\nΔ. $\\ce{Ca(NO3)2(aq) + BaCl2(aq) -> CaCl2(aq) + Ba(NO3)2(aq)}$"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Freezing point from a heating curve",
+     "problem": "Question 35 (multiple choice).\n\nThe diagram below represents the changes of physical state of a substance that is solid at time $t_0$.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-35-fig1.png\n[Figure labels: θερμοκρασία (°C) = temperature (°C); χρόνος = time.]\nThe freezing point of the substance is equal to:\nA. $100\\ ^\\circ\\mathrm{C}$.\nB. $60\\ ^\\circ\\mathrm{C}$.\nC. $12\\ ^\\circ\\mathrm{C}$.\nD. $0\\ ^\\circ\\mathrm{C}$.",
+     "problem_el": "Ερώτηση 35 (πολλαπλής επιλογής).\n\nΤο παρακάτω διάγραμμα παριστάνει τις μεταβολές φυσικής κατάστασης μιας ουσίας που είναι στερεή τη χρονική στιγμή $t_0$.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-35-fig1.png\nΤο σημείο πήξης της ουσίας είναι ίσο με:\nΑ. $100\\ ^\\circ\\mathrm{C}$.\nΒ. $60\\ ^\\circ\\mathrm{C}$.\nΓ. $12\\ ^\\circ\\mathrm{C}$.\nΔ. $0\\ ^\\circ\\mathrm{C}$."
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Main cause of acid rain",
+     "problem": "Question 36 (multiple choice).\n\nAcid rain has a lower pH than \"clean\" rain. This is mainly due to:\nA. The increased content of $\\ce{CO2}$ in the atmosphere.\nB. The increased content in the atmosphere of pollutant oxides, such as $\\ce{SO2}$ and $\\ce{NO2}$.\nC. Acids that escape into the atmosphere through industrial waste.\nD. The occurrence in the atmosphere of random natural conditions that favour the formation of acids.",
+     "problem_el": "Ερώτηση 36 (πολλαπλής επιλογής).\n\nΗ όξινη βροχή έχει pH μικρότερο της «καθαρής» βροχής. Αυτό οφείλεται κυρίως:\nΑ. Στην αυξημένη περιεκτικότητα της ατμόσφαιρας σε $\\ce{CO2}$.\nΒ. Στην αυξημένη περιεκτικότητα της ατμόσφαιρας σε οξείδια ρύπους, όπως το $\\ce{SO2}$ και το $\\ce{NO2}$.\nΓ. Σε οξέα που ξεφεύγουν στην ατμόσφαιρα μέσω των βιομηχανικών αποβλήτων.\nΔ. Στη δημιουργία στην ατμόσφαιρα τυχαίων φυσικών συνθηκών που ευνοούν τον σχηματισμό οξέων."
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Pairs of compounds that can coexist in solution",
+     "problem": "Question 37 (multiple choice).\n\nA solution can contain dissolved the following pair of chemical compounds:\nA. $\\ce{CO2}$ and $\\ce{NaOH}$.\nB. $\\ce{H2SO4}$ and $\\ce{Ca(OH)2}$.\nC. $\\ce{NH3}$ and $\\ce{Na2O}$.\nD. $\\ce{HCl}$ and $\\ce{NaHCO3}$.",
+     "problem_el": "Ερώτηση 37 (πολλαπλής επιλογής).\n\nΈνα διάλυμα είναι δυνατό να περιέχει διαλυμένα τα παρακάτω ζεύγη χημικών ενώσεων:\nΑ. $\\ce{CO2}$ και $\\ce{NaOH}$.\nΒ. $\\ce{H2SO4}$ και $\\ce{Ca(OH)2}$.\nΓ. $\\ce{NH3}$ και $\\ce{Na2O}$.\nΔ. $\\ce{HCl}$ και $\\ce{NaHCO3}$."
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Container for a copper(II) sulfate solution",
+     "problem": "Question 38 (multiple choice).\n\nTo store an aqueous solution of copper(II) sulfate we choose a container made of:\nA. Aluminium.\nB. Iron.\nC. Silver.\nD. Zinc.",
+     "problem_el": "Ερώτηση 38 (πολλαπλής επιλογής).\n\nΓια την αποθήκευση ενός υδατικού διαλύματος θειϊκού χαλκού (II) επιλέγουμε δοχείο που είναι κατασκευασμένο από:\nΑ. Αλουμίνιο.\nΒ. Σίδηρο.\nΓ. Άργυρο.\nΔ. Ψευδάργυρο."
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Properties of heteropolar compounds",
+     "problem": "Question 39 (multiple choice).\n\nHeteropolar compounds under ordinary conditions are:\nA. Solids with a high melting point, without electrical conductivity.\nB. Liquids with electrical conductivity.\nC. Low-melting solids with low electrical conductivity.\nD. High-melting solids with high electrical conductivity.",
+     "problem_el": "Ερώτηση 39 (πολλαπλής επιλογής).\n\nΟι ετεροπολικές ενώσεις σε συνηθισμένες συνθήκες είναι:\nΑ. Στερεά σώματα με υψηλό σημείο τήξης, χωρίς ηλεκτρική αγωγιμότητα.\nΒ. Υγρά με ηλεκτρική αγωγιμότητα.\nΓ. Εύτηκτα στερεά με μικρή ηλεκτρική αγωγιμότητα.\nΔ. Δύστηκτα στερεά με μεγάλη ηλεκτρική αγωγιμότητα."
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Groups of the elements in a covalent structure with coded symbols",
+     "problem": "Question 40 (multiple choice).\n\nThe figure below gives the structure of a covalent compound in which Φ, X, Ψ, Z and Ω are not the real symbols of the elements of the compound.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-40-fig1.png\n[Figure labels: the Greek capitals Χ and Ζ in the figure are the letters X and Z of the text.]\nOn the basis of this structure, the above elements belong to the following groups of the Periodic Table:\nA. Φ: 1st – X: 17th – Ψ: 15th – Z: 14th – Ω: 16th.\nB. Φ: 1st – X: 17th – Ψ: 14th – Z: 15th – Ω: 16th.\nC. Φ: 17th – X: 1st – Ψ: 14th – Z: 15th – Ω: 13th.\nD. Φ: 17th – X: 1st – Ψ: 13th – Z: 14th – Ω: 15th.",
+     "problem_el": "Ερώτηση 40 (πολλαπλής επιλογής).\n\nΣτο παρακάτω σχήμα δίνεται η δομή μιας ομοιοπολικής ένωσης όπου τα Φ, Χ, Ψ, Ζ και Ω δεν είναι τα πραγματικά σύμβολα των στοιχείων της ένωσης.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-1-40-fig1.png\nΜε βάση τη δομή αυτή τα παραπάνω στοιχεία ανήκουν στις εξής ομάδες του Περιοδικού Πίνακα:\nΑ. Φ: 1η – Χ: 17η – Ψ: 15η – Ζ: 14η – Ω: 16η.\nΒ. Φ: 1η – Χ: 17η – Ψ: 14η – Ζ: 15η – Ω: 16η.\nΓ. Φ: 17η – Χ: 1η – Ψ: 14η – Ζ: 15η – Ω: 13η.\nΔ. Φ: 17η – Χ: 1η – Ψ: 13η – Ζ: 14η – Ω: 15η."
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Exercise 1: a damp sample of sodium hydroxide and its solutions",
+     "problem": "Problem 1.\n\nA $36\\ \\mathrm{g}$ sample of sodium hydroxide has absorbed moisture to an extent of $20\\%$ w/w.\n\n1.1. The number of atoms of non-metallic elements contained in the sample is:\nA. $1.59\\cdot 10^{24}$\nB. $1.35\\cdot 10^{24}$\nC. $1.08\\cdot 10^{24}$\nD. $8.67\\cdot 10^{23}$\n\n1.2. The sample is dissolved in deionised water, giving a solution Δ$_1$ of volume $360\\ \\mathrm{mL}$. $100\\ \\mathrm{mL}$ of solution Δ$_1$ are transferred into a volumetric flask. Deionised water is then added up to the graduation mark of the flask, so that a solution Δ$_2$ of concentration $0.8\\ \\mathrm{M}$ is obtained. The volume of deionised water (in mL) added to the flask is:\nA. 150\nB. 213\nC. 250\nD. 540\n\n1.3. $x\\ \\mathrm{mL}$ of solution Δ$_2$ are mixed with $y\\ \\mathrm{mL}$ of a solution Δ$_3$ of sodium hydroxide of concentration $8\\%$ w/v. Finally a solution Δ$_4$ is obtained with mass $318\\ \\mathrm{g}$, density $1.06\\ \\mathrm{g/mL}$ and concentration $6\\%$ w/v. The volumes $x$ and $y$ are respectively:\nA. $200\\ \\mathrm{mL}$ and $100\\ \\mathrm{mL}$.\nB. $185.5\\ \\mathrm{mL}$ and $114.5\\ \\mathrm{mL}$.\nC. $125\\ \\mathrm{mL}$ and $175\\ \\mathrm{mL}$.\nD. $265.5\\ \\mathrm{mL}$ and $34.5\\ \\mathrm{mL}$.\n\n1.4. Carbon dioxide gas is passed into the remaining part of solution Δ$_1$ (question 1.2). A solution of barium hydroxide is added to the resulting solution, so that a white precipitate is deposited. $1\\ \\mathrm{mol}$ of the precipitate weighs (g):\nA. 255.\nB. 197.\nC. 106.\nD. 40.",
+     "problem_el": "Άσκηση 1.\n\nΔείγμα $36\\ \\mathrm{g}$ υδροξειδίου του νατρίου έχει απορροφήσει υγρασία σε ποσοστό $20\\%$ w/w.\n\n1.1. Το πλήθος των ατόμων αμέταλλων στοιχείων που περιέχονται στο δείγμα είναι:\nΑ. $1{,}59\\cdot 10^{24}$\nΒ. $1{,}35\\cdot 10^{24}$\nΓ. $1{,}08\\cdot 10^{24}$\nΔ. $8{,}67\\cdot 10^{23}$\n\n1.2. Το δείγμα διαλύεται σε απιονισμένο νερό, οπότε προκύπτει διάλυμα Δ$_1$ όγκου $360\\ \\mathrm{mL}$. $100\\ \\mathrm{mL}$ από το διάλυμα Δ$_1$ μεταφέρονται σε ογκομετρική φιάλη. Στη συνέχεια προστίθεται απιονισμένο νερό μέχρι την ενδεικτική χαραγή της φιάλης, με αποτέλεσμα να προκύψει διάλυμα Δ$_2$ συγκέντρωσης $0{,}8\\ \\mathrm{M}$. Ο όγκος του απιονισμένου νερού (σε mL) που προστέθηκε στη φιάλη είναι:\nΑ. 150\nΒ. 213\nΓ. 250\nΔ. 540\n\n1.3. $x\\ \\mathrm{mL}$ του διαλύματος Δ$_2$ αναμειγνύονται με $y\\ \\mathrm{mL}$ ενός διαλύματος Δ$_3$ υδροξειδίου του νατρίου περιεκτικότητας $8\\%$ w/v. Τελικά προκύπτει διάλυμα Δ$_4$ μάζας $318\\ \\mathrm{g}$, πυκνότητας $1{,}06\\ \\mathrm{g/mL}$ και περιεκτικότητας $6\\%$ w/v. Οι όγκοι $x$ και $y$ είναι αντίστοιχα:\nΑ. $200\\ \\mathrm{mL}$ και $100\\ \\mathrm{mL}$.\nΒ. $185{,}5\\ \\mathrm{mL}$ και $114{,}5\\ \\mathrm{mL}$.\nΓ. $125\\ \\mathrm{mL}$ και $175\\ \\mathrm{mL}$.\nΔ. $265{,}5\\ \\mathrm{mL}$ και $34{,}5\\ \\mathrm{mL}$.\n\n1.4. Στο υπόλοιπο μέρος του διαλύματος Δ$_1$ (ερώτημα 1.2) διαβιβάζεται αέριο διοξείδιο του άνθρακα. Στο διάλυμα που προκύπτει, προστίθεται διάλυμα υδροξειδίου του βαρίου, με αποτέλεσμα να καταβυθιστεί λευκό ίζημα. $1\\ \\mathrm{mol}$ του ιζήματος ζυγίζει (g):\nΑ. 255.\nΒ. 197.\nΓ. 106.\nΔ. 40."
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Round 1, Grade 10",
+     "title": "Exercise 2: solubility of a salt; a gaseous HCl–H2 mixture",
+     "problem": "Problem 2.\n\n2.1 To a vessel (1) containing $200\\ \\mathrm{mL}$ of $\\ce{H2O}$ ($\\rho = 1\\ \\mathrm{g/mL}$) we add $80\\ \\mathrm{g}$ of a salt X, whereupon a solution (A) at a temperature of $30\\ ^\\circ\\mathrm{C}$ with a concentration of $20\\ \\%$ w/w is formed. We observe that an undissolved quantity of salt X remains.\n\n2.1.a The solubility of salt X at $30\\ ^\\circ\\mathrm{C}$ is:\nA. $15\\ \\mathrm{g}$ X / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nB. $20\\ \\mathrm{g}$ X / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nC. $25\\ \\mathrm{g}$ X / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nD. $40\\ \\mathrm{g}$ X / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\n\nBy a suitable procedure we take $50\\ \\mathrm{g}$ of solution (A) and transfer it to another vessel (2), so that the rest of solution (A) and the undissolved quantity of salt X remain in vessel (1). Then $50\\ \\mathrm{g}$ and $\\alpha\\ \\mathrm{g}$ of water are added to vessels (1) and (2) respectively. Next, the solution of vessel (2) is added to vessel (1). Finally a solution at a temperature of $30\\ ^\\circ\\mathrm{C}$ is obtained, while $10\\ \\mathrm{g}$ of salt X remain undissolved.\n\n2.1.b The amount of water that we added to vessel (2) is:\nA. $\\alpha = 30\\ \\mathrm{g}$.\nB. $\\alpha = 50\\ \\mathrm{g}$.\nC. $\\alpha = 70\\ \\mathrm{g}$.\nD. $\\alpha = 100\\ \\mathrm{g}$.\n\n2.1.c Continuing the above procedure, the contents of vessel (1) are cooled to $20\\ ^\\circ\\mathrm{C}$ and then heated to $40\\ ^\\circ\\mathrm{C}$. If the solubility of salt X at $20\\ ^\\circ\\mathrm{C}$ is $10\\ \\mathrm{g}$ X/$100\\ \\mathrm{g}$ $\\ce{H2O}$ and at $40\\ ^\\circ\\mathrm{C}$ is $30\\ \\mathrm{g}$ X/$100\\ \\mathrm{g}$ $\\ce{H2O}$, then the percentage change in the mass of the solution on heating it from $20\\ ^\\circ\\mathrm{C}$ to $40\\ ^\\circ\\mathrm{C}$ is:\nA. $16.88\\ \\%$.\nB. $18.88\\ \\%$.\nC. $56.12\\ \\%$.\nD. $83.12\\ \\%$.\n\n2.2 A gaseous mixture of hydrogen chloride and molecular hydrogen occupies a volume of $6.72\\ \\mathrm{L}$ at S.T.P. The ratio of chlorine atoms to hydrogen atoms in the mixture is 1:2 respectively.\n\n2.2.a The density of the gas mixture under the above conditions is:\nA. $0.60\\ \\mathrm{g/L}$.\nB. $0.86\\ \\mathrm{g/L}$.\nC. $1.04\\ \\mathrm{g/L}$.\nD. $1.12\\ \\mathrm{g/L}$.\n\n2.2.b The mixture is passed into $350\\ \\mathrm{mL}$ of water, whereupon the hydrogen chloride dissolves completely (the solubility of hydrogen in water is considered negligible). The resulting solution has a density of $1.05\\ \\mathrm{g/mL}$. The concentration of the solution is:\nA. $0.28\\ \\mathrm{M}$\nB. $0.42\\ \\mathrm{M}$\nC. $0.59\\ \\mathrm{M}$\nD. $1.45\\ \\mathrm{M}$.",
+     "problem_el": "Άσκηση 2.\n\n2.1 Σε ένα δοχείο (1) που περιέχει $200\\ \\mathrm{mL}$ $\\ce{H2O}$ ($\\rho = 1\\ \\mathrm{g/mL}$) προσθέτουμε $80\\ \\mathrm{g}$ άλατος Χ, οπότε σχηματίζεται διάλυμα (Α) θερμοκρασίας $30\\ ^\\circ\\mathrm{C}$ με περιεκτικότητα $20\\ \\%$ w/w. Παρατηρούμε ότι παραμένει αδιάλυτη ποσότητα του άλατος Χ.\n\n2.1.α Η διαλυτότητα του άλατος Χ στους $30\\ ^\\circ\\mathrm{C}$ είναι:\nΑ. $15\\ \\mathrm{g}$ Χ / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nΒ. $20\\ \\mathrm{g}$ Χ / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nΓ. $25\\ \\mathrm{g}$ Χ / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\nΔ. $40\\ \\mathrm{g}$ Χ / $100\\ \\mathrm{g}$ $\\ce{H2O}$.\n\nΜε κατάλληλη διαδικασία λαμβάνουμε $50\\ \\mathrm{g}$ από το διάλυμα (Α) και το μεταφέρουμε σε ένα άλλο δοχείο (2), οπότε στο δοχείο (1) παραμένει το υπόλοιπο του διαλύματος (Α) και η αδιάλυτη ποσότητα του άλατος Χ. Ακολουθεί προσθήκη νερού στα δοχεία (1) και (2) με $50\\ \\mathrm{g}$ και $\\alpha\\ \\mathrm{g}$ νερού αντίστοιχα. Στη συνέχεια το διάλυμα του δοχείου (2) προστίθεται στο δοχείο (1). Τελικά προκύπτει διάλυμα θερμοκρασίας $30\\ ^\\circ\\mathrm{C}$, ενώ παραμένουν αδιάλυτα $10\\ \\mathrm{g}$ του άλατος Χ.\n\n2.1.β Η ποσότητα του νερού που προσθέσαμε στο δοχείο (2) είναι:\nΑ. $\\alpha = 30\\ \\mathrm{g}$.\nΒ. $\\alpha = 50\\ \\mathrm{g}$.\nΓ. $\\alpha = 70\\ \\mathrm{g}$.\nΔ. $\\alpha = 100\\ \\mathrm{g}$.\n\n2.1.γ Σε συνέχεια της παραπάνω διαδικασίας, το περιεχόμενο του δοχείου (1) ψύχεται στους $20\\ ^\\circ\\mathrm{C}$ και στη συνέχεια θερμαίνεται στους $40\\ ^\\circ\\mathrm{C}$. Αν η διαλυτότητα του άλατος Χ στους $20\\ ^\\circ\\mathrm{C}$ είναι $10\\ \\mathrm{g}$ Χ/$100\\ \\mathrm{g}$ $\\ce{H2O}$ και στους $40\\ ^\\circ\\mathrm{C}$ είναι $30\\ \\mathrm{g}$ Χ/$100\\ \\mathrm{g}$ $\\ce{H2O}$, τότε το ποσοστό μεταβολής που παρουσίασε η μάζα του διαλύματος κατά τη θέρμανσή του από τους $20\\ ^\\circ\\mathrm{C}$ στους $40\\ ^\\circ\\mathrm{C}$ είναι:\nΑ. $16{,}88\\ \\%$.\nΒ. $18{,}88\\ \\%$.\nΓ. $56{,}12\\ \\%$.\nΔ. $83{,}12\\ \\%$.\n\n2.2 Αέριο μείγμα υδροχλωρίου και μοριακού υδρογόνου καταλαμβάνει όγκο $6{,}72\\ \\mathrm{L}$ σε συνθήκες S.T.P. Η αναλογία ατόμων χλωρίου και υδρογόνου στο μείγμα ισούται με 1:2 αντίστοιχα.\n\n2.2.α Η πυκνότητα του αερίου μείγματος στις παραπάνω συνθήκες είναι:\nΑ. $0{,}60\\ \\mathrm{g/L}$.\nΒ. $0{,}86\\ \\mathrm{g/L}$.\nΓ. $1{,}04\\ \\mathrm{g/L}$.\nΔ. $1{,}12\\ \\mathrm{g/L}$.\n\n2.2.β Το μείγμα διαβιβάζεται σε $350\\ \\mathrm{mL}$ νερού, οπότε το υδροχλώριο διαλύεται πλήρως (η διαλυτότητα του υδρογόνου στο νερό θεωρείται αμελητέα). Το διάλυμα που προκύπτει έχει πυκνότητα $1{,}05\\ \\mathrm{g/mL}$. Η συγκέντρωση του διαλύματος είναι:\nΑ. $0{,}28\\ \\mathrm{M}$\nΒ. $0{,}42\\ \\mathrm{M}$\nΓ. $0{,}59\\ \\mathrm{M}$\nΔ. $1{,}45\\ \\mathrm{M}$."
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Electron shells of oganesson",
+     "problem": "Question 1 (multiple choice).\n\n2019 was celebrated as the International Year of the Periodic Table, since 150 years had passed since the first presentation of the Periodic Table of the chemical elements. The last element in the Periodic Table has atomic number 118 and the symbol Og (oganesson). In the ground state of the Og atom, the distribution of the electrons in shells is:\nA. 2, 8, 18, 32, 18, 8, 4\nB. 2, 8, 18, 32, 32, 18, 8\nC. 2, 8, 18, 18, 32, 32, 8\nD. 2, 8, 18, 32, 50, 8",
+     "problem_el": "Ερώτηση 1 (πολλαπλής επιλογής).\n\nΤο 2019 γιορτάστηκε ως Διεθνές Έτος Περιοδικού Πίνακα, αφού συμπληρώθηκαν 150 χρόνια από την πρώτη παρουσίαση του Περιοδικού Πίνακα των χημικών στοιχείων. Το τελευταίο στη σειρά στοιχείο του Περιοδικού Πίνακα έχει ατομικό αριθμό 118 και συμβολίζεται ως Og (Ογκανέσσιο). Στη θεμελιώδη κατάσταση του ατόμου Og, η κατανομή των ηλεκτρονίων σε στιβάδες είναι:\nΑ. 2, 8, 18, 32, 18, 8, 4\nΒ. 2, 8, 18, 32, 32, 18, 8\nΓ. 2, 8, 18, 18, 32, 32, 8\nΔ. 2, 8, 18, 32, 50, 8"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Density with significant figures",
+     "problem": "Question 2 (multiple choice).\n\nIn calculations with experimental data, the precision of the measuring instruments must be taken into account. By weighing, a quantity of a liquid was found to have a mass of 17.39 g. The same quantity was transferred to a measuring cylinder, where the level of the liquid reached the value 5.60 mL. From the above measurements, the density of the liquid (in g/mL) is:\nA. 3.11\nB. 3.10536\nC. 3.105\nD. 3.10",
+     "problem_el": "Ερώτηση 2 (πολλαπλής επιλογής).\n\nΚατά τους υπολογισμούς με πειραματικά δεδομένα, πρέπει να λαμβάνεται υπόψη η ακρίβεια των οργάνων μέτρησης. Με ζύγιση βρέθηκε ότι μια ποσότητα υγρού έχει μάζα 17,39 g. Η ίδια ποσότητα μεταφέρθηκε σε ογκομετρικό κύλινδρο όπου η στάθμη του υγρού έφτασε στην τιμή 5,60 mL. Από τις παραπάνω μετρήσεις, προκύπτει ότι η πυκνότητα του υγρού (σε g/mL) είναι:\nΑ. 3,11\nΒ. 3,10536\nΓ. 3,105\nΔ. 3,10"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Dissolved oxygen in ppm",
+     "problem": "Question 3 (multiple choice).\n\nIn very dilute aqueous solutions the concentration unit \"ppm\" is used. An aqueous solution contains 0.008 g of oxygen dissolved in 1000 g of water. The oxygen content of the solution is:\nA. 800 ppm\nB. 80 ppm\nC. 8 ppm\nD. 0.8 ppm",
+     "problem_el": "Ερώτηση 3 (πολλαπλής επιλογής).\n\nΣτα πολύ αραιά υδατικά διαλύματα χρησιμοποιείται η περιεκτικότητα «ppm». Ένα υδατικό διάλυμα περιέχει 0,008 g οξυγόνου διαλυμένα σε 1000 g νερού. Η περιεκτικότητα του διαλύματος σε οξυγόνο είναι:\nΑ. 800 ppm\nΒ. 80 ppm\nΓ. 8 ppm\nΔ. 0,8 ppm"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Iron nail in copper(II) sulfate solution",
+     "problem": "Question 4 (multiple choice).\n\nA nail of mass 7.1 g is placed in a glass containing a blue aqueous solution of copper(II) sulfate. After a few minutes we observe that the solution has changed colour. We take the nail out of the solution and, after it has dried, we weigh it. For the final mass $m$ of the nail:\nA. $m < 7.1\\,\\mathrm{g}$\nB. $m = 7.1\\,\\mathrm{g}$\nC. $m > 7.1\\,\\mathrm{g}$\nD. $m < 7.1\\,\\mathrm{g}$ if only part of the nail is immersed in the solution, whereas $m > 7.1\\,\\mathrm{g}$ when the whole nail is immersed.",
+     "problem_el": "Ερώτηση 4 (πολλαπλής επιλογής).\n\nΣε ποτήρι που περιέχει γαλάζιο υδατικό διάλυμα θειικού χαλκού (ΙΙ), βάζουμε ένα καρφί μάζας 7,1 g. Μετά από μερικά λεπτά παρατηρούμε ότι το διάλυμα έχει αλλάξει χρώμα. Βγάζουμε το καρφί από το διάλυμα και αφού στεγνώσει, το ζυγίζουμε. Για την τελική μάζα $m$ του καρφιού ισχύει:\nΑ. $m < 7{,}1\\,\\mathrm{g}$\nΒ. $m = 7{,}1\\,\\mathrm{g}$\nΓ. $m > 7{,}1\\,\\mathrm{g}$\nΔ. $m < 7{,}1\\,\\mathrm{g}$ στην περίπτωση που μόνο ένα τμήμα του καρφιού είναι βυθισμένο στο διάλυμα, ενώ $m > 7{,}1\\,\\mathrm{g}$ όταν ολόκληρο το καρφί είναι βυθισμένο."
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Neutralisation of HCl by Ba(OH)2",
+     "problem": "Question 5 (multiple choice).\n\nA hydrochloric acid solution of volume $V_1$ and concentration $C$ is completely neutralised by a barium hydroxide solution of volume $V_2$ and concentration $C/2$. For the volumes:\nA. $V_1 = 2\\cdot V_2$\nB. $V_1 = V_2$\nC. $V_1 = 0.5\\cdot V_2$\nD. $V_1 = 0.25\\cdot V_2$",
+     "problem_el": "Ερώτηση 5 (πολλαπλής επιλογής).\n\nΔιάλυμα υδροχλωρίου όγκου $V_1$ και συγκέντρωσης $C$, εξουδετερώνεται πλήρως από διάλυμα υδροξειδίου του βαρίου όγκου $V_2$ και συγκέντρωσης $C/2$. Για τους όγκους ισχύει:\nΑ. $V_1 = 2\\cdot V_2$\nΒ. $V_1 = V_2$\nΓ. $V_1 = 0{,}5\\cdot V_2$\nΔ. $V_1 = 0{,}25\\cdot V_2$"
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Electrolysis of water",
+     "problem": "Question 6 (multiple choice).\n\nIn an experiment on the electrolytic decomposition of water, the volume of the oxygen produced was measured at STP and found to be 56 L. The amount of water that was electrolysed is:\nA. 2.5 mol\nB. 22.5 g\nC. 90 g\nD. 112 L",
+     "problem_el": "Ερώτηση 6 (πολλαπλής επιλογής).\n\nΣ’ ένα πείραμα ηλεκτρολυτικής διάσπασης του νερού, ο όγκος του παραγόμενου οξυγόνου μετρήθηκε σε συνθήκες STP και βρέθηκε ίσος με 56 L. Η ποσότητα του νερού που ηλεκτρολύθηκε είναι:\nΑ. 2,5 mol\nΒ. 22,5 g\nΓ. 90 g\nΔ. 112 L"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Characteristics of a homologous series",
+     "problem": "Question 7 (multiple choice).\n\nListed below are some characteristics that the members of a homologous series may possibly have.\ni. Same general molecular formula.\nii. Similar chemical properties.\niii. Gradation in the physical properties.\nOf the above statements, the correct one(s) is (are):\nA. Only ii.\nB. i and iii.\nC. ii and iii.\nD. All.",
+     "problem_el": "Ερώτηση 7 (πολλαπλής επιλογής).\n\nΠαρακάτω αναφέρονται ορισμένα χαρακτηριστικά που είναι πιθανό να έχουν τα μέλη μιας ομόλογης σειράς.\ni. Ίδιος γενικός μοριακός τύπος.\nii. Παρόμοιες χημικές ιδιότητες.\niii. Διαβάθμιση στις φυσικές ιδιότητες.\nΑπό τις παραπάνω προτάσεις, σωστή ή σωστές είναι:\nΑ. Μόνο η ii.\nΒ. Οι i και iii.\nΓ. Οι ii και iii.\nΔ. Όλες."
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Second member of the saturated ketones",
+     "problem": "Question 8 (multiple choice).\n\nThe second member of the homologous series of the saturated ketones has the molecular formula:\nA. $\\ce{C2H4O}$.\nB. $\\ce{C2H6O}$.\nC. $\\ce{C4H8O}$.\nD. $\\ce{C4H8O2}$.",
+     "problem_el": "Ερώτηση 8 (πολλαπλής επιλογής).\n\nΤο δεύτερο μέλος της ομόλογης σειράς των κορεσμένων κετονών έχει μοριακό τύπο:\nΑ. $\\ce{C2H4O}$.\nΒ. $\\ce{C2H6O}$.\nΓ. $\\ce{C4H8O}$.\nΔ. $\\ce{C4H8O2}$."
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Homologous series with constant carbon content",
+     "problem": "Question 9 (multiple choice).\n\nAll the members of the homologous series to which the compound with the following molecular formula belongs have the same % w/w carbon content:\nA. $\\ce{C4H10}$.\nB. $\\ce{C2H4}$.\nC. $\\ce{C2H2}$.\nD. $\\ce{CH4O}$.",
+     "problem_el": "Ερώτηση 9 (πολλαπλής επιλογής).\n\nΊδια % w/w περιεκτικότητα σε άνθρακα έχουν όλα τα μέλη της ομόλογης σειράς στην οποία ανήκει η ένωση με μοριακό τύπο:\nΑ. $\\ce{C4H10}$.\nΒ. $\\ce{C2H4}$.\nΓ. $\\ce{C2H2}$.\nΔ. $\\ce{CH4O}$."
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Geometry of the lightest organic compound",
+     "problem": "Question 10 (multiple choice).\n\nThe arrangement of the atoms in space in the organic compound with the smallest relative molecular mass is:\nA. On the same straight line.\nB. In the same plane.\nC. Tetrahedral.\nD. Octahedral.",
+     "problem_el": "Ερώτηση 10 (πολλαπλής επιλογής).\n\nΗ διάταξη των ατόμων στο χώρο στην οργανική ένωση με την μικρότερη σχετική μοριακή μάζα, είναι:\nΑ. Στην ίδια ευθεία.\nΒ. Στο ίδιο επίπεδο.\nΓ. Τετραεδρική.\nΔ. Οκταεδρική."
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Naming an ester from its skeletal formula",
+     "problem": "Question 11 (multiple choice).\n\nSkeletal structures are often used to represent organic compounds. In them, the carbon and hydrogen atoms are omitted, while multiple bonds and functional groups are shown normally. For example, the symbol\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-11-fig1.png\n\ncorresponds to propene. The skeletal structure of an organic compound is given below.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-11-fig2.png\n\nThis compound is called:\nA. sec-Butyl propanoate.\nB. Propyl methylpropanoate.\nC. Isobutyl propyl ether.\nD. 3-Carboxy-4-methylhexane.",
+     "problem_el": "Ερώτηση 11 (πολλαπλής επιλογής).\n\nΓια την αναπαράσταση των οργανικών ενώσεων χρησιμοποιείται συχνά η σκελετική δομή. Σε αυτή, τα άτομα άνθρακα και υδρογόνου παραλείπονται, ενώ οι πολλαπλοί δεσμοί και οι χαρακτηριστικές ομάδες εμφανίζονται κανονικά. Για παράδειγμα, ο συμβολισμός\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-11-fig1.png\n\nαντιστοιχεί στο προπένιο. Παρακάτω δίνεται η σκελετική δομή μιας οργανικής ένωσης.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-11-fig2.png\n\nΗ ένωση αυτή ονομάζεται:\nΑ. Προπανικός δευτεροταγής-βουτυλεστέρας.\nΒ. Μέθυλο προπανικός προπυλεστέρας.\nΓ. Ισοβούτυλο πρόπυλο αιθέρας.\nΔ. 3-καρβοξυ-4-μεθυλοεξάνιο."
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Isomeric saturated esters",
+     "problem": "Question 12 (multiple choice).\n\nIn the molecular formula of a saturated ester, the mass of oxygen is four times the mass of hydrogen. The number of acyclic structural isomers corresponding to the above molecular formula is:\nA. 2\nB. 4\nC. 5\nD. 6",
+     "problem_el": "Ερώτηση 12 (πολλαπλής επιλογής).\n\nΣτον μοριακό τύπο ενός κορεσμένου εστέρα η μάζα του οξυγόνου είναι τετραπλάσια από τη μάζα του υδρογόνου. Το πλήθος των άκυκλων συντακτικών ισομερών που αντιστοιχούν στον παραπάνω μοριακό τύπο είναι:\nΑ. 2\nΒ. 4\nΓ. 5\nΔ. 6"
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Bromination of 1-butene",
+     "problem": "Question 13 (multiple choice).\n\nThe following statements refer to the reaction between 1-butene and bromine, which is in the form of a reddish-brown solution.\ni. It is an addition reaction.\nii. To predict the main product, we apply Markovnikov's rule.\niii. The organic product is colourless.\nCorrect are:\nA. i and ii.\nB. i and iii.\nC. ii and iii.\nD. All.",
+     "problem_el": "Ερώτηση 13 (πολλαπλής επιλογής).\n\nΟι προτάσεις που ακολουθούν, αναφέρονται στην αντίδραση μεταξύ 1-βουτενίου και βρομίου, το οποίο βρίσκεται με τη μορφή καστανέρυθρου διαλύματος.\ni. Πρόκειται για αντίδραση προσθήκης.\nii. Για να προβλέψουμε το κύριο προϊόν, εφαρμόζουμε τον κανόνα του Markovnikov.\niii. Το οργανικό προϊόν είναι άχρωμο.\nΣωστές είναι:\nΑ. Οι i και ii.\nΒ. Οι i και iii.\nΓ. Οι ii και iii.\nΔ. Όλες."
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Partial hydrogenation of an alkyne",
+     "problem": "Question 14 (multiple choice).\n\n20 g of an alkyne are heated with 0.6 g of $\\ce{H2}$ in the presence of Ni. The gas produced is passed into an excess of ammoniacal $\\ce{CuCl}$ solution, with the result that 0.2 mol of precipitate is formed. The name of the alkyne is:\nA. 1-Pentyne.\nB. 1-Butyne.\nC. 2-Butyne.\nD. Propyne.",
+     "problem_el": "Ερώτηση 14 (πολλαπλής επιλογής).\n\n20 g ενός αλκινίου θερμαίνονται με 0,6 g $\\ce{H2}$ παρουσία Ni. Το αέριο που παράγεται, διαβιβάζεται σε περίσσεια αμμωνιακού διαλύματος $\\ce{CuCl}$, με αποτέλεσμα να σχηματίζονται 0,2 mol ιζήματος. Η ονομασία του αλκινίου είναι:\nΑ. 1-πεντίνιο.\nΒ. 1-βουτίνιο.\nΓ. 2-βουτίνιο.\nΔ. Προπίνιο."
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Combustion volume ratio of a hydrocarbon",
+     "problem": "Question 15 (multiple choice).\n\nThe complete combustion of a certain volume of vapour of a hydrocarbon produces carbon dioxide and water vapour in the volume ratio 2:1. All volumes were measured under the same conditions of pressure and temperature. The hydrocarbon may be:\nA. Ethene.\nB. Propadiene.\nC. Benzene.\nD. 1-Butyne.",
+     "problem_el": "Ερώτηση 15 (πολλαπλής επιλογής).\n\nΗ πλήρης καύση ορισμένου όγκου ατμών ενός υδρογονάνθρακα παράγει διοξείδιο του άνθρακα και υδρατμούς με αναλογία όγκων 2:1. Όλοι οι όγκοι μετρήθηκαν στις ίδιες συνθήκες πίεσης και θερμοκρασίας. Ο υδρογονάνθρακας μπορεί να είναι το:\nΑ. Αιθένιο.\nΒ. Προπαδιένιο.\nΓ. Βενζόλιο.\nΔ. 1-βουτίνιο."
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Alcohols and acidified dichromate",
+     "problem": "Question 16 (multiple choice).\n\nIn an acidified solution of potassium dichromate, no change of colour will be observed when an excess of the following is added to it:\nA. Methanol.\nB. 2-Butanol.\nC. Methyl-1-propanol.\nD. Methyl-2-propanol.",
+     "problem_el": "Ερώτηση 16 (πολλαπλής επιλογής).\n\nΣε ένα διάλυμα όξινου διαλύματος διχρωμικού καλίου δεν θα παρατηρηθεί μεταβολή χρώματος, όταν σε αυτό προστεθεί περίσσεια:\nΑ. Μεθανόλης.\nΒ. 2-βουτανόλης.\nΓ. Μεθυλο-1-προπανόλης.\nΔ. Μεθυλο-2-προπανόλης."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Catalytic converter, lactic acid and Tollens reagent",
+     "problem": "Question 17 (multiple choice).\n\nThe following statements are given:\ni. The catalytic converter of cars contains chemical compounds which react with the polluting exhaust gases, which are thus retained.\nii. On oxidation of the product of lactic fermentation, pyruvic acid (2-ketopropanoic acid) is produced.\niii. On mixing Tollens' reagent with propanone, a silver mirror is produced.\nThe characterisation of the above statements as true (T) or false (F) is:\nA. T, F, T.\nB. T, F, F.\nC. F, T, T.\nD. F, T, F.",
+     "problem_el": "Ερώτηση 17 (πολλαπλής επιλογής).\n\nΔίνονται οι παρακάτω προτάσεις:\ni. Ο καταλυτικός μετατροπέας των αυτοκινήτων περιέχει χημικές ενώσεις, οι οποίες αντιδρούν με τα ρυπογόνα καυσαέρια, τα οποία έτσι συγκρατούνται.\nii. Κατά την οξείδωση του προϊόντος της γαλακτικής ζύμωσης παράγεται πυροσταφυλικό οξύ (2-κετοπροπανικό οξύ).\niii. Από την ανάμειξη του αντιδραστηρίου Tollens με προπανόνη παράγεται κάτοπτρο Ag.\nΟ χαρακτηρισμός των παραπάνω προτάσεων ως σωστών (Σ) ή λανθασμένων (Λ) είναι:\nΑ. Σ, Λ, Σ.\nΒ. Σ, Λ, Λ.\nΓ. Λ, Σ, Σ.\nΔ. Λ, Σ, Λ."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Carboxylic acids with sodium carbonate",
+     "problem": "Question 18 (multiple choice).\n\nWhen an excess of sodium carbonate solution acts on 1 mol of ethanoic acid, on 1 mol of 2-hydroxypropanoic acid and on 1 mol of benzoic acid, the volume of the gas released, measured under the same conditions, is:\nA. The same in all three cases.\nB. Smaller for ethanoic acid.\nC. Larger for 2-hydroxypropanoic acid.\nD. Different in the three cases.",
+     "problem_el": "Ερώτηση 18 (πολλαπλής επιλογής).\n\nΚατά την επίδραση περίσσειας διαλύματος ανθρακικού νατρίου σε 1 mol αιθανικού οξέος, σε 1 mol 2-υδροξυπροπανικού οξέος και σε 1 mol βενζοϊκού οξέος, ο όγκος του αερίου που ελευθερώνεται, μετρημένος στις ίδιες συνθήκες είναι:\nΑ. Ίδιος και στις τρεις περιπτώσεις.\nΒ. Μικρότερος στο αιθανικό οξύ.\nΓ. Μεγαλύτερος στο 2-υδροξυπροπανικό οξύ.\nΔ. Διαφορετικός στις τρεις περιπτώσεις."
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Soaps and detergents",
+     "problem": "Question 19 (multiple choice).\n\nThe following organic salts are given:\ni. $\\ce{CH3(CH2)13CH2COO^{-}Na^{+}}$\nii. $\\ce{CH3(CH2)7CH=CH(CH2)7COO^{-}K^{+}}$\niii. $\\ce{CH3(CH2)10CH2OSO3^{-}Na^{+}}$\nThe class of soaps includes:\nA. Only i.\nB. i and ii.\nC. ii and iii.\nD. All.",
+     "problem_el": "Ερώτηση 19 (πολλαπλής επιλογής).\n\nΔίνονται τα οργανικά άλατα:\ni. $\\ce{CH3(CH2)13CH2COO^{-}Na^{+}}$\nii. $\\ce{CH3(CH2)7CH=CH(CH2)7COO^{-}K^{+}}$\niii. $\\ce{CH3(CH2)10CH2OSO3^{-}Na^{+}}$\nΣτην κατηγορία των σαπουνιών ανήκουν:\nΑ. Μόνο το i.\nΒ. Τα i και ii.\nΓ. Τα ii και iii.\nΔ. Όλα."
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Reacts with sodium and with dichromate",
+     "problem": "Question 20 (multiple choice).\n\nOf the following compounds, the one that reacts with Na and also changes the colour of acidified $\\ce{K2Cr2O7}$ solution is:\nA. Butanoic acid.\nB. Propanone.\nC. 2-Propanol.\nD. Ethanal.",
+     "problem_el": "Ερώτηση 20 (πολλαπλής επιλογής).\n\nΑπό τις ακόλουθες ενώσεις αυτή που αντιδρά με Na αλλά και αλλάζει το χρώμα του όξινου διαλύματος $\\ce{K2Cr2O7}$ είναι:\nΑ. Βουτανικό οξύ.\nΒ. Προπανόνη.\nΓ. 2-προπανόλη.\nΔ. Αιθανάλη."
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Hydrogen atoms in tetramethylbutane",
+     "problem": "Question 21 (multiple choice).\n\nThe number of hydrogen atoms in the molecule of tetramethylbutane is:\nA. 12\nB. 14\nC. 16\nD. 18",
+     "problem_el": "Ερώτηση 21 (πολλαπλής επιλογής).\n\nΤα άτομα του υδρογόνου που υπάρχουν στο μόριο του τετραμεθυλοβουτανίου είναι:\nΑ. 12\nΒ. 14\nΓ. 16\nΔ. 18"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Main component of biogas and natural gas",
+     "problem": "Question 22 (multiple choice).\n\nThe main component of biogas and of natural gas is:\nA. $\\ce{CH4}$.\nB. $\\ce{C2H4}$.\nC. $\\ce{CO2}$.\nD. $\\ce{H2}$.",
+     "problem_el": "Ερώτηση 22 (πολλαπλής επιλογής).\n\nΤο κύριο συστατικό του βιοαερίου και του φυσικού αερίου είναι:\nΑ. $\\ce{CH4}$.\nΒ. $\\ce{C2H4}$.\nΓ. $\\ce{CO2}$.\nΔ. $\\ce{H2}$."
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Distinguishing propanoic and propenoic acid",
+     "problem": "Question 23 (multiple choice).\n\nWe can distinguish propanoic acid from propenoic acid by treatment with\nA. Na.\nB. $\\ce{NaHCO3}$.\nC. $\\ce{NaOH}$.\nD. $\\ce{Br2}$($\\ce{CCl4}$).",
+     "problem_el": "Ερώτηση 23 (πολλαπλής επιλογής).\n\nΜπορούμε να διακρίνουμε το προπανικό οξύ από το προπενικό οξύ με επίδραση\nΑ. Na.\nΒ. $\\ce{NaHCO3}$.\nΓ. $\\ce{NaOH}$.\nΔ. $\\ce{Br2}$($\\ce{CCl4}$)."
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Acid hydrolysis of an ester",
+     "problem": "Question 24 (multiple choice).\n\nOn hydrolysis (in the presence of acid) of the compound below, the following compounds are obtained:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-24-fig1.png\n\nA. Dimethylpropanoic acid and 2-propanol.\nB. Butanoic acid and 2-butanol.\nC. Methylpropanoic acid and methyl-2-propanol.\nD. Propanoic acid and 2-butanol.",
+     "problem_el": "Ερώτηση 24 (πολλαπλής επιλογής).\n\nΚατά την υδρόλυση (παρουσία οξέος) της παρακάτω ένωσης, προκύπτουν οι ενώσεις:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-24-fig1.png\n\nΑ. Διμεθυλοπροπανικό οξύ και 2-προπανόλη.\nΒ. Βουτανικό οξύ και 2-βουτανόλη.\nΓ. Μεθυλοπροπανικό οξύ και μεθυλο-2-προπανόλη.\nΔ. Προπανικό οξύ και 2-βουτανόλη."
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "paper_label": "Round 1, Grade 11",
+     "title": "IUPAC names of three unsaturated alcohols",
+     "problem": "Question 25 (multiple choice).\n\nThe following organic compounds are given:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-25-fig1.png\n\nThe name that does NOT correspond to any of the above compounds is:\nA. 3-Isopropyl-5-methyl-2-octen-4-ol.\nB. 3-Ethyl-5,6,6-trimethyl-2-hepten-4-ol.\nC. 5-Ethyl-2,3,6-trimethyl-2-hepten-4-ol.\nD. 6-Ethyl-5,7-dimethyl-2-octen-4-ol.",
+     "problem_el": "Ερώτηση 25 (πολλαπλής επιλογής).\n\nΔίνονται οι παρακάτω οργανικές ενώσεις:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-25-fig1.png\n\nΗ ονομασία που δεν αντιστοιχεί σε κάποια από τις παραπάνω ενώσεις είναι η:\nΑ. 3-ισοπροπυλο-5-μεθυλο-2-οκτεν-4-όλη.\nΒ. 3-αιθυλο-5,6,6-τριμεθυλο-2-επτεν-4-όλη.\nΓ. 5-αιθυλο-2,3,6-τριμεθυλο-2-επτεν-4-όλη.\nΔ. 6-αιθυλο-5,7-διμεθυλο-2-οκτεν-4-όλη."
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Pyrolysis of petroleum fractions",
+     "problem": "Question 26 (multiple choice).\n\nIn pyrolysis:\nA. Higher fractions of petroleum are broken down by heating, in the presence of air.\nB. Higher fractions of petroleum are broken down by heating, in the absence of air.\nC. Lower fractions of petroleum are broken down by heating, in the absence of air.\nD. Lower fractions of petroleum are broken down by heating, in the presence of air.",
+     "problem_el": "Ερώτηση 26 (πολλαπλής επιλογής).\n\nΚατά την πυρόλυση:\nΑ. Ανώτερα κλάσματα του πετρελαίου διασπώνται με θέρμανση, παρουσία αέρα.\nΒ. Ανώτερα κλάσματα του πετρελαίου διασπώνται με θέρμανση, απουσία αέρα.\nΓ. Κατώτερα κλάσματα του πετρελαίου διασπώνται με θέρμανση, απουσία αέρα.\nΔ. Κατώτερα κλάσματα του πετρελαίου διασπώνται με θέρμανση, παρουσία αέρα."
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Petrol, kerosene and nitrogen oxides",
+     "problem": "Question 27 (multiple choice).\n\nThe following statements are given:\ni. Petrol is a mixture of isomeric octanes.\nii. Kerosene belongs to the petrochemical products.\niii. The nitrogen oxides contained in car exhaust gases come mainly from the reaction between the nitrogen and the oxygen of atmospheric air.\nThe correct one(s) is (are):\nA. Only iii.\nB. i and ii.\nC. ii and iii.\nD. All.",
+     "problem_el": "Ερώτηση 27 (πολλαπλής επιλογής).\n\nΔίνονται οι προτάσεις:\ni. Η βενζίνη είναι μείγμα ισομερών οκτανίων.\nii. Η κηροζίνη ανήκει στα πετροχημικά προϊόντα.\niii. Τα οξείδια του αζώτου που περιέχονται στα καυσαέρια των αυτοκινήτων προέρχονται κυρίως από την αντίδραση μεταξύ του αζώτου και του οξυγόνου του ατμοσφαιρικού αέρα.\nΣωστή ή Σωστές είναι:\nΑ. Μόνο η iii.\nΒ. Οι i και ii.\nΓ. Οι ii και iii.\nΔ. Όλες."
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Greenhouse effect on Venus",
+     "problem": "Question 28 (multiple choice).\n\nThe atmosphere of the planet \"Venus\" consists mainly of $\\ce{CO2}$ (96%) and $\\ce{N2}$ (3%), with no trace of water vapour. On Venus:\nA. The greenhouse effect occurs.\nB. The greenhouse effect does not occur, because anthropogenic atmospheric pollution is absent.\nC. The greenhouse effect does not occur, since there is no water vapour in the atmosphere.\nD. The very high $\\ce{CO2}$ content of the atmosphere prevents the greenhouse effect from occurring.",
+     "problem_el": "Ερώτηση 28 (πολλαπλής επιλογής).\n\nΗ ατμόσφαιρα του πλανήτη «Αφροδίτη» αποτελείται κυρίως από $\\ce{CO2}$ (96%) και $\\ce{N2}$ (3%), χωρίς ίχνος υδρατμών. Στην Αφροδίτη:\nΑ. Εμφανίζεται το φαινόμενο του θερμοκηπίου.\nΒ. Δεν εμφανίζεται το φαινόμενο του θερμοκηπίου, επειδή απουσιάζει η ανθρωπογενής ατμοσφαιρική ρύπανση.\nΓ. Δεν εμφανίζεται το φαινόμενο του θερμοκηπίου, αφού δεν υπάρχουν υδρατμοί στην ατμόσφαιρα.\nΔ. Η πολύ μεγάλη περιεκτικότητα της ατμόσφαιρας σε $\\ce{CO2}$ εμποδίζει την εμφάνιση του φαινομένου του θερμοκηπίου."
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Hydrogen from sodium and organic compounds",
+     "problem": "Question 29 (multiple choice).\n\nExcess metallic sodium is added to $n$ mol of an acyclic organic compound X, with the result that $n$ mol of gas are produced. X may be:\nA. Ethyne.\nB. 1,2-Ethanediol.\nC. Hydroxyethanoic acid.\nD. Any of the above compounds.",
+     "problem_el": "Ερώτηση 29 (πολλαπλής επιλογής).\n\nΠερίσσεια μεταλλικού νατρίου προστίθεται σε $n$ mol μιας άκυκλης οργανικής ένωσης Χ, με αποτέλεσμα να παράγονται $n$ mol αερίου. Η Χ μπορεί να είναι:\nΑ. Το αιθίνιο.\nΒ. Η 1,2-αιθανοδιόλη.\nΓ. Το υδροξυαιθανικό οξύ.\nΔ. Οποιαδήποτε από τις παραπάνω ενώσεις."
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Hydration and dehydration sequence to C6H12",
+     "problem": "Question 30 (multiple choice).\n\nAccording to the scheme of chemical conversions below\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-30-fig1.png\n\n[Figure labels: Μοναδικό προϊόν = only product; Δευτερεύον προϊόν = minor product; Δεν γίνεται αντίδραση = no reaction takes place; π = concentrated; θ = heating.]\n\nthe organic compound (Γ) is:\nA. 2-Hexene.\nB. 2-Methyl-2-pentene.\nC. 2,3-Dimethyl-1-butene.\nD. 3,3-Dimethyl-1-butene.",
+     "problem_el": "Ερώτηση 30 (πολλαπλής επιλογής).\n\nΣύμφωνα με το παρακάτω διάγραμμα χημικών μετατροπών\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-30-fig1.png\n\nη οργανική ένωση (Γ) είναι το:\nΑ. 2-εξένιο.\nΒ. 2-μεθυλο-2-πεντένιο.\nΓ. 2,3-διμεθυλο-1-βουτένιο.\nΔ. 3,3-διμεθυλο-1-βουτένιο."
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Counting functional groups",
+     "problem": "Question 31 (multiple choice).\n\nThe number of different functional groups present in the organic compound below is:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-31-fig1.png\n\nA. Two.\nB. Three.\nC. Four.\nD. Five.",
+     "problem_el": "Ερώτηση 31 (πολλαπλής επιλογής).\n\nΤο πλήθος των διαφορετικών λειτουργικών ομάδων που υπάρχουν στην παρακάτω οργανική ένωση είναι:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-31-fig1.png\n\nΑ. Δύο.\nΒ. Τρεις.\nΓ. Τέσσερις\nΔ. Πέντε."
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Bonding electrons in isobutyl ethanoate",
+     "problem": "Question 32 (multiple choice).\n\nThe total number of bonding electrons present in the molecule of isobutyl ethanoate is:\nA. 19.\nB. 20.\nC. 40.\nD. 48.",
+     "problem_el": "Ερώτηση 32 (πολλαπλής επιλογής).\n\nΟ συνολικός αριθμός των δεσμικών ηλεκτρονίων που υπάρχουν στο μόριο του αιθανικού ισοβουτυλεστέρα, είναι:\nΑ. 19.\nΒ. 20.\nΓ. 40.\nΔ. 48."
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Positional isomers of C5H10O",
+     "problem": "Question 33 (multiple choice).\n\nOf the acyclic structural isomers with molecular formula $\\ce{C5H10O}$, those that show ONLY positional isomerism are:\nA. One pair of compounds.\nB. Two pairs of compounds.\nC. Three pairs of compounds.\nD. Seven pairs of compounds.",
+     "problem_el": "Ερώτηση 33 (πολλαπλής επιλογής).\n\nΑπό τα άκυκλα συντακτικά ισομερή με μοριακό τύπο $\\ce{C5H10O}$, εμφανίζουν μόνο ισομέρεια θέσης:\nΑ. Ένα ζεύγος ενώσεων.\nΒ. Δύο ζεύγη ενώσεων.\nΓ. Τρία ζεύγη ενώσεων.\nΔ. Επτά ζεύγη ενώσεων."
+    },
+    {
+     "day": 2,
+     "number": 34,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Identifying a monomer from a polymer model",
+     "problem": "Question 34 (multiple choice).\n\nThe picture below shows a section of a polymer\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-34-fig1.png\n\nwhich is obtained by polymerisation of:\nA. Ethyne.\nB. Propene.\nC. Methylpropene.\nD. 2-Butene.",
+     "problem_el": "Ερώτηση 34 (πολλαπλής επιλογής).\n\nΣτην παρακάτω εικόνα δίνεται ένα τμήμα ενός πολυμερούς\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-34-fig1.png\n\nτο οποίο προκύπτει με πολυμερισμό του:\nΑ. Αιθινίου.\nΒ. Προπενίου.\nΓ. Μεθυλοπροπενίου.\nΔ. 2-βουτενίου."
+    },
+    {
+     "day": 2,
+     "number": 35,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Properties of benzene",
+     "problem": "Question 35 (multiple choice).\n\nBenzene:\nA. Is a highly toxic substance.\nB. Does not undergo substitution reactions.\nC. Undergoes hydrogenation easily, like the alkenes.\nD. Has all of the above characteristics.",
+     "problem_el": "Ερώτηση 35 (πολλαπλής επιλογής).\n\nΤο βενζόλιο:\nΑ. Είναι ισχυρά τοξική ουσία.\nΒ. Δεν δίνει αντιδράσεις υποκατάστασης.\nΓ. Υφίσταται εύκολα υδρογόνωση, όπως τα αλκένια.\nΔ. Έχει όλα τα παραπάνω χαρακτηριστικά."
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Diluting wine",
+     "problem": "Question 36 (multiple choice).\n\nA winemaker adds 5 L of water to 20 L of wine of 12 alcoholic degrees. The change (in absolute value) of the content of the wine is equal to:\nA. 25 %\nB. 20 %\nC. 15 %\nD. 9.6 %.",
+     "problem_el": "Ερώτηση 36 (πολλαπλής επιλογής).\n\nΈνας οινοποιός προσθέτει 5 L νερού σε 20 L κρασιού 12 αλκοολικών βαθμών. Η μεταβολή (σε απόλυτη τιμή) της περιεκτικότητας του κρασιού είναι ίση με:\nΑ. 25 %\nΒ. 20 %\nΓ. 15 %\nΔ. 9,6 %."
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Preparation of ethers",
+     "problem": "Question 37 (multiple choice).\n\nEthers may be obtained by:\nA. Dehydration of alcohols.\nB. Oxidation of primary alcohols.\nC. Oxidation of secondary alcohols.\nD. Reaction between an alcohol and an acid.",
+     "problem_el": "Ερώτηση 37 (πολλαπλής επιλογής).\n\nΟι αιθέρες μπορεί να προκύψουν με:\nΑ. Αφυδάτωση των αλκοολών.\nΒ. Οξείδωση των πρωτοταγών αλκοολών.\nΓ. Οξείδωση των δευτεροταγών αλκοολών.\nΔ. Αντίδραση μεταξύ αλκοόλης και οξέος."
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "Round 1, Grade 11",
+     "title": "The enzyme zymase",
+     "problem": "Question 38 (multiple choice).\n\nThe enzyme zymase:\nA. Decomposes into ethanol and carbon dioxide.\nB. Is necessary for the conversion of wine into vinegar.\nC. Catalyses only the reaction of alcoholic fermentation.\nD. Catalyses the reaction of alcoholic fermentation, but also other reactions.",
+     "problem_el": "Ερώτηση 38 (πολλαπλής επιλογής).\n\nΤο ένζυμο ζυμάση:\nΑ. Διασπάται προς αιθανόλη και διοξείδιο του άνθρακα.\nΒ. Είναι απαραίτητο για τη μετατροπή του κρασιού σε ξύδι.\nΓ. Καταλύει μόνο την αντίδραση της αλκοολικής ζύμωσης.\nΔ. Καταλύει την αντίδραση της αλκοολικής ζύμωσης, αλλά και άλλες αντιδράσεις."
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Properties of benzoic acid",
+     "problem": "Question 39 (multiple choice).\n\nBenzoic acid:\nA. Reacts with methanol and gives benzyl methanoate.\nB. Reacts with copper and releases hydrogen gas.\nC. Contains three carbon–carbon double bonds in its molecule.\nD. Has none of the above characteristics.",
+     "problem_el": "Ερώτηση 39 (πολλαπλής επιλογής).\n\nΤο βενζοϊκό οξύ:\nΑ. Αντιδρά με τη μεθανόλη και δίνει μεθανικό βενζυλεστέρα.\nΒ. Αντιδρά με τον χαλκό και ελευθερώνει αέριο υδρογόνο.\nΓ. Περιέχει τρεις διπλούς δεσμούς άνθρακα-άνθρακα στο μόριό του.\nΔ. Δεν έχει κανένα από τα παραπάνω χαρακτηριστικά."
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Saponification of a triglyceride",
+     "problem": "Question 40 (multiple choice).\n\nA triglyceride with relative molecular mass $M_\\mathrm{r} = x$ is hydrolysed in the presence of NaOH, giving glycerol (1,2,3-propanetriol) and a mixture of salts of carboxylic acids. The sum of the relative molecular masses of the components of the mixture of salts is calculated from the relation:\nA. $x - 92$.\nB. $x - 41$.\nC. $x + 22$.\nD. $x + 28$.",
+     "problem_el": "Ερώτηση 40 (πολλαπλής επιλογής).\n\nΈνα τριγλυκερίδιο με σχετική μοριακή μάζα $M_\\mathrm{r} = x$ υδρολύεται παρουσία NaOH, οπότε προκύπτει γλυκερίνη (1,2,3-προπανοτριόλη) και ένα μίγμα αλάτων καρβοξυλικών οξέων. Το άθροισμα των σχετικών μοριακών μαζών των συστατικών του μίγματος αλάτων υπολογίζεται από τη σχέση:\nΑ. $x - 92$.\nΒ. $x - 41$.\nΓ. $x + 22$.\nΔ. $x + 28$."
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Calcium carbide, acetylene and its derivatives",
+     "problem": "Problem 1 (multiple choice).\n\nGiven below are unbalanced chemical equations (reactions) and schemes of chemical conversions.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-41-fig1.png\n\n[Figure labels: Αντίδραση = Reaction; Διάγραμμα = Scheme; Λευκό ίζημα = white precipitate; Καταλύτες = catalysts; Πολυμερισμός = polymerisation; Διμερισμός = dimerisation; θέρμανση = heating. The compound labels in the figure are A, B, Γ, Δ, E, Z, Θ, Λ, M, Ξ, Π, Σ, T, Φ and X.]\n\nThe mass of calcium carbide consumed in reaction I is 128 g. The amount of compound B produced is divided into 4 equal portions. Each portion follows a different route, as shown above. All reactions are considered to be one-way and quantitative.\n\n1.1. In reaction II the silver nitrate is in excess. This reaction takes place in the same way as the action of an ammoniacal solution of copper(I) chloride on compound B. The mass (in g) of the white precipitate is:\nA. 40\nB. 66.5\nC. 120\nD. 480\n\n1.2. The molecule of the polymer produced contains on average 960 monomer molecules. The average relative molecular mass of the polymer is:\nA. 95040\nB. 60000\nC. 24960\nD. 62.5\n\n1.3. In scheme II the bromine is in the form of a reddish-brown solution of concentration 16% w/v. The maximum volume of the bromine solution that compound Θ can decolorise is:\nA. 500 mL\nB. 750 mL\nC. 1 L\nD. 3 L\n\n1.4. In scheme III all the compounds denoted by letters are organic. The % w/w hydrogen content of compound X is:\nA. 80\nB. 46.2\nC. 20\nD. 14.3\n\n1.5. When blue hydrated copper(II) sulfate is heated, it turns into white anhydrous copper(II) sulfate. This process is reversible.\nThe amount of compound X produced in scheme III is burnt completely. The combustion gases are then passed into a vessel containing white copper(II) sulfate. After the gases have been passed through, it holds that:\nA. The colour and the mass of the copper(II) sulfate remain unchanged.\nB. The copper(II) sulfate has turned blue and its mass has changed by 27 g.\nC. The copper(II) sulfate has turned blue and its mass has changed by 44 g.\nD. The copper(II) sulfate has turned blue and its mass has changed by 108 g.",
+     "problem_el": "Άσκηση 1 (πολλαπλής επιλογής).\n\nΠαρακάτω δίνονται μη ισοσταθμισμένες χημικές εξισώσεις (αντιδράσεις) και διαγράμματα χημικών μετατροπών.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-41-fig1.png\n\nΗ μάζα του ανθρακασβεστίου που καταναλώνεται κατά την αντίδραση Ι είναι 128 g. Η ποσότητα της ένωσης Β που παράγεται, χωρίζεται σε 4 ίσα μέρη. Κάθε μέρος ακολουθεί διαφορετική πορεία, όπως φαίνεται παραπάνω. Όλες οι αντιδράσεις θεωρούνται μονόδρομες και ποσοτικές.\n\n1.1. Στην αντίδραση ΙΙ ο νιτρικός άργυρος βρίσκεται σε περίσσεια. Η αντίδραση αυτή πραγματοποιείται όπως και η επίδραση αμμωνιακού διαλύματος μονοσθενούς χλωριούχου χαλκού στη ένωση Β. Η μάζα (σε g) του λευκού ιζήματος είναι:\nΑ. 40\nΒ. 66,5\nΓ. 120\nΔ. 480\n\n1.2. Στο μόριο του πολυμερούς που παράγεται, περιέχονται κατά μέσο όρο 960 μόρια μονομερούς. Η μέση σχετική μοριακή μάζα του πολυμερούς είναι:\nΑ. 95040\nΒ. 60000\nΓ. 24960\nΔ. 62,5\n\n1.3. Στο διάγραμμα ΙΙ το βρώμιο βρίσκεται με τη μορφή καστανέρυθρου διαλύματος περιεκτικότητας 16% w/v. Ο μέγιστος όγκος του διαλύματος βρωμίου που μπορεί να αποχρωματίσει η ένωση Θ, είναι:\nΑ. 500 mL\nΒ. 750 mL\nΓ. 1 L\nΔ. 3 L\n\n1.4. Στο διάγραμμα ΙΙΙ όλες οι ενώσεις που συμβολίζονται με γράμματα είναι οργανικές. Η % w/w περιεκτικότητα της ένωσης Χ σε υδρογόνο είναι:\nΑ. 80\nΒ. 46,2\nΓ. 20\nΔ. 14,3\n\n1.5. Όταν ο γαλάζιος ένυδρος θειικός χαλκός (ΙΙ) θερμανθεί, μετατρέπεται σε λευκό άνυδρο θειικό χαλκό (ΙΙ). Η διαδικασία αυτή είναι αντιστρεπτή.\nΗ ποσότητα της ένωσης Χ που παράγεται στο διάγραμμα ΙΙΙ καίγεται πλήρως. Στη συνέχεια, τα καυσαέρια διαβιβάζονται σε δοχείο που περιέχει λευκό θειικό χαλκό (ΙΙ). Μετά τη διαβίβαση των καυσαερίων, ισχύει ότι:\nΑ. Το χρώμα και η μάζα του θειικού χαλκού (ΙΙ) παραμένουν αμετάβλητα.\nΒ. Ο θειικός χαλκός (ΙΙ) έχει αποκτήσει γαλάζιο χρώμα και η μάζα του έχει μεταβληθεί κατά 27 g.\nΓ. Ο θειικός χαλκός (ΙΙ) έχει αποκτήσει γαλάζιο χρώμα και η μάζα του έχει μεταβληθεί κατά 44 g.\nΔ. Ο θειικός χαλκός (ΙΙ) έχει αποκτήσει γαλάζιο χρώμα και η μάζα του έχει μεταβληθεί κατά 108 g."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "Round 1, Grade 11",
+     "title": "Alcohols, carbonyl compounds and a polycarboxylic acid",
+     "problem": "Problem 2 (multiple choice).\n\n2.1. For three isomeric acyclic saturated monohydric alcohols (A), (B) and (Γ) the following information is given:\n• their molecules contain 72.41% w/w carbon.\n• when they are added to an excess of acidified $\\ce{KMnO4}$ solution, no decolorisation of it is observed.\n• they have the smallest number of primary carbon atoms compared with the other alcohols isomeric with them.\nWe prepare an equimolar mixture of mass 294 g with all the possible dehydration products (hydrocarbons only) of the alcohols (A), (B) and (Γ). The amount of each component of the mixture is:\nA. 0.3 mol.\nB. 0.5 mol.\nC. 0.6 mol.\nD. 0.8 mol.\n\n2.2. A mixture M of mass 78.6 g contains the acyclic saturated carbonyl compounds A, B and Γ, for which the following information is given:\n• B and Γ show homologous-series (functional-group) isomerism.\n• A is the preceding member of the homologous series of B.\n• Γ is the oxidation product of the main product obtained from the hydration of the second member of the homologous series of the alkenes.\nThe initial mixture M is divided into 3 equal parts M1, M2 and M3.\nPart M1\nComplete hydrogenation ($\\ce{H2}$/Ni) of the compounds A, B and Γ of this part is carried out, giving respectively the organic compounds Δ, E and Z. These compounds then react completely with sodium, whereupon a total of 5.6 L of gas (STP) is released.\nPart M2\nWe treat this part with an excess of a suitable oxidising agent under conditions that do not allow cleavage of the carbon chain. The products formed require 500 mL of 0.6 M NaOH solution for complete reaction.\n\n2.2.a. The masses of the compounds Γ, B and A in part M3 are respectively:\nA. 11.6 g, 5.8 g and 8.8 g.\nB. 8.7 g, 8.7 g and 8.8 g.\nC. 11.6 g, 11.6 g and 4.4 g.\nD. 34.8 g, 17.4 g and 26.4 g.\n\n2.2.b. Part M1 consumed a volume of $\\ce{H2}$ (at STP) equal to:\nA. 2.24 L.\nB. 8.96 L.\nC. 11.2 L.\nD. 16.8 L.\n\n2.3. An amount of 0.2 mol of a saturated polycarboxylic acid (A) is heated in a suitable apparatus with an excess of CuO (combustion). The gases produced are passed into a cold aqueous NaOH solution, which as a result shows an increase in mass of 21.2 g.\n\n2.3.a. The mass of 0.45 mmol of the acid (A) is:\nA. 40.5 mg.\nB. 46.8 mg.\nC. 59.4 mg.\nD. 66.6 mg.\n\n2.3.b. The change in the mass of the apparatus containing the CuO, after the combustion reaction is complete, is:\nA. 3.2 g.\nB. 6.4 g.\nC. 19.2 g.\nD. 21.2 g.\n\n2.3.c. On a laboratory balance we place a conical flask containing 500 mL of an aqueous solution of the acid A (solution Δ) and a small container holding 53 g of $\\ce{Na2CO3}$, and we note the reading of the balance.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-42-fig1.png\n\n[Figure labels: διάλυμα (Δ) = solution (Δ).]\n\nThen we add the whole amount of the $\\ce{Na2CO3}$ into the solution and, when the reaction is complete, we note the final reading of the balance. We observe that the difference between the two readings of the balance is 8.8 g. The concentration of solution Δ and the mass of the salt formed are respectively:\nA. 1 M and 26.8 g.\nB. 0.4 M and 22.4 g.\nC. 0.4 M and 26.8 g.\nD. 0.83 M and 55.9 g.",
+     "problem_el": "Άσκηση 2 (πολλαπλής επιλογής).\n\n2.1. Για τρεις ισομερείς άκυκλες κορεσμένες μονοσθενείς αλκοόλες (Α), (Β) και (Γ) δίνονται οι παρακάτω πληροφορίες:\n• περιέχουν στο μόριό τους 72,41% w/w άνθρακα.\n• όταν προστίθενται σε περίσσεια όξινου διαλύματος $\\ce{KMnO4}$ δεν παρατηρείται αποχρωματισμός του.\n• διαθέτουν τον μικρότερο αριθμό πρωτοταγών ατόμων άνθρακα σε σχέση με τις υπόλοιπες ισομερείς τους αλκοόλες.\nΠαρασκευάζουμε ένα ισομοριακό μίγμα μάζας 294 g με όλα τα δυνατά προϊόντα αφυδάτωσης (μόνο υδρογονάνθρακες) των αλκοολών (Α), (Β) και (Γ). Η ποσότητα του κάθε συστατικού του μείγματος είναι:\nΑ. 0,3 mol.\nΒ. 0,5 mol.\nΓ. 0,6 mol.\nΔ. 0,8 mol.\n\n2.2. Μείγμα Μ μάζας 78,6 g περιέχει τις άκυκλες κορεσμένες καρβονυλικές ενώσεις Α, Β και Γ για τις οποίες δίνονται οι πληροφορίες:\n• οι Β, Γ εμφανίζουν ισομέρεια ομόλογης σειράς.\n• η Α είναι το προηγούμενο μέλος της ομόλογης σειράς της Β.\n• η Γ είναι το προϊόν οξείδωσης του κυρίου προϊόντος που προκύπτει από την ενυδάτωση του δεύτερου μέλους της ομόλογης σειράς των αλκενίων.\nΤο αρχικό μείγμα Μ χωρίζεται σε 3 ίσα μέρη Μ1, Μ2 και Μ3.\nΜέρος Μ1\nΠραγματοποιείται πλήρη υδρογόνωση ($\\ce{H2}$/Ni) των ενώσεων Α, Β και Γ του μείγματος αυτού, οπότε προκύπτουν αντίστοιχα οι οργανικές ενώσεις Δ, Ε και Ζ. Οι ενώσεις αυτές στη συνέχεια αντιδρούν πλήρως με νάτριο οπότε εκλύονται συνολικά 5,6 L αερίου (S.T.P).\nΜέρος Μ2\nΕπεξεργαζόμαστε το μέρος αυτό με περίσσεια κατάλληλου οξειδωτικού μέσου σε συνθήκες που δεν επιτρέπουν διάσπαση ανθρακικής αλυσίδας. Τα προϊόντα που σχηματίζονται απαιτούν για πλήρη αντίδραση 500 mL διαλύματος NaOH 0,6 M.\n\n2.2.α. Οι μάζες των ενώσεων Γ, Β και Α στο μέρος Μ3 είναι αντίστοιχα:\nΑ. 11,6 g, 5,8 g και 8,8 g.\nΒ. 8,7 g, 8,7 g και 8,8 g.\nΓ. 11,6 g, 11,6 g και 4,4 g.\nΔ. 34,8 g, 17,4 g και 26,4 g.\n\n2.2.β. Το μέρος Μ1 κατανάλωσε όγκο $\\ce{H2}$ (σε S.T.P) ίσο με:\nΑ. 2,24 L.\nΒ. 8,96 L.\nΓ. 11,2 L.\nΔ. 16,8 L.\n\n2.3. Ποσότητα 0,2 mol κορεσμένου πολυκαρβοξυλικού του οξέος (Α) θερμαίνεται σε κατάλληλη συσκευή με περίσσεια CuO (καύση). Τα αέρια που προκύπτουν, διοχετεύονται σε ψυχρό υδατικό διάλυμα NaOH, με αποτέλεσμα να παρουσιάσει αύξηση μάζας κατά 21,2 g.\n\n2.3.α. Η μάζα 0,45 mmol του οξέος (Α) είναι:\nΑ. 40,5 mg.\nΒ. 46,8 mg.\nΓ. 59,4 mg.\nΔ. 66,6 mg.\n\n2.3.β. Η μεταβολή στη μάζα της συσκευής με το CuO, μετά την ολοκλήρωση της αντίδρασης καύσης είναι:\nΑ. 3,2 g.\nΒ. 6,4 g.\nΓ. 19,2 g.\nΔ. 21,2 g.\n\n2.3γ. Σε εργαστηριακό ζυγό τοποθετούμε κωνική φιάλη που περιέχει 500 mL υδατικού διαλύματος του οξέος Α (διάλυμα Δ) και μικρό δοχείο που περιέχει 53 g $\\ce{Na2CO3}$ και σημειώνουμε την ένδειξη του ζυγού.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-2-42-fig1.png\n\nΣτη συνέχεια προσθέτουμε όλη την ποσότητα του $\\ce{Na2CO3}$ μέσα στο διάλυμα και όταν ολοκληρωθεί η αντίδραση, σημειώνουμε την τελική ένδειξη του ζυγού. Παρατηρούμε ότι η διαφορά των δύο ενδείξεων του ζυγού είναι 8,8 g. Η συγκέντρωση του διαλύματος Δ καθώς και η μάζα του άλατος που σχηματίστηκε είναι αντίστοιχα:\nΑ. 1 Μ και 26,8 g.\nΒ. 0,4 M και 22,4 g.\nΓ. 0,4 Μ και 26,8 g.\nΔ. 0,83 M και 55,9 g."
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Concentration of dissolved oxygen in ppm",
+     "problem": "Question 1 (multiple choice).\n\nFor very dilute aqueous solutions the concentration unit «ppm» is used. An aqueous solution contains $0.008\\ \\mathrm{g}$ of oxygen dissolved in $1000\\ \\mathrm{g}$ of water. The oxygen content of the solution is:\nA. $0.8\\ \\mathrm{ppm}$.\nB. $8\\ \\mathrm{ppm}$.\nC. $80\\ \\mathrm{ppm}$.\nD. $800\\ \\mathrm{ppm}$.",
+     "problem_el": "Ερώτηση 1 (πολλαπλής επιλογής).\n\nΣτα πολύ αραιά υδατικά διαλύματα χρησιμοποιείται η περιεκτικότητα «ppm». Ένα υδατικό διάλυμα περιέχει $0{,}008\\ \\mathrm{g}$ οξυγόνου διαλυμένα σε $1000\\ \\mathrm{g}$ νερού. Η περιεκτικότητα του διαλύματος σε οξυγόνο είναι:\nΑ. $0{,}8\\ \\mathrm{ppm}$.\nΒ. $8\\ \\mathrm{ppm}$.\nΓ. $80\\ \\mathrm{ppm}$.\nΔ. $800\\ \\mathrm{ppm}$."
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Naming an ester from its skeletal formula",
+     "problem": "Question 2 (multiple choice).\n\nSkeletal formulas are often used to represent organic compounds. In them the carbon and hydrogen atoms are omitted, while multiple bonds and functional groups are shown normally. For example, the symbol\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-2-fig1.png\n\ncorresponds to propene. The skeletal formula of an organic compound is given below.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-2-fig2.png\n\nThis compound is named:\nA. 3-carboxy-4-methylhexane.\nB. Isobutyl propyl ether.\nC. Propyl methylpropanoate [Greek: «μέθυλο προπανικός προπυλεστέρας»].\nD. sec-Butyl propanoate.",
+     "problem_el": "Ερώτηση 2 (πολλαπλής επιλογής).\n\nΓια την αναπαράσταση των οργανικών ενώσεων χρησιμοποιείται συχνά η σκελετική δομή. Σε αυτή, τα άτομα άνθρακα και υδρογόνου παραλείπονται, ενώ οι πολλαπλοί δεσμοί και οι χαρακτηριστικές ομάδες εμφανίζονται κανονικά. Για παράδειγμα, ο συμβολισμός\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-2-fig1.png\n\nαντιστοιχεί στο προπένιο. Παρακάτω δίνεται η σκελετική δομή μιας οργανικής ένωσης.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-2-fig2.png\n\nΗ ένωση αυτή ονομάζεται:\nΑ. 3-καρβοξυ-4-μεθυλοεξάνιο.\nΒ. Ισοβούτυλο πρόπυλο αιθέρας.\nΓ. Μέθυλο προπανικός προπυλεστέρας.\nΔ. Προπανικός δευτεροταγής-βουτυλεστέρας."
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Ranking boiling points of small carbonyl compounds, an alcohol and an acid",
+     "problem": "Question 3 (multiple choice).\n\nThe following table is given\n\n$$\\begin{array}{|c|c|c|c|c|}\\hline \\textbf{Compound} & \\text{ethanoic acid} & \\text{ethanal} & \\text{1-propanol} & \\text{propanal} \\\\ \\hline \\textbf{Dipole moment} & 1.68\\ \\mathrm{D} & 2.72\\ \\mathrm{D} & 1.66\\ \\mathrm{D} & 2.75\\ \\mathrm{D} \\\\ \\hline \\end{array}$$\n\nIn order of increasing boiling point (at the same pressure), the compounds of the table are ranked as follows:\nA. $\\ce{C2H4O}$, $\\ce{C3H8O}$, $\\ce{C3H6O}$, $\\ce{C2H4O2}$.\nB. $\\ce{C2H4O2}$, $\\ce{C3H8O}$, $\\ce{C3H6O}$, $\\ce{C2H4O}$.\nC. $\\ce{C2H4O}$, $\\ce{C2H4O2}$, $\\ce{C3H6O}$, $\\ce{C3H8O}$.\nD. $\\ce{C2H4O}$, $\\ce{C3H6O}$, $\\ce{C3H8O}$, $\\ce{C2H4O2}$.",
+     "problem_el": "Ερώτηση 3 (πολλαπλής επιλογής).\n\nΔίνεται ο παρακάτω πίνακας\n\n$$\\begin{array}{|c|c|c|c|c|}\\hline \\textbf{Ένωση} & \\text{αιθανικό οξύ} & \\text{αιθανάλη} & \\text{1-προπανόλη} & \\text{προπανάλη} \\\\ \\hline \\textbf{Διπολική ροπή} & 1{,}68\\ \\mathrm{D} & 2{,}72\\ \\mathrm{D} & 1{,}66\\ \\mathrm{D} & 2{,}75\\ \\mathrm{D} \\\\ \\hline \\end{array}$$\n\nΟι ενώσεις του πίνακα κατατάσσονται κατά αυξανόμενο σημείο ζέσεως (στην ίδια πίεση), ως εξής:\nΑ. $\\ce{C2H4O}$, $\\ce{C3H8O}$, $\\ce{C3H6O}$, $\\ce{C2H4O2}$.\nΒ. $\\ce{C2H4O2}$, $\\ce{C3H8O}$, $\\ce{C3H6O}$, $\\ce{C2H4O}$.\nΓ. $\\ce{C2H4O}$, $\\ce{C2H4O2}$, $\\ce{C3H6O}$, $\\ce{C3H8O}$.\nΔ. $\\ce{C2H4O}$, $\\ce{C3H6O}$, $\\ce{C3H8O}$, $\\ce{C2H4O2}$."
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Sign of the enthalpy change of four processes",
+     "problem": "Question 4 (multiple choice).\n\nA positive value of $\\Delta H$ corresponds to the process:\nA. $\\ce{2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g)}$.\nB. $\\ce{Na(g) -> Na+(g) + e-}$.\nC. $\\ce{NH3(g) -> NH3(l)}$.\nD. $\\ce{H2O(l) -> H2O(s)}$.",
+     "problem_el": "Ερώτηση 4 (πολλαπλής επιλογής).\n\nΘετική τιμή στη $\\Delta H$ αντιστοιχεί στη διεργασία:\nΑ. $\\ce{2C4H10(g) + 13O2(g) -> 8CO2(g) + 10H2O(g)}$.\nΒ. $\\ce{Na(g) -> Na+(g) + e-}$.\nΓ. $\\ce{NH3(g) -> NH3(l)}$.\nΔ. $\\ce{H2O(l) -> H2O(s)}$."
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Changing the rate of CO2 evolution from calcium carbonate and hydrochloric acid",
+     "problem": "Question 5 (multiple choice).\n\nTo small pieces of calcium carbonate of total mass $2\\ \\mathrm{g}$ we add $100\\ \\mathrm{mL}$ of $1\\ \\mathrm{M}$ hydrochloric acid. In the figure below, curve 1 gives the volume of carbon dioxide produced as a function of time.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-5-fig1.png\n\nWe repeat the experiment at the same temperature (bearing in mind that the volume of $\\ce{CO2}$ in both experiments is measured at the same pressure and temperature). To obtain curve 2 instead of curve 1, we must:\nA. Replace the small pieces of calcium carbonate with larger pieces of mass $2\\ \\mathrm{g}$.\nB. Increase the mass of calcium carbonate to $4\\ \\mathrm{g}$.\nC. Increase the volume of hydrochloric acid to $200\\ \\mathrm{mL}$.\nD. Increase the concentration of hydrochloric acid to $2\\ \\mathrm{M}$.",
+     "problem_el": "Ερώτηση 5 (πολλαπλής επιλογής).\n\nΣε μικρά κομμάτια ανθρακικού ασβεστίου συνολικής μάζας $2\\ \\mathrm{g}$, προσθέτουμε $100\\ \\mathrm{mL}$ υδροχλωρικού οξέος $1\\ \\mathrm{M}$. Στο παρακάτω σχήμα, η καμπύλη 1 δίνει τον όγκο του παραγόμενου διοξειδίου του άνθρακα ως συνάρτηση του χρόνου.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-5-fig1.png\n\nΕπαναλαμβάνουμε το πείραμα στην ίδια θερμοκρασία (λαμβάνοντας υπόψη ότι οι μετρήσεις του όγκου του $\\ce{CO2}$ και στα δύο πειράματα γίνονται στην ίδια πίεση και θερμοκρασία). Για να προκύψει η καμπύλη 2 αντί της 1, πρέπει να:\nΑ. Αντικαταστήσουμε τα μικρά κομμάτια του ανθρακικού ασβεστίου με μεγαλύτερα κομμάτια μάζας $2\\ \\mathrm{g}$.\nΒ. Αυξήσουμε τη μάζα του ανθρακικού ασβεστίου σε $4\\ \\mathrm{g}$.\nΓ. Αυξήσουμε τον όγκο του υδροχλωρικού οξέος στα $200\\ \\mathrm{mL}$.\nΔ. Αυξήσουμε τη συγκέντρωση του υδροχλωρικού οξέος σε $2\\ \\mathrm{M}$."
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Two coupled heterogeneous equilibria of calcium carbonate and carbon",
+     "problem": "Question 6 (multiple choice).\n\nEqual numbers of moles of $\\ce{CaCO3}$ and $\\ce{C}$ are placed in a vessel of constant volume. The vessel is heated and finally the equilibria\n\n$$\\ce{CaCO3(s) <=> CaO(s) + CO2(g)}$$\n\n$$\\ce{C(s) + CO2(g) <=> 2CO(g)}$$\n\nare established, with equilibrium constants $K_c$ and $K_c'$ respectively, for which the relation $\\dfrac{K_c'}{K_c} = 100$ holds.\n\nThe % v/v content of carbon dioxide in the equilibrium mixture is:\nA. $9.1$.\nB. $10$.\nC. $20$.\nD. $90.9$.",
+     "problem_el": "Ερώτηση 6 (πολλαπλής επιλογής).\n\nΊσος αριθμός mol $\\ce{CaCO3}$ και $\\ce{C}$ εισάγονται σε δοχείο σταθερού όγκου. Το δοχείο θερμαίνεται και τελικά αποκαθίστανται οι ισορροπίες:\n\n$$\\ce{CaCO3(s) <=> CaO(s) + CO2(g)}$$\n\n$$\\ce{C(s) + CO2(g) <=> 2CO(g)}$$\n\nμε σταθερές ισορροπίας $K_c$ και $K_c'$ αντίστοιχα, για τις οποίες ισχύει η σχέση: $\\dfrac{K_c'}{K_c} = 100$\n\nΗ % v/v σύσταση του μείγματος ισορροπίας σε διοξείδιο του άνθρακα είναι:\nΑ. $9{,}1$.\nΒ. $10$.\nΓ. $20$.\nΔ. $90{,}9$."
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "paper_label": "Round 1, Grade 12",
+     "title": "True or false: hydrogen halides, autoionisation of water and pH of glucose solution",
+     "problem": "Question 7 (multiple choice).\n\nThe following statements are given:\ni. $\\ce{HI}$ is the strongest acid among the hydrogen halides.\nii. In pure water half of the molecules behave as an acid and the other half as a base.\niii. If an aqueous glucose solution is heated from $25\\ ^\\circ\\mathrm{C}$ to $40\\ ^\\circ\\mathrm{C}$, the pH of the solution does not change.\nThe classification of the above statements as true (T) or false (F) is:\nA. F, T, F.\nB. T, F, F.\nC. F, F, T.\nD. T, T, T.",
+     "problem_el": "Ερώτηση 7 (πολλαπλής επιλογής).\n\nΔίνονται οι παρακάτω προτάσεις:\ni. Το $\\ce{HI}$ είναι το ισχυρότερο οξύ μεταξύ των υδραλογόνων.\nii. Στο καθαρό νερό τα μισά μόρια συμπεριφέρονται ως οξύ και τα άλλα μισά ως βάση.\niii. Αν θερμάνουμε υδατικό διάλυμα γλυκόζης από τους $25\\ ^\\circ\\mathrm{C}$ στους $40\\ ^\\circ\\mathrm{C}$, το pH του διαλύματος δε μεταβάλλεται.\nΟ χαρακτηρισμός των παραπάνω προτάσεων ως σωστών (Σ) ή λανθασμένων (Λ) είναι:\nΑ. Λ, Σ, Λ.\nΒ. Σ, Λ, Λ.\nΓ. Λ, Λ, Σ.\nΔ. Σ, Σ, Σ."
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Point of maximum buffer capacity on a titration curve",
+     "problem": "Question 8 (multiple choice).\n\nThe following titration curve is given:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-8-fig1.png\n\n[Figure labels: «Όγκος προστιθέμενου διαλύματος (mL)» = volume of added solution (mL).]\n\nAt some point of the titration a solution with maximum buffer capacity is obtained. The pH value corresponding to this point is approximately:\nA. $11$.\nB. $10$.\nC. $9$.\nD. $5$.",
+     "problem_el": "Ερώτηση 8 (πολλαπλής επιλογής).\n\nΔίνεται η παρακάτω καμπύλη ογκομέτρησης:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-8-fig1.png\n\nΣε κάποιο σημείο της ογκομέτρησης προκύπτει διάλυμα με μέγιστη ρυθμιστική ικανότητα. Η τιμή του pH που αντιστοιχεί στο σημείο αυτό είναι περίπου:\nΑ. $11$.\nΒ. $10$.\nΓ. $9$.\nΔ. $5$."
+    },
+    {
+     "day": 3,
+     "number": 9,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Mixture from which the pKa of acetic acid is read directly",
+     "problem": "Question 9 (multiple choice).\n\nIn one of the following mixtures of solutions, the $\\mathrm{p}K_\\mathrm{a}$ value of the acid can be determined directly by measuring only the pH of the final solution. It is the mixture of:\nA. $12.5\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{NaOH}$ and $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{CH3COOH}$\nB. $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{NaOH}$ and $12.5\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{CH3COOH}$\nC. $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{NaOH}$ and $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{CH3COOH}$\nD. $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{NaCl}$ and $25\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{CH3COOH}$",
+     "problem_el": "Ερώτηση 9 (πολλαπλής επιλογής).\n\nΣε μια από τις επόμενες αναμείξεις διαλυμάτων, η τιμή $\\mathrm{p}K_\\mathrm{a}$ του οξέος μπορεί να προσδιοριστεί άμεσα, μετρώντας μόνο το pH του τελικού διαλύματος. Πρόκειται για την ανάμειξη:\nΑ. $12{,}5\\ \\mathrm{mL}$ $\\ce{NaOH}$ $0{,}1\\ \\mathrm{M}$ και $25\\ \\mathrm{mL}$ $\\ce{CH3COOH}$ $0{,}1\\ \\mathrm{M}$\nΒ. $25\\ \\mathrm{mL}$ $\\ce{NaOH}$ $0{,}1\\ \\mathrm{M}$ και $12{,}5\\ \\mathrm{mL}$ $\\ce{CH3COOH}$ $0{,}1\\ \\mathrm{M}$\nΓ. $25\\ \\mathrm{mL}$ $\\ce{NaOH}$ $0{,}1\\ \\mathrm{M}$ και $25\\ \\mathrm{mL}$ $\\ce{CH3COOH}$ $0{,}1\\ \\mathrm{M}$\nΔ. $25\\ \\mathrm{mL}$ $\\ce{NaCl}$ $0{,}1\\ \\mathrm{M}$ και $25\\ \\mathrm{mL}$ $\\ce{CH3COOH}$ $0{,}1\\ \\mathrm{M}$"
+    },
+    {
+     "day": 3,
+     "number": 10,
+     "paper_label": "Round 1, Grade 12",
+     "title": "A colourless hexaaqua complex ion",
+     "problem": "Question 10 (multiple choice).\n\nThe colour of compounds of the transition elements is attributed to excitations of the outer d electrons of their cations. The metal cation must have from 1 to 9 electrons in its d subshell.\nThe complex ion $[\\mathrm{M}(\\ce{H2O})_6]^{\\nu+}$ is given, which is colourless.\nThe atomic number of the metal M and the charge of the complex are respectively:\nA. $Z=21$ and $3+$.\nB. $Z=24$ and $3+$.\nC. $Z=27$ and $2+$.\nD. $Z=29$ and $2+$.",
+     "problem_el": "Ερώτηση 10 (πολλαπλής επιλογής).\n\nΗ εμφάνιση χρώματος στις ενώσεις των στοιχείων μετάπτωσης αποδίδεται σε διεγέρσεις των εξώτερων d ηλεκτρονίων που διαθέτουν τα κατιόντα τους. Θα πρέπει το μεταλλικό κατιόν να διαθέτει σε d υποστιβάδα από 1 έως 9 ηλεκτρόνια.\nΔίνεται το σύμπλοκο ιόν: $[\\mathrm{M}(\\ce{H2O})_6]^{\\nu+}$ το οποίο είναι άχρωμο.\nΟ ατομικός αριθμός του μετάλλου Μ και το φορτίο του συμπλόκου είναι αντίστοιχα:\nΑ. $Z=21$ και $3+$.\nΒ. $Z=24$ και $3+$.\nΓ. $Z=27$ και $2+$.\nΔ. $Z=29$ και $2+$."
+    },
+    {
+     "day": 3,
+     "number": 11,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Quantum numbers of the electrons of element 63",
+     "problem": "Question 11 (multiple choice).\n\nFor the element with atomic number 63 it is true that:\nA. It belongs to the actinides.\nB. 10 electrons of its atom in the ground state have $l = 0$.\nC. 13 electrons of its atom in the ground state have $m_l = -1$.\nD. The sum of the spin quantum numbers of the electrons of its atom in the ground state is equal to $3/2$.",
+     "problem_el": "Ερώτηση 11 (πολλαπλής επιλογής).\n\nΓια το στοιχείο με ατομικό αριθμό 63 ισχύει ότι:\nΑ. Ανήκει στις ακτινίδες.\nΒ. 10 ηλεκτρόνια του ατόμου του στη θεμελιώδη κατάσταση έχουν $l = 0$.\nΓ. 13 ηλεκτρόνια του ατόμου του στη θεμελιώδη κατάσταση έχουν $m_l = -1$.\nΔ. Το άθροισμα των κβαντικών αριθμών spin των ηλεκτρονίων του ατόμου του στη θεμελιώδη κατάσταση είναι ίσο με $3/2$."
+    },
+    {
+     "day": 3,
+     "number": 12,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Assigning Ne, Na and Mg from first ionisation energies",
+     "problem": "Question 12 (multiple choice).\n\nX, Y and Z represent the elements ${}_{10}\\mathrm{Ne}$, ${}_{11}\\mathrm{Na}$ and ${}_{12}\\mathrm{Mg}$, not necessarily in this order.\nTheir first ionisation energies are: $E_\\mathrm{X} = 2081\\ \\mathrm{kJ/mol}$, $E_\\mathrm{Y} = 496\\ \\mathrm{kJ/mol}$ and $E_\\mathrm{Z} = 738\\ \\mathrm{kJ/mol}$.\nThe order of the elements by increasing atomic number is:\nA. Y, Z, X\nB. Z, Y, X\nC. X, Z, Y\nD. X, Y, Z",
+     "problem_el": "Ερώτηση 12 (πολλαπλής επιλογής).\n\nΤα Χ, Υ και Ζ αντιπροσωπεύουν τα στοιχεία ${}_{10}\\mathrm{Ne}$, ${}_{11}\\mathrm{Na}$ και ${}_{12}\\mathrm{Mg}$ όχι απαραίτητα με αυτή τη σειρά.\nΟι ενέργειες πρώτου ιοντισμού τους είναι: $E_\\mathrm{X} = 2081\\ \\mathrm{kJ/mol}$, $E_\\mathrm{Y} = 496$ σε kJ/mol και $E_\\mathrm{Z} = 738$ σε kJ/mol.\nΗ διάταξη των στοιχείων κατά αυξανόμενο ατομικό αριθμό είναι:\nΑ. Υ, Ζ, Χ\nΒ. Ζ, Υ, Χ\nΓ. Χ, Ζ, Υ\nΔ. Χ, Υ, Ζ"
+    },
+    {
+     "day": 3,
+     "number": 13,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Hybridisation of the carbon atoms in the cyanoacetate anion",
+     "problem": "Question 13 (multiple choice).\n\nIn the cyanoacetate anion ($\\ce{NCCH2COO-}$) there are:\nA. 1 C atom with $\\mathrm{sp}$, 1 C atom with $\\mathrm{sp^2}$ and 1 C atom with $\\mathrm{sp^3}$ hybridisation.\nB. 1 C atom with $\\mathrm{sp^2}$ and 2 C atoms with $\\mathrm{sp^3}$ hybridisation.\nC. 1 C atom with $\\mathrm{sp^3}$ and 2 C atoms with $\\mathrm{sp^2}$ hybridisation.\nD. 3 C atoms with $\\mathrm{sp^2}$ hybridisation.",
+     "problem_el": "Ερώτηση 13 (πολλαπλής επιλογής).\n\nΣτο κυανοξικό ανιόν ($\\ce{NCCH2COO-}$) υπάρχουν:\nΑ. 1 άτομο C με $\\mathrm{sp}$, 1 άτομο C με $\\mathrm{sp^2}$ και 1 άτομο C με $\\mathrm{sp^3}$ υβριδισμό.\nΒ. 1 άτομο C με $\\mathrm{sp^2}$ και 2 άτομα C με $\\mathrm{sp^3}$ υβριδισμό.\nΓ. 1 άτομο C με $\\mathrm{sp^3}$ και 2 άτομα C με $\\mathrm{sp^2}$ υβριδισμό.\nΔ. 3 άτομα C με $\\mathrm{sp^2}$ υβριδισμό."
+    },
+    {
+     "day": 3,
+     "number": 14,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Bond angles, pi overlaps and planarity of a substituted cyclohexane",
+     "problem": "Question 14 (multiple choice).\n\nFor the following organic compound:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-14-fig1.png\n\nthe following statements are given:\ni. The bond angles x, y and z increase in the order: $x < y < z$.\nii. A total of eleven (11) p orbitals of the carbon atoms of the compound have been used in sideways overlaps.\niii. The compound is planar.\nCorrect is/are:\nA. Statement i.\nB. Statement iii.\nC. Statements i and ii.\nD. Statements ii and iii.",
+     "problem_el": "Ερώτηση 14 (πολλαπλής επιλογής).\n\nΓια την επόμενη οργανική ένωση:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-14-fig1.png\n\nδίνονται οι παρακάτω προτάσεις:\ni. Οι γωνίες δεσμών x, y και z αυξάνονται κατά τη σειρά: $x < y < z$.\nii. Από τα άτομα άνθρακα της ένωσης έχουν χρησιμοποιηθεί σε πλευρικές επικαλύψεις συνολικά έντεκα (11) p τροχιακά.\niii. Η ένωση είναι επίπεδη.\nΣωστή/ες είναι:\nΑ. Η πρόταση i.\nΒ. Η πρόταση iii.\nΓ. Οι προτάσεις i και ii.\nΔ. Οι προτάσεις ii και iii."
+    },
+    {
+     "day": 3,
+     "number": 15,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Identifying a carbonyl compound from the oxygen content of its cyanohydrin acid",
+     "problem": "Question 15 (multiple choice).\n\nAddition of $\\ce{HCN}$ to the organic compound X followed by hydrolysis of the product gives an α-hydroxy acid containing $53.33\\%$ w/w oxygen. The name of compound X is:\nA. Ethanol.\nB. Ethanal.\nC. Propanal.\nD. Butanone.",
+     "problem_el": "Ερώτηση 15 (πολλαπλής επιλογής).\n\nΜε προσθήκη $\\ce{HCN}$ στην οργανική ένωση Χ και στη συνέχεια υδρόλυση του προϊόντος, παράγεται ένα α-υδροξυοξύ που περιέχει $53{,}33\\%$ w/w οξυγόνο. Η ονομασία της ένωσης Χ είναι:\nΑ. Αιθανόλη.\nΒ. Αιθανάλη.\nΓ. Προπανάλη.\nΔ. Βουτανόνη."
+    },
+    {
+     "day": 3,
+     "number": 16,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Change of oxidation number of 2-butanol with alkaline bromine",
+     "problem": "Question 16 (multiple choice).\n\nIn the reaction of 2-butanol with alkaline $\\ce{Br2}$ solution, the total change of oxidation number per molecule of reducing agent is equal to:\nA. $3$\nB. $4$\nC. $5$\nD. $8$.",
+     "problem_el": "Ερώτηση 16 (πολλαπλής επιλογής).\n\nΚατά την αντίδραση της 2-βουτανόλης με αλκαλικό διάλυμα $\\ce{Br2}$, η συνολική μεταβολή του αριθμού οξείδωσης ανά μόριο αναγωγικού είναι ίση με:\nΑ. $3$\nΒ. $4$\nΓ. $5$\nΔ. $8$."
+    },
+    {
+     "day": 3,
+     "number": 17,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Hydrocarbon whose ozonolysis gives a single carbonyl product",
+     "problem": "Question 17 (multiple choice).\n\nIn the ozonolysis of alkenes (reaction with $\\ce{O3}$) the double bond $\\ce{C=C}$ is cleaved and carbonyl compounds are formed. For example:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-17-fig1.png\n\nOzonolysis of a hydrocarbon X gives as the only product the carbonyl compound Ψ, of which it is known that:\ni. It reacts with Tollens' reagent.\nii. With $\\ce{I2}$ in the presence of $\\ce{NaOH}$ it gives a yellow precipitate.\nThe name of hydrocarbon X is:\nA. Ethene.\nB. 1-Butene.\nC. 2-Butene.\nD. 1,3-Butadiene.",
+     "problem_el": "Ερώτηση 17 (πολλαπλής επιλογής).\n\nΚατά την οζονόλυση των αλκενίων (αντίδραση με $\\ce{O3}$) διασπάται ο διπλός δεσμός $\\ce{C=C}$ και σχηματίζονται καρβονυλικές ενώσεις. Για παράδειγμα:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-17-fig1.png\n\nΑπό την οζονόλυση ενός υδρογονάνθρακα Χ, σχηματίζεται ως μοναδικό προϊόν η καρβονυλική ένωση Ψ, για την οποία είναι γνωστό ότι:\ni. Αντιδρά με το αντιδραστήριο Tollens.\nii. Με την επίδραση $\\ce{I2}$ παρουσία $\\ce{NaOH}$ δίνει κίτρινο ίζημα.\nΗ ονομασία του υδρογονάνθρακα Χ είναι:\nΑ. Αιθένιο.\nΒ. 1-βουτένιο.\nΓ. 2-βουτένιο.\nΔ. 1,3-βουταδιένιο."
+    },
+    {
+     "day": 3,
+     "number": 18,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Hess law for the oxidation of NO to NO2",
+     "problem": "Question 18 (multiple choice).\n\nAccording to the following thermochemical equations\n\n$$\\ce{N2(g) + O2(g) -> 2NO(g)}\\qquad \\Delta H^\\circ = +180\\ \\mathrm{kJ/mol}$$\n\n$$\\ce{2NO2(g) + 1/2 O2(g) -> N2O5(g)}\\qquad \\Delta H^\\circ = -55\\ \\mathrm{kJ/mol}$$\n\n$$\\ce{N2(g) + 5/2 O2(g) -> N2O5(g)}\\qquad \\Delta H^\\circ = +11\\ \\mathrm{kJ/mol}$$\n\nthe standard enthalpy ($\\Delta H^\\circ$) of the reaction\n\n$$\\ce{2NO(g) + O2(g) -> 2NO2(g)}$$\n\nhas the value:\nA. $-114$.\nB. $+114$.\nC. $-136$.\nD. $+136$.",
+     "problem_el": "Ερώτηση 18 (πολλαπλής επιλογής).\n\nΣύμφωνα με τις παρακάτω θερμοχημικές εξισώσεις\n\n$$\\ce{N2(g) + O2(g) -> 2NO(g)}\\qquad \\Delta H^\\circ = +180\\ \\mathrm{kJ/mol}$$\n\n$$\\ce{2NO2(g) + 1/2 O2(g) -> N2O5(g)}\\qquad \\Delta H^\\circ = -55\\ \\mathrm{kJ/mol}$$\n\n$$\\ce{N2(g) + 5/2 O2(g) -> N2O5(g)}\\qquad \\Delta H^\\circ = +11\\ \\mathrm{kJ/mol}$$\n\nη πρότυπη ενθαλπία ($\\Delta H^\\circ$) της αντίδρασης\n\n$$\\ce{2NO(g) + O2(g) -> 2NO2(g)}$$\n\nέχει τιμή:\nΑ. $-114$.\nΒ. $+114$.\nΓ. $-136$.\nΔ. $+136$."
+    },
+    {
+     "day": 3,
+     "number": 19,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Hydronium concentration in potassium fluoride solution",
+     "problem": "Question 19 (multiple choice).\n\nIn an aqueous solution of potassium fluoride, for any value of $[\\ce{H3O+}]$ it is true that:\nA. $[\\ce{H3O+}] > \\sqrt{K_\\mathrm{w}}$.\nB. $[\\ce{H3O+}] > \\dfrac{\\sqrt{K_\\mathrm{w}}}{2}$.\nC. $[\\ce{H3O+}] < \\sqrt{K_\\mathrm{w}}$.\nD. $[\\ce{H3O+}] < \\dfrac{\\sqrt{K_\\mathrm{w}}}{2}$.",
+     "problem_el": "Ερώτηση 19 (πολλαπλής επιλογής).\n\nΣε ένα υδατικό διάλυμα φθοριούχου καλίου για οποιαδήποτε τιμή της $[\\ce{H3O+}]$ ισχύει ότι:\nΑ. $[\\ce{H3O+}] > \\sqrt{K_\\mathrm{w}}$.\nΒ. $[\\ce{H3O+}] > \\dfrac{\\sqrt{K_\\mathrm{w}}}{2}$.\nΓ. $[\\ce{H3O+}] < \\sqrt{K_\\mathrm{w}}$.\nΔ. $[\\ce{H3O+}] < \\dfrac{\\sqrt{K_\\mathrm{w}}}{2}$."
+    },
+    {
+     "day": 3,
+     "number": 20,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Unpaired electrons of the group 15 elements",
+     "problem": "Question 20 (multiple choice).\n\nConsider the elements of group 15 of the Periodic Table. The sum of the unpaired electrons in the atoms of these elements (in the ground state) is equal to:\nA. $6$.\nB. $18$.\nC. $21$.\nD. $32$.",
+     "problem_el": "Ερώτηση 20 (πολλαπλής επιλογής).\n\nΘεωρούμε τα στοιχεία της 15ης του Περιοδικού Πίνακα. Το άθροισμα των μονήρων ηλεκτρονίων στα άτομα των στοιχείων αυτών (στη θεμελιώδη κατάσταση) είναι ίσο με:\nΑ. $6$.\nΒ. $18$.\nΓ. $21$.\nΔ. $32$."
+    },
+    {
+     "day": 3,
+     "number": 21,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Element with a basic oxide from its electron configuration",
+     "problem": "Question 21 (multiple choice).\n\nThe oxide of the element whose atom has the following electron configuration shows basic character:\nA. $\\mathrm{1s^2\\,2s^2\\,2p^3}$.\nB. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^4}$.\nC. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3}$.\nD. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^1}$.",
+     "problem_el": "Ερώτηση 21 (πολλαπλής επιλογής).\n\nΒασικό χαρακτήρα εμφανίζει το οξείδιο του στοιχείου του οποίου το άτομο έχει ηλεκτρονιακή δομή:\nΑ. $\\mathrm{1s^2\\,2s^2\\,2p^3}$.\nΒ. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^4}$.\nΓ. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^2\\,3p^3}$.\nΔ. $\\mathrm{1s^2\\,2s^2\\,2p^6\\,3s^1}$."
+    },
+    {
+     "day": 3,
+     "number": 22,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Counting electrons of copper with l greater than m_l",
+     "problem": "Question 22 (multiple choice).\n\nIn the atom of ${}_{29}\\mathrm{Cu}$ in the ground state, the number of electrons with $l > m_l$ is:\nA. $4$.\nB. $10$.\nC. $16$.\nD. $18$.",
+     "problem_el": "Ερώτηση 22 (πολλαπλής επιλογής).\n\nΣτο άτομο του ${}_{29}\\mathrm{Cu}$ και στη θεμελιώδη κατάσταση, ο αριθμός των ηλεκτρονίων με $l > m_l$ είναι:\nΑ. $4$.\nΒ. $10$.\nΓ. $16$.\nΔ. $18$."
+    },
+    {
+     "day": 3,
+     "number": 23,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Balancing the reduction of hexacyanoferrate(III) by hydrogen peroxide",
+     "problem": "Question 23 (multiple choice).\n\nThe smallest value of the sum of the integer coefficients of the unbalanced chemical equation $\\ce{K3[Fe(CN)6](aq) + H2O2(aq) + KOH(aq) -> K4[Fe(CN)6](aq) + O2(g) + H2O(l)}$\nis:\nA. $8$.\nB. $10$.\nC. $11$.\nD. $12$.",
+     "problem_el": "Ερώτηση 23 (πολλαπλής επιλογής).\n\nΗ μικρότερη τιμή του αθροίσματος των ακέραιων συντελεστών της μη ισοσταθμισμένης χημικής εξίσωσης $\\ce{K3[Fe(CN)6](aq) + H2O2(aq) + KOH(aq) -> K4[Fe(CN)6](aq) + O2(g) + H2O(l)}$\nείναι:\nΑ. $8$.\nΒ. $10$.\nΓ. $11$.\nΔ. $12$."
+    },
+    {
+     "day": 3,
+     "number": 24,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Following a reaction rate by loss of mass on a balance",
+     "problem": "Question 24 (multiple choice).\n\nThe following set-up\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-24-fig1.png\n\n[Figure labels: «αντιδρώντα» = reactants; «ζυγός» = balance.]\n\ncan be used in the experimental determination of the rate of the reaction:\nA. $\\ce{2Na(s) + Cl2(g) -> 2NaCl(s)}$.\nB. $\\ce{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)}$.\nC. $\\ce{Na2O(s) + 2HCl(aq) -> 2NaCl(aq) + H2O(l)}$.\nD. $\\ce{Na2CO3(aq) + 2HCl(aq) -> 2NaCl(aq) + CO2(g) + H2O(l)}$.",
+     "problem_el": "Ερώτηση 24 (πολλαπλής επιλογής).\n\nΗ παρακάτω διάταξη\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-24-fig1.png\n\nμπορεί να χρησιμοποιηθεί στον πειραματικό προσδιορισμό της ταχύτητας της αντίδρασης:\nΑ. $\\ce{2Na(s) + Cl2(g) -> 2NaCl(s)}$.\nΒ. $\\ce{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)}$.\nΓ. $\\ce{Na2O(s) + 2HCl(aq) -> 2NaCl(aq) + H2O(l)}$.\nΔ. $\\ce{Na2CO3(aq) + 2HCl(aq) -> 2NaCl(aq) + CO2(g) + H2O(l)}$."
+    },
+    {
+     "day": 3,
+     "number": 25,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Largest second ionisation energy among Li, Be, B and N",
+     "problem": "Question 25 (multiple choice).\n\nOf the elements ${}_{3}\\mathrm{Li}$, ${}_{4}\\mathrm{Be}$, ${}_{5}\\mathrm{B}$, ${}_{7}\\mathrm{N}$, the largest second ionisation energy is shown by:\nA. ${}_{7}\\mathrm{N}$.\nB. ${}_{5}\\mathrm{B}$.\nC. ${}_{4}\\mathrm{Be}$.\nD. ${}_{3}\\mathrm{Li}$.",
+     "problem_el": "Ερώτηση 25 (πολλαπλής επιλογής).\n\nΑπό τα στοιχεία: ${}_{3}\\mathrm{Li}$, ${}_{4}\\mathrm{Be}$, ${}_{5}\\mathrm{B}$, ${}_{7}\\mathrm{N}$ μεγαλύτερη ενέργεια δεύτερου ιοντισμού εμφανίζει το:\nΑ. ${}_{7}\\mathrm{N}$.\nΒ. ${}_{5}\\mathrm{B}$.\nΓ. ${}_{4}\\mathrm{Be}$.\nΔ. ${}_{3}\\mathrm{Li}$."
+    },
+    {
+     "day": 3,
+     "number": 26,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Signs of the enthalpies of ozone decomposition and O2 dissociation",
+     "problem": "Question 26 (multiple choice).\n\nFor the thermochemical equation\n\n$$\\ce{NO(g) + O3(g) -> NO2(g) + O2(g)}\\qquad \\Delta H^\\circ = -199\\ \\mathrm{kJ/mol}$$\n\nthe standard enthalpies of formation $\\Delta H^\\circ_f$ are given: $\\ce{NO} = +90\\ \\mathrm{kJ/mol}$ and $\\ce{NO2} = +33\\ \\mathrm{kJ/mol}$.\nUsing the above data we conclude that for the enthalpies of the following chemical equations\n\n$$\\ce{2O3(g) -> 3O2(g)}\\qquad \\Delta H^\\circ_1 \\quad \\text{and}$$\n\n$$\\ce{O2(g) -> 2O(g)}\\qquad \\Delta H^\\circ_2,$$\n\nthe following hold:\nA. $\\Delta H^\\circ_1 < 0$ and $\\Delta H^\\circ_2 < 0$.\nB. $\\Delta H^\\circ_1 > 0$ and $\\Delta H^\\circ_2 > 0$.\nC. $\\Delta H^\\circ_1 > 0$ and $\\Delta H^\\circ_2 < 0$.\nD. $\\Delta H^\\circ_1 < 0$ and $\\Delta H^\\circ_2 > 0$.",
+     "problem_el": "Ερώτηση 26 (πολλαπλής επιλογής).\n\nΓια τη θερμοχημική εξίσωση\n\n$$\\ce{NO(g) + O3(g) -> NO2(g) + O2(g)}\\qquad \\Delta H^\\circ = -199\\ \\mathrm{kJ/mol}$$\n\nδίνονται οι πρότυπες ενθαλπίες σχηματισμού, $\\Delta H^\\circ_f$: $\\ce{NO} = +90\\ \\mathrm{kJ/mol}$ και $\\ce{NO2} = +33\\ \\mathrm{kJ/mol}$.\nΑξιοποιώντας τα παραπάνω δεδομένα συμπεραίνουμε ότι για τις ενθαλπίες των παρακάτω χημικών εξισώσεων\n\n$$\\ce{2O3(g) -> 3O2(g)}\\qquad \\Delta H^\\circ_1 \\quad \\text{και}$$\n\n$$\\ce{O2(g) -> 2O(g)}\\qquad \\Delta H^\\circ_2,$$\n\nισχύουν:\nΑ. $\\Delta H^\\circ_1 < 0$ και $\\Delta H^\\circ_2 < 0$.\nΒ. $\\Delta H^\\circ_1 > 0$ και $\\Delta H^\\circ_2 > 0$.\nΓ. $\\Delta H^\\circ_1 > 0$ και $\\Delta H^\\circ_2 < 0$.\nΔ. $\\Delta H^\\circ_1 < 0$ και $\\Delta H^\\circ_2 > 0$."
+    },
+    {
+     "day": 3,
+     "number": 27,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Smallest osmotic pressure among four aqueous solutions",
+     "problem": "Question 27 (multiple choice).\n\nOf the following aqueous solutions, the smallest osmotic pressure at $25\\ ^\\circ\\mathrm{C}$ is that of the:\nA. Glucose ($\\ce{C6H12O6}$) solution of concentration $0.2\\ \\mathrm{M}$.\nB. Sugar ($\\ce{C12H22O11}$) solution of concentration $0.1\\ \\mathrm{M}$.\nC. Sodium chloride ($\\ce{NaCl}$) solution of concentration $0.06\\ \\mathrm{M}$.\nD. Ethanoic acid ($\\ce{CH3COOH}$) solution of concentration $0.1\\ \\mathrm{M}$ with degree of ionisation $a = 0.1$.",
+     "problem_el": "Ερώτηση 27 (πολλαπλής επιλογής).\n\nΑπό τα παρακάτω υδατικά διαλύματα μικρότερη τιμή ωσμωτικής πίεσης στους $25\\ ^\\circ\\mathrm{C}$ έχει το:\nΑ. Διάλυμα γλυκόζης ($\\ce{C6H12O6}$) συγκέντρωσης $0{,}2\\ \\mathrm{M}$.\nΒ. Διάλυμα ζάχαρης ($\\ce{C12H22O11}$) συγκέντρωσης $0{,}1\\ \\mathrm{M}$.\nΓ. Διάλυμα χλωριούχου νατρίου ($\\ce{NaCl}$) συγκέντρωσης $0{,}06\\ \\mathrm{M}$.\nΔ. Διάλυμα αιθανικού οξέος ($\\ce{CH3COOH}$) συγκέντρωσης $0{,}1\\ \\mathrm{M}$ με βαθμό ιοντισμού $a = 0{,}1$."
+    },
+    {
+     "day": 3,
+     "number": 28,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Temperature change read from forward and reverse rates",
+     "problem": "Question 28 (multiple choice).\n\nIn a closed vessel of constant volume the chemical equilibrium\n\n$$\\ce{CO2(g) + H2(g)} \\underset{\\upsilon_2}{\\overset{\\upsilon_1}{\\rightleftharpoons}} \\ce{CO(g) + H2O(g)}\\qquad \\Delta H$$\n\nhas been established. At time $t_1$ the temperature of the system was changed, and the changes in the rates of the two opposing reactions are shown in the diagram below.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-28-fig1.png\n\nFrom the diagram we conclude that:\nA. The temperature was increased and $\\Delta H > 0$.\nB. The temperature was increased and $\\Delta H < 0$.\nC. The temperature was decreased and $\\Delta H > 0$.\nD. The temperature was decreased and $\\Delta H < 0$.",
+     "problem_el": "Ερώτηση 28 (πολλαπλής επιλογής).\n\nΣε κλειστό δοχείο σταθερού όγκου, έχει αποκατασταθεί η χημική ισορροπία:\n\n$$\\ce{CO2(g) + H2(g)} \\underset{\\upsilon_2}{\\overset{\\upsilon_1}{\\rightleftharpoons}} \\ce{CO(g) + H2O(g)}\\qquad \\Delta H$$\n\nΤη χρονική στιγμή $t_1$ μεταβλήθηκε η θερμοκρασία του συστήματος και οι μεταβολές των ταχυτήτων των δύο αντίθετων αντιδράσεων φαίνονται στο παρακάτω διάγραμμα.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-28-fig1.png\n\nΜε βάση το διάγραμμα συμπεραίνουμε ότι:\nΑ. Η θερμοκρασία αυξήθηκε και είναι $\\Delta H > 0$.\nΒ. Η θερμοκρασία αυξήθηκε και είναι $\\Delta H < 0$.\nΓ. Η θερμοκρασία ελαττώθηκε και είναι $\\Delta H > 0$.\nΔ. Η θερμοκρασία ελαττώθηκε και είναι $\\Delta H < 0$."
+    },
+    {
+     "day": 3,
+     "number": 29,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Mechanisms consistent with the rate law of the H2 + NO reaction",
+     "problem": "Question 29 (multiple choice).\n\nFor the reaction $\\ce{2H2(g) + 2NO(g) -> N2(g) + 2H2O(g)}$\nthe following mechanisms are given.\nMechanism I\n$\\ce{H2(g) + NO(g) -> H2O(g) + N(g)}$ (slow)\n$\\ce{N(g) + NO(g) -> N2(g) + O(g)}$ (fast)\n$\\ce{O(g) + H2(g) -> H2O(g)}$ (fast)\nMechanism II\n$\\ce{H2(g) + 2NO(g) -> N2O(g) + H2O(g)}$ (slow)\n$\\ce{N2O(g) + H2(g) -> N2(g) + H2O(g)}$ (fast)\nMechanism IIII [sic: mechanism III]\n$\\ce{2NO(g) <=> N2O2(g)}$ (fast)\n$\\ce{N2O2(g) + H2(g) -> N2O(g) + H2O(g)}$ (slow)\n$\\ce{N2O(g) + H2(g) -> N2(g) + H2O(g)}$ (fast)\n\nIf the rate law is $\\upsilon = k[\\ce{H2}][\\ce{NO}]^2$, then for the reaction the proposed mechanism is:\nA. Mechanism I.\nB. Mechanism II.\nC. Mechanism III.\nD. Mechanism II or mechanism III.",
+     "problem_el": "Ερώτηση 29 (πολλαπλής επιλογής).\n\nΓια την αντίδραση: $\\ce{2H2(g) + 2NO(g) -> N2(g) + 2H2O(g)}$\nδίνονται οι παρακάτω μηχανισμοί.\nΜηχανισμός Ι\n$\\ce{H2(g) + NO(g) -> H2O(g) + N(g)}$ (αργό)\n$\\ce{N(g) + NO(g) -> N2(g) + O(g)}$ (γρήγορο)\n$\\ce{O(g) + H2(g) -> H2O(g)}$ (γρήγορο)\nΜηχανισμός ΙΙ\n$\\ce{H2(g) + 2NO(g) -> N2O(g) + H2O(g)}$ (αργό)\n$\\ce{N2O(g) + H2(g) -> N2(g) + H2O(g)}$ (γρήγορο)\nΜηχανισμός ΙΙΙΙ\n$\\ce{2NO(g) <=> N2O2(g)}$ (γρήγορο)\n$\\ce{N2O2(g) + H2(g) -> N2O(g) + H2O(g)}$ (αργό)\n$\\ce{N2O(g) + H2(g) -> N2(g) + H2O(g)}$ (γρήγορο)\n\nΑν η έκφραση του νόμου ταχύτητας είναι $\\upsilon = k[\\ce{H2}][\\ce{NO}]^2$, τότε για την αντίδραση προτείνεται:\nΑ. Ο μηχανισμός Ι.\nΒ. Ο μηχανισμός ΙΙ.\nΓ. Ο μηχανισμός ΙΙΙ.\nΔ. Ο μηχανισμός ΙΙ ή ο μηχανισμός ΙΙΙ."
+    },
+    {
+     "day": 3,
+     "number": 30,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Combining equilibrium constants of nitrogen oxide equilibria",
+     "problem": "Question 30 (multiple choice).\n\nThe following equilibria are given:\n\n$$\\ce{N2(g) + 1/2 O2(g) <=> N2O(g)}\\qquad K_C = K_1$$\n\n$$\\ce{N2O4(g) <=> 2NO2(g)}\\qquad K_C = K_2$$\n\n$$\\ce{1/2 N2(g) + O2(g) <=> NO2(g)}\\qquad K_C = K_3$$\n\nFor the reaction $\\ce{2N2O(g) + 3O2(g) <=> 2N2O4(g)}$, the equilibrium constant is given by the expression:\nA. $\\dfrac{K_3^{\\,4}}{K_1^{\\,2}\\cdot K_2^{\\,2}}$\nB. $K_2\\cdot\\dfrac{2K_1}{K_3^{\\,2}}$\nC. $K_1\\cdot K_2^{\\,2}\\cdot K_3$\nD. $\\dfrac{\\sqrt{K_3}}{K_1\\cdot K_2}$",
+     "problem_el": "Ερώτηση 30 (πολλαπλής επιλογής).\n\nΔίνονται οι παρακάτω ισορροπίες:\n\n$$\\ce{N2(g) + 1/2 O2(g) <=> N2O(g)}\\qquad K_C = K_1$$\n\n$$\\ce{N2O4(g) <=> 2NO2(g)}\\qquad K_C = K_2$$\n\n$$\\ce{1/2 N2(g) + O2(g) <=> NO2(g)}\\qquad K_C = K_3$$\n\nΓια την αντίδραση $\\ce{2N2O(g) + 3O2(g) <=> 2N2O4(g)}$, η έκφραση της σταθεράς χημικής ισορροπίας δίνεται με τη σχέση:\nΑ. $\\dfrac{K_3^{\\,4}}{K_1^{\\,2}\\cdot K_2^{\\,2}}$\nΒ. $K_2\\cdot\\dfrac{2K_1}{K_3^{\\,2}}$\nΓ. $K_1\\cdot K_2^{\\,2}\\cdot K_3$\nΔ. $\\dfrac{\\sqrt{K_3}}{K_1\\cdot K_2}$"
+    },
+    {
+     "day": 3,
+     "number": 31,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Equilibrium percentage of a reactant against 1/T at two pressures",
+     "problem": "Question 31 (multiple choice).\n\nThe graph below shows the variation of the percentage of the reactant $\\mathrm{X(g)}$ present in an equilibrium mixture as a function of the reciprocal of the absolute temperature at which the reaction takes place (at pressures of $1.5\\ \\mathrm{atm}$ and $2\\ \\mathrm{atm}$).\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-31-fig1.png\n\n[Figure labels: «Ποσοστό του X(g) στην ισορροπία» = percentage of X(g) at equilibrium.]\n\nThe following statements are given.\nI. Of the two opposing reactions taking place, the forward one is endothermic.\nII. The above equilibrium could be described by the chemical equation $\\mathrm{X(g)} \\rightleftharpoons \\Psi\\mathrm{(g)} + \\mathrm{Z(g)}$.\nIII. The equilibrium constant $K_C$ of the reaction increases as the pressure of the system increases.\nCorrect is/are:\nA. Only I.\nB. I and II.\nC. II and III.\nD. All.",
+     "problem_el": "Ερώτηση 31 (πολλαπλής επιλογής).\n\nΤο παρακάτω γράφημα δείχνει τη μεταβολή του ποσοστού του αντιδρώντος $\\mathrm{X(g)}$ που υπάρχει σε ένα μείγμα χημικής ισορροπίας, σε συνάρτηση του αντιστρόφου της απόλυτης θερμοκρασίας που πραγματοποιείται η αντίδραση (σε πιέσεις $1{,}5\\ \\mathrm{atm}$ και $2\\ \\mathrm{atm}$).\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-31-fig1.png\n\nΔίνονται οι προτάσεις.\nΙ. Από τις δύο αντίθετες αντιδράσεις που πραγματοποιούνται, η προς τα δεξιά είναι ενδόθερμη.\nΙΙ. Η παραπάνω ισορροπία θα μπορούσε να περιγράφεται με την χημική εξίσωση $\\mathrm{X(g)} \\rightleftharpoons \\Psi\\mathrm{(g)} + \\mathrm{Z(g)}$.\nΙΙΙ. Η σταθερά χημικής ισορροπίας $K_C$ της αντίδρασης που πραγματοποιείται, αυξάνεται με την αύξηση της πίεση του συστήματος.\nΣωστή/ες είναι:\nΑ. Μόνο η Ι.\nΒ. Ι και ΙΙ.\nΓ. ΙΙ και ΙΙΙ.\nΔ. Όλες."
+    },
+    {
+     "day": 3,
+     "number": 32,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Stoichiometric coefficient from the heat absorbed by a partly gaseous reaction",
+     "problem": "Question 32 (multiple choice).\n\nInto a closed vessel of constant volume at constant temperature $\\theta\\ ^\\circ\\mathrm{C}$ we introduce $1\\ \\mathrm{mol}$ of $\\mathrm{X(s)}$ and $2\\ \\mathrm{mol}$ of $\\Psi\\mathrm{(g)}$, whereupon the reaction\n\n$$\\mathrm{X(s)} + 2\\Psi\\mathrm{(g)} \\rightarrow \\alpha\\,\\mathrm{Z(g)}$$\n\ntakes place, while an amount of heat equal to $200\\ \\mathrm{kJ}$ is absorbed. The enthalpy of the reaction has the value $\\Delta H = +200\\ \\mathrm{kJ}$ when:\nA. $\\alpha = 1$.\nB. $\\alpha = 2$.\nC. $\\alpha = 3$.\nD. $\\alpha = 4$.",
+     "problem_el": "Ερώτηση 32 (πολλαπλής επιλογής).\n\nΣε κλειστό δοχείο σταθερού όγκου και σε σταθερή θερμοκρασία $\\theta\\ ^\\circ\\mathrm{C}$ εισάγουμε ποσότητες $1\\ \\mathrm{mol}$ $\\mathrm{X(s)}$ και $2\\ \\mathrm{mol}$ $\\Psi\\mathrm{(g)}$, οπότε πραγματοποιείται η αντίδραση:\n\n$$\\mathrm{X(s)} + 2\\Psi\\mathrm{(g)} \\rightarrow \\alpha\\,\\mathrm{Z(g)}$$\n\nενώ απορροφάται ποσό θερμότητας ίσο με $200\\ \\mathrm{kJ}$. Η ενθαλπία της αντίδρασης έχει τιμή $\\Delta H = +200\\ \\mathrm{kJ}$ όταν:\nΑ. $\\alpha = 1$.\nΒ. $\\alpha = 2$.\nΓ. $\\alpha = 3$.\nΔ. $\\alpha = 4$."
+    },
+    {
+     "day": 3,
+     "number": 33,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Final state of calcium carbonate heated in a closed vessel",
+     "problem": "Question 33 (multiple choice).\n\nUnder certain conditions the conversion of $\\ce{CaCO3(s)}$ into $\\ce{CaO(s)}$ and $\\ce{CO2(g)}$ is a reversible reaction: $\\ce{CaCO3(s) <=> CaO(s) + CO2(g)}$ with $K_c = 0.01$ at $\\theta\\ ^\\circ\\mathrm{C}$.\nInto a vessel of volume $25\\ \\mathrm{L}$ we introduce $0.2\\ \\mathrm{mol}$ of $\\ce{CaCO3(s)}$ and heat to $\\theta\\ ^\\circ\\mathrm{C}$. The picture of the vessel that shows the final state is:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-33-fig1.png\n\n[Figure labels: Α., Β., Γ., Δ. = options A, B, C, D.]\n\n[Options A–D are shown in the figure.]",
+     "problem_el": "Ερώτηση 33 (πολλαπλής επιλογής).\n\nΗ μετατροπή του $\\ce{CaCO3(s)}$ σε $\\ce{CaO(s)}$ και $\\ce{CO2(g)}$ υπό ορισμένες συνθήκες, είναι μια αμφίδρομη αντίδραση: $\\ce{CaCO3(s) <=> CaO(s) + CO2(g)}$ με $K_c = 0{,}01$ στους $\\theta\\ ^\\circ\\mathrm{C}$.\nΣε δοχείο όγκου $25\\ \\mathrm{L}$ εισάγουμε $0{,}2\\ \\mathrm{mol}$ $\\ce{CaCO3(s)}$ και θερμαίνουμε στους $\\theta\\ ^\\circ\\mathrm{C}$. Η εικόνα του δοχείου που απεικονίζει την τελική κατάσταση είναι η:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-33-fig1.png\n\n[Οι επιλογές Α–Δ φαίνονται στο σχήμα.]"
+    },
+    {
+     "day": 3,
+     "number": 34,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Longest-wavelength emission in a hydrogen energy-level diagram",
+     "problem": "Question 34 (multiple choice).\n\nThe following energy-level diagram for the electron in the hydrogen atom is given.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-34-fig1.png\n\n[Figure labels: the transitions Α, Β, Γ, Δ = A, B, Γ, Δ.]\n\nThe radiation of longest wavelength is emitted in the transition:\nA. A\nB. B\nC. Γ\nD. Δ",
+     "problem_el": "Ερώτηση 34 (πολλαπλής επιλογής).\n\nΔίνεται το παρακάτω ενεργειακό διάγραμμα για το ηλεκτρόνιο στο άτομο του υδρογόνου.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-34-fig1.png\n\nΗ ακτινοβολία με το μεγαλύτερο μήκος κύματος εκπέμπεται κατά τη μετάβαση:\nΑ. Α\nΒ. Β\nΓ. Γ\nΔ. Δ"
+    },
+    {
+     "day": 3,
+     "number": 35,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Initial rates from a rate law and a temperature coefficient",
+     "problem": "Question 35 (multiple choice).\n\nIn a kinetic study of the reaction $\\mathrm{A(g)} + \\mathrm{B(g)} \\rightarrow$ products at constant temperature, the following data were obtained.\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\textbf{Experiment} & [\\mathrm{A}]_0\\ /\\ \\mathrm{mol\\,L^{-1}} & [\\mathrm{B}]_0\\ /\\ \\mathrm{mol\\,L^{-1}} & \\upsilon_0\\ /\\ \\mathrm{mol\\,L^{-1}\\,s^{-1}} \\\\ \\hline 1 & 0.01 & 0.05 & 2\\cdot 10^{-4} \\\\ \\hline 2 & 0.02 & 0.05 & 4\\cdot 10^{-4} \\\\ \\hline 3 & 0.02 & 0.01 & 4\\cdot 10^{-4} \\\\ \\hline \\end{array}$$\n\nIf the rate constant doubles for every $10\\ ^\\circ\\mathrm{C}$ rise in temperature, the largest initial rate will be observed when:\nA. $[\\mathrm{A}]_0 = 0.1\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0.2\\ \\mathrm{mol\\,L^{-1}}$ at $40\\ ^\\circ\\mathrm{C}$.\nB. $[\\mathrm{A}]_0 = 0.2\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0.2\\ \\mathrm{mol\\,L^{-1}}$ at $30\\ ^\\circ\\mathrm{C}$.\nC. $[\\mathrm{A}]_0 = 0.3\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0.4\\ \\mathrm{mol\\,L^{-1}}$ at $20\\ ^\\circ\\mathrm{C}$.\nD. $[\\mathrm{A}]_0 = 0.4\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0.1\\ \\mathrm{mol\\,L^{-1}}$ at $30\\ ^\\circ\\mathrm{C}$.",
+     "problem_el": "Ερώτηση 35 (πολλαπλής επιλογής).\n\nΣε μια κινητική μελέτη της αντίδρασης $\\mathrm{A(g)} + \\mathrm{B(g)} \\rightarrow$ προϊόντα, σε σταθερή θερμοκρασία, προέκυψαν τα ακόλουθα δεδομένα.\n\n$$\\begin{array}{|c|c|c|c|}\\hline \\textbf{Πείραμα} & [\\mathrm{A}]_0\\ /\\ \\mathrm{mol\\,L^{-1}} & [\\mathrm{B}]_0\\ /\\ \\mathrm{mol\\,L^{-1}} & \\upsilon_0\\ /\\ \\mathrm{mol\\,L^{-1}\\,s^{-1}} \\\\ \\hline 1 & 0{,}01 & 0{,}05 & 2\\cdot 10^{-4} \\\\ \\hline 2 & 0{,}02 & 0{,}05 & 4\\cdot 10^{-4} \\\\ \\hline 3 & 0{,}02 & 0{,}01 & 4\\cdot 10^{-4} \\\\ \\hline \\end{array}$$\n\nΑν η σταθερά ταχύτητας διπλασιάζεται για κάθε αύξηση της θερμοκρασίας κατά $10\\ ^\\circ\\mathrm{C}$, τότε μεγαλύτερη αρχική ταχύτητα θα παρατηρηθεί όταν:\nΑ. $[\\mathrm{A}]_0 = 0{,}1\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0{,}2\\ \\mathrm{mol\\,L^{-1}}$ στους $40\\ ^\\circ\\mathrm{C}$.\nΒ. $[\\mathrm{A}]_0 = 0{,}2\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0{,}2\\ \\mathrm{mol\\,L^{-1}}$ στους $30\\ ^\\circ\\mathrm{C}$.\nΓ. $[\\mathrm{A}]_0 = 0{,}3\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0{,}4\\ \\mathrm{mol\\,L^{-1}}$ στους $20\\ ^\\circ\\mathrm{C}$.\nΔ. $[\\mathrm{A}]_0 = 0{,}4\\ \\mathrm{mol\\,L^{-1}}$, $[\\mathrm{B}]_0 = 0{,}1\\ \\mathrm{mol\\,L^{-1}}$ στους $30\\ ^\\circ\\mathrm{C}$."
+    },
+    {
+     "day": 3,
+     "number": 36,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Strongest Bronsted-Lowry base among four anions",
+     "problem": "Question 36 (multiple choice).\n\nIn aqueous solution the strongest Brønsted–Lowry base is:\nA. $\\ce{NH2-}$.\nB. $\\ce{HCOO-}$.\nC. $\\ce{CH3COO-}$.\nD. $\\ce{ClCH2COO-}$.",
+     "problem_el": "Ερώτηση 36 (πολλαπλής επιλογής).\n\nΣε υδατικό διάλυμα ισχυρότερη βάση κατά Bronsted – Lowry είναι η:\nΑ. $\\ce{NH2-}$.\nΒ. $\\ce{HCOO-}$.\nΓ. $\\ce{CH3COO-}$.\nΔ. $\\ce{ClCH2COO-}$."
+    },
+    {
+     "day": 3,
+     "number": 37,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Valid enthalpy relations in a set of thermochemical cycles",
+     "problem": "Question 37 (multiple choice).\n\nThe figure below shows some thermochemical cycles.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-37-fig1.png\n\n[Figure labels: Α, Β, Γ, Δ = A, B, Γ, Δ.]\n\nOf the following relations for the enthalpy changes:\nI. $\\Delta H_1 + \\Delta H_2 = \\Delta H_5$ II. $\\Delta H_5 + \\Delta H_2 = \\Delta H_1$ III. $\\Delta H_5 + \\Delta H_1 = \\Delta H_2$\nIV. $\\Delta H_3 + \\Delta H_2 = \\Delta H_4$ V. $\\Delta H_4 + \\Delta H_2 = \\Delta H_3$\nthe correct ones are:\nA. Only II.\nB. Only III.\nC. III and IV.\nD. All.",
+     "problem_el": "Ερώτηση 37 (πολλαπλής επιλογής).\n\nΤο παρακάτω σχήμα παρουσιάζει ορισμένους θερμοχημικούς κύκλους.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-37-fig1.png\n\nΑπό τις παρακάτω σχέσεις για τις μεταβολές ενθαλπίας:\nI. $\\Delta H_1 + \\Delta H_2 = \\Delta H_5$ II. $\\Delta H_5 + \\Delta H_2 = \\Delta H_1$ III. $\\Delta H_5 + \\Delta H_1 = \\Delta H_2$\nIV. $\\Delta H_3 + \\Delta H_2 = \\Delta H_4$ V. $\\Delta H_4 + \\Delta H_2 = \\Delta H_3$\nσωστές είναι:\nΑ. Μόνο η II.\nΒ. Μόνο η III.\nΓ. Οι III και IV.\nΔ. Όλες."
+    },
+    {
+     "day": 3,
+     "number": 38,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Reaction order from a diagram of effective collisions",
+     "problem": "Question 38 (multiple choice).\n\nA reaction follows the scheme of effective collisions shown below.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-38-fig1.png\n\nThe reaction is:\nA. Fourth order.\nB. Third order.\nC. Second order.\nD. First order.",
+     "problem_el": "Ερώτηση 38 (πολλαπλής επιλογής).\n\nΜια αντίδραση ακολουθεί το παρακάτω σχήμα ενεργών συγκρούσεων.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-38-fig1.png\n\nΗ αντίδραση είναι:\nΑ. Τέταρτης τάξης.\nΒ. Τρίτης τάξης.\nΓ. Δεύτερης τάξης.\nΔ. Πρώτης τάξης."
+    },
+    {
+     "day": 3,
+     "number": 39,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Which conversion is an oxidation",
+     "problem": "Question 39 (multiple choice).\n\nOf the following conversions, an oxidation is:\nA. $\\ce{VO3- -> VO2+}$.\nB. $\\ce{SO3 -> SO4^2-}$.\nC. $\\ce{CrO2- -> CrO4^2-}$.\nD. $\\ce{NO3- -> NO2-}$.",
+     "problem_el": "Ερώτηση 39 (πολλαπλής επιλογής).\n\nΑπό τις παρακάτω μετατροπές οξείδωση είναι η:\nΑ. $\\ce{VO3- -> VO2+}$.\nΒ. $\\ce{SO3 -> SO4^2-}$.\nΓ. $\\ce{CrO2- -> CrO4^2-}$.\nΔ. $\\ce{NO3- -> NO2-}$."
+    },
+    {
+     "day": 3,
+     "number": 40,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Monomers of the polyester PET",
+     "problem": "Question 40 (multiple choice).\n\nPlastic water bottles are made mainly of the polyester PET. This compound can be obtained, under suitable conditions, from the reaction between:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-40-fig1.png\n\n[Figure labels: «και» = and; Α., Β., Γ., Δ. = options A, B, C, D.]\n\n[Options A–D are shown in the figure.]",
+     "problem_el": "Ερώτηση 40 (πολλαπλής επιλογής).\n\nΤα πλαστικά μπουκάλια αποθήκευσης του νερού έχουν ως κύριο υλικό κατασκευής τον πολυεστέρα PET. Η ένωση αυτή μπορεί να προκύψει υπό κατάλληλες συνθήκες, από την αντίδραση μεταξύ:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-40-fig1.png\n\n[Οι επιλογές Α–Δ φαίνονται στο σχήμα.]"
+    },
+    {
+     "day": 3,
+     "number": 41,
+     "paper_label": "Round 1, Grade 12",
+     "title": "EDTA, a citrate buffer and a strong base M(OH)n",
+     "problem": "Problem 1.\n\n1.1. Ethylenediaminetetraacetic acid (denoted EDTA) is a reagent often used in Analytical Chemistry. The structural formula of EDTA is:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-41-fig1.png\n\n1.1.a. In the EDTA molecule, the number of atoms (H atoms excluded) that can take part in hydrogen bonds (ignoring any kind of steric hindrance) is:\nA. $4$.\nB. $8$\nC. $10$\nD. $14$\n\n1.1.b. Not only carbon uses hybrid orbitals to form bonds, but also other elements, as shown in the following table:\n\n$$\\begin{array}{|c|c|}\\hline \\textbf{Hybridisation of nitrogen (N)} & \\textbf{Hybridisation of oxygen (O)} \\\\ \\hline \\mathrm{sp}\\ \\text{e.g. in the molecule}\\ \\ce{HCN} & \\mathrm{sp^2}\\ \\text{e.g. in the molecule}\\ \\ce{HCHO} \\\\ \\hline \\mathrm{sp^3}\\ \\text{e.g. in the molecule}\\ \\ce{NH3} & \\mathrm{sp^3}\\ \\text{e.g. in the molecule}\\ \\ce{H2O} \\\\ \\hline \\end{array}$$\n\nOn the basis of the above information, in the EDTA molecule the number of atoms that use $\\mathrm{sp^3}$ hybrid orbitals to form bonds is:\nA. $12$.\nB. $10$.\nC. $8$.\nD. $6$.\n\n1.2. Buffer solutions of citric acid\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-41-fig2.png\n\nare commonly used to control the pH of household cleaning products and pharmaceuticals. Such a solution with $\\mathrm{pH} = 5.1$ contains $\\ce{NaH2C6H5O7}$ and $\\ce{Na2HC6H5O7}$. In this solution the concentration of sodium ions is $1\\ \\mathrm{M}$.\nThe concentrations of the conjugate acid–base pair in the buffer solution are respectively:\nA. $0.1\\ \\mathrm{M}$ and $0.2\\ \\mathrm{M}$.\nB. $0.2\\ \\mathrm{M}$ and $0.4\\ \\mathrm{M}$.\nC. $0.2\\ \\mathrm{M}$ and $0.1\\ \\mathrm{M}$.\nD. $0.4\\ \\mathrm{M}$ and $0.3\\ \\mathrm{M}$.\n\n1.3. To $400\\ \\mathrm{mL}$ of an aqueous solution of $\\ce{CH3COOH}$ with $\\mathrm{pH} = 3$ we add $0.02\\ \\mathrm{mol}$ of a strong, readily soluble base $\\ce{M(OH)_{n}}$, which gives $400\\ \\mathrm{mL}$ of a solution with $\\mathrm{pH} = 5$.\nGiven:\n• all solutions are at $25\\ ^\\circ\\mathrm{C}$\n• $K_\\mathrm{a} = 10^{-5}$ (for $\\ce{CH3COOH}$) and $K_\\mathrm{w} = 10^{-14}$ (for $\\ce{H2O}$)\n• the usual approximations apply\n\n1.3.a. The value of $n$ in the chemical formula of the above base is:\nA. $n = 1$\nB. $n = 2$\nC. $n = 3$\nD. $n = 4$\n\n1.3.b. A certain amount of the above base $\\ce{M(OH)_{n}}$ is dissolved in water, forming an aqueous solution (Δ). Into $50\\ \\mathrm{mL}$ of this solution we pass $7.5\\ \\mathrm{mmol}$ of gaseous $\\ce{Cl2}$ (without changing the volume of the solution), whereupon the reaction described by the unbalanced chemical equation\n\n$$\\ce{Cl2(g) + M(OH)_{n}(aq) -> MCl_{n}(aq) + M(ClO3)_{n}(aq) + H2O(l)}$$\n\ntakes place. The resulting solution is diluted to $250\\ \\mathrm{mL}$. It was found that $25\\ \\mathrm{mL}$ of the final diluted solution require $21\\ \\mathrm{mL}$ of $0.1\\ \\mathrm{M}$ $\\ce{HCl}$ solution for complete neutralisation of the excess strong base it contained.\nThe concentration of solution Δ is:\nA. $0.05\\ \\mathrm{M}$\nB. $0.1\\ \\mathrm{M}$\nC. $0.36\\ \\mathrm{M}$\nD. $0.72\\ \\mathrm{M}$.",
+     "problem_el": "Άσκηση 1.\n\n1.1. Το αιθυλενοδιαμινοτετραοξικό οξύ (συμβολίζεται ως EDTA) είναι ένα αντιδραστήριο που χρησιμοποιείται συχνά στην Αναλυτική Χημεία. Ο συντακτικός τύπος του EDTA είναι:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-41-fig1.png\n\n1.1.α. Στο μόριο του EDTA, ο αριθμός των ατόμων (εξαιρούνται τα άτομα H) που μπορούν να συμμετάσχουν σε δεσμούς υδρογόνου (αγνοώντας κάθε είδους στερεοχημικών παρεμποδίσεων) είναι:\nΑ. $4$.\nΒ. $8$\nΓ. $10$\nΔ. $14$\n\n1.1.β. Υβριδικά τροχιακά για τον σχηματισμό δεσμών δεν χρησιμοποιεί μόνο ο άνθρακας, αλλά και άλλα στοιχεία όπως δείχνει στον παρακάτω πίνακα:\n\n$$\\begin{array}{|c|c|}\\hline \\textbf{Υβριδισμός αζώτου (N)} & \\textbf{Υβριδισμός οξυγόνου (O)} \\\\ \\hline \\mathrm{sp}\\ \\text{π.χ. στο μόριο}\\ \\ce{HCN} & \\mathrm{sp^2}\\ \\text{π.χ. στο μόριο}\\ \\ce{HCHO} \\\\ \\hline \\mathrm{sp^3}\\ \\text{π.χ. στο μόριο}\\ \\ce{NH3} & \\mathrm{sp^3}\\ \\text{π.χ. στο μόριο}\\ \\ce{H2O} \\\\ \\hline \\end{array}$$\n\nΜε βάση τις παραπάνω πληροφορίες, στο μόριο του EDTA, ο αριθμός των ατόμων που χρησιμοποιούν $\\mathrm{sp^3}$ υβριδικά τροχιακά για τη δημιουργία δεσμών, είναι:\nΑ. $12$.\nΒ. $10$.\nΓ. $8$.\nΔ. $6$.\n\n1.2. Τα ρυθμιστικά διαλύματα του κιτρικού οξέος\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-41-fig2.png\n\nχρησιμοποιούνται συνήθως για τον έλεγχο του pH σε οικιακά καθαριστικά και φαρμακευτικά προϊόντα. Ένα τέτοιο διάλυμα με $\\mathrm{pH} = 5{,}1$ περιέχει $\\ce{NaH2C6H5O7}$ και $\\ce{Na2HC6H5O7}$. Στο διάλυμα αυτό η συγκέντρωση των ιόντων νατρίου είναι $1\\ \\mathrm{M}$.\nΟι συγκεντρώσεις του συζυγούς ζεύγους οξέος – βάσης στο ρυθμιστικό διάλυμα είναι αντίστοιχα:\nΑ. $0{,}1\\ \\mathrm{M}$ και $0{,}2\\ \\mathrm{M}$.\nΒ. $0{,}2\\ \\mathrm{M}$ και $0{,}4\\ \\mathrm{M}$.\nΓ. $0{,}2\\ \\mathrm{M}$ και $0{,}1\\ \\mathrm{M}$.\nΔ. $0{,}4\\ \\mathrm{M}$ και $0{,}3\\ \\mathrm{M}$.\n\n1.3. Σε $400\\ \\mathrm{mL}$ υδατικού διαλύματος $\\ce{CH3COOH}$ με $\\mathrm{pH} = 3$ προσθέτουμε $0{,}02\\ \\mathrm{mol}$ ισχυρής ευδιάλυτης βάσης $\\ce{M(OH)_{n}}$, οπότε προκύπτουν $400\\ \\mathrm{mL}$ διαλύματος με $\\mathrm{pH} = 5$.\nΔίνονται:\n• ότι όλα τα διαλύματα βρίσκονται στους $25\\ ^\\circ\\mathrm{C}$\n• $K_\\mathrm{a} = 10^{-5}$ (για το $\\ce{CH3COOH}$) και $K_\\mathrm{w} = 10^{-14}$ (για το $\\ce{H2O}$)\n• Ισχύουν οι γνωστές προσεγγίσεις\n\n1.3.α. Η τιμή του $n$ στον χημικό τύπο της παραπάνω βάσης είναι:\nΑ. $n = 1$\nΒ. $n = 2$\nΓ. $n = 3$\nΔ. $n = 4$\n\n1.3.β. Διαλύουμε ορισμένη ποσότητα της παραπάνω βάσης $\\ce{M(OH)_{n}}$ σε νερό, οπότε σχηματίζεται υδατικό διάλυμα (Δ). Σε $50\\ \\mathrm{mL}$ του διαλύματος αυτού διοχετεύουμε $7{,}5\\ \\mathrm{mmol}$ αέριου $\\ce{Cl2}$ (χωρίς να μεταβληθεί ο όγκος του διαλύματος), οπότε πραγματοποιείται η αντίδραση που περιγράφεται με την μη ισοσταθμισμένη χημική εξίσωση:\n\n$$\\ce{Cl2(g) + M(OH)_{n}(aq) -> MCl_{n}(aq) + M(ClO3)_{n}(aq) + H2O(l)}$$\n\nΤο διάλυμα που προκύπτει, αραιώνεται στα $250\\ \\mathrm{mL}$. Βρέθηκε ότι $25\\ \\mathrm{mL}$ του τελικού αραιωμένου διαλύματος απαιτούν $21\\ \\mathrm{mL}$ διαλύματος $\\ce{HCl}$ $0{,}1\\ \\mathrm{M}$ για την πλήρη εξουδετέρωση της περίσσειας της ισχυρής βάσης που περιείχε.\nΗ συγκέντρωση του διαλύματος Δ είναι:\nΑ. $0{,}05\\ \\mathrm{M}$\nΒ. $0{,}1\\ \\mathrm{M}$\nΓ. $0{,}36\\ \\mathrm{M}$\nΔ. $0{,}72\\ \\mathrm{M}$."
+    },
+    {
+     "day": 3,
+     "number": 42,
+     "paper_label": "Round 1, Grade 12",
+     "title": "Baeyer-Villiger oxidation of a cyclic ketone and an organic conversion scheme",
+     "problem": "Problem 2.\n\n2.1. In the Bayer–Villiger [sic: Baeyer–Villiger] reaction the bond between the carbonyl carbon and a neighbouring carbon atom undergoes oxidative cleavage. Thus, when ketones react with organic peroxyacids ($\\ce{RCO3H}$), they are converted into esters:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig1.png\n\n[Figure labels: «κετόνη» = ketone; «εστέρας (τελικό προϊόν)» = ester (final product).]\n\nWhen the alkyl groups ($\\mathrm{R_1}$, $\\mathrm{R_2}$) are the same, insertion of the oxygen between the carbonyl carbon and the carbon of the alkyl group ($\\mathrm{R_1}$ or $\\mathrm{R_2}$) leads to the same product regardless of the side on which it occurs. In those cases where the two alkyl groups are different, the oxygen is inserted between the carbonyl carbon and the more branched alkyl group. In the following scheme of chemical conversions, the reaction is carried out with a cyclic ketone.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig2.png\n\n[Figure labels: «κυκλική κετόνη» = cyclic ketone; «Α (τελικό προϊόν)» = A (final product); Β = B.]\n\n2.1.a. An amount of $0.2\\ \\mathrm{mol}$ of compound B reacts completely with $\\ce{Na}$, forming an organic compound of mass:\nA. $30.8\\ \\mathrm{g}$.\nB. $35.2\\ \\mathrm{g}$.\nC. $42.5\\ \\mathrm{g}$.\nD. $60.8\\ \\mathrm{g}$.\n\n2.1.b. The following scheme of chemical conversions is given, starting from $2\\ \\mathrm{mol}$ of the above organic compound B (question 2.1.a).\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig3.png\n\n[Figure labels: «π. H2SO4/θ» = conc. H2SO4 / heating; «διάλυμα KOH» = KOH solution; «έκλυση αερίου» = gas is evolved; «δεν εκλύεται αέριο» = no gas is evolved; Β, Δ, Ζ, Θ, Γ, Ε, Η = B, Δ, Z, Θ, Γ, E, H.]\n\nAs the above scheme shows, heating compound B in the presence of concentrated $\\ce{H2SO4}$ gives a mixture of compounds Γ and Δ. This mixture reacts with $\\ce{Br2}/\\ce{CCl4}$ and their products then react with $\\ce{KOH}$ in solution in a mixture of the solvents $\\ce{H2O}/\\ce{CH3CH2OH}$. The whole amount of the organic compounds H and Θ is isolated and their mixture reacts with excess metallic $\\ce{Na}$, producing $4.48\\ \\mathrm{L}$ of gas (at S.T.P.).\nThe percentage conversion of compound B into compound Γ is:\nA. $20\\ \\%$.\nB. $40\\ \\%$.\nC. $60\\ \\%$.\nD. $80\\ \\%$.\n\n2.2. The following scheme of chemical conversions is given:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig4.png\n\n[Figure labels: «ενυδάτωση» = hydration; «αναγωγή» = reduction; «αφυδάτωση» = dehydration; Α, Β, Ζ, Ε, Κ = A, B, Z, E, K; Γ, Δ, Θ stay.]\n\nand the following information:\nI. Compound A is an acyclic hydrocarbon whose molecule contains only one multiple bond.\nII. Compounds B and Z belong to the same homologous series.\nII [sic: III]. In the reaction of compound K with ethanoic acid (under suitable conditions) an organic compound of relative molecular mass $M_\\mathrm{r} = 174$ is formed.\nA mixture containing compounds B, Γ and Z in equal amounts (mol) is divided into two equal parts. The first part completely decolourises $300\\ \\mathrm{mL}$ of $\\ce{KMnO4}/\\ce{H2SO4}$ solution of concentration $0.8\\ \\mathrm{M}$, while the second part is treated with excess $\\ce{I2}/\\ce{NaOH}$ solution, giving salts of total mass:\nA. $132\\ \\mathrm{g}$.\nB. $284\\ \\mathrm{g}$.\nC. $852\\ \\mathrm{g}$.\nD. $1704\\ \\mathrm{g}$.",
+     "problem_el": "Άσκηση 2.\n\n2.1. Κατά την αντίδραση Bayer-Villiger πραγματοποιείται οξειδωτική διάσπαση του δεσμού μεταξύ του καρβονυλικού άνθρακα και ενός γειτονικού ατόμου άνθρακα. Έτσι, όταν οι κετόνες αντιδρούν με οργανικά υπεροξέα ($\\ce{RCO3H}$), μετατρέπονται σε εστέρες:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig1.png\n\nΌταν τα αλκύλια ($\\mathrm{R_1}$, $\\mathrm{R_2}$) είναι ίδια η εισαγωγή του οξυγόνου, μεταξύ του καρβονυλικού άνθρακα και του άνθρακα του αλκυλίου ($\\mathrm{R_1}$ ή $\\mathrm{R_2}$), οδηγεί στο ίδιο προϊόν ανεξάρτητα από την πλευρά στην οποία θα συμβεί. Στις περιπτώσεις εκείνες που τα δύο αλκύλια είναι διαφορετικά η εισαγωγή του οξυγόνου γίνεται μεταξύ του καρβονυλικού άνθρακα και του πιο διακλαδισμένου αλκυλίου. Στο ακόλουθο διάγραμμα χημικών μετατροπών, η αντίδραση πραγματοποιείται με μια κυκλική κετόνη.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig2.png\n\n2.1.α. Ποσότητα $0{,}2\\ \\mathrm{mol}$ της ένωσης Β αντιδρά πλήρως με $\\ce{Na}$, οπότε σχηματίζεται οργανική ένωση με μάζα:\nΑ. $30{,}8\\ \\mathrm{g}$.\nΒ. $35{,}2\\ \\mathrm{g}$.\nΓ. $42{,}5\\ \\mathrm{g}$.\nΔ. $60{,}8\\ \\mathrm{g}$.\n\n2.1.β. Δίνεται το παρακάτω διάγραμμα χημικών μετατροπών, με αφετηρία $2\\ \\mathrm{mol}$ της παραπάνω οργανικής ένωσης Β (ερώτημα 2.1.α).\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig3.png\n\nΌπως φαίνεται από το παραπάνω διάγραμμα, η θέρμανση της ένωσης Β παρουσία πυκνού $\\ce{H2SO4}$ οδηγεί στο σχηματισμό μίγματος των ενώσεων Γ και Δ. Το μίγμα αυτό αντιδρά με $\\ce{Br2}/\\ce{CCl4}$ και τα προϊόντα τους στη συνέχεια, αντιδρούν με $\\ce{KOH}$ σε διάλυμα με μίγμα διαλυτών $\\ce{H2O}/\\ce{CH3CH2OH}$. Όλη η ποσότητα των οργανικών ενώσεων Η και Θ απομονώνεται και το μίγμα τους αντιδρά με περίσσεια μεταλλικού $\\ce{Na}$, οπότε παράγονται $4{,}48\\ \\mathrm{L}$ αερίου (σε S.T.P).\nΤο ποσοστό μετατροπής της ένωσης Β προς την ένωση Γ είναι:\nΑ. $20\\ \\%$.\nΒ. $40\\ \\%$.\nΓ. $60\\ \\%$.\nΔ. $80\\ \\%$.\n\n2.2. Δίνεται το παρακάτω διάγραμμα χημικών μετατροπών:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-3-42-fig4.png\n\nκαι οι παρακάτω πληροφορίες:\nI. Η ένωση Α είναι άκυκλος υδρογονάνθρακας στο μόριο του οποίου υπάρχει μόνο ένας πολλαπλός δεσμός.\nII. Οι ενώσεις Β και Ζ ανήκουν στην ίδια ομόλογη σειρά.\nII. Κατά την αντίδραση της ένωσης Κ με το αιθανικό οξύ (σε κατάλληλες συνθήκες) σχηματίζεται οργανική ένωση με σχετική μοριακή μάζα $M_\\mathrm{r} = 174$.\nΈνα μίγμα που περιέχει τις ενώσεις Β, Γ και Ζ σε ίσες ποσότητες (mol), χωρίζεται σε δύο ίσα μέρη. Το πρώτο μέρος αποχρωματίζει πλήρως $300\\ \\mathrm{mL}$ διαλύματος $\\ce{KMnO4}/\\ce{H2SO4}$ συγκέντρωσης $0{,}8\\ \\mathrm{M}$, ενώ στο δεύτερο μέρος επιδρούμε περίσσεια διαλύματος $\\ce{I2}/\\ce{NaOH}$, οπότε σχηματίζονται άλατα συνολικής μάζας:\nΑ. $132\\ \\mathrm{g}$.\nΒ. $284\\ \\mathrm{g}$.\nΓ. $852\\ \\mathrm{g}$.\nΔ. $1704\\ \\mathrm{g}$."
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Which pair of nuclides are isotopes?",
+     "problem": "Question 1 (multiple choice).\n\nIf $X$ and $\\Psi$ represent different chemical elements, then the pair that corresponds to isotopic atoms is:\nA. ${}^{158}_{64}X$ and ${}^{158}_{65}X$.\nB. ${}^{158}_{64}X$ and ${}^{160}_{64}X$.\nC. ${}^{158}_{64}X$ and ${}^{159}_{65}X$.\nD. ${}^{158}_{64}X$ and ${}^{160}_{64}\\Psi$.",
+     "problem_el": "Ερώτηση 1 (πολλαπλής επιλογής).\n\nΑν τα $X$ και $\\Psi$ παριστάνουν διαφορετικά χημικά στοιχεία, τότε το ζεύγος που αντιστοιχεί σε ισότοπα άτομα είναι:\nΑ. ${}^{158}_{64}X$ και ${}^{158}_{65}X$.\nΒ. ${}^{158}_{64}X$ και ${}^{160}_{64}X$.\nΓ. ${}^{158}_{64}X$ και ${}^{159}_{65}X$.\nΔ. ${}^{158}_{64}X$ και ${}^{160}_{64}\\Psi$."
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Dissolving more sodium nitrate in a saturated solution",
+     "problem": "Question 2 (multiple choice).\n\nTo a saturated aqueous solution of $\\ce{NaNO3}$ we add a quantity of $\\ce{NaNO3}$, and in addition we can:\nI. Add water, keeping the temperature of the solution constant.\nII. Heat the solution.\nIII. Apply pressure on the surface of the solution, keeping its temperature constant.\nDissolution of a larger quantity of $\\ce{NaNO3}$ will be observed if the following is carried out:\nA. Only change I.\nB. Only change II.\nC. Changes I and II.\nD. Changes II and III.",
+     "problem_el": "Ερώτηση 2 (πολλαπλής επιλογής).\n\nΣε κορεσμένο υδατικό διάλυμα $\\ce{NaNO3}$, προσθέτουμε ποσότητα $\\ce{NaNO3}$ και επιπλέον μπορούμε να:\nI. Προσθέσουμε νερό διατηρώντας τη θερμοκρασία του διαλύματος σταθερή.\nII. Θερμάνουμε το διάλυμα.\nIII. Ασκήσουμε πίεση στην επιφάνεια του διαλύματος, διατηρώντας τη θερμοκρασία του σταθερή.\nΘα παρατηρηθεί διάλυση περισσότερης ποσότητας $\\ce{NaNO3}$ αν πραγματοποιηθεί:\nΑ. Μόνο η μεταβολή I.\nΒ. Μόνο η μεταβολή II.\nΓ. Οι μεταβολές I και II.\nΔ. Οι μεταβολές II και III."
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Bonds in the hydrogen peroxide molecule",
+     "problem": "Question 3 (multiple choice).\n\nThe atomic numbers of hydrogen and oxygen are 1 and 8 respectively. In the molecule of hydrogen peroxide:\nA. There is a double bond.\nB. All the bonds are non-polar.\nC. There are two polar covalent bonds.\nD. There are three polar covalent bonds.",
+     "problem_el": "Ερώτηση 3 (πολλαπλής επιλογής).\n\nΟι ατομικοί αριθμοί για το υδρογόνο και το οξυγόνο είναι 1 και 8 αντίστοιχα. Στο μόριο του υπεροξειδίου του υδρογόνου:\nΑ. Υπάρχει διπλός δεσμός.\nΒ. Όλοι οι δεσμοί είναι μη πολωμένοι.\nΓ. Υπάρχουν δύο πολωμένοι ομοιοπολικοί δεσμοί.\nΔ. Υπάρχουν τρεις πολωμένοι ομοιοπολικοί δεσμοί."
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "paper_label": "Round 2, Grade 10",
+     "title": "A molecule five times heavier than a carbon-12 atom",
+     "problem": "Question 4 (multiple choice).\n\nThe molecule of a chemical compound is 5 times heavier than the atom ${}^{12}_{6}\\mathrm{C}$. On this basis we conclude that:\nA. One molecule of the chemical compound has a mass of $30\\ \\mathrm{g}$.\nB. The relative molecular mass of the chemical compound is equal to 30.\nC. One molecule of the chemical compound has a mass of $60\\ \\mathrm{g}$.\nD. The relative molecular mass of the chemical compound is equal to 60.",
+     "problem_el": "Ερώτηση 4 (πολλαπλής επιλογής).\n\nΤο μόριο μιας χημικής ένωσης είναι 5 φορές βαρύτερο από το άτομο ${}^{12}_{6}\\mathrm{C}$. Με βάση αυτό συμπεραίνουμε ότι:\nΑ. Ένα μόριο της χημικής ένωσης έχει μάζα $30\\ \\mathrm{g}$.\nΒ. Η σχετική μοριακή μάζα της χημικής ένωσης είναι ίση με 30.\nΓ. Ένα μόριο της χημικής ένωσης έχει μάζα $60\\ \\mathrm{g}$.\nΔ. Η σχετική μοριακή μάζα της χημικής ένωσης είναι ίση με 60."
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Completing reaction equations; an element at the end of period 3",
+     "problem": "Problem 1.\n\nA. Complete the following chemical equations, after first replacing the names of the reactants with chemical symbols.\na. Aluminium(s) + Lead(II) nitrate(aq) $\\longrightarrow$\nb. Potassium(s) + Water($l$) $\\longrightarrow$\nc. Magnesium sulfite(s) + Hydrogen chloride(aq) $\\longrightarrow$\nd. Sulfuric acid(aq) + Iron(III) hydroxide(s) $\\longrightarrow$\ne. Sodium hydroxide(aq) + sulfur trioxide(g) $\\longrightarrow$\nB. The element X has M as its outermost shell and is the last element of its period in the Periodic Table.\na. Calculate the atomic number ($Z$) of the element X.\nb. Describe the way in which the chemical compound between the elements A and B, with atomic numbers $Z-1$ and $Z+2$ respectively, is formed (where $Z$ is the atomic number of the element X of question a). Write the chemical formula of the compound formed.\nc. Determine the oxidation number of the element A:\ni. In the molecule A$_2$.\nii. In the chemical compound NaAO$_3$.",
+     "problem_el": "Άσκηση 1.\n\nΑ. Να συμπληρώσετε τις παρακάτω χημικές εξισώσεις, αφού πρώτα αντικαταστήσετε τις ονομασίες των αντιδρώντων με χημικά σύμβολα.\nα. Αργίλιο(s) + Νιτρικός μόλυβδος (II)(aq) $\\longrightarrow$\nβ. Κάλιο(s) + Νερό($l$) $\\longrightarrow$\nγ. Θειώδες μαγνήσιο(s) + Υδροχλώριο(aq) $\\longrightarrow$\nδ. Θειικό οξύ(aq) + Υδροξείδιο του σιδήρου (III)(s) $\\longrightarrow$\nε. Υδροξείδιο του νατρίου(aq) + τριοξείδιο του θείου (g) $\\longrightarrow$\nΒ. Το στοιχείο Χ έχει εξωτερική στιβάδα την M και είναι το τελευταίο στοιχείο της περιόδου του στον Περιοδικό Πίνακα.\nα. Να υπολογίσετε τον ατομικό αριθμό ($Z$) του στοιχείου Χ.\nβ. Να περιγράψετε τον τρόπο σχηματισμού της χημικής ένωσης μεταξύ των στοιχείων Α και Β με ατομικούς αριθμούς $Z-1$ και $Z+2$, αντίστοιχα (όπου $Z$ ο ατομικός αριθμός του στοιχείου Χ του α ερωτήματος). Να γράψετε τον χημικό τύπο της ένωσης που προκύπτει.\nγ. Να προσδιορίσετε τον αριθμό οξείδωσης του στοιχείου Α:\ni. Στο μόριο Α$_2$.\nii. Στη χημική ένωση NaΑO$_3$."
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Ammonia sample; mixing ammonium nitrate and ammonium chloride solutions",
+     "problem": "Problem 2.\n\nA. A quantity of gaseous ammonia contains $2.4\\cdot 10^{24}$ molecules. Calculate:\na. The mass of the above quantity.\nb. The percentage (% w/w) content of hydrogen in ammonia.\nc. The volume (in L) of hydrogen sulfide (measured at STP) which contains the same number of hydrogen atoms as that contained in the above quantity of ammonia.\nB. The following aqueous solutions of $\\ce{NH4NO3}$ (at the same temperature) are given:\n• Solution Δ$_1$: concentration $4\\%$ w/v, density $1.1\\ \\mathrm{g/mL}$.\n• Solution Δ$_2$: concentration $10\\%$ w/w, density $1.2\\ \\mathrm{g/mL}$.\na. We mix $4\\ \\mathrm{L}$ of solution Δ$_1$ with $1\\ \\mathrm{L}$ of solution Δ$_2$. Calculate the concentration of the resulting solution.\nb. If solution Δ$_2$ is unsaturated, explain whether solution Δ$_1$ is saturated or unsaturated.\nc. In a certain volume of water we dissolve $107\\ \\mathrm{g}$ of $\\ce{NH4Cl}$ and then add water until a solution (Δ$_3$) of volume $2\\ \\mathrm{L}$ is formed. Calculate the volume of solution Δ$_3$ that must be added to $200\\ \\mathrm{mL}$ of solution Δ$_1$ so that in the final solution the concentration of $\\ce{NH4Cl}$ is twice that of $\\ce{NH4NO3}$.",
+     "problem_el": "Άσκηση 2.\n\nΑ. Ποσότητα αέριας αμμωνίας περιέχει $2{,}4\\cdot 10^{24}$ μόρια. Να υπολογίσετε:\nα. Τη μάζα της παραπάνω ποσότητας.\nβ. Την % w/w περιεκτικότητα της αμμωνίας σε υδρογόνο.\nγ. Τον όγκο (σε L) υδρόθειου (μετρημένο σε συνθήκες STP), ο οποίος περιέχει τον ίδιο αριθμό ατόμων υδρογόνου με αυτόν που περιέχεται στην παραπάνω ποσότητα της αμμωνίας.\nΒ. Δίνονται τα παρακάτω υδατικά διαλύματα $\\ce{NH4NO3}$ (της ίδιας θερμοκρασίας)\n• Διάλυμα Δ$_1$: περιεκτικότητας $4\\%$ w/v, πυκνότητας $1{,}1\\ \\mathrm{g/mL}$.\n• Διάλυμα Δ$_2$: περιεκτικότητας $10\\%$ w/w, πυκνότητας $1{,}2\\ \\mathrm{g/mL}$.\nα. Αναμειγνύουμε $4\\ \\mathrm{L}$ του διαλύματος Δ$_1$ με $1\\ \\mathrm{L}$ του διαλύματος Δ$_2$. Να υπολογίσετε τη συγκέντρωση του διαλύματος που προκύπτει.\nβ. Αν το διάλυμα Δ$_2$ είναι ακόρεστο να εξηγήσετε αν το διάλυμα Δ$_1$ είναι κορεσμένο ή ακόρεστο.\nγ. Σε ορισμένο όγκο νερού διαλύουμε $107\\ \\mathrm{g}$ $\\ce{NH4Cl}$ και στη συνέχεια προσθέτουμε νερό μέχρι να σχηματιστεί διάλυμα (Δ$_3$) όγκου $2\\ \\mathrm{L}$. Να υπολογίσετε τον όγκο του διαλύματος Δ$_3$ που πρέπει να προσθέσουμε σε $200\\ \\mathrm{mL}$ του διαλύματος Δ$_1$, ώστε στο τελικό διάλυμα που θα προκύψει η συγκέντρωση του $\\ce{NH4Cl}$ να είναι 2πλασια αυτής του $\\ce{NH4NO3}$."
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "paper_label": "Round 2, Grade 10",
+     "title": "Mixing sodium chloride solutions; two containers of gas mixtures",
+     "problem": "Problem 3.\n\nA. We have two aqueous solutions of $\\ce{NaCl}$:\n• Solution Δ$_1$, of volume $400\\ \\mathrm{mL}$ and concentration $1\\ \\mathrm{M}$, and\n• solution Δ$_2$, of volume $600\\ \\mathrm{mL}$ and concentration $2\\ \\mathrm{M}$.\na. What is the maximum volume of an $\\ce{NaCl}$ solution of concentration $1.2\\ \\mathrm{M}$ that can be prepared by mixing suitable volumes of solutions Δ$_1$ and Δ$_2$?\nb. By mixing Δ$_1$ and Δ$_2$ we want to obtain a solution Δ$_4$ of volume $800\\ \\mathrm{mL}$. What is the maximum concentration that the final solution Δ$_4$ can have?\nB. Two containers hold the following gas mixtures:\n• Container A: $3\\alpha\\ \\mathrm{mol}$ $\\ce{SO2}$ and $5\\alpha\\ \\mathrm{mol}$ $\\ce{SO3}$,\n• Container B: $10\\alpha\\ \\mathrm{mol}$ $\\ce{NO2}$ and $2\\alpha\\ \\mathrm{mol}$ $\\mathrm{NO}_{y}$.\nThe total mass of oxygen in the two containers is $344\\ \\mathrm{g}$, while the total volume of the two mixtures is $224\\ \\mathrm{L}$ (at S.T.P.).\n(The substances in each container do not undergo any chemical change.)\na. Calculate the mass of each mixture.\nb. If the volume of container A is $41\\ \\mathrm{L}$, calculate the mass of the inert gas $\\ce{He}$ that must be introduced into the container so that at a temperature of $227\\ {}^\\circ\\mathrm{C}$ the total pressure exerted in this container is equal to $10\\ \\mathrm{atm}$.",
+     "problem_el": "Άσκηση 3.\n\nΑ. Διαθέτουμε δυο υδατικά διαλύματα $\\ce{NaCl}$:\n• Διάλυμα Δ$_1$, όγκου $400\\ \\mathrm{mL}$ συγκέντρωσης $1\\ \\mathrm{M}$ και\n• διάλυμα Δ$_2$, όγκου $600\\ \\mathrm{mL}$ συγκέντρωσης $2\\ \\mathrm{M}$.\nα. Ποιος ειναι ο μέγιστος όγκος ενός διαλύματος $\\ce{NaCl}$ συγκέντρωση $1{,}2\\ \\mathrm{M}$, που μπορεί να παρασκευαστεί με ανάμιξη κατάλληλων όγκων των διαλυμάτων Δ$_1$ και Δ$_2$.\nβ. Από ανάμιξη των Δ$_1$ και Δ$_2$ θέλουμε να προκύψει διάλυμα Δ$_4$ με όγκο $800\\ \\mathrm{mL}$. Ποια η μέγιστη συγκέντρωση που μπορεί να έχει το τελικό διάλυμα Δ$_4$;\nΒ. Σε δύο δοχεία περιέχονται τα παρακάτω αέρια μίγματα:\n• Δοχείο Α: $3\\alpha\\ \\mathrm{mol}$ $\\ce{SO2}$ και $5\\alpha\\ \\mathrm{mol}$ $\\ce{SO3}$,\n• Δοχείο Β: $10\\alpha\\ \\mathrm{mol}$ $\\ce{NO2}$ και $2\\alpha\\ \\mathrm{mol}$ $\\mathrm{NO}_{y}$.\nΗ ολική μάζα του οξυγόνου στα δύο δοχεία είναι ίση με $344\\ \\mathrm{g}$, ενώ ο συνολικός όγκος των δύο μιγμάτων είναι $224\\ \\mathrm{L}$ (σε συνθήκες S.T.P).\n(Οι ουσίες σε κάθε δοχείο δεν υφίστανται καμία χημική μεταβολή).\nα. Να υπολογιστεί η μάζα του κάθε μίγματος.\nβ. Αν ο όγκος του δοχείου Α είναι $41\\ \\mathrm{L}$, να υπολογίσετε τη μάζα του αδρανούς αερίου $\\ce{He}$ που πρέπει να εισάγουμε στο δοχείο, έτσι ώστε σε θερμοκρασία $227\\ {}^\\circ\\mathrm{C}$ η ολική πίεση που θα ασκείται στο δοχείο αυτό, να είναι ίση με $10\\ \\mathrm{atm}$."
+    },
+    {
+     "day": 5,
+     "number": 1,
+     "paper_label": "Round 2, Grade 11",
+     "title": "Distinguishing four pairs of organic compounds by simple tests",
+     "problem": "Question 1.\n\nDistinguishing an organic compound from others means looking for one or more chemical or physical properties that differentiate it from the rest. This property must be associated with some direct visual result (e.g. decolourisation of a solution, formation of a precipitate, evolution of a gas) that is obtained experimentally after carrying out a test reaction.\nPairs of organic compounds are given below. The physical state of the compounds at $25\\ {}^\\circ\\mathrm{C}$ is given in parentheses.\nI. Butane and 1-butyne (gases).\nII. 2-Propanol and propanal (liquids).\nIII. Decanoic acid and benzoic acid (solids).\nIV. Propanoic acid and methyl ethanoate (liquids).\na. To distinguish the compounds in the above pairs,\n• state one reagent, different in each case\n• state the corresponding visual result that is observed.\nb. Write the chemical equation of the reaction used to distinguish the pair (I).",
+     "problem_el": "Ερώτηση 1.\n\nΔιάκριση μιας οργανικής ένωσης από άλλες, ονομάζεται η αναζήτηση μίας ή περισσότερων χημικών ή φυσικών ιδιοτήτων που τη διαφοροποιούν από τις υπόλοιπες. Αυτή η ιδιότητα πρέπει να συνδέεται με κάποιο άμεσο οπτικό αποτέλεσμα (π.χ. αποχρωματισμός διαλύματος, σχηματισμός ιζήματος, έκλυση αερίου) που προκύπτει πειραματικά μετά την πραγματοποίηση μιας δοκιμής – αντίδρασης.\nΠαρακάτω δίνονται ζεύγη οργανικών ενώσεων. Σε παρένθεση αναφέρεται η φυσική κατάσταση των ενώσεων στους $25\\ {}^\\circ\\mathrm{C}$.\nI. Βουτάνιο και 1-βουτίνιο (αέρια).\nII. 2-προπανόλη και προπανάλη (υγρά).\nIII. Δεκανικό οξύ και βενζοϊκό οξύ (στερεά).\nIV. Προπανικό οξύ και αιθανικός μεθυλεστέρας (υγρά).\nα. Για τη διάκριση των ενώσεων στα παραπάνω ζεύγη,\n• να δηλώσετε ένα αντιδραστήριο, διαφορετικό σε κάθε περίπτωση\n• να αναφέρετε το αντίστοιχο οπτικό αποτέλεσμα που παρατηρείται.\nβ. Να γράψετε τη χημική εξίσωση της αντίδρασης για τη διάκριση του ζεύγους (I)."
+    },
+    {
+     "day": 5,
+     "number": 2,
+     "paper_label": "Round 2, Grade 11",
+     "title": "True or false: catalytic converter, breathalyser, oxidation of alcohols, lactic acid",
+     "problem": "Question 2.\n\nCharacterise statements a–d as true or false and justify your answers. Whenever you consider it necessary, include chemical equations in your justifications.\na. The reaction described by the following chemical equation cannot take place in the catalytic converters of cars:\n$$\\ce{C7H16(g) + 11O2(g) ->[Pd] 7CO2(g) + 8H2O(g)}$$\nb. In the past, an acidified potassium dichromate solution was used in the breathalyser test; it oxidised ethanol and was thereby decolourised.\nc. If the oxidation of an alcohol produces an organic compound with a greater mass than the alcohol that was oxidised, then the alcohol is primary.\nd. In the reaction of lactic acid (2-hydroxypropanoic acid) with a suitable organic compound and under suitable conditions, it acts as an alcohol and not as an acid.",
+     "problem_el": "Ερώτηση 2.\n\nΝα χαρακτηρίσετε τις προτάσεις α–δ ως σωστές ή λανθασμένες και να αιτιολογήσετε τις απαντήσεις σας. Όποτε κρίνετε απαραίτητο, να συμπεριλάβετε χημικές εξισώσεις στις αιτιολογήσεις.\nα. Δεν μπορεί να πραγματοποιηθεί στους καταλυτικούς μετατροπείς των αυτοκινήτων η αντίδραση που περιγράφεται με τη χημική εξίσωση:\n$$\\ce{C7H16(g) + 11O2(g) ->[Pd] 7CO2(g) + 8H2O(g)}$$\nβ. Παλαιότερα στο αλκοτέστ είχε χρησιμοποιηθεί όξινο διάλυμα διχρωμικού καλίου, το οποίο προκαλούσε οξείδωση στην αιθανόλη και έτσι αποχρωματίζονταν.\nγ. Αν κατά την οξείδωση μιας αλκοόλης παράγεται οργανική ένωση με μεγαλύτερη μάζα από την αλκοόλη που οξειδώθηκε, τότε η αλκοόλη είναι πρωτοταγής.\nδ. Κατά την αντίδραση του γαλακτικού οξέος (2-υδροξυπροπανικό οξύ) με κατάλληλη οργανική ένωση και σε κατάλληλες συνθήκες, αυτό δρα ως αλκοόλη και όχι ως οξύ."
+    },
+    {
+     "day": 5,
+     "number": 3,
+     "paper_label": "Round 2, Grade 11",
+     "title": "Partly oxidised sodium in water; the gas evolved and 2-oxopropanoic acid",
+     "problem": "Problem 1.\n\nA small piece of sodium was left in the air, so that part of it was converted into sodium oxide. The piece was then weighed, giving the value $2.46\\ \\mathrm{g}$. Next, the piece was added to a sufficient amount of water, whereupon $0.896\\ \\mathrm{L}$ of gas X (measured at STP) was released. Finally a solution (Δ) was obtained.\nA. Calculate:\na. The initial mass of the piece of sodium that was used.\nb. The percentage (%) of the sodium that was oxidised.\nc. The volume of a sulfuric acid solution of concentration $0.5\\ \\mathrm{M}$ required to neutralise solution Δ.\nB. A quantity of $2\\ \\mathrm{g}$ of the above gas X is passed into a closed vessel containing $44\\ \\mathrm{g}$ of 2-oxopropanoic acid, whereupon a reaction takes place under suitable conditions. Calculate the mass of the organic product formed.",
+     "problem_el": "Άσκηση 1.\n\nΈνα μικρό κομμάτι νάτριο αφέθηκε στον αέρα, οπότε ένα μέρος του μετατράπηκε σε οξείδιο του νατρίου. Ακολούθησε ζύγιση του κομματιού, από την οποία προέκυψε η τιμή $2{,}46\\ \\mathrm{g}$. Στη συνέχεια, το κομμάτι προστέθηκε σε αρκετή ποσότητα νερού, οπότε ελευθερώθηκαν $0{,}896\\ \\mathrm{L}$ αερίου Χ, (μετρημένα σε συνθήκες S.T.P). Τελικά προέκυψε διάλυμα (Δ).\nΑ. Να υπολογίσετε:\nα. Την αρχική μάζα του κομματιού νατρίου που χρησιμοποιήσαμε.\nβ. Το ποσοστό (%) του νατρίου που οξειδώθηκε.\nγ. Τον όγκο ενός διαλύματος θειϊκού οξέος συγκέντρωσης $0{,}5\\ \\mathrm{M}$ που απαιτείται για την εξουδετέρωση του διαλύματος Δ.\nΒ. Ποσότητα $2\\ \\mathrm{g}$ από το παραπάνω αερίο Χ, διαβιβάζεται σε κλειστό δοχείο το οποίο περιέχει $44\\ \\mathrm{g}$ 2-κετοπροπανικού οξέος, οπότε πραγματοποιείται αντίδραση σε κατάλληλες συνθήκες. Να υπολογίσετε τη μάζα του οργανικού προϊόντος που σχηματίζεται."
+    },
+    {
+     "day": 5,
+     "number": 4,
+     "paper_label": "Round 2, Grade 11",
+     "title": "Two isomeric alcohols; air-to-fuel ratio of a toluene–isooctane mixture",
+     "problem": "Problem 2.\n\nA. We have two isomeric saturated monohydric alcohols X and Ψ. Of the two alcohols, only X reacts with acidified $\\ce{KMnO4}$ solution. The carbonyl compound produced in this reaction is known not to react with Fehling's reagent.\n$14.8\\ \\mathrm{g}$ of an equimolar mixture of the above alcohols are burned completely. The combustion gases are cooled and then passed into an excess of saturated calcium hydroxide solution. Finally $80\\ \\mathrm{g}$ of a white precipitate are formed.\nDetermine the structural formulas of the compounds X and Ψ.\nB. An important factor affecting the composition of the exhaust gases in the internal combustion engines of vehicles is the air-to-fuel ratio (A/F), which is defined by the relation:\n$$\\frac{A}{F}=\\frac{\\text{mass of air consumed}}{\\text{mass of fuel consumed}}$$\nThe stoichiometric ratio $(A/F)_{\\text{st.}}$ for a mixture containing toluene (methylbenzene, $\\ce{C6H5CH3}$) and isooctane (2,2,4-trimethylpentane) was calculated to be $14.6$. Calculate the mass of toluene contained in $25\\ \\mathrm{g}$ of the above mixture.\nAssume that the combustion of the mixture is complete and that the composition of atmospheric air is $80\\%$ v/v $\\ce{N2}$ and $20\\%$ v/v $\\ce{O2}$.",
+     "problem_el": "Άσκηση 2.\n\nΑ. Διαθέτουμε δύο ισομερείς κορεσμένες μονοσθενείς αλκοόλες Χ και Ψ. Από τις δύο αλκοόλες, μόνο η Χ αντιδρά με το όξινο διάλυμα $\\ce{KMnO4}$. Για την καρβονυλική ένωση που προκύπτει από την παραπάνω αντίδραση, είναι γνωστό ότι δεν αντιδρά με το αντιδραστήριο Fehling.\n$14{,}8\\ \\mathrm{g}$ ισομοριακού μείγματος των παραπάνω αλκοολών καίγονται πλήρως. Τα καυσαέρια ψύχονται και στη συνέχεια διαβιβάζονται σε περίσσεια κορεσμένου διαλύματος υδροξειδίου του ασβεστίου. Τελικά σχηματίζονται $80\\ \\mathrm{g}$ λευκού ιζήματος.\nΝα προσδιορίσετε τους συντακτικούς τύπους των ενώσεων Χ και Ψ.\nΒ. Ένας σημαντικός παράγοντας που επηρεάζει τη σύσταση των καυσαερίων στους κινητήρες εσωτερικής καύσης των οχημάτων, είναι ο λόγος αέρα προς καύσιμο (A/F) ο οποίος ορίζεται μέσω της σχέσης:\n$$\\frac{A}{F}=\\frac{\\text{μάζα αέρα που καταναλώνεται}}{\\text{μάζα καυσίμου που καταναλώνεται}}$$\nΟ στοιχειομετρικός λόγος $(A/F)_{\\text{στ.}}$ για ένα μείγμα που περιέχει τολουόλιο (μεθυλοβενζόλιο $\\ce{C6H5CH3}$) και ισοοκτάνιο (2,2,4-τριμεθυλοπεντάνιο) υπολογίστηκε ίσος προς $14{,}6$. Να υπολογίσετε τη μάζα του τολουολίου που περιέχεται σε $25\\ \\mathrm{g}$ του παραπάνω μείγματος.\nΝα θεωρήσετε ότι η καύση του μείγματος είναι πλήρης και ότι η σύσταση του ατμοσφαιρικού αέρα είναι $80\\%$ v/v $\\ce{N2}$ και $20\\%$ v/v $\\ce{O2}$."
+    },
+    {
+     "day": 5,
+     "number": 5,
+     "paper_label": "Round 2, Grade 11",
+     "title": "An omega-3 polyunsaturated fatty acid",
+     "problem": "Problem 3.\n\nFatty acids are classified as saturated, if they have no double bonds in the aliphatic chain, and unsaturated. If the latter have one double bond they are called monounsaturated fatty acids, and if they have two or more double bonds they are called polyunsaturated fatty acids.\n\nA widely used way of classifying polyunsaturated fatty acids is based on the position of the first double bond, counting from the carbon atom farthest from the carboxyl group. This carbon is called \"omega\" ($\\omega$-carbon). Thus, unsaturated fatty acids whose first double bond is at the 6th carbon atom, counting from the omega carbon (i.e. the last carbon atom in the normal numbering), are characterised as $\\omega$-6.\nFor example, the following polyunsaturated fatty acid is an $\\omega$-6 fatty acid:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-5-5-fig1.png\n\n$60.4\\ \\mathrm{g}$ of an unsaturated fatty acid (Π) require $22.4\\ \\mathrm{L}$ of $\\ce{H2}$ (at STP) for complete hydrogenation under suitable conditions.\nThe same quantity of the unsaturated fatty acid (Π) requires $1\\ \\mathrm{L}$ of $\\ce{NaOH}$ solution of concentration $0.2\\ \\mathrm{M}$ for complete neutralisation.\nThe following information is given for the polyunsaturated fatty acid (Π):\n• it belongs to the $\\omega$-3 fatty acids\n• between each double bond and the next there is a $\\ce{-CH2-}$ group.\na. Determine the number of double bonds ($\\ce{C=C}$) in its molecule.\nb. Write its molecular formula.\nc. Write its structural formula.\nd. State its name.",
+     "problem_el": "Άσκηση 3.\n\nΤα λιπαρά οξέα διακρίνονται σε κορεσμένα αν δεν διαθέτουν διπλούς δεσμούς στην αλειφατική αλυσίδα και σε ακόρεστα. Αν τα τελευταία διαθέτουν ένα διπλό δεσμό ονομάζονται μονοακόρεστα λιπαρά οξέα και αν διαθέτουν δύο ή περισσότερους διπλούς δεσμούς ονομάζονται πολυακόρεστα λιπαρά οξέα.\n\nΈνας ευρύτατα χρησιμοποιούμενος τρόπος διάκρισης των πολυακόρεστων λιπαρών οξέων βασίζεται στη θέση του πρώτου διπλού δεσμού, ξεκινώντας από το πιο απόμακρο άτομο άνθρακα σε σχέση με την καρβοξυλική ομάδα. Ο άνθρακας αυτός ονομάζεται \"ωμέγα\" ($\\omega$-άνθρακας). Έτσι ως $\\omega$-6 χαρακτηρίζονται τα ακόρεστα λιπαρά οξέα των οποίων ο πρώτος διπλός δεσμός βρίσκεται στο 6ο άτομο άνθρακα, ξεκινώντας την αρίθμηση από τον ωμέγα-άνθρακα (δηλ. το τελευταίο άτομο άνθρακα με βάση την κανονική αρίθμηση).\nΓια παράδειγμα το παρακάτω πολυακόρεστο λιπαρό οξύ είναι ένα $\\omega$-6 λιπαρό οξύ:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-5-5-fig1.png\n\n$60{,}4\\ \\mathrm{g}$ ενός ακόρεστου λιπαρού οξέος (Π) απαιτεί για πλήρη υδρογόνωση $22{,}4\\ \\mathrm{L}$ $\\ce{H2}$ (σε συνθήκες S.T.P) σε κατάλληλες συνθήκες.\nΗ ίδια ποσότητα του ακόρεστου λιπαρού οξέος (Π) απαιτεί για πλήρη εξουδετέρωση $1\\ \\mathrm{L}$ διαλύματος $\\ce{NaOH}$ συγκέντρωσης $0{,}2\\ \\mathrm{M}$.\nΓια το πολυακόρεστο λιπαρό οξύ (Π) δίνονται οι πληροφορίες:\n• ανήκει στα $\\omega$-3 λιπαρά οξέα\n• μεταξύ κάθε διπλού δεσμού και του επόμενου, μεσολαβεί η ομάδα $\\ce{-CH2-}$.\nα. Να προσδιορίσετε το πλήθος των διπλών δεσμών ($\\ce{C=C}$) στο μόριό του.\nβ. Να γράψετε τον μοριακό του τύπο.\nγ. Να γράψετε τον συντακτικό του τύπο.\nδ. Να αναφέρετε την ονομασία του."
+    },
+    {
+     "day": 6,
+     "number": 1,
+     "paper_label": "Round 2, Grade 12",
+     "title": "What is meant by an electron cloud?",
+     "problem": "Question 1 (multiple choice).\n\nBy the term \"electron cloud\" we mean:\nA. A space in which electrons can be found.\nB. A number of electrons moving in a space.\nC. The set of points of a space through which an electron passes in a certain time.\nD. The space occupied by an atom.",
+     "problem_el": "Ερώτηση 1 (πολλαπλής επιλογής).\n\nΜε τον όρο «ηλεκτρονιακό νέφος» εννοούμε:\nΑ. Ένα χώρο στον οποίο μπορεί να βρεθούν ηλεκτρόνια.\nΒ. Ένα πλήθος ηλεκτρονίων που κινούνται σε ένα χώρο.\nΓ. Το σύνολο των σημείων ενός χώρου από τα οποία περνάει ένα ηλεκτρόνιο σε ορισμένο χρόνο.\nΔ. Το χώρο που καταλαμβάνει ένα άτομο."
+    },
+    {
+     "day": 6,
+     "number": 2,
+     "paper_label": "Round 2, Grade 12",
+     "title": "Ordering acid strength of some organic compounds and water",
+     "problem": "Question 2 (multiple choice).\n\nThe acid strength of the following compounds (at the same temperature) decreases in the order:\nA. $\\ce{ClCH2COOH}$, $\\ce{CH3COOH}$, $\\ce{C6H5OH}$, $\\ce{H2O}$, $\\ce{CH3CH2OH}$.\nB. $\\ce{ClCH2COOH}$, $\\ce{C6H5OH}$, $\\ce{CH3COOH}$, $\\ce{H2O}$, $\\ce{CH3CH2OH}$.\nC. $\\ce{CH3CH2OH}$, $\\ce{H2O}$, $\\ce{C6H5OH}$, $\\ce{ClCH2COOH}$, $\\ce{CH3COOH}$.\nD. $\\ce{H2O}$, $\\ce{C6H5OH}$, $\\ce{CH3COOH}$, $\\ce{CH3CH2OH}$, $\\ce{ClCH2COOH}$.",
+     "problem_el": "Ερώτηση 2 (πολλαπλής επιλογής).\n\nΗ όξινη ισχύς των παρακάτω ενώσεων (στην ίδια θερμοκρασία) ελαττώνεται κατά τη σειρά:\nΑ. $\\ce{ClCH2COOH}$, $\\ce{CH3COOH}$, $\\ce{C6H5OH}$, $\\ce{H2O}$, $\\ce{CH3CH2OH}$.\nΒ. $\\ce{ClCH2COOH}$, $\\ce{C6H5OH}$, $\\ce{CH3COOH}$, $\\ce{H2O}$, $\\ce{CH3CH2OH}$.\nΓ. $\\ce{CH3CH2OH}$, $\\ce{H2O}$, $\\ce{C6H5OH}$, $\\ce{ClCH2COOH}$, $\\ce{CH3COOH}$.\nΔ. $\\ce{H2O}$, $\\ce{C6H5OH}$, $\\ce{CH3COOH}$, $\\ce{CH3CH2OH}$, $\\ce{ClCH2COOH}$."
+    },
+    {
+     "day": 6,
+     "number": 3,
+     "paper_label": "Round 2, Grade 12",
+     "title": "Reaction quotient after disturbing a gas equilibrium",
+     "problem": "Question 3 (multiple choice).\n\nIn a closed vessel of constant volume the following equilibrium has been established:\nA(g) $\\rightleftharpoons$ 2B(g).\nThe diagram below gives the concentrations of the gases contained in the vessel as a function of time.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-3-fig1.png\nKeeping the temperature constant, at time $t_1$ we disturb the equilibrium.\nFor the values of the reaction quotient ($Q_\\mathrm{C}$) at the times $t_1$ and $t_2$ it holds that:\nA. $Q_\\mathrm{C}(t_1) > Q_\\mathrm{C}(t_2)$.\nB. $Q_\\mathrm{C}(t_1) = Q_\\mathrm{C}(t_2)$.\nC. $Q_\\mathrm{C}(t_1) < Q_\\mathrm{C}(t_2)$.\nD. They cannot be compared.",
+     "problem_el": "Ερώτηση 3 (πολλαπλής επιλογής).\n\nΣε κλειστό δοχείο σταθερού όγκου έχει αποκατασταθεί η ισορροπία:\nΑ(g) $\\rightleftharpoons$ 2Β(g).\nΣτο παρακάτω διάγραμμα δίνονται οι συγκεντρώσεις των αερίων που περιέχονται στο δοχείο σε συνάρτηση με τον χρόνο.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-3-fig1.png\nΜε σταθερή τη θερμοκρασία, τη χρονική στιγμή $t_1$ διαταράσσουμε την ισορροπία.\nΓια τις τιμές του πηλίκου αντίδρασης ($Q_\\mathrm{C}$) στις στιγμές $t_1$ και $t_2$ ισχύει ότι:\nΑ. $Q_\\mathrm{C}(t_1) > Q_\\mathrm{C}(t_2)$.\nΒ. $Q_\\mathrm{C}(t_1) = Q_\\mathrm{C}(t_2)$.\nΓ. $Q_\\mathrm{C}(t_1) < Q_\\mathrm{C}(t_2)$.\nΔ. Δεν μπορούν να συγκριθούν."
+    },
+    {
+     "day": 6,
+     "number": 4,
+     "paper_label": "Round 2, Grade 12",
+     "title": "Rate law from initial rates and activation energy from an Arrhenius plot",
+     "problem": "Problem 1.\n\nFor the reaction A(aq) + B(aq) $\\longrightarrow$ Γ(aq) + Δ(aq) the following experimental data were obtained at $\\theta\\ {}^\\circ\\mathrm{C}$.\n\n$$\\begin{array}{|c|c|c|c|}\\hline & \\textbf{Initial concentrations (M)} & & \\textbf{Initial rate (M/s)} \\\\ \\hline \\textbf{Experiment} & [\\mathrm{A}]_\\mathrm{o} & [\\mathrm{B}]_\\mathrm{o} & \\upsilon_\\mathrm{o} \\\\ \\hline \\textbf{1st} & 0.24 & 0.10 & 72\\cdot 10^{-7} \\\\ \\hline \\textbf{2nd} & 0.12 & 0.10 & 36\\cdot 10^{-7} \\\\ \\hline \\textbf{3rd} & 0.12 & 0.15 & 54\\cdot 10^{-7} \\\\ \\hline \\end{array}$$\n\na. Determine the rate constant ($k$) for the reaction at $\\theta\\ {}^\\circ\\mathrm{C}$.\nb. We carry out a 4th experiment by mixing $100\\ \\mathrm{mL}$ of a solution of substance A of concentration $0.1\\ \\mathrm{M}$ with $100\\ \\mathrm{mL}$ of a solution of substance B of concentration $0.1\\ \\mathrm{M}$, whereupon the above reaction takes place at $25\\ {}^\\circ\\mathrm{C}$. For these data, calculate the initial rate of the reaction.\nc. The rate constant of the above reaction is given by the relation:\n$$\\ln k = \\text{constant} - \\frac{E_\\mathrm{a}}{R}\\left(\\frac{1}{T}\\right)$$\nwhere $E_\\mathrm{a}$ is the activation energy ($R = 8.314\\ \\mathrm{J/K\\cdot mol}$).\nFrom the graph of the value of $\\ln k$ as a function of the reciprocal of the absolute temperature $1/T$, a straight line is obtained, as shown in the figure below:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-4-fig1.png\nUsing the above information and the numerical data of the diagram, calculate the value of the activation energy of the reaction in $\\mathrm{kJ/mol}$.",
+     "problem_el": "Άσκηση 1.\n\nΓια την αντίδραση Α(aq) + Β(aq) $\\longrightarrow$ Γ(aq) + Δ(aq) προέκυψαν τα παρακάτω πειραματικά δεδομένα στους $\\theta\\ {}^\\circ\\mathrm{C}$.\n\n$$\\begin{array}{|c|c|c|c|}\\hline & \\textbf{Αρχικές συγκεντρώσεις (M)} & & \\textbf{Αρχική ταχύτητα (M/s)} \\\\ \\hline \\textbf{Πείραμα} & [\\mathrm{A}]_\\mathrm{o} & [\\mathrm{B}]_\\mathrm{o} & \\upsilon_\\mathrm{o} \\\\ \\hline \\textbf{1ο} & 0{,}24 & 0{,}10 & 72\\cdot 10^{-7} \\\\ \\hline \\textbf{2ο} & 0{,}12 & 0{,}10 & 36\\cdot 10^{-7} \\\\ \\hline \\textbf{3ο} & 0{,}12 & 0{,}15 & 54\\cdot 10^{-7} \\\\ \\hline \\end{array}$$\n\nα. Να προσδιορίσετε τη σταθερά ταχύτητας ($k$) για την αντίδραση στους $\\theta\\ {}^\\circ\\mathrm{C}$.\nβ. Πραγματοποιούμε 4ο πείραμα αναμειγνύοντας $100\\ \\mathrm{mL}$ διαλύματος της ουσίας Α συγκέντρωσης $0{,}1\\ \\mathrm{M}$, με $100\\ \\mathrm{mL}$ διαλύματος της ουσίας Β συγκέντρωσης $0{,}1\\ \\mathrm{M}$, οπότε στους $25\\ {}^\\circ\\mathrm{C}$ πραγματοποιείται η παραπάνω αντίδραση. Για τα δεδομένα αυτά, να υπολογίσετε την αρχική ταχύτητα της αντίδρασης.\nγ. Η σταθερά ταχύτητας της παραπάνω αντίδρασης δίνεται από την σχέση:\n$$\\ln k = \\text{σταθερά} - \\frac{E_\\mathrm{a}}{R}\\left(\\frac{1}{T}\\right)$$\nόπου $E_\\mathrm{a}$ η ενέργεια ενεργοποίησης ($R = 8{,}314\\ \\mathrm{J/K\\cdot mol}$).\nΑπό την γραφική παράσταση της τιμής $\\ln k$ σε συνάρτηση του αντιστρόφου της απόλυτης θερμοκρασίας $1/T$, προκύπτει ευθεία γραμμή, όπως φαίνεται στο παρακάτω σχήμα:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-4-fig1.png\nΑξιοποιώντας τις παραπάνω πληροφορίες και τα αριθμητικά δεδομένα του διαγράμματος, να υπολογίσετε την τιμή της ενέργειας ενεργοποίησης της αντίδρασης σε $\\mathrm{kJ/mol}$."
+    },
+    {
+     "day": 6,
+     "number": 5,
+     "paper_label": "Round 2, Grade 12",
+     "title": "Iron content of haematite by dichromate titration; an ammonia buffer with an indicator",
+     "problem": "Problem 2.\n\nA. One of the important iron minerals is haematite ($\\ce{Fe2O3}$). A sample of haematite ore of mass $145.8\\ \\mathrm{g}$ is subjected to the following process:\n• the sample is added to an excess of $\\ce{HCl}$ solution\n• next, $\\ce{Zn}$ is added to the above solution, whereupon the whole quantity of $\\ce{Fe^{3+}}$ ions is reduced according to the equation:\n$$\\ce{Zn(s) + 2Fe^{3+}(aq) -> Zn^{2+}(aq) + 2Fe^{2+}(aq)}$$\n• The solution formed (solution Δ1) is transferred to a volumetric flask and then diluted as shown in the figure below. Finally, solution Δ2 is obtained.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-5-fig1.png\n[Figure labels: «φιάλη 250 mL» = 250 mL flask; (Δ1), (Δ2) = solutions Δ1, Δ2.]\nFor the complete oxidation of the whole quantity of $\\ce{Fe^{2+}}$ ions contained in $25\\ \\mathrm{mL}$ of solution Δ2, $30\\ \\mathrm{mL}$ of $0.6\\ \\mathrm{M}$ $\\ce{K2Cr2O7}$ are required, in acidic medium. The reaction that takes place is described by the unbalanced equation:\n$$\\ce{Fe^{2+}(aq) + Cr2O7^{2-}(aq) + H+(aq) -> Fe^{3+}(aq) + Cr^{3+}(aq) + H2O(l)}$$\na. Balance the above chemical equation.\nb. Calculate the % w/w content of the haematite ore in pure $\\ce{Fe2O3}$.\nB. A buffer solution contains $1\\ \\mathrm{M}$ $\\ce{NH3}$ and $0.1\\ \\mathrm{M}$ $\\ce{NH4Cl}$ (solution A). To the above solution we add a few drops of the indicator HΔ. The resulting solution (B) has $\\mathrm{pH} = 10$, and the ratio of the concentrations of the two conjugate forms of the indicator in this solution is equal to 1.\na. Calculate the values of the ionisation constants of $\\ce{NH3}$ and of the indicator HΔ, and determine the colour that solution (A) acquires.\nb. Calculate the limiting amount of gaseous $\\ce{HCl}$ or of solid $\\ce{NaOH}$ that must be added to another $100\\ \\mathrm{mL}$ of solution (B), without its volume changing, so that it acquires a permanent red colour.\nGiven: the acidic form of the indicator is red, while the basic form is yellow; $K_\\mathrm{w} = 10^{-14}$ ($25\\ {}^\\circ\\mathrm{C}$); all solutions are at $25\\ {}^\\circ\\mathrm{C}$; and the data of the problem allow the usual approximations.",
+     "problem_el": "Άσκηση 2.\n\nΑ. Ένα από τα σημαντικά ορυκτά του σιδήρου είναι ο αιματίτης ($\\ce{Fe2O3}$). Δείγμα ορυκτού αιματίτη μάζας $145{,}8\\ \\mathrm{g}$, υπόκειται στην παρακάτω διεργασία:\n• το δείγμα προστίθεται σε περίσσεια διαλύματος $\\ce{HCl}$\n• συνέχεια στο παραπάνω διάλυμα προστίθεται $\\ce{Zn}$, οπότε όλη η ποσότητα των ιόντων $\\ce{Fe^{3+}}$ ανάγεται σύμφωνα με την εξίσωση:\n$$\\ce{Zn(s) + 2Fe^{3+}(aq) -> Zn^{2+}(aq) + 2Fe^{2+}(aq)}$$\n• Το διάλυμα που σχηματίζεται (διάλυμα Δ1) μεταφέρεται σε ογκομετρική φιάλη και στη συνέχεια αραιώνεται όπως φαίνεται στο παρακάτω σχήμα. Τελικά προκύπτει διάλυμα Δ2.\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-5-fig1.png\nΓια την πλήρη οξείδωση όλης της ποσότητας των ιόντων $\\ce{Fe^{2+}}$ που περιέχεται σε $25\\ \\mathrm{mL}$ του διαλύματος Δ2, απαιτούνται $30\\ \\mathrm{mL}$ $\\ce{K2Cr2O7}$ $0{,}6\\ \\mathrm{M}$, σε όξινο περιβάλλον. Η αντίδραση που πραγματοποιείται, περιγράφεται με τη μη ισοσταθμισμένη εξίσωση:\n$$\\ce{Fe^{2+}(aq) + Cr2O7^{2-}(aq) + H+(aq) -> Fe^{3+}(aq) + Cr^{3+}(aq) + H2O(l)}$$\nα. Να ισοσταθμίσετε την παραπάνω χημική εξίσωση.\nβ. Να υπολογίσετε την % w/w περιεκτικότητα του ορυκτού αιματίτη σε καθαρό $\\ce{Fe2O3}$.\nΒ. Ρυθμιστικό διάλυμα περιέχει $\\ce{NH3}$ $1\\ \\mathrm{M}$ και $\\ce{NH4Cl}$ $0{,}1\\ \\mathrm{M}$ (διάλυμα Α). Στο παραπάνω διάλυμα προσθέτουμε μερικές σταγόνες από τον δείκτη ΗΔ. Το διάλυμα (Β) που προκύπτει έχει $\\mathrm{pH} = 10$ και ο λόγος των συγκεντρώσεων των δύο συζυγών μορφών του δείκτη στο διάλυμα αυτό έχει τιμή ίση με 1.\nα. Να υπολογίσετε τις τιμές των σταθερών ιοντισμού της $\\ce{NH3}$ του δείκτη ΗΔ και να προσδιορίσετε το χρώμα που αποκτά το διάλυμα (Α).\nβ. Να υπολογίσετε την οριακή ποσότητα αερίου $\\ce{HCl}$ ή στερεού $\\ce{NaOH}$ που πρέπει να προσθέσουμε σε άλλα $100\\ \\mathrm{mL}$ του διαλύματος (Β), χωρίς να μεταβληθεί ο όγκος του, ώστε να αποκτήσει σταθερό κόκκινο χρώμα.\nΔίνονται ότι η όξινη μορφή του δείκτη έχει κόκκινο χρώμα, ενώ η βασική μορφή έχει κίτρινο χρώμα, η $K_\\mathrm{w} = 10^{-14}$ ($25\\ {}^\\circ\\mathrm{C}$), όλα τα διαλύματα έχουν θερμοκρασία $25\\ {}^\\circ\\mathrm{C}$ και ότι τα δεδομένα του προβλήματος επιτρέπουν τις γνωστές προσεγγίσεις."
+    },
+    {
+     "day": 6,
+     "number": 6,
+     "paper_label": "Round 2, Grade 12",
+     "title": "A mixture of three carbonyl compounds; an omega-3 fatty acid",
+     "problem": "Problem 3.\n\nA. Three saturated monocarbonyl compounds A, B and Γ contain $\\nu$, $\\nu+1$ and $\\nu+2$ carbon atoms respectively. Of the above compounds, only A and B can decolorise acidified $\\ce{KMnO4}$ solution. Treatment of compound A with a Grignard reagent and hydrolysis of the intermediate product gives a primary alcohol.\nA mixture (M) of the compounds A, B and Γ is divided into three equal parts.\n• The first part (M1) undergoes complete hydrogenation in the presence of $\\ce{Ni}$, whereupon its mass increases by 4%.\n• To the second part (M2) an excess of Tollens' reagent is added, with the result that $64.8\\ \\mathrm{g}$ of precipitate are produced.\n• The third part (M3) is treated with an excess of $\\ce{I2}$/$\\ce{NaOH}$ solution, whereupon a yellow precipitate of mass $236.4\\ \\mathrm{g}$ is formed.\na. Determine the structural formulas of the organic compounds A, B and Γ.\nb. After writing all the chemical reactions that take place in the mixtures M1, M2 and M3, calculate the mass of the initial mixture.\nB. Fatty acids are classified as saturated if they have no double bonds in the aliphatic chain, and as unsaturated. If the latter have one double bond they are called monounsaturated fatty acids, and if they have two or more double bonds they are called polyunsaturated fatty acids.\nA very widely used way of classifying polyunsaturated fatty acids is based on the position of the first double bond, starting from the carbon atom farthest from the carboxyl group. This carbon is called \"omega\" ($\\omega$-carbon). Thus, unsaturated fatty acids whose first double bond is at the 6th carbon atom, starting the numbering from the omega carbon (i.e. the last carbon atom in the normal numbering), are characterised as $\\omega$-6.\nFor example, the following polyunsaturated fatty acid is an $\\omega$-6 fatty acid:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-6-fig1.png\n$60.4\\ \\mathrm{g}$ of an unsaturated fatty acid (Π) require $22.4\\ \\mathrm{L}$ of $\\ce{H2}$ (at S.T.P.) for complete hydrogenation under suitable conditions.\nThe same quantity of the unsaturated fatty acid (Π) requires $1\\ \\mathrm{L}$ of $\\ce{NaOH}$ solution of concentration $0.2\\ \\mathrm{M}$ for complete neutralisation.\nFor the polyunsaturated fatty acid (Π) the following information is given:\n• it belongs to the $\\omega$-3 fatty acids\n• between each double bond and the next one there is a $\\ce{-CH2-}$ group.\na. Determine the number of double bonds ($\\ce{C=C}$) in the molecule of the acid (Π).\nb. Write the molecular formula and the structural formula of the fatty acid (Π).\nc. How many carbon atoms of the acid are $\\mathrm{sp}^2$ hybridised?",
+     "problem_el": "Άσκηση 3.\n\nΑ. Τρεις κορεσμένες μονοκαρβονυλικές ενώσεις Α, Β και Γ περιέχουν $\\nu$, $\\nu+1$ και $\\nu+2$ άτομα άνθρακα αντίστοιχα. Από τις παραπάνω ενώσεις, μόνο οι Α και Β μπορούν να αποχρωματίσουν το όξινο διάλυμα $\\ce{KMnO4}$. Με επίδραση αντιδραστηρίου Grignard στην ένωση Α και υδρόλυση του ενδιάμεσου προϊόντος, προκύπτει πρωτοταγής αλκοόλη.\nΜίγμα (Μ) των ενώσεων Α, Β και Γ χωρίζεται σε τρία ίσα μέρη.\n• Το πρώτο μέρος (Μ1) υφίσταται πλήρη υδρογόνωση παρουσία $\\ce{Ni}$, οπότε η μάζα του αυξάνεται κατά 4%.\n• Στο δεύτερο μέρος (Μ2) προστίθεται περίσσεια του αντιδραστηρίου Tollens, με αποτέλεσμα να παράγονται $64{,}8\\ \\mathrm{g}$ ιζήματος.\n• Στο τρίτο μέρος (Μ3) επιδρά περίσσεια διαλύματος $\\ce{I2}$/$\\ce{NaOH}$, οπότε σχηματίζεται κίτρινο ίζημα μάζας $236{,}4\\ \\mathrm{g}$.\nα. Να προσδιορίσετε τους συντακτικούς τύπους των οργανικών ενώσεων Α, Β και Γ.\nβ. Αφού γράψετε όλες τις χημικές αντιδράσεις που πραγματοποιούνται στα μίγματα Μ1, Μ2 και Μ3, να υπολογίσετε τη μάζα του αρχικού μίγματος.\nΒ. Τα λιπαρά οξέα διακρίνονται σε κορεσμένα αν δεν διαθέτουν διπλούς δεσμούς στην αλειφατική αλυσίδα και σε ακόρεστα. Αν τα τελευταία διαθέτουν ένα διπλό δεσμό ονομάζονται μονοακόρεστα λιπαρά οξέα και αν διαθέτουν δύο ή περισσότερους διπλούς δεσμούς ονομάζονται πολυακόρεστα λιπαρά οξέα.\nΈνας ευρύτατα χρησιμοποιούμενος τρόπος διάκρισης των πολυακόρεστων λιπαρών οξέων βασίζεται στη θέση του πρώτου διπλού δεσμού, ξεκινώντας από το πιο απόμακρο άτομο άνθρακα σε σχέση με την καρβοξυλική ομάδα. Ο άνθρακας αυτός ονομάζεται \"ωμέγα\" ($\\omega$-άνθρακας). Έτσι ως $\\omega$-6 χαρακτηρίζονται τα ακόρεστα λιπαρά οξέα των οποίων ο πρώτος διπλός δεσμός βρίσκεται στο 6ο άτομο άνθρακα, ξεκινώντας την αρίθμηση από τον ωμέγα-άνθρακα (δηλ. το τελευταίο άτομο άνθρακα με βάση την κανονική αρίθμηση).\nΓια παράδειγμα το παρακάτω πολυακόρεστο λιπαρό οξύ είναι ένα $\\omega$-6 λιπαρό οξύ:\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/gr-2024-6-6-fig1.png\n$60{,}4\\ \\mathrm{g}$ ενός ακόρεστου λιπαρού οξέος (Π) απαιτεί για πλήρη υδρογόνωση $22{,}4\\ \\mathrm{L}$ $\\ce{H2}$ (σε συνθήκες S.T.P) σε κατάλληλες συνθήκες.\nΗ ίδια ποσότητα του ακόρεστου λιπαρού οξέος (Π) απαιτεί για πλήρη εξουδετέρωση $1\\ \\mathrm{L}$ διαλύματος $\\ce{NaOH}$ συγκέντρωσης $0{,}2\\ \\mathrm{M}$.\nΓια το πολυακόρεστο λιπαρό οξύ (Π) δίνονται οι πληροφορίες:\n• ανήκει στα $\\omega$-3 λιπαρά οξέα\n• μεταξύ κάθε διπλού δεσμού και του επόμενου μεσολαβεί η ομάδα $\\ce{-CH2-}$.\nα. Να προσδιορίσετε το πλήθος των διπλών δεσμών ($\\ce{C=C}$) στο μόριο του οξέος (Π).\nβ. Να γράψετε τον μοριακό και τον συντακτικό τύπο του λιπαρού οξέος (Π).\nγ. Πόσα άτομα άνθρακα του οξέος έχουν $\\mathrm{sp}^2$ υβριδισμό."
+    }
+   ]
+  }
+ ]
+}
