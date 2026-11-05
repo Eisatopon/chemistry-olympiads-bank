@@ -1127,7 +1127,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-overleaf';
+const DATA_VERSION = '20261105-greek-textalpha';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
@@ -2383,21 +2383,19 @@ function texProblem(p) {
     if (!p.textEl || texLang === 'en') return texStatement(p.text);
     const greek = p.origLang === 'el' || !p.origLang;
     const orig = texStatement(texLang === 'both' ? String(p.textEl).replace(IMG_RE, '').trim() : p.textEl);
-    // pdfLaTeX cannot take Greek letters inside math; \\text{} sets them in the Greek text font.
-    const origTex = greek ? orig.replace(/(\$\$[\s\S]*?\$\$|\$[^$]*\$|\\\[[\s\S]*?\\\])/g, m => m.replace(/[\u0370-\u03ff\u1f00-\u1fff]/g, c => `\\text{${c}}`)) : orig;
-    const wrapped = greek ? `\\begin{otherlanguage}{greek}\n${origTex}\n\\end{otherlanguage}` : orig;
+    // Greek is set with textalpha (no babel: Latin words and formulas inside the Greek text stay Latin).
+    const wrapped = orig;
     if (texLang === 'orig') return wrapped;
     return texStatement(p.text) + `\n\n\\medskip\\noindent{\\small\\itshape Original (${greek ? 'Greek' : esc(p.origLang.toUpperCase())}):}\\par\n` + wrapped;
 }
-// In a document with Greek blocks, Greek letters outside them (e.g. in an English statement) are set in the Greek font too.
-function texGreekOutside(doc) {
-    const GR = /[\u0370-\u03ff\u1f00-\u1fff]+/g;
-    return doc.split(/(\\begin\{otherlanguage\}\{greek\}[\s\S]*?\\end\{otherlanguage\})/).map((part, i) => i % 2 ? part :
-        part.replace(/(\$\$[\s\S]*?\$\$|\\\$|\$[^$]*\$|\\\[[\s\S]*?\\\])|[\u0370-\u03ff\u1f00-\u1fff]+/g, (m, math) =>
-            math ? (math === '\\$' ? math : math.replace(GR, r => `\\text{\\foreignlanguage{greek}{${r}}}`)) : `\\foreignlanguage{greek}{${m}}`)).join('');
+// pdfLaTeX cannot take Greek letters inside math; \text{} sets them in the Greek text font (textalpha).
+const GREEK_RE = /[\u0370-\u03ff\u1f00-\u1fff]/;
+function texGreekMath(doc) {
+    return doc.replace(/\\\$|(\$\$[\s\S]*?\$\$|\$[^$]*\$|\\\[[\s\S]*?\\\])/g, (m, math) =>
+        math ? math.replace(/[\u0370-\u03ff\u1f00-\u1fff]+/g, r => `\\text{${r}}`) : m);
 }
 function texCharDecls(tex) {
-    const greek = tex.includes('\\begin{otherlanguage}{greek}');
+    const greek = texLang !== 'en' && GREEK_RE.test(tex);
     const seen = new Set([...tex].filter(c => c.codePointAt(0) > 0x17f && !'–—‘’“”…•€™'.includes(c) && !(greek && isGreekChar(c))));
     const hex = c => c.codePointAt(0).toString(16).toUpperCase().padStart(4, '0');
     return seen.size ? `\\ifPDFTeX\n${[...seen].map(c => `\\DeclareUnicodeCharacter{${hex(c)}}{${TEX_CHARS[c] || `[U+${hex(c)}]`}}`).join('\n')}\n\\fi` : '';
@@ -2430,9 +2428,10 @@ function buildTex(items, title = 'Chemistry Olympiads problem set', viewExport =
             texProblem(p) + (space ? `\n\n\\vspace{${space}mm}` : '') + '\n';
     }).join('\n');
     let doc = `\\begin{center}{\\Large\\bfseries ${texText(title)}}\\end{center}\n\n` + body;
-    if (doc.includes('\\begin{otherlanguage}{greek}')) doc = texGreekOutside(doc);
+    const greekDoc = texLang !== 'en' && GREEK_RE.test(doc);
+    if (greekDoc) doc = texGreekMath(doc);
     const decls = texCharDecls(doc);
-    const greekPkg = doc.includes('\\begin{otherlanguage}{greek}') ? '\\ifPDFTeX\\usepackage[LGR,T1]{fontenc}\\fi\n\\usepackage[greek,english]{babel}\n' : '';
+    const greekPkg = greekDoc ? '\\ifPDFTeX\\usepackage[LGR,T1]{fontenc}\\usepackage{textalpha}\\fi\n' : '';
     const extra = greekPkg + (doc.includes('\\mathscr') ? '\\usepackage{mathrsfs}\n' : '') + (decls ? decls + '\n' : '');
     return head.replace('\\begin{document}', extra + '\\begin{document}') + doc + '\n\\end{document}\n';
 }
@@ -2440,7 +2439,7 @@ function buildTex(items, title = 'Chemistry Olympiads problem set', viewExport =
 function buildTexList(items) {
     const body = items.map(p => {
         const src = `${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}`;
-        return `% ${src.replace(/\n/g, ' ')}\n\\item ${texProblem(p)}\n`;
+        return `% ${src.replace(/\n/g, ' ')}\n\\item ${texLang !== 'en' ? texGreekMath(texProblem(p)) : texProblem(p)}\n`;
     }).join('\n');
     return `\\begin{enumerate}\n${body}\\end{enumerate}\n`;
 }
