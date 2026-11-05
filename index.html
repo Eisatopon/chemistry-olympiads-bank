@@ -814,6 +814,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .praise-note { margin: 12px 0 0; font: 400 .78rem/1.4 var(--sans); color: #9fb0bf; }
 .praise + .footer { margin-top: 0; }
 @media print { .praise { display: none; } }
+.praise blockquote footer a.who { color: inherit; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
 .tex-lang select { border: 0; background: transparent; font: inherit; color: inherit; padding: 0 2px; }
 .problem.potd { border: 2px solid var(--ink); border-radius: 16px; padding: 20px 24px 18px; margin: 4px 0 8px;
     background: linear-gradient(135deg, #fff7ed 0%, #ffffff 55%, #f1f4f7 100%); box-shadow: 0 10px 28px rgba(15, 61, 58, .12); }
@@ -1067,7 +1068,7 @@ body.lang-el .st-en { display: none; }
                 <p>The resource is amazing.</p>
                 <footer><span><b>Alex Bellos</b><br>author and Guardian puzzle columnist</span><a class="on" href="https://eisatopon.github.io/national-olympiads-bank/">on Pythagoras</a></footer>
             </blockquote>
-            <blockquote><p>Pythagoras is an invaluable resource for mathematics enthusiasts, problem solvers, and olympiad participants worldwide, offering a remarkable collection of competition problems from across the globe.</p><footer><span><b>Ercole Suppa</b><br>mathematics teacher, Italy</span><a class="on" href="https://eisatopon.github.io/national-olympiads-bank/">on Pythagoras</a></footer></blockquote>
+            <blockquote><p>Pythagoras is an invaluable resource for mathematics enthusiasts, problem solvers, and olympiad participants worldwide, offering a remarkable collection of competition problems from across the globe.</p><footer><span><b><a class="who" href="https://www.esuppa.it/" target="_blank" rel="noopener">Ercole Suppa</a></b><br>mathematics teacher and author, Italy</span><a class="on" href="https://eisatopon.github.io/national-olympiads-bank/">on Pythagoras</a></footer></blockquote>
         </div>
         <p class="praise-fact">🏅 Hipparchus is listed by the IOAA among its <a href="https://ioaastrophysics.org/resources/other-resources" target="_blank" rel="noopener">Other Resources</a></p>
     </div>
@@ -1127,7 +1128,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-greek-textalpha';
+const DATA_VERSION = '20261105-ercole-author';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
