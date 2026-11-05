@@ -814,6 +814,7 @@ dialog p { color: var(--muted); font-size: .92rem; }
 .praise-note { margin: 12px 0 0; font: 400 .78rem/1.4 var(--sans); color: #9fb0bf; }
 .praise + .footer { margin-top: 0; }
 @media print { .praise { display: none; } }
+.tex-lang select { border: 0; background: transparent; font: inherit; color: inherit; padding: 0 2px; }
 .problem.potd { border: 2px solid var(--ink); border-radius: 16px; padding: 20px 24px 18px; margin: 4px 0 8px;
     background: linear-gradient(135deg, #fff7ed 0%, #ffffff 55%, #f1f4f7 100%); box-shadow: 0 10px 28px rgba(15, 61, 58, .12); }
 .potd-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
@@ -1126,7 +1127,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-tex-zip';
+const DATA_VERSION = '20261105-overleaf';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
@@ -2099,6 +2100,8 @@ function headHtml(count) {
             ${count && count <= 60 ? `<button type="button" class="btn btn-sm" data-add-all>${ICON.plus} Add all (${count})</button>` : ''}
             ${count && (state.country || filtersOn()) ? `<button type="button" class="btn btn-sm" data-copy-tex title="Copy the LaTeX of every problem of this view to the clipboard">Copy LaTeX (${count})</button>` : ''}
             ${count && (state.country || filtersOn()) ? `<button type="button" class="btn btn-sm" data-export-view title="Download every problem of this view as a LaTeX (.tex) file">Export LaTeX (${count})</button>` : ''}
+            ${count && (state.country || filtersOn()) ? `<button type="button" class="btn btn-sm" data-overleaf title="Open these problems as a ready LaTeX project in Overleaf (free account), with the figures">Open in Overleaf</button>` : ''}
+            ${count && (state.country || filtersOn()) && shownUids.some(u => byUid.get(u)?.textEl) ? `<label class="btn btn-sm tex-lang" title="Language of the exported LaTeX">LaTeX in <select data-tex-lang><option value="en"${texLang === 'en' ? ' selected' : ''}>English</option><option value="orig"${texLang === 'orig' ? ' selected' : ''}>original</option><option value="both"${texLang === 'both' ? ' selected' : ''}>both</option></select></label>` : ''}
         </div>
     </div>`;
 }
@@ -2373,8 +2376,29 @@ const TEX_CHARS = (() => {
     upper.forEach((n, i) => { if (n !== '-') m[String.fromCharCode(0x391 + i)] = n.length > 1 ? `\\ensuremath{\\${n}}` : `\\ensuremath{\\mathrm{${n}}}`; });
     return m;
 })();
+// LaTeX export language (5 Nov 2026, owner): English, the original language, or both, for rows that store the original.
+let texLang = (() => { try { return localStorage.getItem('chob-texlang') || 'en'; } catch (e) { return 'en'; } })();
+const isGreekChar = c => { const n = c.codePointAt(0); return (n >= 0x370 && n <= 0x3ff) || (n >= 0x1f00 && n <= 0x1fff); };
+function texProblem(p) {
+    if (!p.textEl || texLang === 'en') return texStatement(p.text);
+    const greek = p.origLang === 'el' || !p.origLang;
+    const orig = texStatement(texLang === 'both' ? String(p.textEl).replace(IMG_RE, '').trim() : p.textEl);
+    // pdfLaTeX cannot take Greek letters inside math; \\text{} sets them in the Greek text font.
+    const origTex = greek ? orig.replace(/(\$\$[\s\S]*?\$\$|\$[^$]*\$|\\\[[\s\S]*?\\\])/g, m => m.replace(/[\u0370-\u03ff\u1f00-\u1fff]/g, c => `\\text{${c}}`)) : orig;
+    const wrapped = greek ? `\\begin{otherlanguage}{greek}\n${origTex}\n\\end{otherlanguage}` : orig;
+    if (texLang === 'orig') return wrapped;
+    return texStatement(p.text) + `\n\n\\medskip\\noindent{\\small\\itshape Original (${greek ? 'Greek' : esc(p.origLang.toUpperCase())}):}\\par\n` + wrapped;
+}
+// In a document with Greek blocks, Greek letters outside them (e.g. in an English statement) are set in the Greek font too.
+function texGreekOutside(doc) {
+    const GR = /[\u0370-\u03ff\u1f00-\u1fff]+/g;
+    return doc.split(/(\\begin\{otherlanguage\}\{greek\}[\s\S]*?\\end\{otherlanguage\})/).map((part, i) => i % 2 ? part :
+        part.replace(/(\$\$[\s\S]*?\$\$|\\\$|\$[^$]*\$|\\\[[\s\S]*?\\\])|[\u0370-\u03ff\u1f00-\u1fff]+/g, (m, math) =>
+            math ? (math === '\\$' ? math : math.replace(GR, r => `\\text{\\foreignlanguage{greek}{${r}}}`)) : `\\foreignlanguage{greek}{${m}}`)).join('');
+}
 function texCharDecls(tex) {
-    const seen = new Set([...tex].filter(c => c.codePointAt(0) > 0x17f && !'–—‘’“”…•€™'.includes(c)));
+    const greek = tex.includes('\\begin{otherlanguage}{greek}');
+    const seen = new Set([...tex].filter(c => c.codePointAt(0) > 0x17f && !'–—‘’“”…•€™'.includes(c) && !(greek && isGreekChar(c))));
     const hex = c => c.codePointAt(0).toString(16).toUpperCase().padStart(4, '0');
     return seen.size ? `\\ifPDFTeX\n${[...seen].map(c => `\\DeclareUnicodeCharacter{${hex(c)}}{${TEX_CHARS[c] || `[U+${hex(c)}]`}}`).join('\n')}\n\\fi` : '';
 }
@@ -2403,18 +2427,20 @@ function buildTex(items, title = 'Chemistry Olympiads problem set', viewExport =
         const src = `${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}`;
         const credit = typeof creditText === 'function' ? creditText(p) : '';
         return `\\subsection*{Problem ${i + 1}}\n` + (showSrc ? `{\\small\\itshape ${texText(src + (credit ? ' · ' + credit : ''))}}\\par\n` : '') +
-            texStatement(p.text) + (space ? `\n\n\\vspace{${space}mm}` : '') + '\n';
+            texProblem(p) + (space ? `\n\n\\vspace{${space}mm}` : '') + '\n';
     }).join('\n');
-    const doc = `\\begin{center}{\\Large\\bfseries ${texText(title)}}\\end{center}\n\n` + body;
+    let doc = `\\begin{center}{\\Large\\bfseries ${texText(title)}}\\end{center}\n\n` + body;
+    if (doc.includes('\\begin{otherlanguage}{greek}')) doc = texGreekOutside(doc);
     const decls = texCharDecls(doc);
-    const extra = (doc.includes('\\mathscr') ? '\\usepackage{mathrsfs}\n' : '') + (decls ? decls + '\n' : '');
+    const greekPkg = doc.includes('\\begin{otherlanguage}{greek}') ? '\\ifPDFTeX\\usepackage[LGR,T1]{fontenc}\\fi\n\\usepackage[greek,english]{babel}\n' : '';
+    const extra = greekPkg + (doc.includes('\\mathscr') ? '\\usepackage{mathrsfs}\n' : '') + (decls ? decls + '\n' : '');
     return head.replace('\\begin{document}', extra + '\\begin{document}') + doc + '\n\\end{document}\n';
 }
 /* "Copy LaTeX" copies only the list of problems (no preamble), ready to paste into a document. */
 function buildTexList(items) {
     const body = items.map(p => {
         const src = `${CBY[p.country].name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''}, Problem ${p.num}`;
-        return `% ${src.replace(/\n/g, ' ')}\n\\item ${texStatement(p.text)}\n`;
+        return `% ${src.replace(/\n/g, ' ')}\n\\item ${texProblem(p)}\n`;
     }).join('\n');
     return `\\begin{enumerate}\n${body}\\end{enumerate}\n`;
 }
@@ -2457,6 +2483,26 @@ function saveBlob(blob, file) {
     a.download = file;
     document.body.appendChild(a); a.click(); a.remove();
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+// "Open in Overleaf": the .tex as text, the figures by their public URL (Overleaf downloads them into the project).
+function openOverleaf(items, title) {
+    if (!items.length) return;
+    const tex = buildTex(items, title, true).replace(/^% Compiles with pdfLaTeX.*\n% \(without them.*\n/m, '% The figures are files of this project.\n');
+    const urls = [...new Set(items.flatMap(p => [...String(p.text).matchAll(IMG_RE)].map(m => `${m[1]}.${m[2]}`)))];
+    const form = document.createElement('form');
+    form.method = 'POST'; form.action = 'https://www.overleaf.com/docs'; form.target = '_blank'; form.style.display = 'none';
+    const add = (name, value) => { const i = document.createElement('input'); i.type = 'hidden'; i.name = name; i.value = value; form.appendChild(i); };
+    if (!urls.length) { add('encoded_snip', encodeURIComponent(tex)); add('snip_name', 'main.tex'); }
+    else {
+        // Overleaf does not mix text snippets with file URLs, so the .tex goes as a data: URL next to the figure URLs.
+        const bytes = new TextEncoder().encode(tex); let bin = '';
+        for (let i = 0; i < bytes.length; i += 8192) bin += String.fromCharCode(...bytes.subarray(i, i + 8192));
+        const b64 = btoa(bin);
+        add('snip_uri[]', 'data:application/x-tex;base64,' + b64); add('snip_name[]', 'main.tex');
+        urls.forEach(u => { add('snip_uri[]', u); add('snip_name[]', u.split('/').pop()); });
+    }
+    add('engine', 'pdflatex'); add('main_document', 'main.tex');
+    document.body.appendChild(form); form.submit(); form.remove();
 }
 async function exportTex(items, title = 'problem-set', viewExport = true) {
     if (!items.length) return;
@@ -3159,6 +3205,9 @@ function fitAiMenu(menu) {
 document.addEventListener('toggle', e => {
     if (e.target.matches && e.target.matches('.ai-menu') && e.target.open) fitAiMenu(e.target);
 }, true);
+document.addEventListener('change', e => {
+    if (e.target.matches && e.target.matches('[data-tex-lang]')) { texLang = e.target.value; try { localStorage.setItem('chob-texlang', texLang); } catch (err) {} }
+});
 document.addEventListener('keydown', e => {
     if (e.key === 'Escape') document.querySelectorAll('.ai-menu[open]').forEach(menu => { menu.open = false; menu.querySelector('summary').focus(); });
 });
@@ -3221,6 +3270,12 @@ document.addEventListener('click', e => {
         return;
     }
     if (t.hasAttribute('data-daily-shuffle')) { dailySeed = Math.floor(Math.random() * 4294967296); renderResults(); return; }
+    if (t.hasAttribute('data-overleaf')) {
+        const [title] = scopeTitle();
+        const topic = state.topic !== 'all' ? ` – ${state.topic}` : '';
+        openOverleaf(shownUids.map(u => byUid.get(u)).filter(Boolean), title.replace(/^[^\p{L}\p{N}]+/u, '') + topic);
+        return;
+    }
     if (t.hasAttribute('data-export-view')) {
         const [title] = scopeTitle();
         const topic = state.topic !== 'all' ? ` – ${state.topic}` : '';
