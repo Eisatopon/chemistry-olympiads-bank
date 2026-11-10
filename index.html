@@ -1128,10 +1128,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261105-bellos-link';
+const DATA_VERSION = '20261110-de-pl';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
+const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', de: 'europe', pl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-chemistry:set:v1';  // same origin as the math and physics banks: keep the keys apart
@@ -1145,6 +1145,8 @@ const COUNTRIES = [
     { key: 'cypan', name: 'Cyprus – Pancyprian Exams', flag: '🇨🇾', file: 'Cyprus-pancyprian-exams-problems.json', kind: 'years', scope: 'entrance', full: 'Cyprus Pancyprian Examinations (university entrance), Chemistry, code 19 · Greek original with English translation · problems © the Cyprus Ministry of Education (Examinations Service) · not affiliated with, endorsed by or supported by the Cyprus Ministry of Education or its Examinations Service' },
     { key: 'jee', name: 'India – JEE Advanced', flag: '🇮🇳', file: 'India-JEE-Advanced-problems.json', kind: 'years', scope: 'entrance', full: 'Joint Entrance Examination (Advanced) (IIT-JEE until 2012), entrance examination of the Indian Institutes of Technology, Chemistry part of Papers 1 and 2 · problems © JEE (Advanced) / the Indian Institutes of Technology · not affiliated with, endorsed by or supported by JEE (Advanced), the Joint Admission Board or the Indian Institutes of Technology' },
     { key: 'gr', name: 'Greece', flag: '🇬🇷', file: 'Greece-PMDX-problems.json', kind: 'years', scope: 'national', full: 'Panhellenic Student Chemistry Competition (Greek national chemistry olympiad), rounds 1 and 2, grades 10–12 · Greek original with English translation · problems © the Association of Greek Chemists (EEX) · not affiliated with, endorsed by or supported by the Association of Greek Chemists' },
+    { key: 'de', name: 'Germany', flag: '🇩🇪', file: 'Germany-selection-problems.json', kind: 'years', scope: 'national', full: 'German selection for the International Chemistry Olympiad (Auswahlverfahren, IPN Kiel), rounds 1–4, theoretical problems · German original with English translation · problems © the IPN Kiel (Leibniz Institute for Science and Mathematics Education) · not affiliated with, endorsed by or supported by the IPN or the Förderverein Chemie-Olympiade' },
+    { key: 'pl', name: 'Poland', flag: '🇵🇱', file: 'Poland-olympiad-problems.json', kind: 'years', scope: 'national', full: 'Polish Chemistry Olympiad (Olimpiada Chemiczna), stages I–III, theoretical problems · Polish original with English translation · problems © the Main Committee of the Polish Chemistry Olympiad · not affiliated with, endorsed by or supported by the Polish Chemistry Olympiad or its Main Committee' },
     { key: 'nl', name: 'Netherlands', flag: '🇳🇱', file: 'Netherlands-theory-problems.json', kind: 'years', scope: 'national', full: 'Dutch National Chemistry Olympiad (NSO), preliminary rounds and final-round theory test · problems © the Dutch National Chemistry Olympiad · not affiliated with, endorsed by or supported by the Dutch National Chemistry Olympiad' },
     { key: 'bcho', name: 'Baltic', flag: '🌊', file: 'BChO-theory-problems.json', kind: 'years', scope: 'regional', full: 'Baltic Chemistry Olympiad, theoretical problems · problems © the Baltic Chemistry Olympiad organisers · not affiliated with, endorsed by or supported by the Baltic Chemistry Olympiad or the University of Tartu' },
     { key: 'imcho', name: 'Mendeleev', flag: '🌐', file: 'IMChO-theory-problems.json', kind: 'years', scope: 'international', full: 'International Mendeleev Chemistry Olympiad, theoretical problems · problems © the Mendeleev Olympiad organisers · not affiliated with, endorsed by or supported by the International Mendeleev Chemistry Olympiad or Lomonosov Moscow State University' },
@@ -2263,6 +2265,8 @@ const ORGANISERS = {
     grpan: () => ({name: 'Greek Panhellenic Examinations', part: 'Chemistry', org: 'the Central Examinations Committee of the Greek Ministry of Education', rights: 'the Greek Ministry of Education', aff: 'the Greek Ministry of Education'}),
     cypan: () => ({name: 'Cyprus Pancyprian Examinations', part: 'Chemistry', org: 'the Examinations Service of the Cyprus Ministry of Education', rights: 'the Cyprus Ministry of Education (Examinations Service)', aff: 'the Cyprus Ministry of Education or its Examinations Service'}),
     jee: y => ({name: y && y < 2013 ? 'IIT-JEE' : 'JEE (Advanced)', part: 'Chemistry', org: 'the Indian Institutes of Technology (JEE (Advanced) organising IIT)', rights: 'the Indian Institutes of Technology (JEE Advanced)', aff: 'JEE (Advanced), the Joint Admission Board or the Indian Institutes of Technology'}),
+    de: () => ({name: 'German Chemistry Olympiad (IChO selection)', org: 'the IPN Kiel and the Förderverein Chemie-Olympiade (yearly problem book)', rights: 'the IPN Kiel', aff: 'the IPN Kiel or the Förderverein Chemie-Olympiade'}),
+    pl: () => ({name: 'Polish Chemistry Olympiad (Olimpiada Chemiczna)', org: 'the Main Committee of the Polish Chemistry Olympiad (Komitet Główny Olimpiady Chemicznej)', rights: 'the Polish Chemistry Olympiad', aff: 'the Polish Chemistry Olympiad'}),
     nl: () => ({name: 'Dutch National Chemistry Olympiad (NSO)', org: 'the national committee of the Dutch Chemistry Olympiad (Nationale Scheikundeolympiade)', rights: 'the Dutch National Chemistry Olympiad', aff: 'the Dutch National Chemistry Olympiad'}),
 };
 function creditText(p) {
@@ -2387,7 +2391,7 @@ function texProblem(p) {
     // Greek is set with textalpha (no babel: Latin words and formulas inside the Greek text stay Latin).
     const wrapped = orig;
     if (texLang === 'orig') return wrapped;
-    return texStatement(p.text) + `\n\n\\medskip\\noindent{\\small\\itshape Original (${greek ? 'Greek' : esc(p.origLang.toUpperCase())}):}\\par\n` + wrapped;
+    return texStatement(p.text) + `\n\n\\medskip\\noindent{\\small\\itshape Original (${greek ? 'Greek' : ({de: 'German', pl: 'Polish'}[p.origLang] || esc(p.origLang.toUpperCase()))}):}\\par\n` + wrapped;
 }
 // pdfLaTeX cannot take Greek letters inside math; \text{} sets them in the Greek text font (textalpha).
 const GREEK_RE = /[\u0370-\u03ff\u1f00-\u1fff]/;
