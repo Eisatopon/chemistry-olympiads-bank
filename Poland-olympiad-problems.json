@@ -138,6 +138,96 @@
      "problem": "Problem 5. Four organic syntheses\n\nPrepare the compounds given below from the indicated starting materials as the only organic raw materials:\n\na) 4,4'-dimethylbenzophenone from TOLUENE\n\nb) dicyclohexylamine (without admixtures of other amines) from CYCLOHEXENE\n\nc) p-bromonitrobenzene from NITROBENZENE and ACETYL CHLORIDE\n\nd) 4-phenyl-3-buten-2-one from ISOPROPANOL and TOLUENE",
      "problem_orig": "Zadanie 5. Cztery syntezy organiczne\n\nOtrzymać podane niżej związki ze wskazanych substratów jako jedynych surowców organicznych:\n\na) 4,4'-dimetylobenzofenon z TOLUENU\n\nb) dicykloheksyloamina (bez domieszek innych amin) z CYKLOHEKSENU\n\nc) p-bromonitrobenzen z NITROBENZENU i CHLORKU ACETYLU\n\nd) 4-fenylo-3-buten-2-on z IZOPROPANOLU i TOLUENU",
      "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 1,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 1A (Part A, compulsory). 10 organic reactions",
+     "problem": "Problem 1A (Part A, compulsory). 10 organic reactions\n\nWrite the stoichiometric equations of the following reactions:\n\na) p-hydroxybenzyl alcohol + $\\ce{HBr}$/$\\ce{H2O}$\nb) p-hydroxybenzyl alcohol + $\\ce{NaOH}$/$\\ce{H2O}$\nc) ethylbenzene + bromine in the presence of light\nd) 2-methyl-2-butene + $\\ce{KMnO4}$, $\\Delta T$\ne) Acetonitrile + $\\ce{NaOH}$/$\\ce{H2O}$\nf) Nitrobenzene + zinc + $\\ce{HCl}$\ng) 1,2,3,5-tetra-O-methyl-$\\alpha$-D-ribofuranose + $\\ce{H2O}$/$\\ce{H+}$\nh) 1-naphthoic aldehyde + $\\ce{NaOH}$/$\\ce{H2O}$\ni) p-toluidine + $\\ce{NaNO2}$, $\\ce{HCl}$, $0\\,^\\circ\\mathrm{C}$\nj) 2-butanol + iodine + $\\ce{NaOH}$",
+     "problem_orig": "Zadanie 1A (część A – zadania obowiązkowe). 10 reakcji organicznych\n\nNapisać stechiometryczne równania następujących reakcji:\n\na) alkohol p-hydroksybenzylowy + $\\ce{HBr}$/$\\ce{H2O}$\nb) alkohol p-hydroksybenzylowy + $\\ce{NaOH}$/$\\ce{H2O}$\nc) etylobenzen + brom wobec światła\nd) 2-metylo-2-buten + $\\ce{KMnO4}$, $\\Delta T$\ne) Acetonitryl + $\\ce{NaOH}$/$\\ce{H2O}$\nf) Nitrobenzen + cynk + $\\ce{HCl}$\ng) 1,2,3,5-tetra-O-metylo-$\\alpha$-D-rybofuranoza + $\\ce{H2O}$/$\\ce{H+}$\nh) aldehyd 1-naftoesowy + $\\ce{NaOH}$/$\\ce{H2O}$\ni) p-toluidyna + $\\ce{NaNO2}$, $\\ce{HCl}$, $0\\,^\\circ\\mathrm{C}$\nj) 2-butanol + jod + $\\ce{NaOH}$",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 2,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 2A (Part A, compulsory). Identification of a hydrocarbon",
+     "problem": "Problem 2A (Part A, compulsory). Identification of a hydrocarbon\n\nWhen treated with a nitrating mixture, $10.6\\,\\mathrm{g}$ of a certain hydrocarbon forms $13.8\\,\\mathrm{g}$ of a mononitro derivative with a yield of $91.4\\,\\%$. Bearing in mind that this hydrocarbon does not decolourise (at room temperature) a $\\ce{KMnO4}$ solution and does not react with a solution of bromine in $\\ce{CHCl3}$, and that the mentioned product of the nitration is the only isomer that can be formed on substitution of one nitro group, give:\n\na) the molar mass of this hydrocarbon;\nb) the structural formula of the hydrocarbon;\nc) the structural formula of its mononitro derivative.\n\nAtomic masses in g/mol: H - 1, C - 12, N - 14, O - 16.",
+     "problem_orig": "Zadanie 2A (część A – zadania obowiązkowe). Identyfikacja węglowodoru\n\n$10{,}6\\,\\mathrm{g}$ pewnego węglowodoru pod działaniem mieszaniny nitrującej tworzy $13{,}8\\,\\mathrm{g}$ mononitropochodnej z wydajnością $91{,}4\\,\\%$. Mając na uwadze, że węglowodór ten nie odbarwia (w temp. pokojowej) roztworu $\\ce{KMnO4}$, ani też nie reaguje z roztworem bromu w $\\ce{CHCl3}$, oraz że wspomniany produkt reakcji nitrowania jest jedynym izomerem, jaki może powstawać po podstawieniu jednej grupy nitrowej, podaj:\n\na) masę molową tego węglowodoru;\nb) wzór strukturalny węglowodoru;\nc) wzór strukturalny jego mononitropochodnej.\n\nMasy atomowe w g/mol: H - 1, C - 12, N - 14, O - 16.",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 3,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 3A (Part A, compulsory). Structure of a tripeptide",
+     "problem": "Problem 3A (Part A, compulsory). Structure of a tripeptide\n\nA tripeptide containing phenylalanine, glycine and serine was treated with carboxypeptidase. The first free amino acid appearing in the solution was phenylalanine. When the same tripeptide was subjected to Edman degradation, the N-phenylthiohydantoin of glycine was obtained. What was the structure of this tripeptide?",
+     "problem_orig": "Zadanie 3A (część A – zadania obowiązkowe). Struktura tripeptydu\n\nTripeptyd zawierający fenyloalaninę, glicynę i serynę poddano działaniu karboksypeptydazy. Pierwszym wolnym aminokwasem pojawiającym się w roztworze była fenyloalanina. Kiedy ten sam tripeptyd poddano degradacji Edmana otrzymano N-fenylotiohydantoinę glicyny. Jaka była struktura tego tripeptydu?",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 4,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 4A (Part A, compulsory). Ionic equilibria",
+     "problem": "Problem 4A (Part A, compulsory). Ionic equilibria\n\nIn answering the questions below, choose one of three answers: (a) it will increase, (b) it will decrease, (c) it will not change (or the change will be negligibly small).\n\n1. Suppose we have an aqueous solution of $\\ce{HCl}$ of concentration $10^{-9}\\,\\mathrm{mol/dm^3}$, which is diluted 10-fold. How will the concentration of hydrogen ions change?\n2. A solution containing the complex $\\ce{Cu(NH3)4^{2+}}$ at a concentration of $0.001\\,\\mathrm{mol/dm^3}$ and ammonia at a concentration of $0.1\\,\\mathrm{mol/dm^3}$ was diluted 10-fold. How will the concentration of free $\\ce{Cu^{2+}}$ ions change?\n3. To a saturated solution of $\\ce{BaSO4}$ an equal volume of a saturated solution of $\\ce{CaSO4}$ was added. How will the concentration of free $\\ce{Ba^{2+}}$ ions change?\n4. To $100\\,\\mathrm{cm^3}$ of a solution of $\\ce{Ag(NH3)2+}$ of concentration $0.01\\,\\mathrm{mol/dm^3}$ and ammonia of concentration $1\\,\\mathrm{mol/dm^3}$, $0.1$ mol of solid $\\ce{NH4NO3}$ was added. How will the concentration of free $\\ce{Ag+}$ ions change?\n5. To $50\\,\\mathrm{cm^3}$ of a solution of $\\ce{CH3COONa}$ of concentration $1\\,\\mathrm{mol/dm^3}$ an equal volume of acetic acid of concentration $1\\,\\mathrm{mol/dm^3}$ was added. How will the concentration of acetate ions change?\n\nIn all cases neglect the effects associated with the change of activity coefficients.",
+     "problem_orig": "Zadanie 4A (część A – zadania obowiązkowe). Równowagi jonowe\n\nOdpowiadając na poniższe pytania wybierz jedną z trzech odpowiedzi: (a) wzrośnie, (b) zmniejszy się, (c) nie zmieni się (lub zmiana będzie zaniedbywalnie mała).\n\n1. Załóżmy, że mamy roztwór wodny $\\ce{HCl}$ o stężeniu $10^{-9}\\,\\mathrm{mol/dm^3}$, który rozcieńczamy 10-krotnie. Jak zmieni się stężenie jonów wodorowych ?\n2. Roztwór zawierający kompleks $\\ce{Cu(NH3)4^{2+}}$ o stężeniu $0{,}001\\,\\mathrm{mol/dm^3}$ i amoniak w stężeniu $0{,}1\\,\\mathrm{mol/dm^3}$ rozcieńczono 10-krotnie. Jak zmieni się stężenie wolnych jonów $\\ce{Cu^{2+}}$ ?\n3. Do nasyconego roztworu $\\ce{BaSO4}$ dodano taką samą objętość nasyconego roztworu $\\ce{CaSO4}$. Jak zmieni się stężenie wolnych jonów $\\ce{Ba^{2+}}$ ?\n4. Do $100\\,\\mathrm{cm^3}$ roztworu $\\ce{Ag(NH3)2+}$ o stężeniu $0{,}01\\,\\mathrm{mol/dm^3}$ i amoniaku o stężeniu $1\\,\\mathrm{mol/dm^3}$ dodano $0{,}1$ mola stałego $\\ce{NH4NO3}$. Jak zmieni się stężenie wolnych jonów $\\ce{Ag+}$ ?\n5. Do $50\\,\\mathrm{cm^3}$ roztworu $\\ce{CH3COONa}$ o stężeniu $1\\,\\mathrm{mol/dm^3}$ dodano taką samą objętość kwasu octowego o stężeniu $1\\,\\mathrm{mol/dm^3}$. Jak zmieni się stężenie jonów octanowych ?\n\nWe wszystkich przypadkach pomiń efekty związane ze zmianą współczynników aktywności.",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 5,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 1B (Part B, optional). Reactions of an organomagnesium compound",
+     "problem": "Problem 1B (Part B, optional). Reactions of an organomagnesium compound\n\nWith what should phenylmagnesium iodide be treated in order to obtain (after subsequent hydrolysis) the following compounds:\n\na) diphenylmethane\nb) 1-phenylethanol\nc) 2-phenylethanol\nd) 2-phenyl-2-butanol\ne) acetophenone\nf) benzoic acid\ng) thiophenol\nh) 3-phenylpropene",
+     "problem_orig": "Zadanie 1B (część B – zadania fakultatywne). Reakcje związku magnezoorganicznego\n\nCzym należy podziałać na jodek fenylomagnezowy aby otrzymać (po następczej hydrolizie) następujące związki:\n\na) difenylometan\nb) 1-fenyloetanol\nc) 2-fenyloetanol\nd) 2-fenylo-2-butanol\ne) acetofenon\nf) kwas benzoesowy\ng) tiofenol\nh) 3-fenylopropen",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 6,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 2B (Part B, optional). Organic synthesis",
+     "problem": "Problem 2B (Part B, optional). Organic synthesis\n\nGive methods of synthesis of the following compounds from the indicated starting materials:\n\na) 2-hexyne from 1-BROMOPROPANE\nb) 2-bromo-4-nitrobenzoic acid from TOLUENE\nc) 3-bromo-5-nitrobenzoic acid from TOLUENE\nd) m-nitrobenzonitrile from NITROBENZENE (use the diazotisation reaction)\ne) 2-methyl-1,3-pentanediol from 1-PROPANOL (use the aldol condensation)\nf) dibenzylamine (without admixtures of other amines) from TOLUENE\n\nLiterature: - Boyd, Morrison, $\\textit{Organic Chemistry}$ (for all the organic chemistry problems)",
+     "problem_orig": "Zadanie 2B (część B – zadania fakultatywne). Synteza organiczna\n\nPodać metody syntezy poniższych związków ze wskazanych substratów:\n\na) 2-heksyn z 1-BROMOPROPANU\nb) kwas 2-bromo-4-nitrobenzoesowy z TOLUENU\nc) kwas 3-bromo-5-nitrobenzoesowy z TOLUENU\nd) m-nitrobenzonitryl z NITROBENZENU (wykorzystać reakcję diazowania)\ne) 2-metylo-1,3-pentanodiol z 1-PROPANOLU (wykorzystać kondensację aldolową)\nf) dibenzyloaminę (bez domieszek innych amin) z TOLUENU\n\nLiteratura: - Boyd, Morrison, $\\textit{Chemia Organiczna}$ (do wszystkich zadań z chemii organicznej)",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 7,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 3B (Part B, optional). Identification of a heteroaromatic compound",
+     "problem": "Problem 3B (Part B, optional). Identification of a heteroaromatic compound\n\nThe heteroaromatic compound A was subjected to the following reactions:\n1. complete reduction (hydrogenation) with preservation of the cyclic system(s);\n2. exhaustive methylation with methyl iodide (1 mol of the substrate reacts with 2 mol of methyl iodide);\n3. treatment with moist silver oxide and heating (Hofmann elimination);\n4. isolation and hydrogenation of the main elimination product;\n5. repeated exhaustive methylation with methyl iodide;\n6. repeated Hofmann elimination.\nAs a result of the transformations described above, 3-ethylcyclohexene (3-ethylcyclohex-1-ene) was obtained as the main product. Give the structural formula of compound A and write the schemes of the reactions described above.",
+     "problem_orig": "Zadanie 3B (część B – zadania fakultatywne). Identyfikacja związku heteroaromatycznego\n\nHeteroaromatyczny związek A poddano następującym reakcjom:\n1. całkowita redukcja (uwodornienie) z zachowaniem układu(ów) cyklicznego(ych);\n2. wyczerpujące metylowanie jodkiem metylu (1 mol substratu reaguje z 2 molami jodku metylu);\n3. działanie wilgotnym tlenkiem srebra i ogrzewanie (eliminacja Hofmanna);\n4. wyodrębnienie i uwodornienie głównego produktu eliminacji;\n5. ponowne wyczerpujące metylowanie z jodkiem metylu;\n6. ponowna eliminacja Hofmanna.\nW wyniku powyżej opisanych przemian jako główny produkt otrzymano 3-etylocykloheksen (3-etylocykloheks-1-en). Podaj wzór strukturalny związku A i zapisz schematy przedstawionych wyżej reakcji.",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 8,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 4B (Part B, optional). Structure of a pentapeptide",
+     "problem": "Problem 4B (Part B, optional). Structure of a pentapeptide\n\nPartial hydrolysis of a pentapeptide gave the following fragments: Gly-Ala, Leu-Phe, Leu-Leu and Ala-Leu. Edman degradation of the original pentapeptide gave the N-phenylthiohydantoin of glycine. What was the structure of the original pentapeptide?",
+     "problem_orig": "Zadanie 4B (część B – zadania fakultatywne). Struktura pentapeptydu\n\nW wyniku częściowej hydrolizy pentapeptydu otrzymano następujące fragmenty: Gly-Ala, Leu-Phe, Leu-Leu i Ala-Leu. Podczas degradacji Edmana wyjściowego pentapeptydu otrzymano N-fenylotiohydantoinę glicyny. Jaka była struktura wyjściowego pentapeptydu.",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 9,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 5B (Part B, optional). Solubility product",
+     "problem": "Problem 5B (Part B, optional). Solubility product\n\nTo $20\\,\\mathrm{cm^3}$ of a saturated $\\ce{AgCl}$ solution (after separation of the precipitate), $10\\,\\mathrm{cm^3}$ of ammonia of concentration $1\\,\\mathrm{mol/dm^3}$ was added, and then $100\\,\\mathrm{mg}$ of solid $\\ce{KI}$ was added. Will a precipitate of $\\ce{AgI}$ form?\n\n$K_\\mathrm{so}$ $\\ce{AgCl}$ $= 1.6\\cdot10^{-10}$\n\n$K_\\mathrm{so}$ $\\ce{AgI}$ $= 7.9\\cdot10^{-17}$\n\nFor the complexes of $\\ce{Ag+}$ with ammonia:\n\n$\\log\\beta_1 = 3.4$ $\\qquad$ $\\log\\beta_2 = 7.4$",
+     "problem_orig": "Zadanie 5B (część B – zadania fakultatywne). Iloczyn rozpuszczalności\n\nDo $20\\,\\mathrm{cm^3}$ nasyconego roztworu $\\ce{AgCl}$ (po oddzieleniu osadu) dodano $10\\,\\mathrm{cm^3}$ amoniaku o stężeniu $1\\,\\mathrm{mol/dm^3}$, a następnie dodano $100\\,\\mathrm{mg}$ stałego $\\ce{KI}$. Czy wytrąci się osad $\\ce{AgI}$ ?\n\n$K_\\mathrm{so}$ $\\ce{AgCl}$ $= 1{,}6\\cdot10^{-10}$\n\n$K_\\mathrm{so}$ $\\ce{AgI}$ $= 7{,}9\\cdot10^{-17}$\n\nDla kompleksów $\\ce{Ag+}$ z amoniakiem:\n\n$\\log\\beta_1 = 3{,}4$ $\\qquad$ $\\log\\beta_2 = 7{,}4$",
+     "orig_lang": "pl"
+    },
+    {
+     "day": 4,
+     "number": 10,
+     "paper_label": "Preliminary problems",
+     "title": "Problem 6B (Part B, optional). Thermodynamics of chemical transformations",
+     "problem": "Problem 6B (Part B, optional). Thermodynamics of chemical transformations\n\nThanks to the thermodynamic description of chemical transformations we can predict (on the basis of appropriate calculations) whether a chemical transformation into the corresponding products can occur between the substances we consider. This, however, requires a correct interpretation of the results of the calculations, which we shall present on the following model example.\n\nWe assume that by mixing only the pure reactants $\\ce{A(g)}$ and $\\ce{B(g)}$ we obtain $\\ce{C(g)}$, according to the following equation:\n\n$$\\ce{A(g) + B(g) = 2 C(g)} \\qquad (1)$$\n\n1. On the basis of the data below on the standard enthalpies of formation $\\Delta H^0_\\mathrm{f}$ and the standard entropies $S^0$ of the reactants (at $300\\,\\mathrm{K}$) show whether the above assumption is true under isobaric-isothermal conditions ($p$, $T = \\mathrm{const}$).\n\n$$\\begin{array}{|c|c|c|}\\hline \\text{Reagent} & \\Delta H^0_\\mathrm{f}\\ [\\mathrm{kJ\\,mol^{-1}}] & S^0\\ [\\mathrm{J\\,mol^{-1}\\,K^{-1}}] \\\\ \\hline \\ce{A(g)} & 0 & 150 \\\\ \\hline \\ce{B(g)} & 0 & 250 \\\\ \\hline \\ce{C(g)} & 35 & 300 \\\\ \\hline \\end{array}$$\n\n2. Regardless of the predicted direction of reaction (1), calculate its equilibrium constant ($K_\\mathrm{p}$) at $300\\,\\mathrm{K}$ and the degree of conversion of the pure reactants, initially present in the molar ratio 1:1.",
+     "problem_orig": "Zadanie 6B (część B – zadania fakultatywne). Termodynamika przemian chemicznych\n\nDzięki termodynamicznemu opisowi przemian chemicznych możemy przewidzieć (na podstawie odpowiednich obliczeń), czy między rozważanymi przez nas substancjami może dojść do przemiany chemicznej w odpowiednie produkty. Wymaga to jednak prawidłowej interpretacji wyników obliczeń, którą przedstawimy na poniższym modelowym przykładzie.\n\nZakładamy, że mieszając tylko czyste substraty: $\\ce{A(g)}$ i $\\ce{B(g)}$ otrzymamy $\\ce{C(g)}$, zgodnie z następującym równaniem:\n\n$$\\ce{A(g) + B(g) = 2 C(g)} \\qquad (1)$$\n\n1. Na podstawie danych poniżej standardowych entalpii tworzenia $\\Delta H^0_\\mathrm{f}$ i standardowych entropii $S^0$ reagentów (w temp. $300\\,\\mathrm{K}$) wykaż, czy powyższe założenie jest prawdziwe w warunkach izobaryczno-izotermicznych ($p$, $T = \\mathrm{const}$).\n\n$$\\begin{array}{|c|c|c|}\\hline \\text{Reagent} & \\Delta H^0_\\mathrm{f}\\ [\\mathrm{kJ\\,mol^{-1}}] & S^0\\ [\\mathrm{J\\,mol^{-1}\\,K^{-1}}] \\\\ \\hline \\ce{A(g)} & 0 & 150 \\\\ \\hline \\ce{B(g)} & 0 & 250 \\\\ \\hline \\ce{C(g)} & 35 & 300 \\\\ \\hline \\end{array}$$\n\n2. Niezależnie od przewidywanego kierunku przebiegu reakcji (1) oblicz jej stałą równowagi ($K_\\mathrm{p}$) w temp. $300\\,\\mathrm{K}$ oraz stopień przereagowania czystych substratów, pozostających początkowo w stosunku molowym 1:1.",
+     "orig_lang": "pl"
     }
    ]
   },
