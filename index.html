@@ -1128,10 +1128,10 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261113-pl-32';
+const DATA_VERSION = '20261114-us-1';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
-const REGION_OF = { icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', de: 'europe', pl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
+const REGION_OF = { us: 'americas', icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', de: 'europe', pl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
 const regionOf = key => REGION_OF[key] || 'other';
 const PAGE = 20;
 const STORAGE_KEY = 'eisatopon-chemistry:set:v1';  // same origin as the math and physics banks: keep the keys apart
@@ -1140,6 +1140,7 @@ const COUNTRIES = [
     { key: 'at', name: 'Austria', flag: '🇦🇹', file: 'Austria-theory-problems.json', kind: 'years', scope: 'national', full: 'Austrian Chemistry Olympiad, national competition, theoretical problems · problems © the Austrian Chemistry Olympiad · not affiliated with, endorsed by or supported by the Austrian Chemistry Olympiad' },
     { key: 'nsec', name: 'India – NSEC', flag: '🇮🇳', file: 'India-NSEC-problems.json', kind: 'years', scope: 'national', full: 'National Standard Examination in Chemistry (IAPT), first stage of the Indian chemistry olympiad · problems © IAPT · not affiliated with, endorsed by or supported by the Indian Association of Physics Teachers' },
     { key: 'in', name: 'India', flag: '🇮🇳', file: 'India-theory-problems.json', kind: 'years', scope: 'national', full: 'Indian National Chemistry Olympiad (INChO, HBCSE-TIFR), theory · problems © HBCSE-TIFR · not affiliated with, endorsed by or supported by HBCSE-TIFR or the Indian Olympiad programme' },
+    { key: 'us', name: 'USA – USNCO', flag: '🇺🇸', file: 'USA-USNCO-problems.json', kind: 'years', scope: 'national', full: 'U.S. National Chemistry Olympiad: Local Section Exam and National Exam Parts I–II · problems © the American Chemical Society · not affiliated with, endorsed by or supported by the American Chemical Society' },
     { key: 'ca', name: 'Canada', flag: '🇨🇦', file: 'Canada-theory-problems.json', kind: 'years', scope: 'national', full: 'Canadian Chemistry Contest (Parts A and B) and Canadian Chemistry Olympiad final selection (Part C) · problems © the Chemical Institute of Canada · not affiliated with, endorsed by or supported by the Chemical Institute of Canada' },
     { key: 'grpan', name: 'Greece – Panhellenic Exams', flag: '🇬🇷', file: 'Greece-panhellenic-exams-problems.json', kind: 'years', scope: 'entrance', full: 'Greek Panhellenic Examinations (university entrance), Chemistry, specialisation subject (Θετική Κατεύθυνση / Προσανατολισμού) · Greek original with English translation · problems © the Greek Ministry of Education · not affiliated with, endorsed by or supported by the Greek Ministry of Education' },
     { key: 'cypan', name: 'Cyprus – Pancyprian Exams', flag: '🇨🇾', file: 'Cyprus-pancyprian-exams-problems.json', kind: 'years', scope: 'entrance', full: 'Cyprus Pancyprian Examinations (university entrance), Chemistry, code 19 · Greek original with English translation · problems © the Cyprus Ministry of Education (Examinations Service) · not affiliated with, endorsed by or supported by the Cyprus Ministry of Education or its Examinations Service' },
@@ -2259,6 +2260,7 @@ const ORGANISERS = {
     bcho: () => ({name: 'Baltic Chemistry Olympiad', org: 'the Baltic Chemistry Olympiad organisers (archive of the University of Tartu)', rights: 'the Baltic Chemistry Olympiad organisers', aff: 'the Baltic Chemistry Olympiad or the University of Tartu'}),
     at: () => ({name: 'Austrian Chemistry Olympiad', org: 'the Austrian Chemistry Olympiad (oecho.at)', rights: 'the Austrian Chemistry Olympiad', aff: 'the Austrian Chemistry Olympiad'}),
     in: () => ({name: 'Indian National Chemistry Olympiad (INChO)', org: 'the Homi Bhabha Centre for Science Education (HBCSE-TIFR)', rights: 'HBCSE-TIFR', aff: 'HBCSE-TIFR or the Indian Olympiad programme'}),
+    us: () => ({name: 'U.S. National Chemistry Olympiad (USNCO)', org: 'the American Chemical Society (ACS)', rights: 'the American Chemical Society', aff: 'the American Chemical Society'}),
     ca: () => ({name: 'Canadian Chemistry Contest / Canadian Chemistry Olympiad', org: 'the Chemical Institute of Canada (CIC)', rights: 'the Chemical Institute of Canada', aff: 'the Chemical Institute of Canada'}),
     nsec: () => ({name: 'National Standard Examination in Chemistry (NSEC)', org: 'the Indian Association of Physics Teachers (IAPT)', rights: 'the Indian Association of Physics Teachers (IAPT)', aff: 'the Indian Association of Physics Teachers'}),
     gr: () => ({name: 'Panhellenic Student Chemistry Competition', org: 'the Association of Greek Chemists (EEX)', rights: 'the Association of Greek Chemists (EEX)', aff: 'the Association of Greek Chemists'}),
