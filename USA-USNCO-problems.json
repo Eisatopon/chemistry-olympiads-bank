@@ -2,6 +2,907 @@
  "competition": "U.S. National Chemistry Olympiad (USNCO)",
  "years": [
   {
+   "year": 2024,
+   "problems": [
+    {
+     "day": 1,
+     "number": 1,
+     "paper_label": "Local Section Exam",
+     "title": "Moles of ions in a sodium sulfate solution",
+     "problem": "Question 1 (Local Section Exam, multiple choice).\n\nHow many moles of ions are in $75.0\\,\\mathrm{mL}$ of a $1.20\\,\\mathrm{M}$ aqueous solution of sodium sulfate?\n(A) $0.090\\,\\mathrm{mol}$\n(B) $0.120\\,\\mathrm{mol}$\n(C) $0.180\\,\\mathrm{mol}$\n(D) $0.270\\,\\mathrm{mol}$"
+    },
+    {
+     "day": 1,
+     "number": 2,
+     "paper_label": "Local Section Exam",
+     "title": "Theoretical yield of ammonium chloride",
+     "problem": "Question 2 (Local Section Exam, multiple choice).\n\nWhen $3.00\\,\\mathrm{g}$ of $\\ce{NH3(g)}$ ($M = 17.03$) reacts with $18.0\\,\\mathrm{g}$ of $\\ce{HCl(g)}$ ($M = 36.46$), what is the theoretical yield of $\\ce{NH4Cl(s)}$?\n(A) $6.42\\,\\mathrm{g}$\n(B) $8.41\\,\\mathrm{g}$\n(C) $9.42\\,\\mathrm{g}$\n(D) $21.0\\,\\mathrm{g}$"
+    },
+    {
+     "day": 1,
+     "number": 3,
+     "paper_label": "Local Section Exam",
+     "title": "Fluorine atoms in a mass of CF2Cl2",
+     "problem": "Question 3 (Local Section Exam, multiple choice).\n\nHow many fluorine atoms are in $135\\,\\mathrm{g}$ of $\\ce{CF2Cl2}$?\n(A) $3.36 \\times 10^{23}$\n(B) $6.72 \\times 10^{23}$\n(C) $1.34 \\times 10^{24}$\n(D) $4.28 \\times 10^{24}$"
+    },
+    {
+     "day": 1,
+     "number": 4,
+     "paper_label": "Local Section Exam",
+     "title": "Copper content of a penny by iodometry",
+     "problem": "Question 4 (Local Section Exam, multiple choice).\n\nA 2024 US penny (which is a mixture of zinc and copper) is dissolved in dilute nitric acid, forming aqueous $\\ce{Cu^2+}$ and $\\ce{Zn^2+}$ ions. The resulting solution is treated with an excess of iodide ion, causing the $\\ce{Cu^2+}$ to react to form $\\ce{CuI(s)}$ and $\\ce{I3-(aq)}$. Subsequent titration with thiosulfate reveals that $4.93 \\times 10^{-4}\\,\\mathrm{mol}$ of $\\ce{I3-(aq)}$ was formed. What is the mass of copper in the penny?\n(A) $31.3\\,\\mathrm{mg}$\n(B) $62.7\\,\\mathrm{mg}$\n(C) $125\\,\\mathrm{mg}$\n(D) $188\\,\\mathrm{mg}$"
+    },
+    {
+     "day": 1,
+     "number": 5,
+     "paper_label": "Local Section Exam",
+     "title": "Concentration after dilution of benzoic acid",
+     "problem": "Question 5 (Local Section Exam, multiple choice).\n\n$1.22\\,\\mathrm{g}$ of benzoic acid ($\\ce{C7H6O2}$, $M = 122.12$) is dissolved in water to a total volume of $150.0\\,\\mathrm{mL}$. A $10.0\\,\\mathrm{mL}$ sample of this solution is then withdrawn and diluted to $500.0\\,\\mathrm{mL}$. What is the concentration of benzoic acid in the final solution?\n(A) $0.00133\\,\\mathrm{M}$\n(B) $0.00266\\,\\mathrm{M}$\n(C) $0.0200\\,\\mathrm{M}$\n(D) $0.122\\,\\mathrm{M}$"
+    },
+    {
+     "day": 1,
+     "number": 6,
+     "paper_label": "Local Section Exam",
+     "title": "Lowest freezing point among aqueous solutions",
+     "problem": "Question 6 (Local Section Exam, multiple choice).\n\nA $0.75\\,m$ aqueous solution of which substance has the lowest freezing point?\n(A) $\\ce{HF}$\n(B) $\\ce{HI}$\n(C) $\\ce{H3PO4}$\n(D) $\\ce{CH3COOH}$"
+    },
+    {
+     "day": 1,
+     "number": 7,
+     "paper_label": "Local Section Exam",
+     "title": "Apparatus for collecting barium sulfate",
+     "problem": "Question 7 (Local Section Exam, multiple choice).\n\nWhich apparatus would be most suitable for collecting a sample of solid barium sulfate produced through the reaction of aqueous solutions of barium hydroxide and sulfuric acid?\n(A) Barometer\n(B) Beaker\n(C) Büchner funnel\n(D) Buret"
+    },
+    {
+     "day": 1,
+     "number": 8,
+     "paper_label": "Local Section Exam",
+     "title": "Information needed to find molarity",
+     "problem": "Question 8 (Local Section Exam, multiple choice).\n\nA solution is prepared by dissolving $10.00\\,\\mathrm{g}$ of a salt in $90.00\\,\\mathrm{g}$ of water. What additional information is needed to calculate the molarity of this solution?\nI. The molar mass of the salt\nII. The density of the solution\n(A) I alone would allow one to calculate the molarity.\n(B) II alone would allow one to calculate the molarity.\n(C) I and II together would allow one to calculate the molarity.\n(D) The molarity cannot be calculated even if both I and II are known."
+    },
+    {
+     "day": 1,
+     "number": 9,
+     "paper_label": "Local Section Exam",
+     "title": "Which salt gives a colorless solution",
+     "problem": "Question 9 (Local Section Exam, multiple choice).\n\nWhich substance dissolves to give a colorless solution?\n(A) $\\ce{KClO4}$\n(B) $\\ce{K2CrO4}$\n(C) $\\ce{KMnO4}$\n(D) $\\ce{K3Fe(CN)6}$"
+    },
+    {
+     "day": 1,
+     "number": 10,
+     "paper_label": "Local Section Exam",
+     "title": "Substance that does not release heat in water",
+     "problem": "Question 10 (Local Section Exam, multiple choice).\n\nWhich substance does not give off heat when added to water?\n(A) $\\ce{NaOH}$\n(B) $\\ce{KNO3}$\n(C) $\\ce{H2SO4}$\n(D) $\\ce{CaO}$"
+    },
+    {
+     "day": 1,
+     "number": 11,
+     "paper_label": "Local Section Exam",
+     "title": "Cation absent from a nitrate solution",
+     "problem": "Question 11 (Local Section Exam, multiple choice).\n\nA solution of a nitrate salt does not form a precipitate when treated with dilute sulfuric acid. Which cation is not present in this solution?\n(A) $\\ce{NH4+}$\n(B) $\\ce{Al^3+}$\n(C) $\\ce{Fe^2+}$\n(D) $\\ce{Pb^2+}$"
+    },
+    {
+     "day": 1,
+     "number": 12,
+     "paper_label": "Local Section Exam",
+     "title": "Distinguishing bromine isotopes",
+     "problem": "Question 12 (Local Section Exam, multiple choice).\n\nWhich measurement would be least able to distinguish between a sample of elemental bromine prepared using exclusively the $\\ce{^{79}Br}$ isotope ($\\ce{^{79}Br2}$) and one prepared using exclusively the $\\ce{^{81}Br}$ isotope ($\\ce{^{81}Br2}$)?\n(A) Infrared spectroscopy\n(B) Liquid density\n(C) Mass spectrometry\n(D) Vapor density"
+    },
+    {
+     "day": 1,
+     "number": 13,
+     "paper_label": "Local Section Exam",
+     "title": "Identifying a white crystalline solid",
+     "problem": "Question 13 (Local Section Exam, multiple choice).\n\nA white crystalline solid melts at $400\\,^\\circ\\mathrm{C}$ and dissolves in water to give an electrically conducting solution. Which is it?\n(A) $\\ce{LiOH}$\n(B) $\\ce{C12H22O11}$\n(C) $\\ce{SiO2}$\n(D) $\\ce{Cu}$"
+    },
+    {
+     "day": 1,
+     "number": 14,
+     "paper_label": "Local Section Exam",
+     "title": "Final pressure after mixing two gases",
+     "problem": "Question 14 (Local Section Exam, multiple choice).\n\nA $10.0\\,\\mathrm{L}$ vessel containing $5.0\\,\\mathrm{atm}$ of He and a $3.0\\,\\mathrm{L}$ vessel containing $10.0\\,\\mathrm{atm}$ of Ar are connected by a valve. The valve is opened and the gases are allowed to mix at constant temperature. What is the final pressure in the vessels?\n(A) $2.3\\,\\mathrm{atm}$\n(B) $3.8\\,\\mathrm{atm}$\n(C) $6.2\\,\\mathrm{atm}$\n(D) $7.5\\,\\mathrm{atm}$"
+    },
+    {
+     "day": 1,
+     "number": 15,
+     "paper_label": "Local Section Exam",
+     "title": "Particle diagram of a two-component mixture",
+     "problem": "Question 15 (Local Section Exam, multiple choice).\n\nA mixture of $\\mathbf{A}$ (whose molecules are represented by rectangles) and $\\mathbf{B}$ (whose molecules are represented by ovals) is represented schematically below. Which is the best description of this mixture?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-15-fig1.png\n\n(A) $\\mathbf{A}$ is dissolved in liquid $\\mathbf{B}$.\n(B) $\\mathbf{A}$ is a crystalline solid in the presence of liquid $\\mathbf{B}$.\n(C) $\\mathbf{A}$ and $\\mathbf{B}$ are crystalline solids with $\\mathbf{A}$ denser than $\\mathbf{B}$.\n(D) $\\mathbf{A}$ and $\\mathbf{B}$ are immiscible liquids with $\\mathbf{A}$ denser than $\\mathbf{B}$."
+    },
+    {
+     "day": 1,
+     "number": 16,
+     "paper_label": "Local Section Exam",
+     "title": "Phases present at the triple point of ammonia",
+     "problem": "Question 16 (Local Section Exam, multiple choice).\n\nWhich statement best describes a sample of ammonia at equilibrium at its triple point ($195.4\\,\\mathrm{K}$, $0.0606\\,\\mathrm{bar}$)?\n(A) Gaseous ammonia must be present, and solid or liquid ammonia may be present.\n(B) Liquid ammonia must be present, and solid or gaseous ammonia may be present.\n(C) Solid ammonia must be present, and liquid or gaseous ammonia may be present.\n(D) Gaseous, liquid, and solid ammonia must all be present."
+    },
+    {
+     "day": 1,
+     "number": 17,
+     "paper_label": "Local Section Exam",
+     "title": "Compound with the largest lattice energy",
+     "problem": "Question 17 (Local Section Exam, multiple choice).\n\nWhich compound's lattice energy is largest in magnitude?\n(A) $\\ce{LiF}$\n(B) $\\ce{NaCl}$\n(C) $\\ce{MgO}$\n(D) $\\ce{CaS}$"
+    },
+    {
+     "day": 1,
+     "number": 18,
+     "paper_label": "Local Section Exam",
+     "title": "Nearest neighbors in a body-centered cubic metal",
+     "problem": "Question 18 (Local Section Exam, multiple choice).\n\nTantalum crystallizes in a body-centered cubic structure. How many nearest neighbors does each tantalum atom have?\n(A) $4$\n(B) $6$\n(C) $8$\n(D) $12$"
+    },
+    {
+     "day": 1,
+     "number": 19,
+     "paper_label": "Local Section Exam",
+     "title": "Correct statement about phase transitions",
+     "problem": "Question 19 (Local Section Exam, multiple choice).\n\nWhich statement about phase transitions is correct?\n(A) Melting is endothermic and freezing is exothermic.\n(B) Vaporization is exothermic and condensation is endothermic.\n(C) The enthalpy change for a spontaneous phase transition is always positive.\n(D) The entropy change for a spontaneous phase transition is always positive."
+    },
+    {
+     "day": 1,
+     "number": 20,
+     "paper_label": "Local Section Exam",
+     "title": "Reaction enthalpy from bond enthalpies",
+     "problem": "Question 20 (Local Section Exam, multiple choice).\n\nBased on the given bond dissociation enthalpies (BDEs), what is $\\Delta H^\\circ_{\\mathrm{rxn}}$ for the addition of methane to ethyne to give propene?\n\n$$\\ce{CH4(g) + HC#CH(g) -> CH3CH=CH2(g)} \\qquad \\Delta H^\\circ_{\\mathrm{rxn}} = \\ ???$$\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Bond} & \\text{BDE},\\ \\mathrm{kJ\\,mol^{-1}} & \\text{Bond} & \\text{BDE},\\ \\mathrm{kJ\\,mol^{-1}} \\\\\n\\hline\n\\ce{C-H} & 415 & \\ce{C=C} & 611 \\\\\n\\hline\n\\ce{C-C} & 345 & \\ce{C#C} & 837 \\\\\n\\hline\n\\end{array}$$\n\n(A) $-119\\,\\mathrm{kJ\\,mol^{-1}}$\n(B) $-196\\,\\mathrm{kJ\\,mol^{-1}}$\n(C) $-259\\,\\mathrm{kJ\\,mol^{-1}}$\n(D) $-296\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 21,
+     "paper_label": "Local Section Exam",
+     "title": "Conditions for a nonspontaneous reaction",
+     "problem": "Question 21 (Local Section Exam, multiple choice).\n\nWhich statements must be true for a nonspontaneous gas-phase chemical reaction at constant temperature and pressure?\nI. $\\Delta G > 0$\nII. $K_{\\mathrm{p}} < 1$\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 1,
+     "number": 22,
+     "paper_label": "Local Section Exam",
+     "title": "Entropy of vaporization of benzene",
+     "problem": "Question 22 (Local Section Exam, multiple choice).\n\nBenzene, $\\ce{C6H6}$, has $\\Delta H^\\circ_{\\mathrm{vap}} = 30.7\\,\\mathrm{kJ\\,mol^{-1}}$ at its normal boiling point of $80.1\\,^\\circ\\mathrm{C}$. What is $\\Delta S^\\circ_{\\mathrm{vap}}$ at this temperature?\n(A) $10.5\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}$\n(B) $86.9\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}$\n(C) $255\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}$\n(D) $383\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 23,
+     "paper_label": "Local Section Exam",
+     "title": "Reaction with a negative entropy change",
+     "problem": "Question 23 (Local Section Exam, multiple choice).\n\nWhich reaction has $\\Delta S^\\circ < 0$ ?\n(A) $\\ce{C(s, graphite) -> C(s, diamond)}$\n(B) $\\ce{N2O4(g) -> 2 NO2(g)}$\n(C) $\\ce{I2(s) -> I2(g)}$\n(D) $\\ce{NH4+(aq) + CH3COO-(aq) -> NH3(aq) + CH3COOH(aq)}$"
+    },
+    {
+     "day": 1,
+     "number": 24,
+     "paper_label": "Local Section Exam",
+     "title": "Solubility product of lead(II) chloride",
+     "problem": "Question 24 (Local Section Exam, multiple choice).\n\nWhat is the $K_{\\mathrm{sp}}$ of $\\ce{PbCl2}$ at $298\\,\\mathrm{K}$?\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{Species} & \\Delta H^\\circ_{\\mathrm{f}},\\ \\mathrm{kJ\\,mol^{-1}} & S^\\circ,\\ \\mathrm{J\\,mol^{-1}\\,K^{-1}} \\\\\n\\hline\n\\ce{Pb^2+(aq)} & -1.7 & 10.5 \\\\\n\\hline\n\\ce{PbCl2(s)} & -359.4 & 136.0 \\\\\n\\hline\n\\ce{Cl-(aq)} & -167.2 & 56.5 \\\\\n\\hline\n\\end{array}$$\n\n(A) $1.2 \\times 10^{-11}$\n(B) $1.8 \\times 10^{-5}$\n(C) $8.2 \\times 10^{-5}$\n(D) $3.7 \\times 10^{-4}$"
+    },
+    {
+     "day": 1,
+     "number": 25,
+     "paper_label": "Local Section Exam",
+     "title": "Rate of change of product concentration",
+     "problem": "Question 25 (Local Section Exam, multiple choice).\n\nEthanol ($\\ce{C2H5OH}$) is oxidized to acetaldehyde ($\\ce{CH3CHO}$) by dichromate ions in acidic solution according to the following equation:\n\n$$\\ce{3 C2H5OH(aq) + Cr2O7^2-(aq) + 8 H+(aq) -> 3 CH3CHO(aq) + 2 Cr^3+(aq) + 7 H2O(l)}$$\n\nIf the concentration of $\\ce{Cr^3+(aq)}$ is increasing at a rate of $0.18\\,\\mathrm{M\\,s^{-1}}$, at what rate is the concentration of $\\ce{CH3CHO(aq)}$ changing?\n(A) Increasing at $0.12\\,\\mathrm{M\\,s^{-1}}$\n(B) Increasing at $0.27\\,\\mathrm{M\\,s^{-1}}$\n(C) Decreasing at $0.12\\,\\mathrm{M\\,s^{-1}}$\n(D) Decreasing at $0.27\\,\\mathrm{M\\,s^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 26,
+     "paper_label": "Local Section Exam",
+     "title": "Why a gas-phase reaction rate doubles",
+     "problem": "Question 26 (Local Section Exam, multiple choice).\n\nA reaction in the gas phase doubles in rate on increasing the temperature from $10\\,^\\circ\\mathrm{C}$ to $20\\,^\\circ\\mathrm{C}$. Which is the best explanation for the increase in reaction rate?\n(A) The pressure doubles.\n(B) The number of particles above a minimum activation energy doubles.\n(C) The average kinetic energy of the molecules doubles.\n(D) The number of collisions per unit time doubles."
+    },
+    {
+     "day": 1,
+     "number": 27,
+     "paper_label": "Local Section Exam",
+     "title": "Rate law of an irreversible reaction",
+     "problem": "Question 27 (Local Section Exam, multiple choice).\n\nAn irreversible reaction occurs as follows:\n\n$$\\ce{2 A(g) + B(g) -> C(g) + D(g)}$$\n\nWhat is the rate law for this reaction?\n(A) $\\text{Rate} = k[\\mathrm{A}][\\mathrm{B}]$\n(B) $\\text{Rate} = k[\\mathrm{A}]^2[\\mathrm{B}]$\n(C) $\\text{Rate} = k[2\\mathrm{A}][\\mathrm{B}]$\n(D) It cannot be determined from the information given."
+    },
+    {
+     "day": 1,
+     "number": 28,
+     "paper_label": "Local Section Exam",
+     "title": "Time for strontium-90 activity to decay",
+     "problem": "Question 28 (Local Section Exam, multiple choice).\n\nThe half-life of $\\ce{^{90}Sr}$ is $28$ years. How long is required for the level of radioactivity to drop to $1.5\\%$ of its initial value?\n(A) $0.42\\ \\text{years}$\n(B) $40\\ \\text{years}$\n(C) $55\\ \\text{years}$\n(D) $170\\ \\text{years}$"
+    },
+    {
+     "day": 1,
+     "number": 29,
+     "paper_label": "Local Section Exam",
+     "title": "Effect of a catalyst on Ea and enthalpy change",
+     "problem": "Question 29 (Local Section Exam, multiple choice).\n\nAn uncatalyzed reaction has an activation energy $E_{\\mathrm{a}} = 50\\,\\mathrm{kJ\\,mol^{-1}}$ and an enthalpy change $\\Delta H^\\circ = -10\\,\\mathrm{kJ\\,mol^{-1}}$. In the presence of a catalyst, what might these values become?\n(A) $E_{\\mathrm{a}} = 30\\,\\mathrm{kJ\\,mol^{-1}},\\ \\Delta H^\\circ = -10\\,\\mathrm{kJ\\,mol^{-1}}$\n(B) $E_{\\mathrm{a}} = 50\\,\\mathrm{kJ\\,mol^{-1}},\\ \\Delta H^\\circ = -15\\,\\mathrm{kJ\\,mol^{-1}}$\n(C) $E_{\\mathrm{a}} = 60\\,\\mathrm{kJ\\,mol^{-1}},\\ \\Delta H^\\circ = -20\\,\\mathrm{kJ\\,mol^{-1}}$\n(D) $E_{\\mathrm{a}} = -10\\,\\mathrm{kJ\\,mol^{-1}},\\ \\Delta H^\\circ = 50\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 1,
+     "number": 30,
+     "paper_label": "Local Section Exam",
+     "title": "Predicted rate law for chlorine-catalyzed decomposition",
+     "problem": "Question 30 (Local Section Exam, multiple choice).\n\nChlorine gas catalyzes the gas-phase decomposition of nitrous oxide according to the equation\n\n$$\\ce{2 N2O -> 2 N2 + O2}$$\n\nThe following mechanism is proposed for the catalyzed reaction:\n\n$$\\begin{array}{lr}\n\\ce{Cl2 <=> 2 Cl} & \\textit{fast, unfavorable} \\\\\n\\ce{Cl + N2O -> N2 + ClO} & \\textit{slow} \\\\\n\\ce{ClO + N2O -> N2 + ClO2} & \\textit{fast} \\\\\n\\ce{ClO2 + Cl -> Cl2 + O2} & \\textit{fast}\n\\end{array}$$\n\nWhat rate law is predicted by this mechanism?\n(A) $\\text{Rate} = k[\\ce{N2O}]$\n(B) $\\text{Rate} = k[\\ce{N2O}]^2$\n(C) $\\text{Rate} = k[\\ce{N2O}][\\ce{Cl2}]$\n(D) $\\text{Rate} = k[\\ce{N2O}][\\ce{Cl2}]^{1/2}$"
+    },
+    {
+     "day": 1,
+     "number": 31,
+     "paper_label": "Local Section Exam",
+     "title": "Equilibrium constant for formic acid with hydroxide",
+     "problem": "Question 31 (Local Section Exam, multiple choice).\n\nThe $K_{\\mathrm{a}}$ of formic acid is $1.8 \\times 10^{-4}$. What is the equilibrium constant for the reaction below?\n\n$$\\ce{HCO2H + OH- <=> HCO2- + H2O}$$\n\n(A) $5.6 \\times 10^{-11}$\n(B) $5.6 \\times 10^{3}$\n(C) $1.8 \\times 10^{10}$\n(D) $5.6 \\times 10^{17}$"
+    },
+    {
+     "day": 1,
+     "number": 32,
+     "paper_label": "Local Section Exam",
+     "title": "Adding CO2 to a calcium carbonate equilibrium",
+     "problem": "Question 32 (Local Section Exam, multiple choice).\n\nSolid calcium carbonate is in equilibrium as described below:\n\n$$\\ce{Ca^2+(aq) + 2 HCO3-(aq) <=> CaCO3(s) + CO2(g) + H2O(l)}$$\n\nIf $\\ce{CO2(g)}$ is added to this system in a rigid container, which changes will take place?\nI. Additional $\\ce{CaCO3(s)}$ will precipitate.\nII. The pH will increase.\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 1,
+     "number": 33,
+     "paper_label": "Local Section Exam",
+     "title": "Most stable crystalline form of calcium carbonate",
+     "problem": "Question 33 (Local Section Exam, multiple choice).\n\nCalcium carbonate occurs in two common crystalline forms, calcite ($K_{\\mathrm{sp}} = 3.4 \\times 10^{-9}$) and aragonite ($K_{\\mathrm{sp}} = 6.0 \\times 10^{-9}$). Which of these is most thermodynamically stable?\n(A) Calcite\n(B) Aragonite\n(C) The two forms are equally stable.\n(D) The relative stability cannot be determined from the $K_{\\mathrm{sp}}$ values."
+    },
+    {
+     "day": 1,
+     "number": 34,
+     "paper_label": "Local Section Exam",
+     "title": "pH of a hydroiodic acid solution",
+     "problem": "Question 34 (Local Section Exam, multiple choice).\n\nWhat is the pH of a $0.043\\,\\mathrm{M}$ solution of $\\ce{HI}$?\n(A) $0.04$\n(B) $1.37$\n(C) $1.67$\n(D) $3.15$"
+    },
+    {
+     "day": 1,
+     "number": 35,
+     "paper_label": "Local Section Exam",
+     "title": "Equilibrium partial pressure of NO at 1200 K",
+     "problem": "Question 35 (Local Section Exam, multiple choice).\n\nAt $1200\\,\\mathrm{K}$, the equilibrium constant for the reaction\n\n$$\\ce{N2(g) + O2(g) <=> 2 NO(g)}$$\n\nis $K_{\\mathrm{p}} = 2.9 \\times 10^{-7}$. A mixture of $0.79\\,\\mathrm{bar}$ $\\ce{N2}$ and $0.21\\,\\mathrm{bar}$ $\\ce{O2}$ is prepared at $300\\,\\mathrm{K}$ and heated to $1200\\,\\mathrm{K}$ while maintaining a constant total pressure of $1.00\\,\\mathrm{bar}$. What is the equilibrium partial pressure of $\\ce{NO(g)}$ at $1200\\,\\mathrm{K}$?\n(A) $2.4 \\times 10^{-8}\\,\\mathrm{bar}$\n(B) $1.1 \\times 10^{-4}\\,\\mathrm{bar}$\n(C) $2.2 \\times 10^{-4}\\,\\mathrm{bar}$\n(D) $5.4 \\times 10^{-4}\\,\\mathrm{bar}$"
+    },
+    {
+     "day": 1,
+     "number": 36,
+     "paper_label": "Local Section Exam",
+     "title": "Sulfate needed to precipitate strontium sulfate",
+     "problem": "Question 36 (Local Section Exam, multiple choice).\n\nSodium sulfate is slowly added to $1.00\\,\\mathrm{L}$ of a solution that is $0.10\\,\\mathrm{M}$ in both $\\ce{Pb^2+(aq)}$ and $\\ce{Sr^2+(aq)}$. How much $\\ce{Na2SO4}$ must be added to induce precipitation of $\\ce{SrSO4}$? The $K_{\\mathrm{sp}}$ of $\\ce{PbSO4}$ is $1.8 \\times 10^{-8}$ and the $K_{\\mathrm{sp}}$ of $\\ce{SrSO4}$ is $3.5 \\times 10^{-7}$.\n(A) $3.3 \\times 10^{-6}\\,\\mathrm{mol}$\n(B) $3.5 \\times 10^{-6}\\,\\mathrm{mol}$\n(C) $5.9 \\times 10^{-4}\\,\\mathrm{mol}$\n(D) $9.5 \\times 10^{-2}\\,\\mathrm{mol}$"
+    },
+    {
+     "day": 1,
+     "number": 37,
+     "paper_label": "Local Section Exam",
+     "title": "Oxidation number of carbon in methanol",
+     "problem": "Question 37 (Local Section Exam, multiple choice).\n\nWhat is the oxidation number of carbon in methanol, $\\ce{CH3OH}$?\n(A) $-2$\n(B) $0$\n(C) $+2$\n(D) $+4$"
+    },
+    {
+     "day": 1,
+     "number": 38,
+     "paper_label": "Local Section Exam",
+     "title": "Cathode and voltage of a silver-platinum cell",
+     "problem": "Question 38 (Local Section Exam, multiple choice).\n\nA standard galvanic cell is assembled from silver and platinum in $1\\,M$ solutions of the corresponding metal ions. Which metal would be labeled the cathode, and what is the voltage of the standard galvanic cell?\n\n$$\\begin{array}{|c|c|}\n\\hline\n\\text{Half-reaction} & E^\\circ,\\ \\mathrm{V} \\\\\n\\hline\n\\ce{Pt^2+(aq) + 2 e- -> Pt(s)} & 1.20 \\\\\n\\hline\n\\ce{Ag+(aq) + e- -> Ag(s)} & 0.80 \\\\\n\\hline\n\\end{array}$$\n\n(A) $\\ce{Ag}$ cathode, $E^\\circ = 1.60\\,\\mathrm{V}$\n(B) $\\ce{Pt}$ cathode, $E^\\circ = 1.20\\,\\mathrm{V}$\n(C) $\\ce{Ag}$ cathode, $E^\\circ = 0.80\\,\\mathrm{V}$\n(D) $\\ce{Pt}$ cathode, $E^\\circ = 0.40\\,\\mathrm{V}$"
+    },
+    {
+     "day": 1,
+     "number": 39,
+     "paper_label": "Local Section Exam",
+     "title": "Time to electroplate silver on a spoon",
+     "problem": "Question 39 (Local Section Exam, multiple choice).\n\nA spoon is electroplated in a solution of $1.0\\,M$ silver nitrate with a current of $0.10\\,\\mathrm{A}$. How long does it take to plate $0.10\\,\\mathrm{g}$ of silver on the spoon?\n(A) $5.0\\,\\mathrm{min}$\n(B) $10.\\,\\mathrm{min}$\n(C) $15.\\,\\mathrm{min}$\n(D) $30.\\,\\mathrm{min}$"
+    },
+    {
+     "day": 1,
+     "number": 40,
+     "paper_label": "Local Section Exam",
+     "title": "Anode product in electrolysis of sodium iodide",
+     "problem": "Question 40 (Local Section Exam, multiple choice).\n\nAqueous sulfuric acid containing $1.0\\,M$ $\\ce{NaI}$ is electrolyzed at glassy carbon electrodes. What is produced at the anode?\n(A) $\\ce{H2}$\n(B) $\\ce{O2}$\n(C) $\\ce{I2}$\n(D) $\\ce{SO2}$"
+    },
+    {
+     "day": 1,
+     "number": 41,
+     "paper_label": "Local Section Exam",
+     "title": "Temperature dependence of a cell potential",
+     "problem": "Question 41 (Local Section Exam, multiple choice).\n\nA certain galvanic cell has a standard cell potential that increases with increasing temperature. Which best explains this observation?\n(A) $\\Delta H^\\circ_{\\mathrm{rxn}} > 0$\n(B) $\\Delta S^\\circ_{\\mathrm{rxn}} > 0$\n(C) $\\Delta G^\\circ_{\\mathrm{rxn}} > 0$\n(D) $E^\\circ > 0$"
+    },
+    {
+     "day": 1,
+     "number": 42,
+     "paper_label": "Local Section Exam",
+     "title": "Standard potential of lead dioxide reduction to lead",
+     "problem": "Question 42 (Local Section Exam, multiple choice).\n\nWhat is the standard reduction potential under acidic conditions for the reduction of $\\ce{PbO2(s)}$ to $\\ce{Pb(s)}$?\n\n$$\\ce{PbO2(s) + 4 H+(aq) + 4 e- -> Pb(s) + 2 H2O(l)} \\qquad E^\\circ = \\ ???$$\n\n$$\\begin{array}{|c|c|}\n\\hline\n\\text{Half-reaction} & E^\\circ,\\ \\mathrm{V} \\\\\n\\hline\n\\ce{PbO2(s) + 4 H+(aq) + 2 e- -> Pb^2+(aq) + 2 H2O(l)} & 1.468 \\\\\n\\hline\n\\ce{Pb^2+(aq) + 2 e- -> Pb(s)} & -0.126 \\\\\n\\hline\n\\end{array}$$\n\n(A) $0.671\\,\\mathrm{V}$\n(B) $0.797\\,\\mathrm{V}$\n(C) $1.342\\,\\mathrm{V}$\n(D) $1.594\\,\\mathrm{V}$"
+    },
+    {
+     "day": 1,
+     "number": 43,
+     "paper_label": "Local Section Exam",
+     "title": "Element with electronegativity closest to sulfur",
+     "problem": "Question 43 (Local Section Exam, multiple choice).\n\nWhich element's electronegativity is most similar to that of sulfur ($\\ce{S}$)?\n(A) $\\ce{O}$\n(B) $\\ce{F}$\n(C) $\\ce{As}$\n(D) $\\ce{Se}$"
+    },
+    {
+     "day": 1,
+     "number": 44,
+     "paper_label": "Local Section Exam",
+     "title": "Energies of atoms after emitting red and blue light",
+     "problem": "Question 44 (Local Section Exam, multiple choice).\n\nTwo atoms of the same element, $\\mathbf{A}$ and $\\mathbf{B}$, are in identical excited states. Atom $\\mathbf{A}$ emits a photon of red light, while atom $\\mathbf{B}$ emits a photon of blue light. Which statement best describes the energies of the two atoms after the emission of light?\n(A) Atom $\\mathbf{A}$ is in a lower-energy state than atom $\\mathbf{B}$.\n(B) Atom $\\mathbf{A}$ is in a higher-energy state than atom $\\mathbf{B}$.\n(C) Atom $\\mathbf{A}$ and atom $\\mathbf{B}$ have the same energy.\n(D) The relative energies of $\\mathbf{A}$ and $\\mathbf{B}$ cannot be determined from the information given."
+    },
+    {
+     "day": 1,
+     "number": 45,
+     "paper_label": "Local Section Exam",
+     "title": "Quantum numbers of two spherical orbitals",
+     "problem": "Question 45 (Local Section Exam, multiple choice).\n\nTwo orbitals in an atom are both spherically symmetric but differ in size. Which statements about the orbitals' quantum numbers must be correct?\nI. The two orbitals have different values of $n$.\nII. The two orbitals have the same value of $m_l$.\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 1,
+     "number": 46,
+     "paper_label": "Local Section Exam",
+     "title": "Pair of species with the same electron configuration",
+     "problem": "Question 46 (Local Section Exam, multiple choice).\n\nWhich is a pair of gas-phase species with the same ground state electron configuration?\n(A) $\\ce{V} \\text{ and } \\ce{Cr+}$\n(B) $\\ce{Mn+} \\text{ and } \\ce{Fe-}$\n(C) $\\ce{Ni} \\text{ and } \\ce{Pd}$\n(D) $\\ce{Zn} \\text{ and } \\ce{Ga+}$"
+    },
+    {
+     "day": 1,
+     "number": 47,
+     "paper_label": "Local Section Exam",
+     "title": "Reduction potentials of group 10 metal ions",
+     "problem": "Question 47 (Local Section Exam, multiple choice).\n\nWhich list arranges from highest to lowest the standard reduction potentials $E^\\circ$ for reduction of the divalent group 10 metal ions $\\ce{M^2+(aq)}$ to $\\ce{M(s)}$?\n(A) $\\ce{Ni} > \\ce{Pd} > \\ce{Pt}$\n(B) $\\ce{Pt} > \\ce{Pd} > \\ce{Ni}$\n(C) $\\ce{Pd} > \\ce{Ni} > \\ce{Pt}$\n(D) $\\ce{Pd} > \\ce{Pt} > \\ce{Ni}$"
+    },
+    {
+     "day": 1,
+     "number": 48,
+     "paper_label": "Local Section Exam",
+     "title": "Identifying a fissile nucleus",
+     "problem": "Question 48 (Local Section Exam, multiple choice).\n\nA nucleus absorbs a neutron and undergoes fission to produce $\\ce{^{103}_{40}Zr}$, $\\ce{^{134}_{54}Xe}$, and three additional neutrons. What is the fissile nucleus?\n(A) $\\ce{^{235}U}$\n(B) $\\ce{^{237}U}$\n(C) $\\ce{^{237}Pu}$\n(D) $\\ce{^{239}Pu}$"
+    },
+    {
+     "day": 1,
+     "number": 49,
+     "paper_label": "Local Section Exam",
+     "title": "Species with the shortest bond to nitrogen",
+     "problem": "Question 49 (Local Section Exam, multiple choice).\n\nWhich species has the shortest bond to nitrogen?\n(A) $\\ce{HCN}$\n(B) $\\ce{N2O4}$\n(C) $\\ce{NO2}$\n(D) $\\ce{NO2-}$"
+    },
+    {
+     "day": 1,
+     "number": 50,
+     "paper_label": "Local Section Exam",
+     "title": "Lone pairs in the ozone Lewis structure",
+     "problem": "Question 50 (Local Section Exam, multiple choice).\n\nHow many lone pairs are there in a valid Lewis structure of ozone, $\\ce{O3}$?\n(A) $6$\n(B) $7$\n(C) $8$\n(D) $9$"
+    },
+    {
+     "day": 1,
+     "number": 51,
+     "paper_label": "Local Section Exam",
+     "title": "Which species is linear",
+     "problem": "Question 51 (Local Section Exam, multiple choice).\n\nWhich species is linear?\n(A) $\\ce{H2F+}$\n(B) $\\ce{FCO+}$\n(C) $\\ce{FNO}$\n(D) $\\ce{N2F2}$"
+    },
+    {
+     "day": 1,
+     "number": 52,
+     "paper_label": "Local Section Exam",
+     "title": "Bond length of NO- compared with NO",
+     "problem": "Question 52 (Local Section Exam, multiple choice).\n\nAnionic $\\ce{NO-}$ has a longer bond than neutral $\\ce{NO}$. Which is the best explanation for this difference?\n(A) $\\ce{NO-}$ has two unpaired electrons while $\\ce{NO}$ has only one.\n(B) $\\ce{NO-}$ has a double bond while $\\ce{NO}$ has a triple bond.\n(C) $\\ce{NO-}$ has one more $\\sigma$ antibonding electron than $\\ce{NO}$.\n(D) $\\ce{NO-}$ has one more $\\pi$ antibonding electron than $\\ce{NO}$."
+    },
+    {
+     "day": 1,
+     "number": 53,
+     "paper_label": "Local Section Exam",
+     "title": "Three-dimensional structure of nitramide",
+     "problem": "Question 53 (Local Section Exam, multiple choice).\n\nWhich is the best representation of the three-dimensional arrangement of the atoms in nitramide, $\\ce{H2NNO2}$?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-53-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 54,
+     "paper_label": "Local Section Exam",
+     "title": "Stereoisomers of a square planar platinum complex",
+     "problem": "Question 54 (Local Section Exam, multiple choice).\n\nHow many stereoisomers are possible for the square planar complex $\\ce{Pt(NH2CH2CH2NH2)(C2O4)}$?\n(A) $1$\n(B) $2$\n(C) $3$\n(D) $4$"
+    },
+    {
+     "day": 1,
+     "number": 55,
+     "paper_label": "Local Section Exam",
+     "title": "Relationship between two chlorinated molecules",
+     "problem": "Question 55 (Local Section Exam, multiple choice).\n\nWhat is the relationship between these two molecules?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-55-fig1.png\n\n(A) Identical\n(B) Enantiomers\n(C) Diastereomers\n(D) Structural isomers"
+    },
+    {
+     "day": 1,
+     "number": 56,
+     "paper_label": "Local Section Exam",
+     "title": "Strongest halogenated acetic acid",
+     "problem": "Question 56 (Local Section Exam, multiple choice).\n\nWhich is the strongest acid?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-56-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 57,
+     "paper_label": "Local Section Exam",
+     "title": "Which molecule is not aromatic",
+     "problem": "Question 57 (Local Section Exam, multiple choice).\n\nWhich molecule is not aromatic?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-57-fig1.png"
+    },
+    {
+     "day": 1,
+     "number": 58,
+     "paper_label": "Local Section Exam",
+     "title": "Redox properties of alcohols",
+     "problem": "Question 58 (Local Section Exam, multiple choice).\n\nWhich statement best describes the redox properties of alcohols?\n(A) Primary alcohols are oxidized to ketones by acidic dichromate.\n(B) Ketones are reduced to primary alcohols by sodium borohydride.\n(C) Secondary alcohols are oxidized to ketones by acidic dichromate.\n(D) Tertiary alcohols are oxidized to esters by acidic dichromate."
+    },
+    {
+     "day": 1,
+     "number": 59,
+     "paper_label": "Local Section Exam",
+     "title": "Role of the acid catalyst in Fischer esterification",
+     "problem": "Question 59 (Local Section Exam, multiple choice).\n\nAcetic acid reacts with ethanol in the presence of a strong acid catalyst to form ethyl acetate (the Fischer esterification reaction). What is the role of the acid catalyst?\n(A) It makes the carboxylic acid more electrophilic by protonating the carbonyl oxygen.\n(B) It makes the ethanol more nucleophilic by protonating the hydroxyl oxygen.\n(C) It converts the hydroxyl group of ethanol to a better leaving group.\n(D) It shifts the equilibrium in the direction of the ester product."
+    },
+    {
+     "day": 1,
+     "number": 60,
+     "paper_label": "Local Section Exam",
+     "title": "Products of glucose with methanol under acid",
+     "problem": "Question 60 (Local Section Exam, multiple choice).\n\nWhich are products of the acid-catalyzed reaction of $\\beta$-D-glucose with methanol?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-1-60-fig1.png\n\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 2,
+     "number": 1,
+     "paper_label": "National Exam Part I",
+     "title": "Mole fraction of acetic acid in solution",
+     "problem": "Question 1 (National Exam Part I, multiple choice).\n\nWhat is the mole fraction of acetic acid ($\\ce{CH3COOH}$, $M = 60.05$) in an aqueous solution that is $11.7\\%$ by mass acetic acid?\n(A) $0.00195$\n(B) $0.0382$\n(C) $0.0398$\n(D) $0.195$"
+    },
+    {
+     "day": 2,
+     "number": 2,
+     "paper_label": "National Exam Part I",
+     "title": "Hydrogen peroxide needed to give oxygen at STP",
+     "problem": "Question 2 (National Exam Part I, multiple choice).\n\nHydrogen peroxide ($M = 34.02$) decomposes to give water and oxygen gas. How much $3.00\\%$ by mass aqueous $\\ce{H2O2}$ must decompose to afford $4.00\\,\\mathrm{L}$ of dry $\\ce{O2}$ at STP?\n(A) $6.08\\,\\mathrm{g}$\n(B) $101\\,\\mathrm{g}$\n(C) $203\\,\\mathrm{g}$\n(D) $405\\,\\mathrm{g}$"
+    },
+    {
+     "day": 2,
+     "number": 3,
+     "paper_label": "National Exam Part I",
+     "title": "Molecular formula from mass percentages",
+     "problem": "Question 3 (National Exam Part I, multiple choice).\n\nA diamagnetic compound that contains only carbon, hydrogen, nitrogen, and oxygen is $19.99\\%$ C, $3.35\\%$ H, and $23.31\\%$ N by mass. Which is its molecular formula?\n(A) $\\ce{CH2N2O}$\n(B) $\\ce{CH2NO2}$\n(C) $\\ce{C2H3NO}$\n(D) $\\ce{C2H4N2O4}$"
+    },
+    {
+     "day": 2,
+     "number": 4,
+     "paper_label": "National Exam Part I",
+     "title": "Chloride concentration in a mixed solution",
+     "problem": "Question 4 (National Exam Part I, multiple choice).\n\nWhat is the chloride ion concentration in a solution prepared by mixing $35.0\\,\\mathrm{mL}$ of $0.35\\,\\mathrm{M}$ sodium chloride and $65.0\\,\\mathrm{mL}$ of $0.65\\,\\mathrm{M}$ calcium chloride?\n(A) $0.50\\,\\mathrm{M}$\n(B) $0.54\\,\\mathrm{M}$\n(C) $0.85\\,\\mathrm{M}$\n(D) $0.97\\,\\mathrm{M}$"
+    },
+    {
+     "day": 2,
+     "number": 5,
+     "paper_label": "National Exam Part I",
+     "title": "Barium sulfate precipitation and gravimetric data",
+     "problem": "Question 5 (National Exam Part I, multiple choice).\n\n$17.0\\,\\mathrm{g}$ $\\ce{Ba(NO3)2}$ ($M = 261.32$) is mixed with $11.5\\,\\mathrm{g}$ of an alkali metal sulfate and the precipitated $\\ce{BaSO4}$ ($M = 233.37$) is collected by filtration, placed in a tared crucible, and the crucible heated to drive off water. The mass of $\\ce{BaSO4}$ obtained is $15.4\\,\\mathrm{g}$. Which conclusion is best supported by the data?\n(A) The sulfate salt used was $\\ce{Na2SO4}$ ($M = 142.05$).\n(B) The sulfate salt used was $\\ce{K2SO4}$ ($M = 174.27$).\n(C) The $\\ce{BaSO4}$ was not heated long enough to drive off all the water.\n(D) Some of the $\\ce{BaSO4}$ was spilled before it was transferred to the crucible."
+    },
+    {
+     "day": 2,
+     "number": 6,
+     "paper_label": "National Exam Part I",
+     "title": "Ion concentrations after mixing potassium sulfate and silver nitrate",
+     "problem": "Question 6 (National Exam Part I, multiple choice).\n\n$10.0\\,\\mathrm{mL}$ of $0.50\\,\\mathrm{M}$ potassium sulfate and $10.0\\,\\mathrm{mL}$ of $0.50\\,\\mathrm{M}$ silver nitrate solutions are mixed and the mixture is allowed to attain equilibrium. Which ordering of the concentrations of the ions in solution is correct?\n(A) $[\\ce{K+}] = [\\ce{NO3-}] > [\\ce{Ag+}] > [\\ce{SO4^{2-}}]$\n(B) $[\\ce{K+}] = [\\ce{NO3-}] > [\\ce{SO4^{2-}}] > [\\ce{Ag+}]$\n(C) $[\\ce{K+}] > [\\ce{NO3-}] > [\\ce{Ag+}] > [\\ce{SO4^{2-}}]$\n(D) $[\\ce{K+}] > [\\ce{NO3-}] > [\\ce{SO4^{2-}}] > [\\ce{Ag+}]$"
+    },
+    {
+     "day": 2,
+     "number": 7,
+     "paper_label": "National Exam Part I",
+     "title": "Apparatus for washing with aqueous acid",
+     "problem": "Question 7 (National Exam Part I, multiple choice).\n\nA neutral organic compound is to be separated from a basic impurity by washing a solution of the compound in hexane with $5\\%$ aqueous $\\ce{HCl}$. Which apparatus is best suited to this operation?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-7-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 8,
+     "paper_label": "National Exam Part I",
+     "title": "Treating a hazardous substance with bleach",
+     "problem": "Question 8 (National Exam Part I, multiple choice).\n\nWhich substance may be treated with bleach (sodium hypochlorite) to render it less hazardous?\n(A) Sodium cyanide\n(B) Ammonia\n(C) Hydrochloric acid\n(D) Ozone"
+    },
+    {
+     "day": 2,
+     "number": 9,
+     "paper_label": "National Exam Part I",
+     "title": "Indicator for titrating ammonia with HCl",
+     "problem": "Question 9 (National Exam Part I, multiple choice).\n\nWhich indicator would be most suitable for a titration to determine the concentration of ammonia in a window cleaning solution using aqueous $\\ce{HCl}$?\n(A) Eriochrome Black T\n(B) Ferroin\n(C) Methyl orange\n(D) Phenolphthalein"
+    },
+    {
+     "day": 2,
+     "number": 10,
+     "paper_label": "National Exam Part I",
+     "title": "Qualitative analysis of Ag, Mn and Al cations",
+     "problem": "Question 10 (National Exam Part I, multiple choice).\n\nA test tube contains $4\\,\\mathrm{mL}$ of a solution that is $0.1\\,\\mathrm{M}$ in one or more of the following salts: $\\ce{AgNO3}$, $\\ce{Mn(NO3)2}$, and $\\ce{Al(NO3)3}$. $1\\,\\mathrm{mL}$ of $6\\,\\mathrm{M}$ $\\ce{HCl}$ is added to the test tube, which causes neither a color change nor formation of a precipitate. After subsequent addition of $1.5\\,\\mathrm{mL}$ aqueous $\\ce{NaOH}$ and $0.5\\,\\mathrm{mL}$ of $3\\%$ aqueous $\\ce{H2O2}$ and brief heating in a hot water bath, there is a dark precipitate in the test tube. What may be determined about the cations initially present?\n\n$$\\begin{array}{|c|c|c|c|}\n\\hline\n & \\text{Must be present} & \\text{May be present} & \\text{Must be absent} \\\\\n\\hline\n\\text{(A)} & \\ce{Ag+} & \\ce{Al^{3+}} & \\ce{Mn^{2+}} \\\\\n\\hline\n\\text{(B)} & \\ce{Al^{3+}} & \\ce{Mn^{2+}} & \\ce{Ag+} \\\\\n\\hline\n\\text{(C)} & \\ce{Al^{3+}} & \\ce{Ag+} & \\ce{Mn^{2+}} \\\\\n\\hline\n\\text{(D)} & \\ce{Mn^{2+}} & \\ce{Al^{3+}} & \\ce{Ag+} \\\\\n\\hline\n\\end{array}$$"
+    },
+    {
+     "day": 2,
+     "number": 11,
+     "paper_label": "National Exam Part I",
+     "title": "Distinguishing molecular structures of ethane and diborane",
+     "problem": "Question 11 (National Exam Part I, multiple choice).\n\nEthane, $\\ce{C2H6}$, and diborane, $\\ce{B2H6}$, do not adopt analogous molecular structures. Which experimental technique would be least useful in establishing this fact?\n(A) Infrared spectroscopy\n(B) Mass spectrometry\n(C) Nuclear magnetic resonance spectroscopy\n(D) X-ray crystallography"
+    },
+    {
+     "day": 2,
+     "number": 12,
+     "paper_label": "National Exam Part I",
+     "title": "Error in a permanganate titration",
+     "problem": "Question 12 (National Exam Part I, multiple choice).\n\nThe concentration of a solution of potassium permanganate is determined by titrating it into an Erlenmeyer flask with solid ferrous ammonium sulfate hexahydrate ($\\ce{Fe(NH4)2(SO4)2 * 6 H2O}$) dissolved in dilute sulfuric acid. Which error would result in a measured concentration of $\\ce{KMnO4}$ that is lower than the actual concentration?\n(A) The titration was begun before the ferrous ammonium sulfate had fully dissolved in the sulfuric acid.\n(B) The sides of the Erlenmeyer flask were periodically rinsed down with deionized water during the titration.\n(C) Some of the Fe(II) ions in the solid ferrous ammonium sulfate had been oxidized to Fe(III) on storage.\n(D) The buret was rinsed with distilled water and then filled with $\\ce{KMnO4}$ solution while still wet."
+    },
+    {
+     "day": 2,
+     "number": 13,
+     "paper_label": "National Exam Part I",
+     "title": "Heating pentane in a rigid closed container",
+     "problem": "Question 13 (National Exam Part I, multiple choice).\n\nA sample of pentane (bp $= 36\\,^\\circ\\mathrm{C}$) is in a rigid closed container at $50\\,^\\circ\\mathrm{C}$ and $1\\,\\mathrm{atm}$. Which best describes what happens when the container is heated?\n(A) Liquid pentane vaporizes.\n(B) The intermolecular forces between pentane molecules become stronger.\n(C) The average kinetic energy of the pentane molecules increases.\n(D) The density of the sample decreases."
+    },
+    {
+     "day": 2,
+     "number": 14,
+     "paper_label": "National Exam Part I",
+     "title": "Highest normal boiling point among alcohols",
+     "problem": "Question 14 (National Exam Part I, multiple choice).\n\nWhich compound has the highest normal boiling point?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-14-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 15,
+     "paper_label": "National Exam Part I",
+     "title": "Smallest molar gas volume at STP",
+     "problem": "Question 15 (National Exam Part I, multiple choice).\n\nA mole of which gas has the smallest volume at $0\\,^\\circ\\mathrm{C}$ and $1\\,\\mathrm{atm}$ pressure?\n(A) $\\ce{He}$\n(B) $\\ce{CO2}$\n(C) $\\ce{SO2}$\n(D) $\\ce{Xe}$"
+    },
+    {
+     "day": 2,
+     "number": 16,
+     "paper_label": "National Exam Part I",
+     "title": "Heating curves of two solid compounds",
+     "problem": "Question 16 (National Exam Part I, multiple choice).\n\nTwo compounds, $\\mathbf{A}$ and $\\mathbf{B}$, are both solids at $20\\,^\\circ\\mathrm{C}$. In separate experiments, one mole of each is heated and its temperature measured as a function of the amount of heat added. Which statement about the compounds is correct?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-16-fig1.png\n\n(A) The molar heat capacity of solid $\\mathbf{A}$ is greater than that of solid $\\mathbf{B}$.\n(B) The molar heat capacity of liquid $\\mathbf{A}$ is greater than that of liquid $\\mathbf{B}$.\n(C) The melting point of $\\mathbf{A}$ is less than that of $\\mathbf{B}$.\n(D) The heat of fusion of $\\mathbf{A}$ is less than that of $\\mathbf{B}$."
+    },
+    {
+     "day": 2,
+     "number": 17,
+     "paper_label": "National Exam Part I",
+     "title": "Pressure versus temperature of a sealed substance",
+     "problem": "Question 17 (National Exam Part I, multiple choice).\n\nA sample of a pure substance is placed in a sealed, rigid container and the pressure is measured as a function of temperature. Which is the best explanation for the result shown?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-17-fig1.png\n\n(A) At lower temperatures, the substance is a mixture of solid and vapor, while at $60\\,^\\circ\\mathrm{C}$ the solid melts to give a mixture of liquid and vapor.\n(B) At lower temperatures, the substance is a mixture of liquid and vapor, while at $60\\,^\\circ\\mathrm{C}$ only liquid is present.\n(C) At lower temperatures, the substance is a mixture of liquid and vapor, while at $60\\,^\\circ\\mathrm{C}$ only a supercritical fluid is present.\n(D) At lower temperatures, the substance consists of vapor only, while at $60\\,^\\circ\\mathrm{C}$ only a supercritical fluid is present."
+    },
+    {
+     "day": 2,
+     "number": 18,
+     "paper_label": "National Exam Part I",
+     "title": "Cs-Cl distance from the density of CsCl",
+     "problem": "Question 18 (National Exam Part I, multiple choice).\n\nCesium chloride ($M = 168.4$) crystallizes in a primitive cubic unit cell with each cesium ion surrounded by eight chloride ions arranged in a cube. The density of solid $\\ce{CsCl}$ is $3.988\\,\\mathrm{g\\,cm^{-3}}$. What is the Cs–Cl distance?\n(A) $206.2\\,\\mathrm{pm}$\n(B) $291.6\\,\\mathrm{pm}$\n(C) $357.1\\,\\mathrm{pm}$\n(D) $412.4\\,\\mathrm{pm}$"
+    },
+    {
+     "day": 2,
+     "number": 19,
+     "paper_label": "National Exam Part I",
+     "title": "Efficiency of a steam turbine",
+     "problem": "Question 19 (National Exam Part I, multiple choice).\n\nSteam turbines convert heat energy into mechanical work. Which statement best describes the efficiency of this process?\n(A) $100\\%$, because energy is conserved\n(B) Less than $100\\%$, because the steam decreases in temperature\n(C) Greater than $100\\%$, because the turbine increases in kinetic energy\n(D) Can be greater than, less than, or equal to $100\\%$ depending on the design of the turbine."
+    },
+    {
+     "day": 2,
+     "number": 20,
+     "paper_label": "National Exam Part I",
+     "title": "Spontaneity of tungstic acid decomposition",
+     "problem": "Question 20 (National Exam Part I, multiple choice).\n\nAt what temperatures is the decomposition of tungstic acid, $\\ce{H2WO4(s)}$, to tungsten trioxide and water vapor spontaneous under standard conditions?\n\n$$\\ce{H2WO4(s) -> WO3(s) + H2O(g)}$$\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{Compound} & \\Delta H^\\circ_{\\mathrm{f}},\\ \\mathrm{kJ\\,mol^{-1}} & S^\\circ,\\ \\mathrm{J\\,mol^{-1}\\,K^{-1}} \\\\\n\\hline\n\\ce{H2WO4(s)} & -1130 & 140 \\\\\n\\hline\n\\ce{WO3(s)} & -840 & 80 \\\\\n\\hline\n\\ce{H2O(g)} & -240 & 190 \\\\\n\\hline\n\\end{array}$$\n\n(A) $T > 385\\,\\mathrm{K}$\n(B) $T < 385\\,\\mathrm{K}$\n(C) The reaction is spontaneous at all temperatures.\n(D) The reaction is not spontaneous at any temperature."
+    },
+    {
+     "day": 2,
+     "number": 21,
+     "paper_label": "National Exam Part I",
+     "title": "Final temperature in an octane calorimetry experiment",
+     "problem": "Question 21 (National Exam Part I, multiple choice).\n\nIn a well-insulated container, $10.0\\,\\mathrm{g}$ solid octane at its freezing point ($-56.9\\,^\\circ\\mathrm{C}$) is added to $300.0\\,\\mathrm{mL}$ liquid octane at $0.0\\,^\\circ\\mathrm{C}$ (density $= 0.71\\,\\mathrm{g\\,mL^{-1}}$). After equilibrium is achieved, the temperature is $-6.3\\,^\\circ\\mathrm{C}$. When the experiment is repeated under the same conditions except with $100.0\\,\\mathrm{g}$ solid octane, what is the final temperature?\n(A) $-39.7\\,^\\circ\\mathrm{C}$\n(B) $-44.9\\,^\\circ\\mathrm{C}$\n(C) $-51.7\\,^\\circ\\mathrm{C}$\n(D) $-56.9\\,^\\circ\\mathrm{C}$"
+    },
+    {
+     "day": 2,
+     "number": 22,
+     "paper_label": "National Exam Part I",
+     "title": "Entropy change on micelle formation",
+     "problem": "Question 22 (National Exam Part I, multiple choice).\n\nAmphiphilic species like $\\ce{CH3(CH2)10COO-}$ can aggregate into micelles in water, as depicted schematically below. $\\Delta S$ for micelle formation is positive. Which best explains why?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-22-fig1.png\n\n(A) Amphiphilic compounds are solvated by an ordered layer of water molecules.\n(B) Micelle formation involves converting many independent amphiphilic compounds into a single large micelle.\n(C) Water molecules are trapped in the hydrophobic interior of micelles.\n(D) Water molecules form ordered structures around the exterior of micelles."
+    },
+    {
+     "day": 2,
+     "number": 23,
+     "paper_label": "National Exam Part I",
+     "title": "Standard Gibbs energy of formation of ethene",
+     "problem": "Question 23 (National Exam Part I, multiple choice).\n\nWhat is $\\Delta G^\\circ_{\\mathrm{f}}$ of $\\ce{C2H4(g)}$ at $25\\,^\\circ\\mathrm{C}$?\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n\\text{Substance} & \\Delta H^\\circ_{\\mathrm{f}},\\ \\mathrm{kJ\\,mol^{-1}} & S^\\circ,\\ \\mathrm{J\\,mol^{-1}\\,K^{-1}} \\\\\n\\hline\n\\ce{C2H4(g)} & 52.4 & 219.3 \\\\\n\\hline\n\\ce{H2(g)} & 0 & 130.7 \\\\\n\\hline\n\\ce{C(s, graphite)} & 0 & 5.7 \\\\\n\\hline\n\\end{array}$$\n\n(A) $-13.0\\,\\mathrm{kJ\\,mol^{-1}}$\n(B) $27.7\\,\\mathrm{kJ\\,mol^{-1}}$\n(C) $46.9\\,\\mathrm{kJ\\,mol^{-1}}$\n(D) $68.3\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 24,
+     "paper_label": "National Exam Part I",
+     "title": "Enthalpy of sublimation of graphite from bond enthalpies",
+     "problem": "Question 24 (National Exam Part I, multiple choice).\n\nThe $\\Delta H^\\circ_{\\mathrm{f}}$ of $\\ce{CH4(g)}$ is $-74.6\\,\\mathrm{kJ\\,mol^{-1}}$ and the bond dissociation enthalpies (BDEs) of several bonds are given in the table.\n\n$$\\begin{array}{|c|c|}\n\\hline\n\\text{Bond} & \\text{BDE},\\ \\mathrm{kJ\\,mol^{-1}} \\\\\n\\hline\n\\text{C–C} & 347 \\\\\n\\hline\n\\text{C–H} & 413 \\\\\n\\hline\n\\text{H–H} & 432 \\\\\n\\hline\n\\end{array}$$\n\nBased on these data, what is the molar enthalpy of sublimation of $\\ce{C(s, graphite)}$ to form $\\ce{C(g)}$?\n(A) $713\\,\\mathrm{kJ\\,mol^{-1}}$\n(B) $788\\,\\mathrm{kJ\\,mol^{-1}}$\n(C) $1061\\,\\mathrm{kJ\\,mol^{-1}}$\n(D) $1135\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 25,
+     "paper_label": "National Exam Part I",
+     "title": "Choosing a mechanism consistent with rate data",
+     "problem": "Question 25 (National Exam Part I, multiple choice).\n\nFor a reaction $\\ce{X + Y -> Z}$, data for three experiments are given.\n\n$$\\begin{array}{|c|c|c|}\n\\hline\n[\\mathrm{X}]_0,\\ \\mathrm{M} & [\\mathrm{Y}]_0,\\ \\mathrm{M} & \\text{Initial rate},\\ \\mathrm{M^{-1}\\,min^{-1}} \\\\\n\\hline\n0.10 & 0.10 & 2.0\\times10^{-4} \\\\\n\\hline\n0.30 & 0.10 & 6.0\\times10^{-4} \\\\\n\\hline\n0.30 & 0.30 & 5.4\\times10^{-3} \\\\\n\\hline\n\\end{array}$$\n\nWhich mechanism is consistent with the above data? (Reactions shown as reversible are assumed to be rapid and unfavorable.)\n\n(A) $\\ce{X + Y -> Z}$\n(B) $\\begin{array}{l}\\ce{2 X <=> X2}\\\\ \\ce{X2 + Y -> Z + X}\\end{array}$\n(C) $\\begin{array}{l}\\ce{2 Y <=> Y2}\\\\ \\ce{Y2 + X -> Z + Y}\\end{array}$\n(D) $\\begin{array}{l}\\ce{X + Y <=> XY}\\\\ \\ce{XY -> Z}\\end{array}$"
+    },
+    {
+     "day": 2,
+     "number": 26,
+     "paper_label": "National Exam Part I",
+     "title": "Activity of a polonium-208 sample after decay",
+     "problem": "Question 26 (National Exam Part I, multiple choice).\n\n$\\ce{^{208}Po}$ undergoes $\\alpha$ decay to form stable $\\ce{^{204}Pb}$ with a half-life of $2.90\\,\\mathrm{years}$. A sample of $\\ce{^{208}Po}$ was measured with a Geiger counter $5.20\\,\\mathrm{years}$ ago as having an activity of $1320$ disintegrations per second. What is its activity today?\n(A) $137\\,\\mathrm{s^{-1}}$\n(B) $381\\,\\mathrm{s^{-1}}$\n(C) $736\\,\\mathrm{s^{-1}}$\n(D) $1320\\,\\mathrm{s^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 27,
+     "paper_label": "National Exam Part I",
+     "title": "Rate law of the reverse reaction",
+     "problem": "Question 27 (National Exam Part I, multiple choice).\n\nA reversible reaction occurs as follows:\n\n$$\\ce{2 A(g) + B(g) <=> C(g) + D(g)}$$\n\nUnder a certain set of conditions, the rate law for the forward reaction is determined to be $\\mathrm{Rate} = k_\\mathrm{f}[\\mathrm{A}][\\mathrm{B}]$. Under these conditions, what is the rate law for the reverse reaction?\n\n(A) $\\mathrm{Rate} = k_\\mathrm{r}[\\mathrm{C}][\\mathrm{D}]$\n(B) $\\mathrm{Rate} = \\dfrac{k_\\mathrm{r}[\\mathrm{C}][\\mathrm{D}]}{[\\mathrm{A}]}$\n(C) $\\mathrm{Rate} = \\dfrac{k_\\mathrm{r}[\\mathrm{C}][\\mathrm{D}]}{[\\mathrm{A}]^{2}[\\mathrm{B}]}$\n(D) It cannot be determined from the information given."
+    },
+    {
+     "day": 2,
+     "number": 28,
+     "paper_label": "National Exam Part I",
+     "title": "Activation energies from product ratios at two temperatures",
+     "problem": "Question 28 (National Exam Part I, multiple choice).\n\nA compound $\\mathrm{A}$ reacts by two independent irreversible pathways to give two products, $\\mathrm{B}$ and $\\mathrm{C}$. At $300\\,\\mathrm{K}$, $35\\%$ of the product is $\\mathrm{B}$, while at $320\\,\\mathrm{K}$, $70\\%$ of the product is $\\mathrm{B}$. What may be concluded about the activation energy of the pathway to form $\\mathrm{B}$ compared to the activation energy of the pathway to form $\\mathrm{C}$?\n(A) The $E_\\mathrm{a}$ for the pathway to form $\\mathrm{B}$ is higher by $28\\,\\mathrm{kJ\\,mol^{-1}}$.\n(B) The $E_\\mathrm{a}$ for the pathway to form $\\mathrm{B}$ is higher by $59\\,\\mathrm{kJ\\,mol^{-1}}$.\n(C) The $E_\\mathrm{a}$ for the pathway to form $\\mathrm{B}$ is lower by $28\\,\\mathrm{kJ\\,mol^{-1}}$.\n(D) The $E_\\mathrm{a}$ for the pathway to form $\\mathrm{B}$ is lower by $59\\,\\mathrm{kJ\\,mol^{-1}}$."
+    },
+    {
+     "day": 2,
+     "number": 29,
+     "paper_label": "National Exam Part I",
+     "title": "Reaction order in a two-step mechanism with an intermediate",
+     "problem": "Question 29 (National Exam Part I, multiple choice).\n\nThe irreversible reaction $\\ce{A + B -> C}$ takes place by the following two-step mechanism involving an intermediate $\\mathrm{X}$ whose concentration is low throughout the reaction:\n\n$$\\mathrm{A}\\ \\overset{k_1}{\\underset{k_{-1}}{\\rightleftharpoons}}\\ \\mathrm{X}$$\n\n$$\\mathrm{X + B}\\ \\xrightarrow{k_2}\\ \\mathrm{C}$$\n\nWhich statement cannot be correct regardless of the values of $k_1$, $k_{-1}$, and $k_2$?\n(A) The reaction is 0th order in $\\mathrm{A}$.\n(B) The reaction is 1st order in $\\mathrm{A}$.\n(C) The reaction is 0th order in $\\mathrm{B}$.\n(D) The reaction is 1st order in $\\mathrm{B}$."
+    },
+    {
+     "day": 2,
+     "number": 30,
+     "paper_label": "National Exam Part I",
+     "title": "Nitramide decomposition at two pH values",
+     "problem": "Question 30 (National Exam Part I, multiple choice).\n\nNitramide decomposes to nitrous oxide in aqueous solution:\n\n$$\\ce{NH2NO2(aq) -> N2O(g) + H2O(l)}$$\n\nIn solutions with $\\mathrm{pH} \\ge 12$, the rate law for this reaction is:\n\n$$\\mathrm{Rate} = k\\,\\frac{[\\ce{NH2NO2}]}{[\\ce{H3O+}]}$$\n\nThe reaction is monitored with $\\mathrm{pH} = 12.0$ (solid line) and with $\\mathrm{pH} = 12.3$ (dashed line). Which graph best represents the time-dependence of the nitramide concentrations in the two experiments?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-30-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 31,
+     "paper_label": "National Exam Part I",
+     "title": "Ka of a weak acid from percent ionization",
+     "problem": "Question 31 (National Exam Part I, multiple choice).\n\nA sample of $0.320\\,\\mathrm{mol}$ of a weak monoprotic acid in $1.00\\,\\mathrm{L}$ of solution is $10.2\\%$ ionized. What is $K_\\mathrm{a}$ for this acid?\n(A) $3.3\\times10^{-3}$\n(B) $3.7\\times10^{-3}$\n(C) $3.2\\times10^{-2}$\n(D) $1.1\\times10^{-1}$"
+    },
+    {
+     "day": 2,
+     "number": 32,
+     "paper_label": "National Exam Part I",
+     "title": "Solubility product formulas",
+     "problem": "Question 32 (National Exam Part I, multiple choice).\n\nTypically, the molar solubility $x$ of an ionic compound in pure water and its $K_\\mathrm{sp}$ are related by a simple formula. Which formula is not expected for $K_\\mathrm{sp}$ for an ionic compound?\n(A) $K_\\mathrm{sp} = 4x^{3}$\n(B) $K_\\mathrm{sp} = 4x^{4}$\n(C) $K_\\mathrm{sp} = 27x^{4}$\n(D) $K_\\mathrm{sp} = 81x^{5}$"
+    },
+    {
+     "day": 2,
+     "number": 33,
+     "paper_label": "National Exam Part I",
+     "title": "pH of a phosphate mixture",
+     "problem": "Question 33 (National Exam Part I, multiple choice).\n\nEqual volumes of $0.1\\,\\mathrm{M}$ solutions of $\\ce{NaH2PO4}$ and $\\ce{Na3PO4}$ are mixed. What is the pH of the resulting solution? For $\\ce{H3PO4}$, $\\mathrm{p}K_\\mathrm{a1} = 2.12$, $\\mathrm{p}K_\\mathrm{a2} = 7.21$, $\\mathrm{p}K_\\mathrm{a3} = 12.32$.\n(A) $4.66$\n(B) $6.66$\n(C) $7.21$\n(D) $9.76$"
+    },
+    {
+     "day": 2,
+     "number": 34,
+     "paper_label": "National Exam Part I",
+     "title": "Kp for dimerization of nitrogen dioxide",
+     "problem": "Question 34 (National Exam Part I, multiple choice).\n\n$5.00\\,\\mathrm{g}$ of nitrogen dioxide is introduced into an evacuated, rigid $1.00\\,\\mathrm{L}$ container. It is allowed to equilibrate according to the reaction below at $310\\,\\mathrm{K}$, and the total pressure in the vessel is $1.71\\,\\mathrm{bar}$. What is $K_\\mathrm{p}$ for the reaction at $310\\,\\mathrm{K}$?\n\n$$\\ce{N2O4(g) <=> 2 NO2(g)}$$\n\n(A) $0.35$\n(B) $0.57$\n(C) $2.28$\n(D) $2.92$"
+    },
+    {
+     "day": 2,
+     "number": 35,
+     "paper_label": "National Exam Part I",
+     "title": "Effect of adding water on a water-gas shift equilibrium",
+     "problem": "Question 35 (National Exam Part I, multiple choice).\n\nA mixture containing $\\ce{CO(g)}$, $\\ce{H2O(g)}$, $\\ce{CO2(g)}$, and $\\ce{H2(g)}$ is allowed to reach equilibrium at $120\\,^\\circ\\mathrm{C}$ in a container that maintains a constant total pressure of $1.0\\,\\mathrm{bar}$.\n\n$$\\ce{CO(g) + H2O(g) <=> CO2(g) + H2(g)}$$\n\n$5.0\\,\\mathrm{g}$ of $\\ce{H2O}$ is added to this container, which is allowed to reattain equilibrium (still at $120\\,^\\circ\\mathrm{C}$ and $1\\,\\mathrm{bar}$ total pressure). How does the partial pressure of $\\ce{H2(g)}$ change as a result of the addition of $\\ce{H2O}$?\n(A) The partial pressure of $\\ce{H2(g)}$ increases.\n(B) The partial pressure of $\\ce{H2(g)}$ decreases.\n(C) The partial pressure of $\\ce{H2(g)}$ does not change.\n(D) The effect on the partial pressure of $\\ce{H2(g)}$ cannot be determined from the information given."
+    },
+    {
+     "day": 2,
+     "number": 36,
+     "paper_label": "National Exam Part I",
+     "title": "HCl needed to precipitate AgCl from ammoniacal silver solution",
+     "problem": "Question 36 (National Exam Part I, multiple choice).\n\n$0.01\\,\\mathrm{mol}$ of $\\ce{AgNO3}$ is dissolved in $1.00\\,\\mathrm{L}$ of $1.00\\,\\mathrm{M}$ aqueous $\\ce{NH3}$. What is the minimum amount of $\\ce{HCl}$ that would need to be added to this solution to induce precipitation of $\\ce{AgCl}$? The $K_\\mathrm{sp}$ of $\\ce{AgCl}$ is $1.8\\times10^{-10}$; the $K_\\mathrm{f}$ of $\\ce{Ag(NH3)2+}$ is $1.6\\times10^{7}$; and the $K_\\mathrm{a}$ of $\\ce{NH4+}$ is $5.6\\times10^{-10}$.\n(A) $1.8\\times10^{-8}\\,\\mathrm{mol}$\n(B) $1.3\\times10^{-5}\\,\\mathrm{mol}$\n(C) $0.18\\,\\mathrm{mol}$\n(D) $0.28\\,\\mathrm{mol}$"
+    },
+    {
+     "day": 2,
+     "number": 37,
+     "paper_label": "National Exam Part I",
+     "title": "Oxygen oxidation number different from -2",
+     "problem": "Question 37 (National Exam Part I, multiple choice).\n\nIn which compound does the oxidation number of oxygen differ from $-2$?\n(A) $\\ce{NaBO3}$\n(B) $\\ce{NaNO3}$\n(C) $\\ce{K3PO4}$\n(D) $\\ce{K2Cr2O7}$"
+    },
+    {
+     "day": 2,
+     "number": 38,
+     "paper_label": "National Exam Part I",
+     "title": "Balancing the copper and nitric acid reaction",
+     "problem": "Question 38 (National Exam Part I, multiple choice).\n\nCopper metal reacts with nitric acid to form $\\ce{NO(g)}$ as shown in the unbalanced reaction shown below. When the reaction is balanced using lowest whole number coefficients, what is the coefficient of $\\ce{H+(aq)}$?\n\n$$\\ce{Cu(s) + H+(aq) + NO3-(aq) -> Cu^{2+}(aq) + NO(g) + H2O(l)}$$\n\n(A) $2$\n(B) $4$\n(C) $6$\n(D) $8$"
+    },
+    {
+     "day": 2,
+     "number": 39,
+     "paper_label": "National Exam Part I",
+     "title": "Mass ratio of aluminum to carbon in the Hall-Heroult process",
+     "problem": "Question 39 (National Exam Part I, multiple choice).\n\nIn the Hall-Héroult process for producing aluminum, aluminum is electrolytically reduced from $\\ce{Al2O3}$ dissolved in molten cryolite, $\\ce{Na3AlF6}$, while a graphite anode is oxidized to $\\ce{CO2}$. What is the ratio of the mass of Al deposited on the cathode to the mass of C lost from the anode?\n(A) $1.50:1$\n(B) $2.25:1$\n(C) $3.00:1$\n(D) $3.36:1$"
+    },
+    {
+     "day": 2,
+     "number": 40,
+     "paper_label": "National Exam Part I",
+     "title": "Time before copper deposits during electrolysis",
+     "problem": "Question 40 (National Exam Part I, multiple choice).\n\nThe cathode of an electrolytic cell with a copper electrode initially has $100.0\\,\\mathrm{mL}$ of a solution that is $1.00\\,\\mathrm{M}$ in both $\\ce{Cu^{2+}(aq)}$ and $\\ce{Fe(CN)6^{3-}(aq)}$. The solution is electrolyzed with a constant current of $0.500\\,\\mathrm{A}$ at a constant temperature of $298\\,\\mathrm{K}$. How much time elapses before $\\ce{Cu(s)}$ begins to deposit on the electrode?\n\n$$\\begin{array}{|c|c|}\n\\hline\n\\text{Half-reaction} & E^\\circ,\\ \\mathrm{V} \\\\\n\\hline\n\\ce{Fe(CN)6^{3-}(aq) + e- -> Fe(CN)6^{4-}(aq)} & 0.370 \\\\\n\\hline\n\\ce{Cu^{2+}(aq) + 2 e- -> Cu(s)} & 0.337 \\\\\n\\hline\n\\end{array}$$\n\n(A) $0\\,\\mathrm{min}$\n(B) $89.4\\,\\mathrm{min}$\n(C) $252\\,\\mathrm{min}$\n(D) $322\\,\\mathrm{min}$"
+    },
+    {
+     "day": 2,
+     "number": 41,
+     "paper_label": "National Exam Part I",
+     "title": "Redox properties of an excited state",
+     "problem": "Question 41 (National Exam Part I, multiple choice).\n\nA molecule absorbs a photon of light to form an excited state. How do the redox properties of the excited state compare to those of the ground state?\n(A) The excited state is both a stronger oxidizing agent and a stronger reducing agent than the ground state.\n(B) The excited state is both a weaker oxidizing agent and a weaker reducing agent than the ground state.\n(C) The excited state is a stronger oxidizing agent but a weaker reducing agent than the ground state.\n(D) The excited state is a weaker oxidizing agent but a stronger reducing agent than the ground state."
+    },
+    {
+     "day": 2,
+     "number": 42,
+     "paper_label": "National Exam Part I",
+     "title": "Gibbs energy of disproportionation of PbO",
+     "problem": "Question 42 (National Exam Part I, multiple choice).\n\nWhat is $\\Delta G^\\circ$ at $298\\,\\mathrm{K}$ for the disproportionation of $\\ce{PbO(s)}$?\n\n$$\\ce{2 PbO(s) -> PbO2(s) + Pb(s)} \\qquad \\Delta G^\\circ = ???$$\n\n$$\\begin{array}{|c|c|}\n\\hline\n\\text{Half-reaction} & E^\\circ,\\ \\mathrm{V} \\\\\n\\hline\n\\ce{PbO2(s) + 4 H+(aq) + 4 e- -> Pb(s) + 2 H2O(l)} & 0.671 \\\\\n\\hline\n\\ce{PbO(s) + H2O(l) + 2 e- -> Pb(s) + 2 OH-(aq)} & -0.580 \\\\\n\\hline\n\\end{array}$$\n\n(A) $163\\,\\mathrm{kJ\\,mol^{-1}}$\n(B) $241\\,\\mathrm{kJ\\,mol^{-1}}$\n(C) $403\\,\\mathrm{kJ\\,mol^{-1}}$\n(D) $483\\,\\mathrm{kJ\\,mol^{-1}}$"
+    },
+    {
+     "day": 2,
+     "number": 43,
+     "paper_label": "National Exam Part I",
+     "title": "Electron addition to gas-phase atoms",
+     "problem": "Question 43 (National Exam Part I, multiple choice).\n\nFor which gas-phase atoms is addition of an electron endothermic?\n\nI. $\\ce{Li}$     II. $\\ce{N}$\n\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 2,
+     "number": 44,
+     "paper_label": "National Exam Part I",
+     "title": "Lowest first ionization energy",
+     "problem": "Question 44 (National Exam Part I, multiple choice).\n\nWhich atom has the lowest first ionization energy?\n(A) $\\ce{Be}$\n(B) $\\ce{B}$\n(C) $\\ce{Mg}$\n(D) $\\ce{Al}$"
+    },
+    {
+     "day": 2,
+     "number": 45,
+     "paper_label": "National Exam Part I",
+     "title": "Electrons with ml = 1 in arsenic",
+     "problem": "Question 45 (National Exam Part I, multiple choice).\n\nHow many electrons in a ground-state gas-phase atom of arsenic (As) have a quantum number $m_l = 1$?\n(A) $5$\n(B) $7$\n(C) $15$\n(D) $18$"
+    },
+    {
+     "day": 2,
+     "number": 46,
+     "paper_label": "National Exam Part I",
+     "title": "Orbital with the same number of radial nodes as 3s",
+     "problem": "Question 46 (National Exam Part I, multiple choice).\n\nWhich orbital has the same number of radial nodes as a $3s$ orbital?\n(A) $3p$\n(B) $4s$\n(C) $4f$\n(D) $5d$"
+    },
+    {
+     "day": 2,
+     "number": 47,
+     "paper_label": "National Exam Part I",
+     "title": "Lanthanide with a different common oxidation number",
+     "problem": "Question 47 (National Exam Part I, multiple choice).\n\nWhich lanthanide has a common oxidation number different from $+3$?\n(A) Ce\n(B) Gd\n(C) Er\n(D) Lu"
+    },
+    {
+     "day": 2,
+     "number": 48,
+     "paper_label": "National Exam Part I",
+     "title": "Radioisotope decaying by beta emission",
+     "problem": "Question 48 (National Exam Part I, multiple choice).\n\nWhich radioisotope decays by beta ($\\beta^-$) emission?\n(A) $\\ce{^{20}Na}$\n(B) $\\ce{^{52}V}$\n(C) $\\ce{^{54}Co}$\n(D) $\\ce{^{62}Cu}$"
+    },
+    {
+     "day": 2,
+     "number": 49,
+     "paper_label": "National Exam Part I",
+     "title": "Valid Lewis structure of nitric acid",
+     "problem": "Question 49 (National Exam Part I, multiple choice).\n\nWhich is a valid Lewis structure for nitric acid, $\\ce{HNO3}$?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-49-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 50,
+     "paper_label": "National Exam Part I",
+     "title": "Carbon-oxygen bond lengths",
+     "problem": "Question 50 (National Exam Part I, multiple choice).\n\nWhich statements about carbon-oxygen bond lengths are correct?\nI. The carbon-oxygen bond in carbon dioxide, $\\ce{CO2}$, is shorter than the carbon-oxygen bond in carbonyl sulfide, $\\ce{COS}$.\nII. The carbon-oxygen bond in phosgene, $\\ce{COCl2}$, is shorter than the carbon-oxygen bond in urea, $\\ce{CO(NH2)2}$.\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 2,
+     "number": 51,
+     "paper_label": "National Exam Part I",
+     "title": "Relative Lewis acidity of BF3 and BCl3",
+     "problem": "Question 51 (National Exam Part I, multiple choice).\n\nWhich statement best describes the relative Lewis acidity of $\\ce{BF3}$ and $\\ce{BCl3}$?\n(A) $\\ce{BF3}$ is a weaker Lewis acid than $\\ce{BCl3}$ because F is more electronegative than Cl.\n(B) $\\ce{BF3}$ is a weaker Lewis acid than $\\ce{BCl3}$ because F is a better $\\pi$ donor than Cl.\n(C) $\\ce{BF3}$ is a stronger Lewis acid than $\\ce{BCl3}$ because F is more electronegative than Cl.\n(D) $\\ce{BF3}$ is a stronger Lewis acid than $\\ce{BCl3}$ because F is a better $\\pi$ donor than Cl."
+    },
+    {
+     "day": 2,
+     "number": 52,
+     "paper_label": "National Exam Part I",
+     "title": "Comparison of bond angles in hydrides and fluorides",
+     "problem": "Question 52 (National Exam Part I, multiple choice).\n\nWhich comparisons of bond angles are correct?\nI. The bond angle in $\\ce{NH3}$ is greater than the bond angle in $\\ce{NF3}$.\nII. The bond angle in $\\ce{NH3}$ is greater than the bond angle in $\\ce{PH3}$.\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 2,
+     "number": 53,
+     "paper_label": "National Exam Part I",
+     "title": "Molecular orbital energy ordering in B2 and O2",
+     "problem": "Question 53 (National Exam Part I, multiple choice).\n\nThe gas-phase molecules $\\ce{B2}$ and $\\ce{O2}$ are both paramagnetic. Which statement about the relative energies of their molecular orbitals explains these observations?\nI. The $\\sigma_{2p}$ MO is higher in energy than the $\\pi_{2p}$ MO's.\nII. The $\\sigma^{*}_{2p}$ MO is higher in energy than the $\\pi^{*}_{2p}$ MO's.\n(A) I for $\\ce{B2}$, II for $\\ce{O2}$\n(B) I for $\\ce{O2}$, II for $\\ce{B2}$\n(C) I for both $\\ce{B2}$ and $\\ce{O2}$\n(D) II for both $\\ce{B2}$ and $\\ce{O2}$"
+    },
+    {
+     "day": 2,
+     "number": 54,
+     "paper_label": "National Exam Part I",
+     "title": "Stereoisomers of an octahedral cobalt glycinate complex",
+     "problem": "Question 54 (National Exam Part I, multiple choice).\n\nHow many stereoisomers are there of the octahedral coordination complex $\\ce{Co(NH2CH2CO2)3}$?\n(A) $1$\n(B) $2$\n(C) $3$\n(D) $4$"
+    },
+    {
+     "day": 2,
+     "number": 55,
+     "paper_label": "National Exam Part I",
+     "title": "Tertiary alcohols of formula C5H12O",
+     "problem": "Question 55 (National Exam Part I, multiple choice).\n\nHow many tertiary alcohols have the formula $\\ce{C5H12O}$?\n(A) $1$\n(B) $2$\n(C) $3$\n(D) $4$"
+    },
+    {
+     "day": 2,
+     "number": 56,
+     "paper_label": "National Exam Part I",
+     "title": "Optical activity of difluorocyclohexanes",
+     "problem": "Question 56 (National Exam Part I, multiple choice).\n\nWhich difluorocyclohexanes are optically active?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-56-fig1.png\n\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 2,
+     "number": 57,
+     "paper_label": "National Exam Part I",
+     "title": "Extraction of benzoic acid with sodium bicarbonate",
+     "problem": "Question 57 (National Exam Part I, multiple choice).\n\nWhich best describes the outcome of extracting a dilute solution of benzoic acid in diethyl ether with $5\\%$ aqueous $\\ce{NaHCO3}$?\n(A) Benzoic acid is present in the bottom layer.\n(B) Benzoate ion is present in the bottom layer.\n(C) Benzoic acid is present in the top layer.\n(D) Benzoate ion is present in the top layer."
+    },
+    {
+     "day": 2,
+     "number": 58,
+     "paper_label": "National Exam Part I",
+     "title": "Bromination of 4-nitrotoluene",
+     "problem": "Question 58 (National Exam Part I, multiple choice).\n\nWhich product would be obtained in the greatest quantity from bromination of 4-nitrotoluene using an aluminum bromide catalyst?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-58-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-58-fig2.png"
+    },
+    {
+     "day": 2,
+     "number": 59,
+     "paper_label": "National Exam Part I",
+     "title": "Compound least reactive toward a Grignard reagent",
+     "problem": "Question 59 (National Exam Part I, multiple choice).\n\nWhich compound is least reactive toward ethylmagnesium bromide, $\\ce{CH3CH2MgBr}$?\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-2-59-fig1.png"
+    },
+    {
+     "day": 2,
+     "number": 60,
+     "paper_label": "National Exam Part I",
+     "title": "Differences between RNA and DNA",
+     "problem": "Question 60 (National Exam Part I, multiple choice).\n\nWhich statements describe significant differences between RNA and DNA?\nI. The bases used in RNA include three purines and one pyrimidine, while those in DNA include two purines and two pyrimidines.\nII. Hydrolysis of RNA frequently involves cyclic phosphate intermediates, while hydrolysis of DNA never does.\n(A) I only\n(B) II only\n(C) Both I and II\n(D) Neither I nor II"
+    },
+    {
+     "day": 3,
+     "number": 1,
+     "paper_label": "National Exam Part II",
+     "title": "Group 2 metal halide of unknown identity",
+     "problem": "Problem 1 (National Exam Part II).\n\nAn unknown salt $\\ce{MX2}$ is a group 2 metal halide.\n\na. $10.00\\,\\mathrm{g}$ $\\ce{MX2}$ dissolves in $50.0\\,\\mathrm{g}$ water to give a homogeneous solution. The freezing point of this solution is $-4.50\\,^\\circ\\mathrm{C}$. What is the molar mass of $\\ce{MX2}$? For water, $K_\\mathrm{f} = 1.86\\,^\\circ\\mathrm{C}/m$.\n\nb. $10.00\\,\\mathrm{g}$ $\\ce{Na2CO3}$ and $10.00\\,\\mathrm{g}$ $\\ce{MX2}$ are mixed in $200.0\\,\\mathrm{mL}$ of water. A precipitate of $\\ce{MCO3}$ forms. What is the pH of the supernatant? The $K_\\mathrm{a}$ of $\\ce{H2CO3}$ is $4.3 \\times 10^{-7}$ and the $K_\\mathrm{a}$ of $\\ce{HCO3^-}$ is $4.7 \\times 10^{-11}$.\n\nc. A solution of $10.00\\,\\mathrm{g}$ $\\ce{MX2}$ in water is treated with excess silver nitrate. The precipitate is dried; the mass of the dried compound is $15.2\\,\\mathrm{g}$. What is the identity of $\\ce{MX2}$?\n\nd. A sample of $10.00\\,\\mathrm{g}$ $\\ce{MX2}$ dissolved in $50\\,\\mathrm{mL}$ water is treated with increasing amounts of $\\ce{Na2SO4}$ up to $10\\,\\mathrm{g}$ in total. How will the mass of precipitate formed vary with the mass of added $\\ce{Na2SO4}$? Graph your answer on the grid provided.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-1-fig1.png\n\ne. What color flame test does $\\ce{MX2}$ give?"
+    },
+    {
+     "day": 3,
+     "number": 2,
+     "paper_label": "National Exam Part II",
+     "title": "Solubility of CaF2 as a function of pH",
+     "problem": "Problem 2 (National Exam Part II).\n\nA sample of solid calcium fluoride is suspended in water in an unreactive container and stirred until it achieves equilibrium. The pH of the solution is lowered by careful addition of nitric acid, and the pH and concentration of $\\ce{Ca^{2+}}(aq)$ are noted at several points as shown on the graph below. Note that the units on the $y$ axis are millimoles per liter.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-2-fig1.png\n\na. Determine the $K_\\mathrm{sp}$ of $\\ce{CaF2}$ from the data provided.\n\nb. Qualitatively, what is the cause for the increase in solubility of $\\ce{CaF2}$ at low pH?\n\nc. From the data provided, determine the $K_\\mathrm{a}$ of $\\ce{HF}$.\n\nd. How many moles of $\\ce{HNO3}$ must be added to the $\\ce{CaF2}$/water mixture to achieve a pH $= 3.00$ in this experiment? The volume of solution is $1.00\\,\\mathrm{L}$.\n\ne. Carbon dioxide dissolves in water at $25\\,^\\circ\\mathrm{C}$ and $1\\,\\mathrm{atm}$ pressure to the extent of $0.0345\\,\\mathrm{mol\\,L^{-1}}$. An aliquot of the solution taken from the above experiment at pH $= 5$ is stirred under $1\\,\\mathrm{atm}$ $\\ce{CO2}$ and the pH slowly raised by addition of solid $\\ce{NaOH}$ until $\\ce{CaCO3}$ just begins to precipitate. What is the pH of the solution at this point? The $K_\\mathrm{sp}$ of $\\ce{CaCO3}$ is $8.7 \\times 10^{-9}$, the $K_\\mathrm{a}$ of aqueous $\\ce{CO2}$ (\"$\\ce{H2CO3}$\") is $4.3 \\times 10^{-7}$, and the $K_\\mathrm{a}$ of $\\ce{HCO3^-}$ is $4.7 \\times 10^{-11}$."
+    },
+    {
+     "day": 3,
+     "number": 3,
+     "paper_label": "National Exam Part II",
+     "title": "Radical polymerization of ethene: thermodynamics and kinetics",
+     "problem": "Problem 3 (National Exam Part II).\n\nEthene, $\\ce{C2H4}$, can react in the gas phase in the presence of radicals $R$ to form polyethylene as shown in the equation below. Here $n$ is the degree of polymerization. The forward reaction is second-order while the reverse reaction is first-order. The values of these rate constants are independent of the degree of polymerization $n$ and the identity of $R$.\n\n$$\\mathrm{C_2H_4}(g) + {}^{\\bullet}\\mathrm{CH_2(CH_2)}_{2n}\\mathrm{CH_2}R \\;\\overset{k_\\mathrm{f}}{\\underset{k_\\mathrm{r}}{\\rightleftharpoons}}\\; {}^{\\bullet}\\mathrm{CH_2(CH_2)}_{(2n+2)}\\mathrm{CH_2}R$$\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-3-fig1.png\n\na. A sample of polyethylene has an average degree of polymerization $n = 1200$. How many polymer chains are present in $1.0\\,\\mathrm{g}$ of this material?\n\nb. Calculate $\\Delta H^\\circ$ and $\\Delta S^\\circ$ for the polymerization reaction.\n\nc. The bond dissociation enthalpy (BDE) for a typical carbon-carbon single bond is $345\\,\\mathrm{kJ\\,mol^{-1}}$. From the data given, what is the BDE of the carbon-carbon double bond in ethene?\n\nd. Ethene is charged to a fixed vessel at $25\\,\\mathrm{bar}$ and $720\\,\\mathrm{K}$. Traces of radical are then added to initiate polymerization. What is the percent conversion of ethene into polymer at equilibrium under these conditions?\n\ne. In the presence of a catalyst for the polymerization reaction, the forward rate constant as a function of temperature is $\\ln(k_\\mathrm{f}) = -3050\\,(1/T) + 21.0$. By what factor does the catalyst accelerate the rate of the forward reaction at $500\\,\\mathrm{K}$?\n\nf. By what factor does the catalyst change the rate of the reverse reaction at $500\\,\\mathrm{K}$?"
+    },
+    {
+     "day": 3,
+     "number": 4,
+     "paper_label": "National Exam Part II",
+     "title": "Copper(II) ammine cell titrated with nitric acid",
+     "problem": "Problem 4 (National Exam Part II).\n\nCopper(II) forms a complex ion with ammonia, $\\ce{Cu(NH3)4^{2+}}$, with $K_\\mathrm{f} = 1.7 \\times 10^{13}$. An electrochemical cell is set up as shown below at $298\\,\\mathrm{K}$. Half-cell $\\mathbf{A}$ contains $100\\,\\mathrm{mL}$ of $1.00\\,\\mathrm{M}$ $\\ce{Cu(NO3)2}$, while half-cell $\\mathbf{B}$ contains $100\\,\\mathrm{mL}$ of a solution that contains a small amount of copper(II) and is $0.100\\,\\mathrm{M}$ in $\\ce{NH3}$. A solution of nitric acid is slowly added to half-cell $\\mathbf{B}$ and the potential measured by the voltmeter is recorded as a function of the added volume of $\\ce{HNO3}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-4-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-4-fig2.png\n\na. Which half-cell is the cathode and which is the anode? Justify your answer.\n\nb. Qualitatively explain the shape of the graph.\n\nc. What is the total concentration of copper(II) in the solution in half-cell $\\mathbf{B}$?\n\nd. What is the concentration of nitric acid in the buret?\n\ne. Suppose that the experiment is set up again with silver metal in place of copper metal and silver(I) ion in place of copper(II) ion, but with all concentrations and all other reagents identical. What would the graph of $E$ vs. mL added $\\ce{HNO3}$ look like in this experiment? Sketch your result on the grid below (the graph shown above is redrawn for your convenience), and explain your answer. Silver(I) forms a complex ion with ammonia, $\\ce{Ag(NH3)2+}$, with $K_\\mathrm{f} = 1.7 \\times 10^{7}$.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-4-fig3.png"
+    },
+    {
+     "day": 3,
+     "number": 5,
+     "paper_label": "National Exam Part II",
+     "title": "Net equations for six reactions",
+     "problem": "Problem 5 (National Exam Part II).\n\nWrite net equations for each of the reactions below. Use appropriate ionic and molecular formulas and omit formulas for all ions or molecules that do not take part in a reaction. Write structural formulas for all organic substances, and clearly show stereochemistry where relevant. You need not balance the equations or show the phase of the species.\n\na. Aqueous ammonia and acetic acid are mixed.\n\nb. Sodium iodate is added to an excess of hydriodic acid.\n\nc. Manganese(IV) oxide is added to concentrated aqueous hydrochloric acid.\n\nd. Propyl benzoate is heated with aqueous sodium hydroxide.\n\ne. Calcium oxide and graphite are heated to $2200\\,^\\circ\\mathrm{C}$.\n\nf. Iodine-124 undergoes radioactive decay by electron capture."
+    },
+    {
+     "day": 3,
+     "number": 6,
+     "paper_label": "National Exam Part II",
+     "title": "Properties of the group 1 elements",
+     "problem": "Problem 6 (National Exam Part II).\n\nConsider the properties of the group 1 elements, whose valence shell electron configuration is $ns^1$, in the table below.\n\n$$\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{Element } M & n & \\begin{array}{c}\\text{First ionization}\\\\ \\text{energy, kJ mol}^{-1}\\end{array} & \\begin{array}{c}\\text{Energy required to excite the valence}\\\\ \\text{electron to the } (n+1)s \\text{ orbital, kJ mol}^{-1}\\end{array} & \\begin{array}{c}\\text{Molar density of}\\\\ \\text{solid } M\\text{Cl, mol cm}^{-3}\\end{array} \\\\\n\\hline\n\\text{H} & 1 & 1312 & 984 & 0.0403 \\\\\n\\hline\n\\text{Li} & 2 & 520 & 325 & 0.0507 \\\\\n\\hline\n\\text{Na} & 3 & 496 & 308 & 0.0371 \\\\\n\\hline\n\\text{K} & 4 & 420 & 252 & 0.0266 \\\\\n\\hline\n\\text{Rb} & 5 & 403 & 241 & 0.0232 \\\\\n\\hline\n\\text{Cs} & 6 & 376 & 222 & 0.0237 \\\\\n\\hline\n\\end{array}$$\n\na. Rationalize the observed trend in first ionization energies with increasing $n$.\n\nb. Suppose a hydrogen atom were excited to its $2s^1$ state. If that excited state atom were to transfer its electron to $\\ce{Cs+}$ to form a ground-state Cs atom, how much energy would that reaction absorb or release?\n\nc. All but one of the atoms listed in the table have an excited state that is significantly lower in energy than the $(n+1)s^1$ state described in the table. Explain this observation, noting which atom is the exception and why.\n\nd. All but one of the atoms listed in the table have an excited state that is modestly higher in energy ($38 - 55\\,\\mathrm{kJ\\,mol^{-1}}$) than the $(n+1)s^1$ state described in the table. Explain this observation, noting which atom is the exception and why.\n\ne. The compounds $M\\ce{Cl}(s)$ show a smooth decrease in their molar densities, except that $\\ce{HCl}(s)$ is less dense than expected from the trend and $\\ce{CsCl}(s)$ is more dense than expected. Explain this periodic trend, and give reasons for the two exceptions to the trend.\n\nf. $\\ce{^{137}Cs}$ ($136.9070895\\,\\mathrm{amu}$) undergoes radioactive decay to give a stable product whose atomic mass is $136.9058274\\,\\mathrm{amu}$. What type of radioactive decay is this, and what is the identity of the decay product?\n\ng. Calculate the energy, in $\\mathrm{kJ\\,mol^{-1}}$, released by the radioactive decay of $\\ce{^{137}Cs}$."
+    },
+    {
+     "day": 3,
+     "number": 7,
+     "paper_label": "National Exam Part II",
+     "title": "Carbonyl azide, diazirinone and bond enthalpies",
+     "problem": "Problem 7 (National Exam Part II).\n\nFlash vacuum pyrolysis of carbonyl azide ($\\ce{CON6}$) at $420\\,^\\circ\\mathrm{C}$ gives low yields of a cyclic compound, diazirinone, as shown in the equation below. Note that the illustrations of carbonyl azide and diazirinone correctly show the connectivity of the atoms but are NOT correct Lewis structures. The bond dissociation enthalpies (BDE, in $\\mathrm{kJ\\,mol^{-1}}$) of various bonds among carbon, oxygen, and nitrogen are given in the table.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-7-fig1.png\n\n$$\\begin{array}{|c|c|c|c|c|c|c|c|}\n\\hline\n\\text{Bond} & \\text{BDE, kJ mol}^{-1} & \\text{Bond} & \\text{BDE, kJ mol}^{-1} & \\text{Bond} & \\text{BDE, kJ mol}^{-1} & \\text{Bond} & \\text{BDE, kJ mol}^{-1} \\\\\n\\hline\n\\mathrm{C{-}O} & 350 & \\mathrm{C{-}N} & 290 & \\mathrm{N{-}N} & 160 & \\mathrm{N{-}O} & 200 \\\\\n\\hline\n\\mathrm{C{=}O} & 741 & \\mathrm{C{=}N} & 615 & \\mathrm{N{=}N} & 418 & \\mathrm{N{=}O} & 480 \\\\\n\\hline\n\\mathrm{C{\\equiv}O} & 1080 & \\mathrm{C{\\equiv}N} & 891 & \\mathrm{N{\\equiv}N} & 949 & & \\\\\n\\hline\n\\end{array}$$\n\na. Draw complete Lewis structures for carbonyl azide and for diazirinone, including all lone pairs and nonzero formal charges. You need only draw one Lewis structure for each molecule, even if there are multiple possible resonance structures.\n\nb. Diazirinone decomposes in the gas phase over the course of several days at room temperature to give carbon monoxide and nitrogen gas. Based on the given BDEs, calculate $\\Delta H^\\circ$ for this decomposition reaction.\n\nc. The actual $\\Delta H^\\circ$ for the decomposition of diazirinone is $-347\\,\\mathrm{kJ\\,mol^{-1}}$. Comment on any discrepancy you find between this value and the value you determined in part b. Be sure your comment addresses the direction of deviation of the two values.\n\nd. Will $\\Delta G^\\circ$ for decomposition at $298\\,\\mathrm{K}$ be algebraically greater than, less than, or equal to $\\Delta H^\\circ$ for decomposition? Briefly justify your answer.\n\ne. There is an isomer of diazirinone that has a chain structure with the connectivity $\\ce{NCNO}$. Draw a Lewis structure for this molecule and clearly describe or sketch its geometry.\n\nf. Would you expect acyclic $\\ce{NCNO}$ to be more or less stable than diazirinone? Clearly justify your prediction."
+    },
+    {
+     "day": 3,
+     "number": 8,
+     "paper_label": "National Exam Part II",
+     "title": "Basicity and reactivity of isomers and N-heterocycles",
+     "problem": "Problem 8 (National Exam Part II).\n\nConsider the three isomers of $\\ce{C4H9NO2}$ shown below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-8-fig1.png\n\na. Which compound is the most basic? Justify your answer.\n\nb. Draw the structures of the conjugate acids of the three compounds.\n\nc. Draw the structure of a chiral isomer of $\\ce{C4H9NO2}$.\n\nConsider the two nitrogen heterocycles shown below:\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/us-2024-3-8-fig2.png\n\nd. Which compound is more basic? Draw the structure of its conjugate acid.\n\ne. Which compound is more reactive towards $\\ce{Br2}$? Explain why it is more reactive and draw the structure of a major product of its reaction with $\\ce{Br2}$."
+    }
+   ]
+  },
+  {
    "year": 2025,
    "problems": [
     {
