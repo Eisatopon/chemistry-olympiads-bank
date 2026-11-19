@@ -315,7 +315,7 @@
      "number": 10,
      "paper_label": "Part A, multiple choice",
      "title": "First ionization energy of phosphorus",
-     "problem": "Question 10 (Part A, multiple choice).\n\nThe first ionization energy of phosphorus is lower than that of:\n\nA) chlorine\nB) silicon\nC) sodium\nD) barium\nE) bismuth"
+     "problem": "Question 10 (Part A, multiple choice).\n\nThe first ionization energy of phosphorus is lower than that of:\n\nA) chlorine\nB) silicon\nC) sodium\nD) barium\nE) bismuth"
     },
     {
      "day": 1,
@@ -878,7 +878,7 @@
      "number": 21,
      "paper_label": "Part A, multiple choice",
      "title": "Effect of doubling concentrations on a reaction rate",
-     "problem": "Question 21 (Part A, multiple choice).\n\nIf the rate law for an equation $\\ce{A + B + C -> ABC}$ is $\\mathrm{Rate} = k\\,[\\mathrm{A}]^0[\\mathrm{B}][\\mathrm{C}]^2$ and the reactant concentration of all of the reactants doubles, by what factor does the rate of reaction increase?\n\nA) 3\nB) 4\nC) 6\nD) 8\nE) 10"
+     "problem": "Question 21 (Part A, multiple choice).\n\nIf the rate law for an equation $\\ce{A + B + C -> ABC}$ is $\\mathrm{Rate} = k\\,[\\mathrm{A}]^0[\\mathrm{B}][\\mathrm{C}]^2$ and the reactant concentration of all of the reactants doubles, by what factor does the rate of reaction increase?\n\nA) 3\nB) 4\nC) 6\nD) 8\nE) 10"
     },
     {
      "day": 1,
@@ -1364,21 +1364,21 @@
      "number": 23,
      "paper_label": "Part A, multiple choice",
      "title": "[H2 + I2 equilibrium statements]",
-     "problem": "Question 23 (Part A, multiple choice).\n\nFor the reaction $\\ce{H2(g) + I2(g) <=> 2 HI(g)}$ $\\Delta H^\\circ = +52.96\\,\\mathrm{kJ}$. Which of the following statement(s) is/are correct?\n\nI. The heat of formation of 1 mol of HI is $+26.48\\,\\mathrm{kJ}$\nII. As the temperature increases, the reaction will proceed to the right\nIII. As the pressure increases, the reaction will proceed to the right\n\nA) I only\nB) I and II only\nC) I, II and III\nD) II and III only\nE) III only"
+     "problem": "Question 23 (Part A, multiple choice).\n\nFor the reaction $\\ce{H2(g) + I2(g) <=> 2 HI(g)}$ $\\Delta H^\\circ = +52.96\\,\\mathrm{kJ}$. Which of the following statement(s) is/are correct?\n\nI. The heat of formation of 1 mol of HI is $+26.48\\,\\mathrm{kJ}$\nII. As the temperature increases, the reaction will proceed to the right\nIII. As the pressure increases, the reaction will proceed to the right\n\nA) I only\nB) I and II only\nC) I, II and III\nD) II and III only\nE) III only"
     },
     {
      "day": 1,
      "number": 24,
      "paper_label": "Part A, multiple choice",
      "title": "[Standard Gibbs energy of the Deacon reaction]",
-     "problem": "Question 24 (Part A, multiple choice).\n\nCalculate $\\Delta G^\\circ$ at $25\\,^\\circ\\mathrm{C}$ for the reaction given the data below\n\n$$\\ce{4 HCl(g) + O2(g) -> 2 Cl2(g) + 2 H2O(g)}\\qquad \\Delta H^\\circ = -114.4\\,\\mathrm{kJ}$$\n\n$$\\begin{array}{ll} S^\\circ_{\\ce{Cl2}} = 223.0\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} & S^\\circ_{\\ce{H2O}} = 188.7\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}, \\\\ S^\\circ_{\\ce{O2}} = 205.0\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} & S^\\circ_{\\ce{HCl}} = 186.8\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} \\end{array}$$\n\nA) $+14.4\\,\\mathrm{kJ}$\nB) $-111.18\\,\\mathrm{kJ}$\nC) $+3105.6\\,\\mathrm{kJ}$\nD) $+38\\,\\mathrm{kJ}$\nE) $-76.0\\,\\mathrm{kJ}$"
+     "problem": "Question 24 (Part A, multiple choice).\n\nCalculate $\\Delta G^\\circ$ at $25\\,^\\circ\\mathrm{C}$ for the reaction given the data below\n\n$$\\ce{4 HCl(g) + O2(g) -> 2 Cl2(g) + 2 H2O(g)}\\qquad \\Delta H^\\circ = -114.4\\,\\mathrm{kJ}$$\n\n$$\\begin{array}{ll} S^\\circ_{\\ce{Cl2}} = 223.0\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} & S^\\circ_{\\ce{H2O}} = 188.7\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}}, \\\\ S^\\circ_{\\ce{O2}} = 205.0\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} & S^\\circ_{\\ce{HCl}} = 186.8\\,\\mathrm{J\\,mol^{-1}\\,K^{-1}} \\end{array}$$\n\nA) $+14.4\\,\\mathrm{kJ}$\nB) $-111.18\\,\\mathrm{kJ}$\nC) $+3105.6\\,\\mathrm{kJ}$\nD) $+38\\,\\mathrm{kJ}$\nE) $-76.0\\,\\mathrm{kJ}$"
     },
     {
      "day": 1,
      "number": 25,
      "paper_label": "Part A, multiple choice",
      "title": "[Rate constant of 2 NO + Cl2 from initial rates]",
-     "problem": "Question 25 (Part A, multiple choice).\n\nFor the reaction $\\ce{2 NO(g) + Cl2(g) -> 2 NOCl(g)}$ the table below provides experimental data for 3 different reactions.\n\n$$\\begin{array}{c|c|c|c} \\text{Experiment} & [\\ce{NO}]\\ (\\mathrm{mol\\,L^{-1}}) & [\\ce{Cl2}]\\ (\\mathrm{mol\\,L^{-1}}) & \\text{Initial Rate}\\ (\\mathrm{mol\\,L^{-1}\\,s^{-1}}) \\\\ \\hline 1 & 0.0125 & 0.0128 & 1.14\\times10^{-5} \\\\ 2 & 0.0125 & 0.0511 & 4.55\\times10^{-5} \\\\ 3 & 0.0250 & 0.0255 & 9.08\\times10^{-5} \\end{array}$$\n\nWhat is the rate constant for the reaction?\n\nA) $140\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nB) $0.0714\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nC) $5.70\\,\\mathrm{L^{2}\\,mol^{-2}\\,s^{-1}}$\nD) $0.562\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nE) $1.39\\,\\mathrm{L^{2}\\,mol^{-2}\\,s^{-1}}$"
+     "problem": "Question 25 (Part A, multiple choice).\n\nFor the reaction $\\ce{2 NO(g) + Cl2(g) -> 2 NOCl(g)}$ the table below provides experimental data for 3 different reactions.\n\n$$\\begin{array}{c|c|c|c} \\text{Experiment} & [\\ce{NO}]\\ (\\mathrm{mol\\,L^{-1}}) & [\\ce{Cl2}]\\ (\\mathrm{mol\\,L^{-1}}) & \\text{Initial Rate}\\ (\\mathrm{mol\\,L^{-1}\\,s^{-1}}) \\\\ \\hline 1 & 0.0125 & 0.0128 & 1.14\\times10^{-5} \\\\ 2 & 0.0125 & 0.0511 & 4.55\\times10^{-5} \\\\ 3 & 0.0250 & 0.0255 & 9.08\\times10^{-5} \\end{array}$$\n\nWhat is the rate constant for the reaction?\n\nA) $140\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nB) $0.0714\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nC) $5.70\\,\\mathrm{L^{2}\\,mol^{-2}\\,s^{-1}}$\nD) $0.562\\,\\mathrm{L\\,mol^{-1}\\,s^{-1}}$\nE) $1.39\\,\\mathrm{L^{2}\\,mol^{-2}\\,s^{-1}}$"
     },
     {
      "day": 2,
@@ -1579,7 +1579,7 @@
      "number": 20,
      "paper_label": "Part A, multiple choice",
      "title": "Preparing a buffer of pH about 5",
-     "problem": "Question 20 (Part A, multiple choice).\n\n$$\\begin{array}{ll} \\ce{H2PO4^{-}(aq) + H2O(l) <=> HPO4^{2-}(aq) + H3O+(aq)} & K_a = 6.2\\times10^{-8} \\\\ \\ce{H3PO4 (aq) + H2O(l) <=> H2PO4^{-}(aq) + H3O+(aq)} & K_a = 7.9\\times10^{-3} \\\\ \\ce{H3COOH(aq) + H2O(l) <=> CH3COO^{-}(aq) + H3O+(aq)} & K_a = 1.8\\times10^{-5} \\end{array}$$\n\nUsing the equilibria below, determine which of the following combinations of solutions will generate a buffer with a pH of approximately 5?\n\nA) 50 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{Na2HPO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$\nB) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaCH3COO}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$\nC) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{HCl}$\nD) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$\nE) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{CH3COOH}$ + 50 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$"
+     "problem": "Question 20 (Part A, multiple choice).\n\n$$\\begin{array}{ll} \\ce{H2PO4^{-}(aq) + H2O(l) <=> HPO4^{2-}(aq) + H3O+(aq)} & K_a = 6.2\\times10^{-8} \\\\ \\ce{H3PO4 (aq) + H2O(l) <=> H2PO4^{-}(aq) + H3O+(aq)} & K_a = 7.9\\times10^{-3} \\\\ \\ce{H3COOH(aq) + H2O(l) <=> CH3COO^{-}(aq) + H3O+(aq)} & K_a = 1.8\\times10^{-5} \\end{array}$$\n\nUsing the equilibria below, determine which of the following combinations of solutions will generate a buffer with a pH of approximately 5?\n\nA) 50 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{Na2HPO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$\nB) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaCH3COO}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$\nC) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{HCl}$\nD) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaH2PO4}$ + 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$\nE) 100 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{CH3COOH}$ + 50 mL of $0.10\\,\\mathrm{mol\\,L^{-1}}$ $\\ce{NaOH}$"
     },
     {
      "day": 1,

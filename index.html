@@ -1088,7 +1088,7 @@ body.lang-el .st-en { display: none; }
 
 <footer class="footer">
     <div class="wrap">
-        <span>eisatopon.gr © 2026–<span id="yr">2026</span> – Democritus, World Chemistry Olympiads Bank</span>
+        <span>© 2026 eisatopon.gr – Democritus, World Chemistry Olympiads Bank · All rights reserved · <a href="terms.html">Terms of use</a></span>
         <p class="thanks">Statements are reproduced from the competitions' English papers for study; the problems remain the work of their authors and organising committees. Democritus is an independent project; it is not affiliated with, endorsed by or supported by any competition organiser. Problems remain the property of their organisers; any organiser may ask for corrections or removal at <a href="mailto:sokkorom@gmail.com">sokkorom@gmail.com</a>. Sister project of the <a href="https://eisatopon.github.io/national-olympiads-bank/">World Mathematical Olympiads Bank</a> and the <a href="https://eisatopon.github.io/physics-olympiads-bank/">World Physics Olympiads Bank</a>.</p>
     </div>
 </footer>
@@ -1140,7 +1140,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261117-us-27b';
+const DATA_VERSION = '20261119-terms-1';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { us: 'americas', icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', de: 'europe', pl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
@@ -1355,14 +1355,14 @@ function bodyHtml(text, record) {
    The browser receives a short fingerprint of each reviewed statement instead of a full copy
    (see scripts/build_runtime_metadata.py). 32-bit FNV-1a over UTF-16 code units. */
 function textHash(text) {
-    const s = String(text);
+    const s = String(text).replace(/\u00a0/g, ' ');   // the published copy carries no-break spaces as ownership marks
     let h = 0x811c9dc5;
     for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); }
     return (h >>> 0).toString(16).padStart(8, '0');
 }
 function sameStatement(record, text) {
     if (!record) return false;
-    if (typeof record.reviewed_statement === 'string') return record.reviewed_statement === text;
+    if (typeof record.reviewed_statement === 'string') return record.reviewed_statement === String(text).replace(/\u00a0/g, ' ');
     return typeof record.h === 'string' && record.h === textHash(text);
 }
 const TOPICS = ['Physical chemistry', 'Inorganic chemistry', 'Organic chemistry', 'Analytical chemistry', 'Biochemistry', 'Practical & Laboratory'];
@@ -3392,7 +3392,6 @@ function setLang(l) {
 }
 async function init() {
     try { if (localStorage.getItem('chob-lang') === 'el') document.body.classList.add('lang-el'); } catch (e) {}
-    $('#yr').textContent = new Date().getFullYear();
     $('#statRows').textContent = COUNTRIES.length;
     $('#statYears').textContent = `${FIRST}–${LAST}`;
 

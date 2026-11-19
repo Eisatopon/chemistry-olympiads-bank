@@ -212,7 +212,7 @@
      "number": 8,
      "paper_label": "Paper 2",
      "title": "Thermodynamics of boiling water at 373 K",
-     "problem": "Question 8 (Paper 2, Section I: straight objective type, only one option correct).\n\nFor the process $\\ce{H2O(l)}$ (1 bar, 373 K) $\\rightarrow$ $\\ce{H2O(g)}$ (1 bar, 373 K), the correct set of thermodynamic parameters is\n\n(A) $\\Delta G = 0$, $\\Delta S = +\\mathrm{ve}$\n(B) $\\Delta G = 0$, $\\Delta S = -\\mathrm{ve}$\n(C) $\\Delta G = +\\mathrm{ve}$, $\\Delta S = 0$\n(D) $\\Delta G = -\\mathrm{ve}$, $\\Delta S = +\\mathrm{ve}$"
+     "problem": "Question 8 (Paper 2, Section I: straight objective type, only one option correct).\n\nFor the process $\\ce{H2O(l)}$ (1 bar, 373 K) $\\rightarrow$ $\\ce{H2O(g)}$ (1 bar, 373 K), the correct set of thermodynamic parameters is\n\n(A) $\\Delta G = 0$, $\\Delta S = +\\mathrm{ve}$\n(B) $\\Delta G = 0$, $\\Delta S = -\\mathrm{ve}$\n(C) $\\Delta G = +\\mathrm{ve}$, $\\Delta S = 0$\n(D) $\\Delta G = -\\mathrm{ve}$, $\\Delta S = +\\mathrm{ve}$"
     },
     {
      "day": 2,
@@ -483,7 +483,7 @@
      "number": 1,
      "paper_label": "Paper 2",
      "title": "Stability order of four carbocations",
-     "problem": "Question 1 (Paper 2, [Section I: straight objective type, only one option correct]).\n\nThe correct stability order for the following species is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2008-2-1-fig1.png\n\n(A) (II) > (IV) > (I) > (III)\n(B) (I) > (II) > (III) > (IV)\n(C) (II) > (I) > (IV) > (III)\n(D) (I) > (III) > (II) > (IV)"
+     "problem": "Question 1 (Paper 2, [Section I: straight objective type, only one option correct]).\n\nThe correct stability order for the following species is\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2008-2-1-fig1.png\n\n(A) (II) > (IV) > (I) > (III)\n(B) (I) > (II) > (III) > (IV)\n(C) (II) > (I) > (IV) > (III)\n(D) (I) > (III) > (II) > (IV)"
     },
     {
      "day": 2,
@@ -719,7 +719,7 @@
      "number": 12,
      "paper_label": "Paper 1",
      "title": "Stereoisomers of hex-3-ene-2,5-diol",
-     "problem": "Question 12 (Paper 1, Section II: multiple correct choice type, one or more options correct).\n\nThe correct statement(s) about the compound $\\ce{H3C(HO)HC-CH=CH-CH(OH)CH3}$ ($\\mathbf{X}$) is(are)\n\n(A) The total number of stereoisomers possible for $\\mathbf{X}$ is 6\n(B) The total number of diastereomers possible for $\\mathbf{X}$ is 3\n(C) If the stereochemistry about the double bond in $\\mathbf{X}$ is trans, the number of enantiomers possible for $\\mathbf{X}$ is 4\n(D) If the stereochemistry about the double bond in $\\mathbf{X}$ is cis, the number of enantiomers possible for $\\mathbf{X}$ is 2"
+     "problem": "Question 12 (Paper 1, Section II: multiple correct choice type, one or more options correct).\n\nThe correct statement(s) about the compound $\\ce{H3C(HO)HC-CH=CH-CH(OH)CH3}$ ($\\mathbf{X}$) is(are)\n\n(A) The total number of stereoisomers possible for $\\mathbf{X}$ is 6\n(B) The total number of diastereomers possible for $\\mathbf{X}$ is 3\n(C) If the stereochemistry about the double bond in $\\mathbf{X}$ is trans, the number of enantiomers possible for $\\mathbf{X}$ is 4\n(D) If the stereochemistry about the double bond in $\\mathbf{X}$ is cis, the number of enantiomers possible for $\\mathbf{X}$ is 2"
     },
     {
      "day": 1,
@@ -1242,7 +1242,7 @@
      "number": 19,
      "paper_label": "Paper 2",
      "title": "Reactions of chlorides and fluorides with water",
-     "problem": "Question 19 (Paper 2, Section 4: matrix match, Column I with Column II).\n\nAll the compounds listed in Column I react with water. Match the result of the respective reactions with the appropriate options listed in Column II.\n\nColumn I\n\n(A) $\\ce{(CH3)2SiCl2}$\n(B) $\\ce{XeF4}$\n(C) $\\ce{Cl2}$\n(D) $\\ce{VCl5}$\n\nColumn II\n\n(p) Hydrogen halide formation\n(q) Redox reaction\n(r) Reacts with glass\n(s) Polymerization\n(t) $\\ce{O2}$ formation"
+     "problem": "Question 19 (Paper 2, Section 4: matrix match, Column I with Column II).\n\nAll the compounds listed in Column I react with water. Match the result of the respective reactions with the appropriate options listed in Column II.\n\nColumn I\n\n(A) $\\ce{(CH3)2SiCl2}$\n(B) $\\ce{XeF4}$\n(C) $\\ce{Cl2}$\n(D) $\\ce{VCl5}$\n\nColumn II\n\n(p) Hydrogen halide formation\n(q) Redox reaction\n(r) Reacts with glass\n(s) Polymerization\n(t) $\\ce{O2}$ formation"
     }
    ]
   },
@@ -1366,7 +1366,7 @@
      "number": 17,
      "paper_label": "Paper 1",
      "title": "Oxidation numbers of sulphur in sodium tetrathionate",
-     "problem": "Question 17 (Paper 1, Section IV: single-digit integer answer, 0 to 9).\n\nThe difference in the oxidation numbers of the two types of sulphur atoms in $\\ce{Na2S4O6}$ is"
+     "problem": "Question 17 (Paper 1, Section IV: single-digit integer answer, 0 to 9).\n\nThe difference in the oxidation numbers of the two types of sulphur atoms in $\\ce{Na2S4O6}$ is"
     },
     {
      "day": 1,
@@ -1894,7 +1894,7 @@
      "number": 8,
      "paper_label": "Paper 1",
      "title": "Spin-only magnetic moments of three complex ions",
-     "problem": "Question 8 (Paper 1, Section 1: only one option correct).\n\nConsider the following complex ions, $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$.\n\n$\\mathbf{P} = \\ce{[FeF6]^{3-}}$, $\\mathbf{Q} = \\ce{[V(H2O)6]^{2+}}$ and $\\mathbf{R} = \\ce{[Fe(H2O)6]^{2+}}$.\n\nThe correct order of the complex ions, according to their spin-only magnetic moment values (in B.M.) is\n\n(A) $\\mathbf{R} < \\mathbf{Q} < \\mathbf{P}$\n(B) $\\mathbf{Q} < \\mathbf{R} < \\mathbf{P}$\n(C) $\\mathbf{R} < \\mathbf{P} < \\mathbf{Q}$\n(D) $\\mathbf{Q} < \\mathbf{P} < \\mathbf{R}$"
+     "problem": "Question 8 (Paper 1, Section 1: only one option correct).\n\nConsider the following complex ions, $\\mathbf{P}$, $\\mathbf{Q}$ and $\\mathbf{R}$.\n\n$\\mathbf{P} = \\ce{[FeF6]^{3-}}$, $\\mathbf{Q} = \\ce{[V(H2O)6]^{2+}}$ and $\\mathbf{R} = \\ce{[Fe(H2O)6]^{2+}}$.\n\nThe correct order of the complex ions, according to their spin-only magnetic moment values (in B.M.) is\n\n(A) $\\mathbf{R} < \\mathbf{Q} < \\mathbf{P}$\n(B) $\\mathbf{Q} < \\mathbf{R} < \\mathbf{P}$\n(C) $\\mathbf{R} < \\mathbf{P} < \\mathbf{Q}$\n(D) $\\mathbf{Q} < \\mathbf{P} < \\mathbf{R}$"
     },
     {
      "day": 1,
@@ -2214,7 +2214,7 @@
      "number": 13,
      "paper_label": "Paper 1",
      "title": "Colours of metal sulfides",
-     "problem": "Question 13 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nAmong $\\ce{PbS}$, $\\ce{CuS}$, $\\ce{HgS}$, $\\ce{MnS}$, $\\ce{Ag2S}$, $\\ce{NiS}$, $\\ce{CoS}$, $\\ce{Bi2S3}$ and $\\ce{SnS2}$, the total number of BLACK coloured sulfides is"
+     "problem": "Question 13 (Paper 1, Section 2: one integer value correct type, 0 to 9).\n\nAmong $\\ce{PbS}$, $\\ce{CuS}$, $\\ce{HgS}$, $\\ce{MnS}$, $\\ce{Ag2S}$, $\\ce{NiS}$, $\\ce{CoS}$, $\\ce{Bi2S3}$ and $\\ce{SnS2}$, the total number of BLACK coloured sulfides is"
     },
     {
      "day": 1,
@@ -2443,7 +2443,7 @@
      "number": 5,
      "paper_label": "Paper 1",
      "title": "Linear triatomic species without d-orbital hybridization",
-     "problem": "Question 5 (Paper 1, Section 1: single digit integer answer, 0 to 9).\n\nAmong the triatomic molecules/ions, $\\ce{BeCl2}$, $\\ce{N3-}$, $\\ce{N2O}$, $\\ce{NO2+}$, $\\ce{O3}$, $\\ce{SCl2}$, $\\ce{ICl2-}$, $\\ce{I3-}$ and $\\ce{XeF2}$, the total number of linear molecule(s)/ion(s) where the hybridization of the central atom does not have contribution from the $d$-orbital(s) is\n\n[Atomic number: S = 16, Cl = 17, I = 53 and Xe = 54]"
+     "problem": "Question 5 (Paper 1, Section 1: single digit integer answer, 0 to 9).\n\nAmong the triatomic molecules/ions, $\\ce{BeCl2}$, $\\ce{N3-}$, $\\ce{N2O}$, $\\ce{NO2+}$, $\\ce{O3}$, $\\ce{SCl2}$, $\\ce{ICl2-}$, $\\ce{I3-}$ and $\\ce{XeF2}$, the total number of linear molecule(s)/ion(s) where the hybridization of the central atom does not have contribution from the $d$-orbital(s) is\n\n[Atomic number: S = 16, Cl = 17, I = 53 and Xe = 54]"
     },
     {
      "day": 1,
@@ -2646,14 +2646,14 @@
      "number": 14,
      "paper_label": "Paper 2",
      "title": "Chlorosilanes for silicone polymers",
-     "problem": "Question 14 (Paper 2, Section 2: one or more options correct).\n\nUnder hydrolytic conditions, the compounds used for preparation of linear polymer and for chain termination, respectively, are\n\n(A) $\\ce{CH3SiCl3}$ and $\\ce{Si(CH3)4}$\n(B) $\\ce{(CH3)2SiCl2}$ and $\\ce{(CH3)3SiCl}$\n(C) $\\ce{(CH3)2SiCl2}$ and $\\ce{CH3SiCl3}$\n(D) $\\ce{SiCl4}$ and $\\ce{(CH3)3SiCl}$"
+     "problem": "Question 14 (Paper 2, Section 2: one or more options correct).\n\nUnder hydrolytic conditions, the compounds used for preparation of linear polymer and for chain termination, respectively, are\n\n(A) $\\ce{CH3SiCl3}$ and $\\ce{Si(CH3)4}$\n(B) $\\ce{(CH3)2SiCl2}$ and $\\ce{(CH3)3SiCl}$\n(C) $\\ce{(CH3)2SiCl2}$ and $\\ce{CH3SiCl3}$\n(D) $\\ce{SiCl4}$ and $\\ce{(CH3)3SiCl}$"
     },
     {
      "day": 2,
      "number": 15,
      "paper_label": "Paper 2",
      "title": "Adsorption of oxygen on a metal surface",
-     "problem": "Question 15 (Paper 2, Section 2: one or more options correct).\n\nWhen $\\ce{O2}$ is adsorbed on a metallic surface, electron transfer occurs from the metal to $\\ce{O2}$. The TRUE statement(s) regarding this adsorption is(are)\n\n(A) $\\ce{O2}$ is physisorbed\n(B) heat is released\n(C) occupancy of $\\pi^*_{2p}$ of $\\ce{O2}$ is increased\n(D) bond length of $\\ce{O2}$ is increased"
+     "problem": "Question 15 (Paper 2, Section 2: one or more options correct).\n\nWhen $\\ce{O2}$ is adsorbed on a metallic surface, electron transfer occurs from the metal to $\\ce{O2}$. The TRUE statement(s) regarding this adsorption is(are)\n\n(A) $\\ce{O2}$ is physisorbed\n(B) heat is released\n(C) occupancy of $\\pi^*_{2p}$ of $\\ce{O2}$ is increased\n(D) bond length of $\\ce{O2}$ is increased"
     },
     {
      "day": 2,
@@ -3132,7 +3132,7 @@
      "number": 8,
      "paper_label": "Paper 2",
      "title": "Adsorption and colloids",
-     "problem": "Question 8 (Paper 2, Section 2: one or more options correct).\n\nThe correct statement(s) about surface properties is(are)\n\n(A) Adsorption is accompanied by decrease in enthalpy and decrease in entropy of the system\n(B) The critical temperatures of ethane and nitrogen are 563 K and 126 K, respectively. The adsorption of ethane will be more than that of nitrogen on same amount of activated charcoal at a given temperature\n(C) Cloud is an emulsion type of colloid in which liquid is dispersed phase and gas is dispersion medium\n(D) Brownian motion of colloidal particles does not depend on the size of the particles but depends on viscosity of the solution"
+     "problem": "Question 8 (Paper 2, Section 2: one or more options correct).\n\nThe correct statement(s) about surface properties is(are)\n\n(A) Adsorption is accompanied by decrease in enthalpy and decrease in entropy of the system\n(B) The critical temperatures of ethane and nitrogen are 563 K and 126 K, respectively. The adsorption of ethane will be more than that of nitrogen on same amount of activated charcoal at a given temperature\n(C) Cloud is an emulsion type of colloid in which liquid is dispersed phase and gas is dispersion medium\n(D) Brownian motion of colloidal particles does not depend on the size of the particles but depends on viscosity of the solution"
     },
     {
      "day": 2,
@@ -3146,7 +3146,7 @@
      "number": 10,
      "paper_label": "Paper 2",
      "title": "Steric factor of a bimolecular reaction",
-     "problem": "Question 10 (Paper 2, Section 2: one or more options correct).\n\nIn a bimolecular reaction, the steric factor P was experimentally determined to be 4.5. The correct option(s) among the following is(are)\n\n(A) The activation energy of the reaction is unaffected by the value of the steric factor\n(B) Experimentally determined value of frequency factor is higher than that predicted by Arrhenius equation\n(C) Since P = 4.5, the reaction will not proceed unless an effective catalyst is used\n(D) The value of frequency factor predicted by Arrhenius equation is higher than that determined experimentally"
+     "problem": "Question 10 (Paper 2, Section 2: one or more options correct).\n\nIn a bimolecular reaction, the steric factor P was experimentally determined to be 4.5. The correct option(s) among the following is(are)\n\n(A) The activation energy of the reaction is unaffected by the value of the steric factor\n(B) Experimentally determined value of frequency factor is higher than that predicted by Arrhenius equation\n(C) Since P = 4.5, the reaction will not proceed unless an effective catalyst is used\n(D) The value of frequency factor predicted by Arrhenius equation is higher than that determined experimentally"
     },
     {
      "day": 2,
@@ -3445,7 +3445,7 @@
      "number": 16,
      "paper_label": "Paper 2",
      "title": "Pinacol-type rearrangements towards a carboxylic acid",
-     "problem": "Question 16 (Paper 2, Section 3: matching list, only one option correct).\n\nThe desired product $\\mathbf{X}$ can be prepared by reacting the major product of the reactions in LIST-I with one or more appropriate reagents in LIST-II.\n(given, order of migratory aptitude: aryl > alkyl > hydrogen)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2018-2-16-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2018-2-16-fig2.png\n\nThe correct option is\n\n(A) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 2,3$; $\\mathrm{R} \\to 1,4$; $\\mathrm{S} \\to 2,4$\n(B) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 3,4$; $\\mathrm{R} \\to 4,5$; $\\mathrm{S} \\to 3$\n(C) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 3,4$; $\\mathrm{R} \\to 5$; $\\mathrm{S} \\to 2,4$\n(D) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 2,3$; $\\mathrm{R} \\to 1,5$; $\\mathrm{S} \\to 2,3$"
+     "problem": "Question 16 (Paper 2, Section 3: matching list, only one option correct).\n\nThe desired product $\\mathbf{X}$ can be prepared by reacting the major product of the reactions in LIST-I with one or more appropriate reagents in LIST-II.\n(given, order of migratory aptitude: aryl > alkyl > hydrogen)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2018-2-16-fig1.png\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2018-2-16-fig2.png\n\nThe correct option is\n\n(A) $\\mathrm{P} \\to 1$; $\\mathrm{Q} \\to 2,3$; $\\mathrm{R} \\to 1,4$; $\\mathrm{S} \\to 2,4$\n(B) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 3,4$; $\\mathrm{R} \\to 4,5$; $\\mathrm{S} \\to 3$\n(C) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 3,4$; $\\mathrm{R} \\to 5$; $\\mathrm{S} \\to 2,4$\n(D) $\\mathrm{P} \\to 1,5$; $\\mathrm{Q} \\to 2,3$; $\\mathrm{R} \\to 1,5$; $\\mathrm{S} \\to 2,3$"
     },
     {
      "day": 2,
@@ -3485,7 +3485,7 @@
      "number": 3,
      "paper_label": "Paper 1",
      "title": "Molar conductivity and micelle formation",
-     "problem": "Question 3 (Paper 1, Section 1: one option correct).\n\nMolar conductivity ($\\Lambda_m$) of aqueous solution of sodium stearate, which behaves as a strong electrolyte, is recorded at varying concentrations ($c$) of sodium stearate. Which one of the following plots provides the correct representation of micelle formation in the solution?\n(critical micelle concentration (CMC) is marked with an arrow in the figures)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2019-1-3-fig1.png\n\n[Options (A)–(D) are the plots shown in the figure.]"
+     "problem": "Question 3 (Paper 1, Section 1: one option correct).\n\nMolar conductivity ($\\Lambda_m$) of aqueous solution of sodium stearate, which behaves as a strong electrolyte, is recorded at varying concentrations ($c$) of sodium stearate. Which one of the following plots provides the correct representation of micelle formation in the solution?\n(critical micelle concentration (CMC) is marked with an arrow in the figures)\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2019-1-3-fig1.png\n\n[Options (A)–(D) are the plots shown in the figure.]"
     },
     {
      "day": 1,
@@ -3618,7 +3618,7 @@
      "number": 4,
      "paper_label": "Paper 2",
      "title": "An excited electronic state of He+",
-     "problem": "Question 4 (Paper 2, Section 1: one or more options correct).\n\nThe ground state energy of hydrogen atom is $-13.6\\,\\mathrm{eV}$. Consider an electronic state $\\Psi$ of $\\ce{He+}$ whose energy, azimuthal quantum number and magnetic quantum number are $-3.4\\,\\mathrm{eV}$, 2 and 0, respectively. Which of the following statement(s) is(are) true for the state $\\Psi$?\n\n(A) It is a $4d$ state\n(B) It has 2 angular nodes\n(C) It has 3 radial nodes\n(D) The nuclear charge experienced by the electron in this state is less than $2e$, where $e$ is the magnitude of the electronic charge"
+     "problem": "Question 4 (Paper 2, Section 1: one or more options correct).\n\nThe ground state energy of hydrogen atom is $-13.6\\,\\mathrm{eV}$. Consider an electronic state $\\Psi$ of $\\ce{He+}$ whose energy, azimuthal quantum number and magnetic quantum number are $-3.4\\,\\mathrm{eV}$, 2 and 0, respectively. Which of the following statement(s) is(are) true for the state $\\Psi$?\n\n(A) It is a $4d$ state\n(B) It has 2 angular nodes\n(C) It has 3 radial nodes\n(D) The nuclear charge experienced by the electron in this state is less than $2e$, where $e$ is the magnitude of the electronic charge"
     },
     {
      "day": 2,
@@ -3716,7 +3716,7 @@
      "number": 18,
      "paper_label": "Paper 2",
      "title": "Matching reactions (III) and (IV) with products",
-     "problem": "Question 18 (Paper 2, Section 3: matching list, one option correct).\n\nAnswer Q.17 and Q.18 by appropriately matching the lists based on the information given in the paragraph\n\nParagraph (common to Questions 17 and 18): List-I includes starting materials and reagents of selected chemical reactions. List-II gives structures of compounds that may be formed as intermediate products and/or final products from the reactions of List-I.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2019-2-18-fig1.png\n\n[List-I: reactions (I)–(IV); List-II: structures (P)–(U), as shown in the figure.]\n\nWhich of the following options has correct combination considering List-I and List-II?\n\n(A) (III), (S), (R)\n(B) (IV), (Q), (U)\n(C) (III), (T), (U)\n(D) (IV), (Q), (R)"
+     "problem": "Question 18 (Paper 2, Section 3: matching list, one option correct).\n\nAnswer Q.17 and Q.18 by appropriately matching the lists based on the information given in the paragraph\n\nParagraph (common to Questions 17 and 18): List-I includes starting materials and reagents of selected chemical reactions. List-II gives structures of compounds that may be formed as intermediate products and/or final products from the reactions of List-I.\n\nhttps://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/images/jee-2019-2-18-fig1.png\n\n[List-I: reactions (I)–(IV); List-II: structures (P)–(U), as shown in the figure.]\n\nWhich of the following options has correct combination considering List-I and List-II?\n\n(A) (III), (S), (R)\n(B) (IV), (Q), (U)\n(C) (III), (T), (U)\n(D) (IV), (Q), (R)"
     }
    ]
   },
