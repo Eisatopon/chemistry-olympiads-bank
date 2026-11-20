@@ -3018,7 +3018,7 @@ function showUpdated() {
 /* ---------- Share one problem ----------
    Links go through the share worker (workers/share): its page carries the problem's title and statement
    for link previews and sends people on to ?p=<uid>. */
-const SHARE_URL = 'https://democritus.sokkorom.workers.dev/p/';
+const SHARE_URL = 'https://democritus.eisatopon.gr/p/';
 function problemLabel(p) {
     const c = CBY[p.country];
     return `${c.flag} ${c.name} ${p.year}${p.paperLabel ? `, ${p.paperLabel}` : p.day ? `, Day ${p.day}` : ''} – Problem ${p.num}`;
@@ -3281,7 +3281,7 @@ document.addEventListener('click', e => {
         return;
     }
     if (t.hasAttribute('data-potd-share') && dailyPool) {
-        const r = potdRecord(), url = 'https://democritus.sokkorom.workers.dev/p/' + encodeURIComponent(r.uid);
+        const r = potdRecord(), url = 'https://democritus.eisatopon.gr/p/' + encodeURIComponent(r.uid);
         const label = `Problem of the day: ${CBY[r.country].name} ${r.year}, Problem ${r.num}`;
         if (navigator.share) navigator.share({title: label, text: label, url}).catch(() => {});
         else copyText(url, 'Link to the problem of the day copied.');
