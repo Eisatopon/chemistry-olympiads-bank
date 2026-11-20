@@ -2298,6 +2298,8 @@ function groupCreditText(ps) {
 }
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
+// USNCO records open with a label paragraph "Question N (Local Section Exam, …)." that repeats the card header: not shown.
+function shownText(p) { return p.country === 'us' ? String(p.text).replace(/^(?:Question|Problem) \d+ \([^)\n]*\)\.\n\n/, '') : p.text; }
 function problemHtml(p) {
     const c = CBY[p.country];
     return `
@@ -2319,7 +2321,7 @@ function problemHtml(p) {
             </button>
             </div>
         </div>
-        ${p.textEl ? `<div class="lang-sw" role="group" aria-label="Language of the statement"><button type="button" class="btn btn-sm" data-lang="en">EN</button><button type="button" class="btn btn-sm" data-lang="el">${p.origLang === 'el' || !p.origLang ? 'ΕΛ' : esc(p.origLang.toUpperCase())}</button></div><div class="statement st-en">${bodyHtml(p.text, p)}</div><div class="statement st-el" lang="${esc(p.origLang || 'el')}">${bodyHtml(p.textEl, p)}</div>` : `<div class="statement">${bodyHtml(p.text, p)}</div>`}
+        ${p.textEl ? `<div class="lang-sw" role="group" aria-label="Language of the statement"><button type="button" class="btn btn-sm" data-lang="en">EN</button><button type="button" class="btn btn-sm" data-lang="el">${p.origLang === 'el' || !p.origLang ? 'ΕΛ' : esc(p.origLang.toUpperCase())}</button></div><div class="statement st-en">${bodyHtml(p.text, p)}</div><div class="statement st-el" lang="${esc(p.origLang || 'el')}">${bodyHtml(p.textEl, p)}</div>` : `<div class="statement">${bodyHtml(shownText(p), p)}</div>`}
         ${provenanceHtml(p)}
         ${dnaHtml(p)}
     </article>`;
