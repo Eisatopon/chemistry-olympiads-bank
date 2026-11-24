@@ -1145,7 +1145,7 @@ const BASE = './';
 // Figures are linked inside the statements with their published raw URL; a local copy shows its own images/.
 const RAW = 'https://raw.githubusercontent.com/Eisatopon/chemistry-olympiads-bank/main/';
 // Bump on every data change so browsers never mix old and new files.
-const DATA_VERSION = '20261119-terms-1';
+const DATA_VERSION = '20261124-us-28';
 const FIRST = 1968, LAST = 2026;
 const REGIONS = [['europe', 'Europe'], ['asia', 'Asia'], ['americas', 'Americas'], ['africa', 'Africa'], ['oceania', 'Oceania'], ['world', 'World'], ['other', 'Other']];
 const REGION_OF = { us: 'americas', icho: 'world', imcho: 'world', bcho: 'europe', at: 'europe', nl: 'europe', gr: 'europe', de: 'europe', pl: 'europe', ca: 'americas', in: 'asia', jee: 'asia', nsec: 'asia', cypan: 'europe', grpan: 'europe', icp: 'world', icx: 'world' };
@@ -2156,11 +2156,11 @@ function provenanceHtml(p, print = false) {
     const originalLink = sourceDownload ? ` <a href="${esc(sourceDownload)}" target="_blank" rel="noopener noreferrer">${candidate.source_download_kind === 'statements_only' ? 'Statements PDF (no solutions)' : candidate.source_format === 'doc' ? 'Original document (Word)' : 'Original PDF'}</a>.` : '';
     const editedChecked = checked && !archiveChecked && candidate.original_wording_verified === false;
     // A statement taken from a secondary compilation never gets an original-source badge.
-    const secondary = checked && /compilation/i.test(candidate.source_format || '');
+    const secondary = checked && /compilation|third-party mirror/i.test(candidate.source_format || '');
     const unresolved = (checked || compared) && /^(?:Source ambiguity|Incomplete source condition|Unresolved source (?:error|variant)|Potential source typo|Source omission|Source convention omission)/.test(editorialText);
     const status = unresolved ? 'Source issue — awaiting verification' : archiveChecked ? 'Statement checked against archive transcription (AI-assisted)' : secondary ? 'Checked against a secondary compilation (AI-assisted)' : editedChecked ? 'Edited statement — source correction recorded' : checked ? 'Statement checked against source (AI-assisted)' : compared ? 'Secondary-source comparison (AI-assisted)' : 'Sources and notes';
     const note = gaps ? `Incomplete year: missing problem ${gaps.join(', ')}.` : '';
-    const checkDetail = compared ? `<p>Compared textually on ${esc(candidate.checked_at)} with <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">John Scholes’ reworded secondary archive</a>, problem ${esc(candidate.source_problem_number)}. This is an edited transcription; original examination wording has not been verified.</p>${candidate.source_variant_note ? `<p>${esc(candidate.source_variant_note)}</p>` : ''}` : archiveChecked ? `<p>Checked textually on ${esc(candidate.checked_at)} against the archive’s declared verbatim examination transcription: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">TeX statement source</a>, problem ${esc(candidate.source_problem_number)}. Source differences and visual dependencies received focused PDF checks. This does not assert visual comparison with every original MAA examination scan.</p>` : editedChecked ? `<p>The source was reviewed on ${esc(candidate.checked_at)}: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Printed statement source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The explicit editorial correction is described above; the displayed formulation is not presented as the original printed wording.</p>` : secondary ? `<p>Compared visually and textually on ${esc(candidate.checked_at)} with a secondary source: ${esc(candidate.source_format)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Compilation pages${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The original examination paper has not been seen.</p>` : checked ? `<p>Compared visually and textually on ${esc(candidate.checked_at)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Exam source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, source problem ${esc(candidate.source_problem_number)}. This checks statement fidelity, not the solution or independent mathematical correctness.${originalLink}</p>` : '';
+    const checkDetail = compared ? `<p>Compared textually on ${esc(candidate.checked_at)} with <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">John Scholes’ reworded secondary archive</a>, problem ${esc(candidate.source_problem_number)}. This is an edited transcription; original examination wording has not been verified.</p>${candidate.source_variant_note ? `<p>${esc(candidate.source_variant_note)}</p>` : ''}` : archiveChecked ? `<p>Checked textually on ${esc(candidate.checked_at)} against the archive’s declared verbatim examination transcription: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">TeX statement source</a>, problem ${esc(candidate.source_problem_number)}. Source differences and visual dependencies received focused PDF checks. This does not assert visual comparison with every original MAA examination scan.</p>` : editedChecked ? `<p>The source was reviewed on ${esc(candidate.checked_at)}: <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Printed statement source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The explicit editorial correction is described above; the displayed formulation is not presented as the original printed wording.</p>` : secondary ? `<p>Compared visually and textually on ${esc(candidate.checked_at)} with a secondary source: ${esc(candidate.source_format)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">${/mirror/i.test(candidate.source_format || '') ? 'Mirror copy of the paper' : 'Compilation pages'}${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, problem ${esc(candidate.source_problem_number)}. The original examination paper has not been seen.</p>` : checked ? `<p>Compared visually and textually on ${esc(candidate.checked_at)}. <a href="${esc(source)}" target="_blank" rel="noopener noreferrer">Exam source${candidate.source_contains_solutions ? ' (includes solutions)' : ''}</a>, ${pageReference}, source problem ${esc(candidate.source_problem_number)}. This checks statement fidelity, not the solution or independent mathematical correctness.${originalLink}</p>` : '';
     const links = (meta?.source_links || []).map(link => {
         const url = safeSourceUrl(link.url);
         return url ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Archive research link</a>` : '';
@@ -2292,14 +2292,16 @@ function creditText(p) {
     const o = ORGANISERS[p.country] && ORGANISERS[p.country](p.year);
     if (!o) return '';
     const check = collectionMetadata[CBY[p.country].file]?.statement_checks?.[p.uid];
-    const secondary = /compilation/i.test(check?.source_format || '');
-    return `© ${o.rights.replace(/^the /, '')}${secondary ? ' · from a later compilation' : ''}`;
+    const fmt = check?.source_format || '';
+    const secondary = /compilation/i.test(fmt) ? ' · from a later compilation' : /third-party mirror/i.test(fmt) ? ' · from a mirror copy' : '';
+    return `© ${o.rights.replace(/^the /, '')}${secondary}`;
 }
 // One credit line per competition-year (cards would repeat it); mixed years say "some".
 function groupCreditText(ps) {
-    const texts = ps.map(creditText), sec = texts.filter(t => t.includes(' · from a later compilation')).length;
-    const base = (texts[0] || '').replace(' · from a later compilation', '');
-    return !base ? '' : base + (sec === 0 ? '' : sec === texts.length ? ' · from a later compilation' : ' · some from a later compilation');
+    const SEC = / · from (a later compilation|a mirror copy)$/;
+    const texts = ps.map(creditText), secs = texts.map(t => (t.match(SEC) || [])[1]).filter(Boolean);
+    const base = (texts[0] || '').replace(SEC, ''), what = secs[0] || '';
+    return !base ? '' : base + (secs.length === 0 ? '' : secs.length === texts.length ? ' · from ' + what : ' · some from ' + what);
 }
 function creditHtml(p) { const t = creditText(p); return t ? `<p class="p-credit">${esc(t)}</p>` : ''; }
 
