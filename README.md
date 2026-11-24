@@ -14,3 +14,7 @@ Copying the collection, mirroring the site, scraping, republishing substantial p
 building a derivative bank and using the content to train or evaluate AI systems are not allowed without written permission.
 The problems themselves remain the work and property of their authors and organising committees.
 See the [terms of use](https://democritus.eisatopon.gr/terms.html).
+
+## Support
+
+This is a free project. If you find it useful, you can support it at [ko-fi.com/olympiadproblems](https://ko-fi.com/olympiadproblems).
